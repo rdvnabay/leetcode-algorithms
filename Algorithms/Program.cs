@@ -10,8 +10,11 @@ PalindromeNumber.Run(123);
 //13: Roman to Integer
 //RomanToInteger.Run("MCMXCIV");
 
-//14: Longest Common Prefix
+//14: Longest Common Prefix (Easy)
 LongestCommonPrefix.Run(new string[] { "c", "acc", "ccc" });
+
+//20: Valid Parentheses (Easy)
+ValidParentheses.Run("(){}}{");
 
 //Add Two Numbers
 AddTwoNumbers.Run(new ListNode(2, new ListNode(4, new ListNode(3))), new ListNode(5, new ListNode(6, new ListNode(4))));
