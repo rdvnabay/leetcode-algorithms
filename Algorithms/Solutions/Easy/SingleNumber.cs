@@ -4,16 +4,28 @@ public class SingleNumber
 {
     public static int Run(int[] nums)
     {
-        //Solution: 1 (Bit manipulation)
+        return Solution1(nums);
+        //return Solution2(nums);
+    }
+
+    // Bit manipulation
+    // Runtime: 138 ms	
+    // Memory: 40.1 MB
+    private static int Solution1(int[] nums)
+    {
         var output = 0;
         foreach (var num in nums)
         {
             output = output ^ num;
         }
-        return output;
 
-        /* Solution:2
-         
+        return output;
+    }
+
+    // Runtime: 182 ms	
+    // Memory: 40.1 MB
+    private static int Solution2(int[] nums)
+    {
         int output = 0;
         Array.Sort(nums);
 
@@ -35,6 +47,5 @@ public class SingleNumber
             }
         }
         return output;
-        */
     }
 }
