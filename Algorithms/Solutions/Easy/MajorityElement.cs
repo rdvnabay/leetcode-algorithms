@@ -3,14 +3,20 @@ public class MajorityElement
 {
     public static int Run(int[] nums)
     {
-        // Solution 1:
-        // Runtime: 124 ms
-        // Memory: 45 MB
-        return nums.GroupBy(x => x).MaxBy(x => x.Count()).Key;
+        return Solution1(nums);
+        //return Solution2(nums);
+    }
 
-        // Solution 2: Boyer Moore algorithms
-        // Runtime: 231 ms
-        // Memory: 40.8 MB 	
+    // Runtime: 124 ms
+    // Memory: 45 MB
+    private static int Solution1(int[] nums) => nums.GroupBy(x => x).MaxBy(x => x.Count()).Key;
+
+
+    // Boyer Moore algorithms
+    // Runtime: 231 ms
+    // Memory: 40.8 MB 	
+    private static int Solution2(int[] nums)
+    {
         int output = 0;
         int count = 0;
 
@@ -24,6 +30,7 @@ public class MajorityElement
             else
                 count--;
         }
+
         return output;
     }
 }
