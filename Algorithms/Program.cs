@@ -23,6 +23,9 @@ MergeTwoSortedLists.Run(new ListNode(2, new ListNode(4, new ListNode(3))), new L
 //26: Remove Duplicates from Sorted Array
 RemoveDuplicatesFromSortedArray.Run(new int[] { 1, 1, 2 });
 
+//136: Single Number
+SingleNumber.Run(new int[] { -336, 513, -560, -481, -174, 101, -997, 40, -527, -784, -283, -336, 513, -560, -481, -174, 101, -997, 40, -527, -784, -283, 354});
+
 //217: Contains Duplicate
 ContainsDuplicate.Run(new int[] { 1, 2, 3, 1 });
 
