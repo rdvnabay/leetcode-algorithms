@@ -2,7 +2,7 @@
 
 public class ImplementStackUsingQueues
 {
-    public static void Run(string[] items)
+    public static void Run()
     {
         var myStack = new MyStack();
         myStack.Push(1);

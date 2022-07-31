@@ -33,7 +33,7 @@ MajorityElement.Run(new int[] { 2, 2, 1, 1, 1, 2, 2 });
 ContainsDuplicate.Run(new int[] { 1, 2, 3, 1 });
 
 //225: Implement Stack using Queues
-ImplementStackUsingQueues.Run(new string[] { "MyStack", "push", "push", "top", "pop", "empty" });
+ImplementStackUsingQueues.Run();
 
 //Add Two Numbers
 AddTwoNumbers.Run(new ListNode(2, new ListNode(4, new ListNode(3))), new ListNode(5, new ListNode(6, new ListNode(4))));
