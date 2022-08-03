@@ -8,4 +8,5 @@
 - [x] [Single Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/SingleNumber.cs) 
 - [x] [Majority Element](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/MajorityElement.cs) 
 - [x] [Implement Stack Using Queues](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ImplementStackUsingQueues.cs) 
+- [x] [Baseball Game](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/BaseballGame.cs) 
 
