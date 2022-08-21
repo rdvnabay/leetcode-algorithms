@@ -16,7 +16,7 @@ PalindromeNumber.Run(123);
 LongestCommonPrefix.Run(new string[] { "c", "acc", "ccc" });
 
 //19: Remove Nth Node From End of List
-RemoveNthNodeFromEndOfList.Run(head: new(1, new(2,new(3))), n: 3);
+RemoveNthNodeFromEndOfList.Run(head: new(1, new(2, new(3))), n: 3);
 
 //20: Valid Parentheses (Easy)
 ValidParentheses.Run("(){}}{");
@@ -30,6 +30,8 @@ RemoveDuplicatesFromSortedArray.Run(new int[] { 1, 1, 2 });
 //136: Single Number (Easy)
 SingleNumber.Run(new int[] { -336, 513, -560, -481, -174, 101, -997, 40, -527, -784, -283, -336, 513, -560, -481, -174, 101, -997, 40, -527, -784, -283, 354 });
 
+//160: Intersection of Two Linked Lists
+
 //169: Majority Element (Easy)
 MajorityElement.Run(new int[] { 2, 2, 1, 1, 1, 2, 2 });
 
@@ -38,6 +40,9 @@ ContainsDuplicate.Run(new int[] { 1, 2, 3, 1 });
 
 //225: Implement Stack using Queues (Easy)
 ImplementStackUsingQueues.Run();
+
+//344: Reverse String (Easy)
+ReverseString.Run(new char[] { 'h', 'e', 'l', 'l', 'o' });
 
 //682: Baseball Game (Easy)
 BaseballGame.Run(new string[] { "5", "2", "C", "D", "+" });
