@@ -6,7 +6,7 @@
 | 1   | Easy  | [Two Sum](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/TwoSum.cs) | 
 | 9   | Easy  | [Palindrome Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/PalindromeNumber.cs) | 
 | 14  | Easy  | [Longest Common Prefix](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/LongestCommonPrefix.cs) | 
-| 19  | Easy  | [Remove Nth Node From End Of List](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Medium/RemoveNthNodeFromEndOfList.cs) |                 113 ms | 65.80 &check; | 38.2 mb | 17.76 &cross; |  
+| 19  | Medium | [Remove Nth Node From End Of List](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Medium/RemoveNthNodeFromEndOfList.cs) |                 113 ms | 65.80 &check; | 38.2 mb | 17.76 &cross; |  
 | 20  | Easy  | [Valid Parentheses](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ValidParentheses.cs) |
 | 136 | Easy  | [Single Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/SingleNumber.cs) |                                                   138 ms | - | 40.1 mb | - |
 | 169 | Easy  | [Majority Element](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/MajorityElement.cs) | 124 ms | - | 45 mb | - |
