@@ -1,15 +1,24 @@
 ## Algorithms
 
-- [x] [1. Two Sum](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/TwoSum.cs)
-- [x] [9. Palindrome Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/PalindromeNumber.cs) 
-- [x] [14. Longest Common Prefix](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/LongestCommonPrefix.cs) 
-- [x] [19. Remove Nth Node From End Of List](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Medium/RemoveNthNodeFromEndOfList.cs) 
-- [x] [20. Valid Parentheses](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ValidParentheses.cs) 
-- [x] [217. Contains Duplicate](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ContainsDuplicate.cs) 
-- [x] [136. Single Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/SingleNumber.cs) 
-- [x] [169. Majority Element](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/MajorityElement.cs) 
-- [x] [225. Implement Stack Using Queues](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ImplementStackUsingQueues.cs) 
-- [x] [344. Reverse String](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ReverseString.cs) 
-- [x] [682. Baseball Game](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/BaseballGame.cs) 
+
+|     | Level | Problem | Runtime | % | Memory Usage | % |
+|-----|-------|---------|---------|---|--------------|---|
+| 1   | Easy  | [Two Sum](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/TwoSum.cs) | 
+| 9   | Easy  | [Palindrome Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/PalindromeNumber.cs) | 
+| 14  | Easy  | [Longest Common Prefix](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/LongestCommonPrefix.cs) | 
+| 19  | Easy  | [Remove Nth Node From End Of List](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Medium/RemoveNthNodeFromEndOfList.cs) |                 113 ms | 65.80 &check; | 38.2 mb | 17.76 &cross; |  
+| 20  | Easy  | [Valid Parentheses](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ValidParentheses.cs) |
+| 136 | Easy  | [Single Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/SingleNumber.cs) |                                                   138 ms | - | 40.1 mb | - |
+| 169 | Easy  | [Majority Element](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/MajorityElement.cs) | 124 ms | - | 45 mb | - |
+| 217 | Easy  | [Contains Duplicate](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ContainsDuplicate.cs) |
+| 225 | Easy  | [Implement Stack Using Queues](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ImplementStackUsingQueues.cs) |
+| 344 | Easy  | [Reverse String](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ReverseString.cs) |                                                 248 ms | 98.09 &check; | 61.5 mb | 5.41 &cross; |
+| 682 | Easy  | [Baseball Game](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/BaseballGame.cs) | 143 ms | 35.91 &cross; | 38.2 mb | 28.87 &cross; |  
+
+
+
+
+
+
 
 
