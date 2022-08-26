@@ -8,6 +8,7 @@
 | 14  | Easy  | [Longest Common Prefix](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/LongestCommonPrefix.cs) | 
 | 19  | Medium | [Remove Nth Node From End Of List](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Medium/RemoveNthNodeFromEndOfList.cs) |                 113 ms | 65.80 &check; | 38.2 mb | 17.76 &cross; |  
 | 20  | Easy  | [Valid Parentheses](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ValidParentheses.cs) |
+| 66  | Easy  | [Plus One](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/PlusOne.cs) |  181 ms | 67.75 &check; | 41.4 mb | 16.88 &cross; |  
 | 136 | Easy  | [Single Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/SingleNumber.cs) |                                                   138 ms | - | 40.1 mb | - |
 | 169 | Easy  | [Majority Element](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/MajorityElement.cs) | 124 ms | - | 45 mb | - |
 | 217 | Easy  | [Contains Duplicate](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ContainsDuplicate.cs) |

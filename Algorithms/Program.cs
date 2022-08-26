@@ -27,6 +27,12 @@ MergeTwoSortedLists.Run(new DoublyListNode(2, new DoublyListNode(4, new DoublyLi
 //26: Remove Duplicates from Sorted Array 
 RemoveDuplicatesFromSortedArray.Run(new int[] { 1, 1, 2 });
 
+//27: Remove Element (Easy)
+RemoveElement.Run(new int[] { 3, 2, 2, 3 }, 3);
+
+//66: Plus One (Easy)
+PlusOne.Run(new int[] { 7, 2, 8, 5, 0, 9, 1, 2, 9, 5, 3, 6, 6, 7, 3, 2, 8, 4, 3, 7, 9, 5, 7, 7, 4, 7, 4, 9, 4, 7, 0, 1, 1, 1, 7, 4, 0, 0, 6 });
+
 //136: Single Number (Easy)
 SingleNumber.Run(new int[] { -336, 513, -560, -481, -174, 101, -997, 40, -527, -784, -283, -336, 513, -560, -481, -174, 101, -997, 40, -527, -784, -283, 354 });
 
@@ -41,8 +47,14 @@ ContainsDuplicate.Run(new int[] { 1, 2, 3, 1 });
 //225: Implement Stack using Queues (Easy)
 ImplementStackUsingQueues.Run();
 
+//226: Invert Binary Tree (Easy)
+InvertBinaryTree.Run(new(4, new(2, new(1), new(3)), new(7, new(6), new(9))));
+
 //344: Reverse String (Easy)
 ReverseString.Run(new char[] { 'h', 'e', 'l', 'l', 'o' });
+
+//509: Fibonacci Number (Easy)
+FibonacciNumber.Run(5);
 
 //682: Baseball Game (Easy)
 BaseballGame.Run(new string[] { "5", "2", "C", "D", "+" });
