@@ -33,6 +33,12 @@ RemoveElement.Run(new int[] { 3, 2, 2, 3 }, 3);
 //66: Plus One (Easy)
 PlusOne.Run(new int[] { 7, 2, 8, 5, 0, 9, 1, 2, 9, 5, 3, 6, 6, 7, 3, 2, 8, 4, 3, 7, 9, 5, 7, 7, 4, 7, 4, 9, 4, 7, 0, 1, 1, 1, 7, 4, 0, 0, 6 });
 
+//70: Climbing Stairs
+ClimbingStairs.Run(3);
+
+//121: Best Time to Buy and Sell Stock (Easy)
+BestTimeToBuyAndSellStock.Run(new int[] { 3, 2, 6, 5, 0, 3 });
+
 //136: Single Number (Easy)
 SingleNumber.Run(new int[] { -336, 513, -560, -481, -174, 101, -997, 40, -527, -784, -283, -336, 513, -560, -481, -174, 101, -997, 40, -527, -784, -283, 354 });
 
