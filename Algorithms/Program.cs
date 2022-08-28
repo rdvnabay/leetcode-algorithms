@@ -30,6 +30,9 @@ RemoveDuplicatesFromSortedArray.Run(new int[] { 1, 1, 2 });
 //27: Remove Element (Easy)
 RemoveElement.Run(new int[] { 3, 2, 2, 3 }, 3);
 
+//35: Search Insert Position
+SearchInsertPosition.Run(new int[] { 1, 3, 5, 6 }, 7);
+
 //58: Length of Last Word
 LengthOfLastWord.Run("Hello World");
 
