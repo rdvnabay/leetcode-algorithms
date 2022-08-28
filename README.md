@@ -8,6 +8,7 @@
 | 14  | Easy   | [Longest Common Prefix](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/LongestCommonPrefix.cs) | 
 | 19  | Medium | [Remove Nth Node From End Of List](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Medium/RemoveNthNodeFromEndOfList.cs) |   
 | 20  | Easy   | [Valid Parentheses](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ValidParentheses.cs) |
+| 58  | Easy   | [Length of Last Word](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/LengthOfLastWord.cs) 
 | 66  | Easy   | [Plus One](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/PlusOne.cs) |
 | 121 | Easy   | [Best Time to Buy and Sell Stock](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/BestTimeToBuyAndSellStock.cs) |
 | 136 | Easy   | [Single Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/SingleNumber.cs) |
