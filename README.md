@@ -17,12 +17,8 @@
 | 217 | Easy   | [Contains Duplicate](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ContainsDuplicate.cs) |
 | 225 | Easy   | [Implement Stack Using Queues](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ImplementStackUsingQueues.cs) |
 | 344 | Easy   | [Reverse String](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ReverseString.cs) |
+| 538 | Medium | [Convert BST to Greater Tree](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Medium/ConvertBSTToGreaterTree.cs) |
 | 682 | Easy   | [Baseball Game](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/BaseballGame.cs) |
-
-
-
-
-
 
 
 

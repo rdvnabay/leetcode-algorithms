@@ -68,6 +68,11 @@ ReverseString.Run(new char[] { 'h', 'e', 'l', 'l', 'o' });
 //509: Fibonacci Number (Easy)
 FibonacciNumber.Run(5);
 
+//538: Convert BST to Greater Tree
+ConvertBSTToGreaterTree.Run(new Algorithms.Solutions.Medium.TreeNode(val: 4,
+    left: new(1, new(0), new(2, null, new(3))),
+    right: new(6, new(5), new(7, null, new(8)))));
+
 //682: Baseball Game (Easy)
 BaseballGame.Run(new string[] { "5", "2", "C", "D", "+" });
 
