@@ -53,6 +53,9 @@ SingleNumber.Run(new int[] { -336, 513, -560, -481, -174, 101, -997, 40, -527, -
 //169: Majority Element (Easy)
 MajorityElement.Run(new int[] { 2, 2, 1, 1, 1, 2, 2 });
 
+//202: Happy Number (Easy)
+HappyNumber.Run(19);
+
 //217: Contains Duplicate (Easy)
 ContainsDuplicate.Run(new int[] { 1, 2, 3, 1 });
 
@@ -81,3 +84,7 @@ DailyTemperatures.Run(new int[] { 34, 80, 80, 34, 34, 80, 80, 80, 80, 34 });
 
 //Add Two Numbers (Easy)
 AddTwoNumbers.Run(new DoublyListNode(2, new DoublyListNode(4, new DoublyListNode(3))), new DoublyListNode(5, new DoublyListNode(6, new DoublyListNode(4))));
+
+//1466: Reorder Routes to Make All Paths Lead to the City Zero (Medium)
+ReorderRoutesToMakeAllPathsLeadToTheCityZero.Run(6, new int[][] {
+    new int[] { 0, 1 }, new int[] { 1, 3 },new int[]{ 2,3 },new int[]{ 4,0 },new int[]{ 4,5 } });

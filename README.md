@@ -14,6 +14,7 @@
 | 121 | Easy   | [Best Time to Buy and Sell Stock](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/BestTimeToBuyAndSellStock.cs) |
 | 136 | Easy   | [Single Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/SingleNumber.cs) |
 | 169 | Easy   | [Majority Element](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/MajorityElement.cs) |
+| 202 | Easy   | [Happy Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/HappyNumber.cs) |
 | 217 | Easy   | [Contains Duplicate](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ContainsDuplicate.cs) |
 | 225 | Easy   | [Implement Stack Using Queues](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ImplementStackUsingQueues.cs) |
 | 344 | Easy   | [Reverse String](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ReverseString.cs) |
