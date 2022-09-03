@@ -10,7 +10,7 @@ TwoSum.Run(new int[] { 3, 2, 4 }, 6);
 PalindromeNumber.Run(123);
 
 //13: Roman to Integer
-//RomanToInteger.Run("MCMXCIV");
+RomanToInteger.Run("III");
 
 //14: Longest Common Prefix (Easy)
 LongestCommonPrefix.Run(new string[] { "c", "acc", "ccc" });

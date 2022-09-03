@@ -4,8 +4,7 @@ public class RomanToInteger
 {
     public static int Run(string s)
     {
-        int output = 0;
-        int numberOfDigits = 0;
+        int total = 0;
 
         Dictionary<char, int> romanDictionary = new()
         {
@@ -20,30 +19,22 @@ public class RomanToInteger
 
         for (int i = 0; i < s.Length; i++)
         {
-            if (romanDictionary.TryGetValue(s[i], out int result))
+            if (i == s.Length - 1)
+                return total += romanDictionary[s[i]];
+
+            int current = romanDictionary[s[i]];
+            int next = romanDictionary[s[i + 1]];
+
+            if (current >= next)
+                total += current;
+
+            else if (current < next)
             {
-                if (i == 0)
-                    numberOfDigits = result.ToString().Length;
-
-                if (s[i + 1] < s.Length)
-                {
-                    if (romanDictionary.TryGetValue(s[i+1], out int next))
-                    {
-
-                    }
-                }
+                total += next - current;
+                i++;
             }
         }
 
-        //foreach (char item in s)
-        //{
-        //    if (romanDictionary.TryGetValue(item, out int result))
-        //    {
-        //        numberOfDigits = result.ToString().Length;
-        //    }
-
-
-        //}
-        return 0;
+        return total;
     }
 }
