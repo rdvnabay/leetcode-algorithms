@@ -45,6 +45,10 @@ ClimbingStairs.Run(4);
 //121: Best Time to Buy and Sell Stock (Easy)
 BestTimeToBuyAndSellStock.Run(new int[] { 3, 2, 6, 5, 0, 3 });
 
+//125: Valid Palindrome (Easy)
+ValidPalindrome.Run("A man, a plan, a canal: Panama");
+
+
 //136: Single Number (Easy)
 SingleNumber.Run(new int[] { -336, 513, -560, -481, -174, 101, -997, 40, -527, -784, -283, -336, 513, -560, -481, -174, 101, -997, 40, -527, -784, -283, 354 });
 

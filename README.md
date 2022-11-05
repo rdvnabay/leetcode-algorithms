@@ -5,7 +5,7 @@
 |-----|--------|---------|
 | 1   | Easy   | [Baseball Game](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/BaseballGame.cs) |
 | 2   | Easy   | [Best Time to Buy and Sell Stock](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/BestTimeToBuyAndSellStock.cs) |
-| 3   | Easy   | [ClimbStairs](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ClimbStairs.cs) |
+| 3   | Easy   | [Climbing Stairs](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ClimbingStairs.cs) |
 | 4   | Easy   | [Contains Duplicate](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ContainsDuplicate.cs) |
 | 5   | Easy   | [Happy Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/HappyNumber.cs) |
 | 6   | Easy   | [Implement Stack Using Queues](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ImplementStackUsingQueues.cs) |
@@ -20,7 +20,10 @@
 | 15  | Easy   | [Search Insert Position](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/SearchInsertPosition.cs) |
 | 16  | Easy   | [Single Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/SingleNumber.cs) |
 | 17  | Easy   | [Two Sum](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/TwoSum.cs) | 
-| 18  | Easy   | [Valid Parentheses](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ValidParentheses.cs) |
+| 18  | Easy   | [Valid Palindrome](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ValidPalindrome.cs) |
+| 19  | Easy   | [Valid Parentheses](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ValidParentheses.cs) |
+
+
 
 
 ### Medium
