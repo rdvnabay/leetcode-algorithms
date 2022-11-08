@@ -69,6 +69,9 @@ ImplementStackUsingQueues.Run();
 //226: Invert Binary Tree (Easy)
 //InvertBinaryTree.Run(new(4, new(2, new(1), new(3)), new(7, new(6), new(9))));
 
+//228: Summary Ranges
+SummaryRanges.Run(new int[] { 0, 1, 2 });
+
 // 268. Missing Number (Easy)
 MissingNumber.Run(new int[] { 0, 1, 3 });
 
@@ -94,4 +97,4 @@ BaseballGame.Run(new string[] { "5", "2", "C", "D", "+" });
 
 //1466: Reorder Routes to Make All Paths Lead to the City Zero (Medium)
 //ReorderRoutesToMakeAllPathsLeadToTheCityZero.Run(6, new int[][] {
-    //new int[] { 0, 1 }, new int[] { 1, 3 },new int[]{ 2,3 },new int[]{ 4,0 },new int[]{ 4,5 } });
+//new int[] { 0, 1 }, new int[] { 1, 3 },new int[]{ 2,3 },new int[]{ 4,0 },new int[]{ 4,5 } });

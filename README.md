@@ -12,16 +12,17 @@
 | 7   | Easy   | [Length of Last Word](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/LengthOfLastWord.cs) 
 | 8   | Easy   | [Longest Common Prefix](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/LongestCommonPrefix.cs) | 
 | 9   | Easy   | [Majority Element](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/MajorityElement.cs) |
-| 10   | Easy   | [Missing Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/MissingNumber.cs) | 
+| 10  | Easy   | [Missing Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/MissingNumber.cs) | 
 | 11  | Easy   | [Palindrome Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/PalindromeNumber.cs) | 
 | 12  | Easy   | [Plus One](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/PlusOne.cs) |
 | 13  | Easy   | [Reverse String](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ReverseString.cs) |
 | 14  | Easy   | [Roman to Integer](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/RomanToInteger.cs) |
 | 15  | Easy   | [Search Insert Position](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/SearchInsertPosition.cs) |
 | 16  | Easy   | [Single Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/SingleNumber.cs) |
-| 17  | Easy   | [Two Sum](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/TwoSum.cs) | 
-| 18  | Easy   | [Valid Palindrome](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ValidPalindrome.cs) |
-| 19  | Easy   | [Valid Parentheses](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ValidParentheses.cs) |
+| 17  | Easy   | [Summary Ranges](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/SummaryRanges.cs) |
+| 18  | Easy   | [Two Sum](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/TwoSum.cs) | 
+| 19  | Easy   | [Valid Palindrome](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ValidPalindrome.cs) |
+| 20  | Easy   | [Valid Parentheses](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ValidParentheses.cs) |
 
 
 
