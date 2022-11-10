@@ -34,8 +34,6 @@ public static class SummaryRanges
                 }
                 else if (i == lastIndex)
                     result.Add($"{currentValue}->{next}");
-
-
             }
 
             else

@@ -92,6 +92,8 @@ BaseballGame.Run(new string[] { "5", "2", "C", "D", "+" });
 //739: Daily Temperatures (Medium)
 //DailyTemperatures.Run(new int[] { 34, 80, 80, 34, 34, 80, 80, 80, 80, 34 });
 
+//1047: Remove All Adjacent Duplicates In String
+RemoveAllAdjacentDuplicatesInString.Run("abbaca");
 //Add Two Numbers (Easy)
 //AddTwoNumbers.Run(new DoublyListNode(2, new DoublyListNode(4, new DoublyListNode(3))), new DoublyListNode(5, new DoublyListNode(6, new DoublyListNode(4))));
 
