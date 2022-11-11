@@ -72,6 +72,9 @@ ImplementStackUsingQueues.Run();
 //228: Summary Ranges
 SummaryRanges.Run(new int[] { 0, 1, 2 });
 
+//231: Power of Two
+PowerOfTwo.Run(-16);
+
 // 268. Missing Number (Easy)
 MissingNumber.Run(new int[] { 0, 1, 3 });
 
