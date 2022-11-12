@@ -12,8 +12,6 @@ public static class IsomorphicStrings
             {
                 characters.TryGetValue(s[i], out char previousValue);
                 if (t[i] != previousValue) return false;
-
-
             }
             else if (characters.Any(c => c.Value == t[i]))
             {

@@ -84,6 +84,9 @@ MissingNumber.Run(new int[] { 0, 1, 3 });
 //344: Reverse String (Easy)
 ReverseString.Run(new char[] { 'h', 'e', 'l', 'l', 'o' });
 
+//412: Fizz Buzz
+FizzBuzz.Run(15);
+
 //509: Fibonacci Number (Easy)
 //FibonacciNumber.Run(5);
 
