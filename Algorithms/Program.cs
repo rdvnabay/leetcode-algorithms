@@ -60,6 +60,9 @@ MajorityElement.Run(new int[] { 2, 2, 1, 1, 1, 2, 2 });
 //202: Happy Number (Easy)
 HappyNumber.Run(19);
 
+//205: Isomorphic Strings
+IsomorphicStrings.Run("badc", "baba");
+
 //217: Contains Duplicate (Easy)
 ContainsDuplicate.Run(new int[] { 1, 2, 3, 1 });
 
