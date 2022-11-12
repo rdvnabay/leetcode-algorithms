@@ -6,6 +6,9 @@ using Algorithms.Solutions.Medium;
 //1: Two Sum (Easy)
 TwoSum.Run(new int[] { 3, 2, 4 }, 6);
 
+//3: Longest Substring Without Repeating Characters (Medium)
+LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
+
 //9: Palindrome Number (Easy)
 PalindromeNumber.Run(123);
 
@@ -83,6 +86,9 @@ MissingNumber.Run(new int[] { 0, 1, 3 });
 
 //344: Reverse String (Easy)
 ReverseString.Run(new char[] { 'h', 'e', 'l', 'l', 'o' });
+
+//389. Find the Difference
+FindTheDifference.Run("a", "aa");
 
 //412: Fizz Buzz
 FizzBuzz.Run(15);

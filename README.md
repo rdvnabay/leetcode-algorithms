@@ -35,7 +35,9 @@
 |     | Level  | Problem |
 |-----|--------|---------|
 | 1   | Medium | [Convert BST to Greater Tree](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Medium/ConvertBSTToGreaterTree.cs) |
-| 2   | Medium | [Remove Nth Node From End Of List](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Medium/RemoveNthNodeFromEndOfList.cs) |  
+| 2   | Medium | [Longest Substring Without Repeating Characters
+](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Medium/LongestSubstringWithoutRepeatingCharacters.cs) |
+| 3   | Medium | [Remove Nth Node From End Of List](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Medium/RemoveNthNodeFromEndOfList.cs) |  
 
 
 
