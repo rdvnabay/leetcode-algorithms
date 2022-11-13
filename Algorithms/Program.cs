@@ -18,6 +18,12 @@ RomanToInteger.Run("III");
 //14: Longest Common Prefix (Easy)
 LongestCommonPrefix.Run(new string[] { "c", "acc", "ccc" });
 
+//15: 3Sum
+_3Sum.Run(new int[] { -1, 0, 1, 2, -1, -4 });
+
+//17. Letter Combinations of a Phone Number
+LetterCombinationsOfAPhoneNumber.Run("23");
+
 //19: Remove Nth Node From End of List
 RemoveNthNodeFromEndOfList.Run(head: new(1, new(2, new(3))), n: 3);
 
