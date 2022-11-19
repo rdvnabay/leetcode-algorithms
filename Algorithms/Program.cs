@@ -113,6 +113,9 @@ BaseballGame.Run(new string[] { "5", "2", "C", "D", "+" });
 //739: Daily Temperatures (Medium)
 //DailyTemperatures.Run(new int[] { 34, 80, 80, 34, 34, 80, 80, 80, 80, 34 });
 
+//1290: Convert Binary Number in a Linked List to Integer
+ConvertBinaryNumberInALinkedListToInteger.Run(new Singly_ListNode(1, new Singly_ListNode(0, new Singly_ListNode(1, null))));
+
 //1047: Remove All Adjacent Duplicates In String
 RemoveAllAdjacentDuplicatesInString.Run("abbaca");
 //Add Two Numbers (Easy)
