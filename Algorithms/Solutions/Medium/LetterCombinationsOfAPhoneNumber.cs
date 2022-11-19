@@ -30,8 +30,8 @@ public static class LetterCombinationsOfAPhoneNumber
         {
             counter++;
             value += item;
-            if (counter != digits.Length)
-                Recursive(allCombinations[counter], value);
+            //if (counter != digits.Length)
+                //Recursive(allCombinations[counter], value);
         }
 
         return null;

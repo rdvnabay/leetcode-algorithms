@@ -1,14 +1,14 @@
 ## Algorithms
 
 ### Easy
-|     | Level  | Problem |
-|-----|--------|---------|
-| 1   | Easy   | [Baseball Game](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/BaseballGame.cs) |
-| 2   | Easy   | [Best Time to Buy and Sell Stock](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/BestTimeToBuyAndSellStock.cs) |
+|      | Level  | Problem |
+|------|--------|---------|
+| 1    | Easy   | [Baseball Game](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/BaseballGame.cs) |
+| 2    | Easy   | [Best Time to Buy and Sell Stock](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/BestTimeToBuyAndSellStock.cs) |
 
-| 3   | Easy   | [Climbing Stairs](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ClimbingStairs.cs) |
-| 4   | Easy   | [Contains Duplicate](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ContainsDuplicate.cs) |
-| 1290   | Easy   | [Convert Binary Number In A Linked List To Integer](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ConvertBinaryNumberInALinkedListToInteger.cs) |
+| 3    | Easy   | [Climbing Stairs](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ClimbingStairs.cs) |
+| 4    | Easy   | [Contains Duplicate](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ContainsDuplicate.cs) |
+| 1290 | Easy   | [Convert Binary Number In A Linked List To Integer](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/ConvertBinaryNumberInALinkedListToInteger.cs) |
 
 
 | 5   | Easy   | [Fizz Buzz](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/FizzBuzz.cs) |
@@ -21,6 +21,8 @@
 | 10  | Easy   | [Longest Common Prefix](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/LongestCommonPrefix.cs) | 
 
 | 11  | Easy   | [Majority Element](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/MajorityElement.cs) |
+| 876 | Easy   | [Middle Of The Linked List](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/MiddleOfTheLinkedList.cs) |
+
 | 12  | Easy   | [Missing Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/MissingNumber.cs) | 
 
 | 13  | Easy   | [Palindrome Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/PalindromeNumber.cs) | 

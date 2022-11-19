@@ -2,7 +2,7 @@
 
 public class ConvertBinaryNumberInALinkedListToInteger
 {
-    public static int Run(Singly_ListNode head)
+    public static int Run(ListNode_1290 head)
     {
         string result = string.Empty;
 
@@ -19,11 +19,11 @@ public class ConvertBinaryNumberInALinkedListToInteger
 
 
 // Definition for singly-linked list.
-public class Singly_ListNode
+public class ListNode_1290
 {
     public int val;
-    public Singly_ListNode next;
-    public Singly_ListNode(int val = 0, Singly_ListNode next = null)
+    public ListNode_1290 next;
+    public ListNode_1290(int val = 0, ListNode_1290 next = null)
     {
         this.val = val;
         this.next = next;
