@@ -72,6 +72,9 @@ HappyNumber.Run(19);
 //205: Isomorphic Strings
 IsomorphicStrings.Run("badc", "baba");
 
+//206: Reverse Linked List
+ReverseLinkedList.Run(null);
+
 //217: Contains Duplicate (Easy)
 ContainsDuplicate.Run(new int[] { 1, 2, 3, 1 });
 
