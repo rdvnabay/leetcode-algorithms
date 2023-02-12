@@ -1,6 +1,4 @@
-﻿using Algorithms.Common;
-using Algorithms.Solutions;
-using Algorithms.Solutions.Easy;
+﻿using Algorithms.Solutions.Easy;
 using Algorithms.Solutions.Medium;
 
 //1: Two Sum (Easy)
@@ -8,6 +6,9 @@ TwoSum.Run(new int[] { 3, 2, 4 }, 6);
 
 //3: Longest Substring Without Repeating Characters (Medium)
 LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
+
+//6: Zigzag Conversion (Medium)
+ZigzagConversion.Run("ABCDE", 2);
 
 //9: Palindrome Number (Easy)
 PalindromeNumber.Run(123);
