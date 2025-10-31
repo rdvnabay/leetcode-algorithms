@@ -131,3 +131,6 @@ RemoveAllAdjacentDuplicatesInString.Run("abbaca");
 //1466: Reorder Routes to Make All Paths Lead to the City Zero (Medium)
 //ReorderRoutesToMakeAllPathsLeadToTheCityZero.Run(6, new int[][] {
 //new int[] { 0, 1 }, new int[] { 1, 3 },new int[]{ 2,3 },new int[]{ 4,0 },new int[]{ 4,5 } });
+
+//3289: The Two Sneaky Numbers of Digitville (Easy)
+TheTwoSneakyNumbersOfDigitville.Run(new int[] { 0, 3, 2, 1, 3, 2 });
