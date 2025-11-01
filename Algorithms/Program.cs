@@ -52,12 +52,14 @@ PlusOne.Run(new int[] { 7, 2, 8, 5, 0, 9, 1, 2, 9, 5, 3, 6, 6, 7, 3, 2, 8, 4, 3,
 //70: Climbing Stairs
 ClimbingStairs.Run(4);
 
+//118: Pascal's Triangle
+PascalsTriangle.Run(5);
+
 //121: Best Time to Buy and Sell Stock (Easy)
 BestTimeToBuyAndSellStock.Run(new int[] { 3, 2, 6, 5, 0, 3 });
 
 //125: Valid Palindrome (Easy)
 ValidPalindrome.Run("A man, a plan, a canal: Panama");
-
 
 //136: Single Number (Easy)
 SingleNumber.Run(new int[] { -336, 513, -560, -481, -174, 101, -997, 40, -527, -784, -283, -336, 513, -560, -481, -174, 101, -997, 40, -527, -784, -283, 354 });
@@ -66,6 +68,12 @@ SingleNumber.Run(new int[] { -336, 513, -560, -481, -174, 101, -997, 40, -527, -
 
 //169: Majority Element (Easy)
 MajorityElement.Run(new int[] { 2, 2, 1, 1, 1, 2, 2 });
+
+//171: Excel Sheet Column Number (Easy)
+ExcelSheetColumnNumber.Run("FXSHRXW");
+
+//191: Number of 1 Bits (Easy)
+NumberOf1Bits.Run(1);
 
 //202: Happy Number (Easy)
 HappyNumber.Run(19);
