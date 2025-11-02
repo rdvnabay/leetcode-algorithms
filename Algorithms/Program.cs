@@ -131,6 +131,9 @@ BaseballGame.Run(new string[] { "5", "2", "C", "D", "+" });
 //709: To Lower Case (Easy)
 ToLowerCase.Run("Hello");
 
+//728: Self Dividing Numbers (Easy)
+SelfDividingNumbers.Run(1, 22);
+
 //739: Daily Temperatures (Medium)
 //DailyTemperatures.Run(new int[] { 34, 80, 80, 34, 34, 80, 80, 80, 80, 34 });
 
