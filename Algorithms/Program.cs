@@ -102,8 +102,11 @@ PowerOfTwo.Run(-16);
 //258: Add Digits (Easy)
 AddDigits.Run(3);
 
-// 268. Missing Number (Easy)
+// 268: Missing Number (Easy)
 MissingNumber.Run(new int[] { 0, 1, 3 });
+
+ //283: Move Zeroes
+ MoveZeroes.Run(new int[] { 0, 1, 0, 3, 12 });
 
 //344: Reverse String (Easy)
 ReverseString.Run(new char[] { 'h', 'e', 'l', 'l', 'o' });
@@ -124,6 +127,9 @@ ConvertBSTToGreaterTree.Run(new Algorithms.Solutions.Medium.TreeNode(val: 4,
 
 //682: Baseball Game (Easy)
 BaseballGame.Run(new string[] { "5", "2", "C", "D", "+" });
+
+//709: To Lower Case (Easy)
+ToLowerCase.Run("Hello");
 
 //739: Daily Temperatures (Medium)
 //DailyTemperatures.Run(new int[] { 34, 80, 80, 34, 34, 80, 80, 80, 80, 34 });
