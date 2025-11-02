@@ -99,6 +99,9 @@ SummaryRanges.Run(new int[] { 0, 1, 2 });
 //231: Power of Two
 PowerOfTwo.Run(-16);
 
+//258: Add Digits (Easy)
+AddDigits.Run(3);
+
 // 268. Missing Number (Easy)
 MissingNumber.Run(new int[] { 0, 1, 3 });
 
