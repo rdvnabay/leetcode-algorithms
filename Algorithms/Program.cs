@@ -38,7 +38,7 @@ ValidParentheses.Run("(){}}{");
 RemoveDuplicatesFromSortedArray.Run(new int[] { 1, 1, 2 });
 
 //27: Remove Element (Easy)
-//RemoveElement.Run(new int[] { 3, 2, 2, 3 }, 3);
+RemoveElement.Run(new int[] { 3, 2, 2, 3 }, 3);
 
 //35: Search Insert Position
 SearchInsertPosition.Run(new int[] { 1, 3, 5, 6 }, 7);
@@ -105,8 +105,8 @@ AddDigits.Run(3);
 // 268: Missing Number (Easy)
 MissingNumber.Run(new int[] { 0, 1, 3 });
 
- //283: Move Zeroes
- MoveZeroes.Run(new int[] { 0, 1, 0, 3, 12 });
+//283: Move Zeroes
+MoveZeroes.Run(new int[] { 0, 1, 0, 3, 12 });
 
 //344: Reverse String (Easy)
 ReverseString.Run(new char[] { 'h', 'e', 'l', 'l', 'o' });
@@ -116,6 +116,13 @@ FindTheDifference.Run("a", "aa");
 
 //412: Fizz Buzz
 FizzBuzz.Run(15);
+
+//455: Assign Cookies (Easy)
+//AssignCookies.Run(new int[] { 1, 2, 3 }, new int[] { 1, 1 });
+AssignCookies.Run(new int[] { 10, 9, 8, 7, 10, 9, 8, 7 }, new int[] { 10, 9, 8, 7 });
+
+//506: Relative Ranks (Easy)
+RelativeRanks.Run(new int[] { 5, 4, 3, 2, 1 });
 
 //509: Fibonacci Number (Easy)
 //FibonacciNumber.Run(5);
@@ -136,6 +143,9 @@ SelfDividingNumbers.Run(1, 22);
 
 //739: Daily Temperatures (Medium)
 //DailyTemperatures.Run(new int[] { 34, 80, 80, 34, 34, 80, 80, 80, 80, 34 });
+
+//771: Jewels and Stones (Easy)
+JewelsAndStones.Run("aA", "aAAbbbb");
 
 //876: Middle of the Linked List
 MiddleOfTheLinkedList.Run(new(1, new(2, new(3, new(4, new(5, null))))));
