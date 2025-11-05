@@ -108,6 +108,9 @@ MissingNumber.Run(new int[] { 0, 1, 3 });
 //283: Move Zeroes
 MoveZeroes.Run(new int[] { 0, 1, 0, 3, 12 });
 
+//342: Power Of Four
+PowerOfFour.Run(0);
+
 //344: Reverse String (Easy)
 ReverseString.Run(new char[] { 'h', 'e', 'l', 'l', 'o' });
 
