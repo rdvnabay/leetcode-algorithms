@@ -1,5 +1,6 @@
 ﻿using Algorithms.Solutions.Easy;
 using Algorithms.Solutions.Medium;
+using Algorithms.Sorting;
 
 //1: Two Sum (Easy)
 TwoSum.Run(new int[] { 3, 2, 4 }, 6);
@@ -114,6 +115,12 @@ PowerOfFour.Run(0);
 //344: Reverse String (Easy)
 ReverseString.Run(new char[] { 'h', 'e', 'l', 'l', 'o' });
 
+//367: Valid Perfect Square
+ValidPerfectSquare.Run(100);
+
+//383: Ransom Note (Easy)
+RansomNote.Run("aa", "ab");
+
 //389. Find the Difference
 FindTheDifference.Run("a", "aa");
 
@@ -134,6 +141,9 @@ RelativeRanks.Run(new int[] { 5, 4, 3, 2, 1 });
 ConvertBSTToGreaterTree.Run(new Algorithms.Solutions.Medium.TreeNode(val: 4,
     left: new(1, new(0), new(2, null, new(3))),
     right: new(6, new(5), new(7, null, new(8)))));
+
+//657: Robot Return to Origin (Easy)
+RobotReturnToOrigin.Run("UDLR");
 
 //682: Baseball Game (Easy)
 BaseballGame.Run(new string[] { "5", "2", "C", "D", "+" });
@@ -167,3 +177,6 @@ RemoveAllAdjacentDuplicatesInString.Run("abbaca");
 
 //3289: The Two Sneaky Numbers of Digitville (Easy)
 TheTwoSneakyNumbersOfDigitville.Run(new int[] { 0, 3, 2, 1, 3, 2 });
+
+
+SelectionSort.Run();
