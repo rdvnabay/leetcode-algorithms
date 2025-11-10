@@ -127,6 +127,9 @@ FindTheDifference.Run("a", "aa");
 //412: Fizz Buzz
 FizzBuzz.Run(15);
 
+//441: Arranging Coins (Easy)
+ArrangingCoins.Run(6);
+
 //455: Assign Cookies (Easy)
 //AssignCookies.Run(new int[] { 1, 2, 3 }, new int[] { 1, 1 });
 AssignCookies.Run(new int[] { 10, 9, 8, 7, 10, 9, 8, 7 }, new int[] { 10, 9, 8, 7 });
@@ -163,17 +166,23 @@ JewelsAndStones.Run("aA", "aAAbbbb");
 //876: Middle of the Linked List
 MiddleOfTheLinkedList.Run(new(1, new(2, new(3, new(4, new(5, null))))));
 
-//1290: Convert Binary Number in a Linked List to Integer
-ConvertBinaryNumberInALinkedListToInteger.Run(new(1, new(0, new(1, null))));
+//1018: Binary Prefix Divisible By 5
+BinaryPrefixDivisibleBy5.Run(new int[] { 1, 1, 1 });
 
 //1047: Remove All Adjacent Duplicates In String
 RemoveAllAdjacentDuplicatesInString.Run("abbaca");
 //Add Two Numbers (Easy)
 //AddTwoNumbers.Run(new DoublyListNode(2, new DoublyListNode(4, new DoublyListNode(3))), new DoublyListNode(5, new DoublyListNode(6, new DoublyListNode(4))));
 
+//1290: Convert Binary Number in a Linked List to Integer
+ConvertBinaryNumberInALinkedListToInteger.Run(new(1, new(0, new(1, null))));
+
 //1466: Reorder Routes to Make All Paths Lead to the City Zero (Medium)
 //ReorderRoutesToMakeAllPathsLeadToTheCityZero.Run(6, new int[][] {
 //new int[] { 0, 1 }, new int[] { 1, 3 },new int[]{ 2,3 },new int[]{ 4,0 },new int[]{ 4,5 } });
+
+//1768: Merge Strings Alternately (Easy)
+MergeStringsAlternately.Run("abc", "pqr");
 
 //3289: The Two Sneaky Numbers of Digitville (Easy)
 TheTwoSneakyNumbersOfDigitville.Run(new int[] { 0, 3, 2, 1, 3, 2 });
