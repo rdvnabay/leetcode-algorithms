@@ -177,6 +177,9 @@ RemoveAllAdjacentDuplicatesInString.Run("abbaca");
 //1290: Convert Binary Number in a Linked List to Integer
 ConvertBinaryNumberInALinkedListToInteger.Run(new(1, new(0, new(1, null))));
 
+//1431: Kids With the Greatest Number of Candies (Easy)
+KidsWithTheGreatestNumberOfCandies.Run(new int[] { 2, 3, 5, 1, 3 }, 3);
+
 //1466: Reorder Routes to Make All Paths Lead to the City Zero (Medium)
 //ReorderRoutesToMakeAllPathsLeadToTheCityZero.Run(6, new int[][] {
 //new int[] { 0, 1 }, new int[] { 1, 3 },new int[]{ 2,3 },new int[]{ 4,0 },new int[]{ 4,5 } });
