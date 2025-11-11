@@ -100,6 +100,10 @@ SummaryRanges.Run(new int[] { 0, 1, 2 });
 //231: Power of Two
 PowerOfTwo.Run(-16);
 
+//238: Product of Array Except Self (Medium)
+//ProductOfArrayExceptSelf.Run(new int[] { 1, 2, 3, 4 });
+ProductOfArrayExceptSelf.Run(new int[] { -1, 1, 0, -3, 3 });
+
 //258: Add Digits (Easy)
 AddDigits.Run(3);
 
@@ -109,11 +113,17 @@ MissingNumber.Run(new int[] { 0, 1, 3 });
 //283: Move Zeroes
 MoveZeroes.Run(new int[] { 0, 1, 0, 3, 12 });
 
+//334: Increasing Triplet Subsequence (Medium)
+IncreasingTripletSubsequence.Run(new int[] { 2, 1, 5, 0, 4, 6 });
+
 //342: Power Of Four
 PowerOfFour.Run(0);
 
 //344: Reverse String (Easy)
 ReverseString.Run(new char[] { 'h', 'e', 'l', 'l', 'o' });
+
+//345: Reverse Vowels of a String (Easy)
+ReverseVowelsOfAString.Run("leetcode");
 
 //367: Valid Perfect Square
 ValidPerfectSquare.Run(100);
@@ -123,6 +133,9 @@ RansomNote.Run("aa", "ab");
 
 //389. Find the Difference
 FindTheDifference.Run("a", "aa");
+
+//392: Is Subsequence (Easy)
+IsSubsequence.Run("abc", "ahbgdc");
 
 //412: Fizz Buzz
 FizzBuzz.Run(15);
@@ -144,6 +157,9 @@ RelativeRanks.Run(new int[] { 5, 4, 3, 2, 1 });
 ConvertBSTToGreaterTree.Run(new Algorithms.Solutions.Medium.TreeNode(val: 4,
     left: new(1, new(0), new(2, null, new(3))),
     right: new(6, new(5), new(7, null, new(8)))));
+
+//605: Can Place Flowers (Easy)
+CanPlaceFlowers.Run(new int[] { 1, 0 }, 1);
 
 //657: Robot Return to Origin (Easy)
 RobotReturnToOrigin.Run("UDLR");
