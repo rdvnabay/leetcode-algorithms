@@ -1,4 +1,5 @@
-﻿using Algorithms.Solutions.Easy;
+﻿using Algorithms.Common;
+using Algorithms.Solutions.Easy;
 using Algorithms.Solutions.Medium;
 using Algorithms.Sorting;
 
@@ -10,6 +11,9 @@ LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
 
 //6: Zigzag Conversion (Medium)
 ZigzagConversion.Run("ABCDE", 2);
+
+//7: Reverse Integer (Medium)
+ReverseInteger.Run(1534236469); 
 
 //9: Palindrome Number (Easy)
 PalindromeNumber.Run(123);
@@ -33,7 +37,7 @@ RemoveNthNodeFromEndOfList.Run(head: new(1, new(2, new(3))), n: 3);
 ValidParentheses.Run("(){}}{");
 
 //21: Merge Two Sorted Lists (Easy)
-//MergeTwoSortedLists.Run(new DoublyListNode(2, new DoublyListNode(4, new DoublyListNode(3))), new DoublyListNode(5, new DoublyListNode(6, new DoublyListNode(4))));
+MergeTwoSortedLists.Run(new ListNode(2, new ListNode(4, new ListNode(3))), new ListNode(5, new ListNode(6, new ListNode(4))));
 
 //26: Remove Duplicates from Sorted Array 
 RemoveDuplicatesFromSortedArray.Run(new int[] { 1, 1, 2 });
@@ -83,7 +87,7 @@ HappyNumber.Run(19);
 IsomorphicStrings.Run("badc", "baba");
 
 //206: Reverse Linked List
-ReverseLinkedList.Run(null);
+ReverseLinkedList.Run(new(1, new(2, new(3, new(4, new(5))))));
 
 //217: Contains Duplicate (Easy)
 ContainsDuplicate.Run(new int[] { 1, 2, 3, 1 });
@@ -106,6 +110,9 @@ ProductOfArrayExceptSelf.Run(new int[] { -1, 1, 0, -3, 3 });
 
 //258: Add Digits (Easy)
 AddDigits.Run(3);
+
+//263: Ugly Number
+UglyNumber.Run(14);
 
 // 268: Missing Number (Easy)
 MissingNumber.Run(new int[] { 0, 1, 3 });
