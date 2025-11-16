@@ -18,46 +18,31 @@ ReverseInteger.Run(1534236469);
 //9: Palindrome Number (Easy)
 PalindromeNumber.Run(123);
 
-//13: Roman to Integer
+//13: Roman to Integer (Easy)
 RomanToInteger.Run("III");
 
 //14: Longest Common Prefix (Easy)
 LongestCommonPrefix.Run(new string[] { "c", "acc", "ccc" });
 
-//15: 3Sum
-_3Sum.Run(new int[] { -1, 0, 1, 2, -1, -4 });
-
-//17. Letter Combinations of a Phone Number
-LetterCombinationsOfAPhoneNumber.Run("23");
-
-//19: Remove Nth Node From End of List
+//19: Remove Nth Node From End of List (Medium)
 RemoveNthNodeFromEndOfList.Run(head: new(1, new(2, new(3))), n: 3);
 
 //20: Valid Parentheses (Easy)
 ValidParentheses.Run("(){}}{");
 
-//21: Merge Two Sorted Lists (Easy)
-MergeTwoSortedLists.Run(new ListNode(2, new ListNode(4, new ListNode(3))), new ListNode(5, new ListNode(6, new ListNode(4))));
-
-//26: Remove Duplicates from Sorted Array 
-RemoveDuplicatesFromSortedArray.Run(new int[] { 1, 1, 2 });
-
-//27: Remove Element (Easy)
-RemoveElement.Run(new int[] { 3, 2, 2, 3 }, 3);
-
-//35: Search Insert Position
+//35: Search Insert Position (Easy)
 SearchInsertPosition.Run(new int[] { 1, 3, 5, 6 }, 7);
 
-//58: Length of Last Word
+//58: Length of Last Word (Easy)
 LengthOfLastWord.Run("Hello World");
 
 //66: Plus One (Easy)
 PlusOne.Run(new int[] { 7, 2, 8, 5, 0, 9, 1, 2, 9, 5, 3, 6, 6, 7, 3, 2, 8, 4, 3, 7, 9, 5, 7, 7, 4, 7, 4, 9, 4, 7, 0, 1, 1, 1, 7, 4, 0, 0, 6 });
 
-//70: Climbing Stairs
+//70: Climbing Stairs (Easy)
 ClimbingStairs.Run(4);
 
-//118: Pascal's Triangle
+//118: Pascal's Triangle (Easy)
 PascalsTriangle.Run(5);
 
 //121: Best Time to Buy and Sell Stock (Easy)
@@ -69,13 +54,8 @@ ValidPalindrome.Run("A man, a plan, a canal: Panama");
 //136: Single Number (Easy)
 SingleNumber.Run(new int[] { -336, 513, -560, -481, -174, 101, -997, 40, -527, -784, -283, -336, 513, -560, -481, -174, 101, -997, 40, -527, -784, -283, 354 });
 
-//160: Intersection of Two Linked Lists
-
 //169: Majority Element (Easy)
 MajorityElement.Run(new int[] { 2, 2, 1, 1, 1, 2, 2 });
-
-//171: Excel Sheet Column Number (Easy)
-ExcelSheetColumnNumber.Run("FXSHRXW");
 
 //191: Number of 1 Bits (Easy)
 NumberOf1Bits.Run(1);
@@ -83,10 +63,10 @@ NumberOf1Bits.Run(1);
 //202: Happy Number (Easy)
 HappyNumber.Run(19);
 
-//205: Isomorphic Strings
+//205: Isomorphic Strings (Easy)
 IsomorphicStrings.Run("badc", "baba");
 
-//206: Reverse Linked List
+//206: Reverse Linked List (Easy)
 ReverseLinkedList.Run(new(1, new(2, new(3, new(4, new(5))))));
 
 //217: Contains Duplicate (Easy)
@@ -95,56 +75,34 @@ ContainsDuplicate.Run(new int[] { 1, 2, 3, 1 });
 //225: Implement Stack using Queues (Easy)
 ImplementStackUsingQueues.Run();
 
-//226: Invert Binary Tree (Easy)
-//InvertBinaryTree.Run(new(4, new(2, new(1), new(3)), new(7, new(6), new(9))));
-
-//228: Summary Ranges
+//228: Summary Ranges (Easy)
 SummaryRanges.Run(new int[] { 0, 1, 2 });
 
-//231: Power of Two
+//231: Power of Two (Easy)
 PowerOfTwo.Run(-16);
 
 //238: Product of Array Except Self (Medium)
-//ProductOfArrayExceptSelf.Run(new int[] { 1, 2, 3, 4 });
 ProductOfArrayExceptSelf.Run(new int[] { -1, 1, 0, -3, 3 });
 
 //258: Add Digits (Easy)
 AddDigits.Run(3);
 
-//263: Ugly Number
-UglyNumber.Run(14);
-
 // 268: Missing Number (Easy)
 MissingNumber.Run(new int[] { 0, 1, 3 });
-
-//283: Move Zeroes
-MoveZeroes.Run(new int[] { 0, 1, 0, 3, 12 });
 
 //334: Increasing Triplet Subsequence (Medium)
 IncreasingTripletSubsequence.Run(new int[] { 2, 1, 5, 0, 4, 6 });
 
-//342: Power Of Four
+//342: Power Of Four (Easy)
 PowerOfFour.Run(0);
 
 //344: Reverse String (Easy)
 ReverseString.Run(new char[] { 'h', 'e', 'l', 'l', 'o' });
 
-//345: Reverse Vowels of a String (Easy)
-ReverseVowelsOfAString.Run("leetcode");
-
-//367: Valid Perfect Square
-ValidPerfectSquare.Run(100);
-
-//383: Ransom Note (Easy)
-RansomNote.Run("aa", "ab");
-
-//389. Find the Difference
-FindTheDifference.Run("a", "aa");
-
 //392: Is Subsequence (Easy)
 IsSubsequence.Run("abc", "ahbgdc");
 
-//412: Fizz Buzz
+//412: Fizz Buzz (Easy)
 FizzBuzz.Run(15);
 
 //441: Arranging Coins (Easy)
@@ -208,10 +166,6 @@ ConvertBinaryNumberInALinkedListToInteger.Run(new(1, new(0, new(1, null))));
 
 //1431: Kids With the Greatest Number of Candies (Easy)
 KidsWithTheGreatestNumberOfCandies.Run(new int[] { 2, 3, 5, 1, 3 }, 3);
-
-//1466: Reorder Routes to Make All Paths Lead to the City Zero (Medium)
-//ReorderRoutesToMakeAllPathsLeadToTheCityZero.Run(6, new int[][] {
-//new int[] { 0, 1 }, new int[] { 1, 3 },new int[]{ 2,3 },new int[]{ 4,0 },new int[]{ 4,5 } });
 
 //1768: Merge Strings Alternately (Easy)
 MergeStringsAlternately.Run("abc", "pqr");
