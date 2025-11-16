@@ -2,7 +2,7 @@
 
 ### Easy
 |      | Level  | Problem |
-|------|--------|---------|Program.cs
+|------|--------|---------|
 | 1    | Easy   | [Two Sum](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/TwoSum.cs) | 
 | 9    | Easy   | [Palindrome Number](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/PalindromeNumber.cs) | 
 | 13   | Easy   | [Roman to Integer](https://github.com/rdvnabay/LeetCode/blob/master/Algorithms/Solutions/Easy/RomanToInteger.cs) |
