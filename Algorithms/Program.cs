@@ -1,7 +1,5 @@
-﻿using Algorithms.Common;
-using Algorithms.Solutions.Easy;
+﻿using Algorithms.Solutions.Easy;
 using Algorithms.Solutions.Medium;
-using Algorithms.Sorting;
 
 //1: Two Sum (Easy)
 TwoSum.Run(new int[] { 3, 2, 4 }, 6);
@@ -13,7 +11,7 @@ LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
 ZigzagConversion.Run("ABCDE", 2);
 
 //7: Reverse Integer (Medium)
-ReverseInteger.Run(1534236469); 
+ReverseInteger.Run(1534236469);
 
 //9: Palindrome Number (Easy)
 PalindromeNumber.Run(123);
@@ -30,6 +28,9 @@ RemoveNthNodeFromEndOfList.Run(head: new(1, new(2, new(3))), n: 3);
 //20: Valid Parentheses (Easy)
 ValidParentheses.Run("(){}}{");
 
+//27: Remove Element (Easy)
+RemoveElement.Run(new int[] { 3, 2, 2, 3, 4, 3 }, 3);
+
 //35: Search Insert Position (Easy)
 SearchInsertPosition.Run(new int[] { 1, 3, 5, 6 }, 7);
 
@@ -43,7 +44,6 @@ PlusOne.Run(new int[] { 7, 2, 8, 5, 0, 9, 1, 2, 9, 5, 3, 6, 6, 7, 3, 2, 8, 4, 3,
 ClimbingStairs.Run(4);
 
 //118: Pascal's Triangle (Easy)
-PascalsTriangle.Run(5);
 
 //121: Best Time to Buy and Sell Stock (Easy)
 BestTimeToBuyAndSellStock.Run(new int[] { 3, 2, 6, 5, 0, 3 });
@@ -82,7 +82,7 @@ SummaryRanges.Run(new int[] { 0, 1, 2 });
 PowerOfTwo.Run(-16);
 
 //238: Product of Array Except Self (Medium)
-ProductOfArrayExceptSelf.Run(new int[] { -1, 1, 0, -3, 3 });
+//ProductOfArrayExceptSelf.Run(new int[] { -1, 1, 0, -3, 3 });
 
 //258: Add Digits (Easy)
 AddDigits.Run(3);
@@ -91,7 +91,7 @@ AddDigits.Run(3);
 MissingNumber.Run(new int[] { 0, 1, 3 });
 
 //334: Increasing Triplet Subsequence (Medium)
-IncreasingTripletSubsequence.Run(new int[] { 2, 1, 5, 0, 4, 6 });
+//IncreasingTripletSubsequence.Run(new int[] { 2, 1, 5, 0, 4, 6 });
 
 //342: Power Of Four (Easy)
 PowerOfFour.Run(0);
@@ -106,11 +106,11 @@ IsSubsequence.Run("abc", "ahbgdc");
 FizzBuzz.Run(15);
 
 //441: Arranging Coins (Easy)
-ArrangingCoins.Run(6);
+//ArrangingCoins.Run(6);
 
 //455: Assign Cookies (Easy)
 //AssignCookies.Run(new int[] { 1, 2, 3 }, new int[] { 1, 1 });
-AssignCookies.Run(new int[] { 10, 9, 8, 7, 10, 9, 8, 7 }, new int[] { 10, 9, 8, 7 });
+//AssignCookies.Run(new int[] { 10, 9, 8, 7, 10, 9, 8, 7 }, new int[] { 10, 9, 8, 7 });
 
 //485: Max Consecutive Ones (Easy)
 MaxConsecutiveOnes.Run(new int[] { 1, 1, 0, 1, 1, 1 });
@@ -130,7 +130,7 @@ ConvertBSTToGreaterTree.Run(new Algorithms.Solutions.Medium.TreeNode(val: 4,
     right: new(6, new(5), new(7, null, new(8)))));
 
 //605: Can Place Flowers (Easy)
-CanPlaceFlowers.Run(new int[] { 1, 0 }, 1);
+//CanPlaceFlowers.Run(new int[] { 1, 0 }, 1);
 
 //657: Robot Return to Origin (Easy)
 RobotReturnToOrigin.Run("UDLR");
@@ -148,13 +148,13 @@ SelfDividingNumbers.Run(1, 22);
 //DailyTemperatures.Run(new int[] { 34, 80, 80, 34, 34, 80, 80, 80, 80, 34 });
 
 //771: Jewels and Stones (Easy)
-JewelsAndStones.Run("aA", "aAAbbbb");
+//JewelsAndStones.Run("aA", "aAAbbbb");
 
 //876: Middle of the Linked List
 MiddleOfTheLinkedList.Run(new(1, new(2, new(3, new(4, new(5, null))))));
 
 //1018: Binary Prefix Divisible By 5
-BinaryPrefixDivisibleBy5.Run(new int[] { 1, 1, 1 });
+//BinaryPrefixDivisibleBy5.Run(new int[] { 1, 1, 1 });
 
 //1047: Remove All Adjacent Duplicates In String
 RemoveAllAdjacentDuplicatesInString.Run("abbaca");
@@ -174,4 +174,3 @@ MergeStringsAlternately.Run("abc", "pqr");
 TheTwoSneakyNumbersOfDigitville.Run(new int[] { 0, 3, 2, 1, 3, 2 });
 
 
-SelectionSort.Run();
