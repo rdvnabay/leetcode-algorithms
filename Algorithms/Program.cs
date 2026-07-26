@@ -79,6 +79,9 @@ ReverseLinkedList.Run(new(1, new(2, new(3, new(4, new(5))))));
 //217: Contains Duplicate (Easy)
 ContainsDuplicate.Run(new int[] { 1, 2, 3, 1 });
 
+//219: Contains Duplicate II (Easy) 
+ContainsDuplicateII.Run(new int[] { 5, 1, 2, 3, 5, 4, 5 }, 1);
+
 //225: Implement Stack using Queues (Easy)
 ImplementStackUsingQueues.Run();
 
