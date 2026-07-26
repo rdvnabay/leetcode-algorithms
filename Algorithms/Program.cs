@@ -100,6 +100,9 @@ AddDigits.Run(3);
 // 268: Missing Number (Easy)
 MissingNumber.Run(new int[] { 0, 1, 3 });
 
+//283: Move Zeroes (Easy)
+MoveZeroes.Run(new int[] { 0, 1, 0, 3, 12 });   
+
 //334: Increasing Triplet Subsequence (Medium)
 //IncreasingTripletSubsequence.Run(new int[] { 2, 1, 5, 0, 4, 6 });
 
