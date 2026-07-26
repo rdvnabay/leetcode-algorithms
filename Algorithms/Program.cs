@@ -101,7 +101,7 @@ AddDigits.Run(3);
 MissingNumber.Run(new int[] { 0, 1, 3 });
 
 //283: Move Zeroes (Easy)
-MoveZeroes.Run(new int[] { 0, 1, 0, 3, 12 });   
+MoveZeroes.Run(new int[] { 0, 1, 0, 3, 12 });
 
 //334: Increasing Triplet Subsequence (Medium)
 //IncreasingTripletSubsequence.Run(new int[] { 2, 1, 5, 0, 4, 6 });
@@ -114,6 +114,9 @@ ReverseString.Run(new char[] { 'h', 'e', 'l', 'l', 'o' });
 
 //349: Intersection of Two Arrays (Easy)
 IntersectionOfTwoArrays.Run(new int[] { 4, 9, 5 }, new int[] { 9, 4, 9, 8, 4 });
+
+//350: Intersection of Two Arrays II (Easy)
+IntersectionOfTwoArraysII.Run(new int[] { 7, 7, 8 }, new int[] { 7, 7, 7, 8, 8,9 });
 
 //392: Is Subsequence (Easy)
 IsSubsequence.Run("abc", "ahbgdc");
