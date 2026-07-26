@@ -45,7 +45,12 @@ ClimbingStairs.Run(4);
 
 MergeSortedArray.Run(new int[] { 1, 4, 7, 9, 0, 0 }, 4, new int[] { 3, 8 }, 2);
 
+ConvertSortedArrayToBinarySearchTree.Run(new int[] { -10, -3, 0, 5, 9 });
+
 //118: Pascal's Triangle (Easy)
+
+//119: Pascal's Triangle II (Easy)  
+PascalsTriangleII.Run(13);
 
 //121: Best Time to Buy and Sell Stock (Easy)
 BestTimeToBuyAndSellStock.Run(new int[] { 3, 2, 6, 5, 0, 3 });
