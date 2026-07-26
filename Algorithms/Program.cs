@@ -43,6 +43,8 @@ PlusOne.Run(new int[] { 7, 2, 8, 5, 0, 9, 1, 2, 9, 5, 3, 6, 6, 7, 3, 2, 8, 4, 3,
 //70: Climbing Stairs (Easy)
 ClimbingStairs.Run(4);
 
+MergeSortedArray.Run(new int[] { 1, 4, 7, 9, 0, 0 }, 4, new int[] { 3, 8 }, 2);
+
 //118: Pascal's Triangle (Easy)
 
 //121: Best Time to Buy and Sell Stock (Easy)
