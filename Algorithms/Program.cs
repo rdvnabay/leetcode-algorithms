@@ -112,6 +112,9 @@ PowerOfFour.Run(0);
 //344: Reverse String (Easy)
 ReverseString.Run(new char[] { 'h', 'e', 'l', 'l', 'o' });
 
+//349: Intersection of Two Arrays (Easy)
+IntersectionOfTwoArrays.Run(new int[] { 4, 9, 5 }, new int[] { 9, 4, 9, 8, 4 });
+
 //392: Is Subsequence (Easy)
 IsSubsequence.Run("abc", "ahbgdc");
 
