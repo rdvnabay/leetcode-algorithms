@@ -160,6 +160,9 @@ ConvertBSTToGreaterTree.Run(new Algorithms.Solutions.Medium.TreeNode(val: 4,
     left: new(1, new(0), new(2, null, new(3))),
     right: new(6, new(5), new(7, null, new(8)))));
 
+//561: Array Partition
+ArrayPartition.Run(new int[] { 1, 4, 3, 2 });
+
 //605: Can Place Flowers (Easy)
 //CanPlaceFlowers.Run(new int[] { 1, 0 }, 1);
 
