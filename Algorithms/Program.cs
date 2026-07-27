@@ -140,6 +140,12 @@ FindAllNumbersDisappearedInAnArray.Run(new int[] { 4, 3, 2, 7, 8, 2, 3, 1 });
 //485: Max Consecutive Ones (Easy)
 MaxConsecutiveOnes.Run(new int[] { 1, 1, 0, 1, 1, 1 });
 
+//495: Teemo Attacking (Easy)
+TeemoAttacking.Run(new int[] { 1, 3, 8 }, 4);
+
+//496: Next Greater Element I (Easy)    
+NextGreaterElementI.Run(new int[] { 4, 1, 2, 0 }, new int[] { 3, 4, 2, 0, 1 });
+
 //506: Relative Ranks (Easy)
 RelativeRanks.Run(new int[] { 5, 4, 3, 2, 1 });
 
