@@ -166,6 +166,9 @@ ArrayPartition.Run(new int[] { 1, 4, 3, 2 });
 //575: Distribute Candies
 DistributeCandies.Run(new int[] { 6, 6, 6, 6 });
 
+//594: Longest Harmonious Subsequence
+LongestHarmoniousSubsequence.Run(new int[] { 1, 3, 2, 2, 5, 2, 3, 7 });
+
 //605: Can Place Flowers (Easy)
 //CanPlaceFlowers.Run(new int[] { 1, 0 }, 1);
 
