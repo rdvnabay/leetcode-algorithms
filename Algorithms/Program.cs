@@ -116,13 +116,16 @@ ReverseString.Run(new char[] { 'h', 'e', 'l', 'l', 'o' });
 IntersectionOfTwoArrays.Run(new int[] { 4, 9, 5 }, new int[] { 9, 4, 9, 8, 4 });
 
 //350: Intersection of Two Arrays II (Easy)
-IntersectionOfTwoArraysII.Run(new int[] { 7, 7, 8 }, new int[] { 7, 7, 7, 8, 8,9 });
+IntersectionOfTwoArraysII.Run(new int[] { 7, 7, 8 }, new int[] { 7, 7, 7, 8, 8, 9 });
 
 //392: Is Subsequence (Easy)
 IsSubsequence.Run("abc", "ahbgdc");
 
 //412: Fizz Buzz (Easy)
 FizzBuzz.Run(15);
+
+//414: Third Maximum Number (Easy)  
+ThirdMaximumNumber.Run(new int[] { 4, 1, 2, 2, 5, 3, 5 });
 
 //441: Arranging Coins (Easy)
 //ArrangingCoins.Run(6);
