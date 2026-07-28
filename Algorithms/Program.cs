@@ -191,6 +191,10 @@ LongestContinuousIncreasingSubsequence.Run(new int[] { 1, 3, 5, 4, 7 });
 //682: Baseball Game (Easy)
 BaseballGame.Run(new string[] { "5", "2", "C", "D", "+" });
 
+//697: Degree of an Array
+DegreeOfAnArray.Run(new int[] { 1, 2, 2, 3, 1 });
+//DegreeOfAnArray.Run(new int[] { 2, 1 });
+
 //709: To Lower Case (Easy)
 ToLowerCase.Run("Hello");
 
