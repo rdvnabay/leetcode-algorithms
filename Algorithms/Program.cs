@@ -134,7 +134,7 @@ ThirdMaximumNumber.Run(new int[] { 4, 1, 2, 2, 5, 3, 5 });
 FindAllNumbersDisappearedInAnArray.Run(new int[] { 4, 3, 2, 7, 8, 2, 3, 1 });
 
 //455: Assign Cookies (Easy)
-//AssignCookies.Run(new int[] { 1, 2, 3 }, new int[] { 1, 1 });
+AssignCookies.Run(new int[] { 1, 2, 3 }, new int[] { 1, 1 });
 //AssignCookies.Run(new int[] { 10, 9, 8, 7, 10, 9, 8, 7 }, new int[] { 10, 9, 8, 7 });
 
 //485: Max Consecutive Ones (Easy)
