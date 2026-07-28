@@ -23,6 +23,9 @@ RomanToInteger.Run("III");
 //14: Longest Common Prefix (Easy)
 LongestCommonPrefix.Run(new string[] { "c", "acc", "ccc" });
 
+//15: 3Sum
+_3Sum.Run(new int[] { -1, 0, 1, 2, -1, -4 });
+
 //19: Remove Nth Node From End of List (Medium)
 RemoveNthNodeFromEndOfList.Run(head: new(1, new(2, new(3))), n: 3);
 
@@ -208,6 +211,9 @@ BaseballGame.Run(new string[] { "5", "2", "C", "D", "+" });
 //697: Degree of an Array
 DegreeOfAnArray.Run(new int[] { 1, 2, 2, 3, 1 });
 //DegreeOfAnArray.Run(new int[] { 2, 1 });
+
+//704: Binary Search
+BinarySearch.Run(new int[] { -1, 0, 3, 5, 9, 12 }, 9);
 
 //709: To Lower Case (Easy)
 ToLowerCase.Run("Hello");
