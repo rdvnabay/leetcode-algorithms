@@ -171,13 +171,16 @@ LongestHarmoniousSubsequence.Run(new int[] { 1, 3, 2, 2, 5, 2, 3, 7 });
 
 //605: Can Place Flowers (Easy)
 //CanPlaceFlowers.Run(new int[] { 1, 0, 0, 0, 1 }, 1);
-CanPlaceFlowers.Run(new int[] { 0}, 1);
+CanPlaceFlowers.Run(new int[] { 0 }, 1);
 
 //628: Maximum Product of Three Numbers
 MaximumProductOfThreeNumbers.Run(new int[] { -10, -10, 5, 2 });
 
 //643: Maximum Average Subarray I
 MaximumAverageSubarrayI.Run(new int[] { 1, 12, -5, -6, 50, 3 }, 4);
+
+//645: Set Mismatch
+SetMismatch.Run(new int[] { 1, 1 });
 
 //657: Robot Return to Origin (Easy)
 RobotReturnToOrigin.Run("UDLR");
