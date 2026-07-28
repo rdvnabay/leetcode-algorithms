@@ -185,6 +185,9 @@ SetMismatch.Run(new int[] { 1, 1 });
 //657: Robot Return to Origin (Easy)
 RobotReturnToOrigin.Run("UDLR");
 
+//674: Longest Continuous Increasing Subsequence
+LongestContinuousIncreasingSubsequence.Run(new int[] { 1, 3, 5, 4, 7 });
+
 //682: Baseball Game (Easy)
 BaseballGame.Run(new string[] { "5", "2", "C", "D", "+" });
 
