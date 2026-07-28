@@ -176,6 +176,9 @@ CanPlaceFlowers.Run(new int[] { 0}, 1);
 //628: Maximum Product of Three Numbers
 MaximumProductOfThreeNumbers.Run(new int[] { -10, -10, 5, 2 });
 
+//643: Maximum Average Subarray I
+MaximumAverageSubarrayI.Run(new int[] { 1, 12, -5, -6, 50, 3 }, 4);
+
 //657: Robot Return to Origin (Easy)
 RobotReturnToOrigin.Run("UDLR");
 
