@@ -1,5 +1,6 @@
 ﻿using Algorithms.Solutions.Easy;
 using Algorithms.Solutions.Medium;
+using static System.Net.Mime.MediaTypeNames;
 
 //1: Two Sum (Easy)
 TwoSum.Run(new int[] { 3, 2, 4 }, 6);
@@ -184,6 +185,19 @@ SetMismatch.Run(new int[] { 1, 1 });
 
 //657: Robot Return to Origin (Easy)
 RobotReturnToOrigin.Run("UDLR");
+
+//661: Image Smoother
+ImageSmoother.Run(new int[][] {
+    [1,1,1],
+    [1,0,1],
+    [1,1,1]
+});
+
+//ImageSmoother.Run(new int[][] {
+//    [10,20],
+//    [30,40],
+//});
+
 
 //674: Longest Continuous Increasing Subsequence
 LongestContinuousIncreasingSubsequence.Run(new int[] { 1, 3, 5, 4, 7 });
