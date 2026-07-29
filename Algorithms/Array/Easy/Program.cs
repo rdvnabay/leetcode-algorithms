@@ -32,5 +32,7 @@ public static class ArrayEasyRunner
         DegreeOfAnArray.Run(new int[] { 1, 2, 2, 3, 1 });
         KidsWithTheGreatestNumberOfCandies.Run(new int[] { 2, 3, 5, 1, 3 }, 3);
         FloodFill.Run(new int[][] { [1, 1, 1], [1, 1, 0], [1, 0, 1] }, 1, 1, 2);
+        //LargestNumberAtLeastTwiceOfOthers.Run(new int[] { 1, 2, 3, 4 });
+        LargestNumberAtLeastTwiceOfOthers.Run(new int[] { 3, 6, 1, 0 });
     }
 }
