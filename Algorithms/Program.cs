@@ -227,6 +227,13 @@ SelfDividingNumbers.Run(1, 22);
 //739: Daily Temperatures (Medium)
 //DailyTemperatures.Run(new int[] { 34, 80, 80, 34, 34, 80, 80, 80, 80, 34 });
 
+//744: Find Smallest Letter Greater Than Target
+FindSmallestLetterGreaterThanTarget.Run(new char[] { 'c', 'f', 'j' }, 'c');
+
+//746: Min Cost Climbing Stairs
+MinCostClimbingStairs.Run(new int[] { 1, 100, 1, 1, 1, 100, 1, 1, 100, 1 });
+//MinCostClimbingStairs.Run(new int[] { 0, 1, 2, 2 });
+
 //771: Jewels and Stones (Easy)
 //JewelsAndStones.Run("aA", "aAAbbbb");
 
