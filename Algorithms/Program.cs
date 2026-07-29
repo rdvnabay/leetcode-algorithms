@@ -218,6 +218,9 @@ BinarySearch.Run(new int[] { -1, 0, 3, 5, 9, 12 }, 9);
 //709: To Lower Case (Easy)
 ToLowerCase.Run("Hello");
 
+//724: Find Pivot Index
+FindPivotIndex.Run(new int[] { 1, 7, 3, 6, 5, 6 });
+
 //728: Self Dividing Numbers (Easy)
 SelfDividingNumbers.Run(1, 22);
 
