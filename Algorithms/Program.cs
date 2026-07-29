@@ -1,263 +1,62 @@
-﻿using Algorithms.Solutions.Easy;
-using Algorithms.Solutions.Medium;
-using static System.Net.Mime.MediaTypeNames;
-
-//1: Two Sum (Easy)
-TwoSum.Run(new int[] { 3, 2, 4 }, 6);
-
-//3: Longest Substring Without Repeating Characters (Medium)
-LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
-
-//6: Zigzag Conversion (Medium)
-ZigzagConversion.Run("ABCDE", 2);
-
-//7: Reverse Integer (Medium)
-ReverseInteger.Run(1534236469);
-
-//9: Palindrome Number (Easy)
-PalindromeNumber.Run(123);
-
-//13: Roman to Integer (Easy)
-RomanToInteger.Run("III");
-
-//14: Longest Common Prefix (Easy)
-LongestCommonPrefix.Run(new string[] { "c", "acc", "ccc" });
-
-//15: 3Sum
-_3Sum.Run(new int[] { -1, 0, 1, 2, -1, -4 });
-
-//19: Remove Nth Node From End of List (Medium)
-RemoveNthNodeFromEndOfList.Run(head: new(1, new(2, new(3))), n: 3);
-
-//20: Valid Parentheses (Easy)
-ValidParentheses.Run("(){}}{");
-
-//27: Remove Element (Easy)
-RemoveElement.Run(new int[] { 3, 2, 2, 3, 4, 3 }, 3);
-
-//35: Search Insert Position (Easy)
-SearchInsertPosition.Run(new int[] { 1, 3, 5, 6 }, 7);
-
-//58: Length of Last Word (Easy)
-LengthOfLastWord.Run("Hello World");
-
-//66: Plus One (Easy)
-PlusOne.Run(new int[] { 7, 2, 8, 5, 0, 9, 1, 2, 9, 5, 3, 6, 6, 7, 3, 2, 8, 4, 3, 7, 9, 5, 7, 7, 4, 7, 4, 9, 4, 7, 0, 1, 1, 1, 7, 4, 0, 0, 6 });
-
-//70: Climbing Stairs (Easy)
-ClimbingStairs.Run(4);
-
-MergeSortedArray.Run(new int[] { 1, 4, 7, 9, 0, 0 }, 4, new int[] { 3, 8 }, 2);
-
-ConvertSortedArrayToBinarySearchTree.Run(new int[] { -10, -3, 0, 5, 9 });
-
-//118: Pascal's Triangle (Easy)
-
-//119: Pascal's Triangle II (Easy)  
-PascalsTriangleII.Run(13);
-
-//121: Best Time to Buy and Sell Stock (Easy)
-BestTimeToBuyAndSellStock.Run(new int[] { 3, 2, 6, 5, 0, 3 });
-
-//125: Valid Palindrome (Easy)
-ValidPalindrome.Run("A man, a plan, a canal: Panama");
-
-//136: Single Number (Easy)
-SingleNumber.Run(new int[] { -336, 513, -560, -481, -174, 101, -997, 40, -527, -784, -283, -336, 513, -560, -481, -174, 101, -997, 40, -527, -784, -283, 354 });
-
-//169: Majority Element (Easy)
-MajorityElement.Run(new int[] { 2, 2, 1, 1, 1, 2, 2 });
-
-//191: Number of 1 Bits (Easy)
-NumberOf1Bits.Run(1);
-
-//202: Happy Number (Easy)
-HappyNumber.Run(19);
-
-//205: Isomorphic Strings (Easy)
-IsomorphicStrings.Run("badc", "baba");
-
-//206: Reverse Linked List (Easy)
-ReverseLinkedList.Run(new(1, new(2, new(3, new(4, new(5))))));
-
-//217: Contains Duplicate (Easy)
-ContainsDuplicate.Run(new int[] { 1, 2, 3, 1 });
-
-//219: Contains Duplicate II (Easy) 
-ContainsDuplicateII.Run(new int[] { 5, 1, 2, 3, 5, 4, 5 }, 1);
-
-//225: Implement Stack using Queues (Easy)
-ImplementStackUsingQueues.Run();
-
-//228: Summary Ranges (Easy)
-SummaryRanges.Run(new int[] { 0, 1, 2 });
-
-//231: Power of Two (Easy)
-PowerOfTwo.Run(-16);
-
-//238: Product of Array Except Self (Medium)
-//ProductOfArrayExceptSelf.Run(new int[] { -1, 1, 0, -3, 3 });
-
-//258: Add Digits (Easy)
-AddDigits.Run(3);
-
-// 268: Missing Number (Easy)
-MissingNumber.Run(new int[] { 0, 1, 3 });
-
-//283: Move Zeroes (Easy)
-MoveZeroes.Run(new int[] { 0, 1, 0, 3, 12 });
-
-//334: Increasing Triplet Subsequence (Medium)
-//IncreasingTripletSubsequence.Run(new int[] { 2, 1, 5, 0, 4, 6 });
-
-//342: Power Of Four (Easy)
-PowerOfFour.Run(0);
-
-//344: Reverse String (Easy)
-ReverseString.Run(new char[] { 'h', 'e', 'l', 'l', 'o' });
-
-//349: Intersection of Two Arrays (Easy)
-IntersectionOfTwoArrays.Run(new int[] { 4, 9, 5 }, new int[] { 9, 4, 9, 8, 4 });
-
-//350: Intersection of Two Arrays II (Easy)
-IntersectionOfTwoArraysII.Run(new int[] { 7, 7, 8 }, new int[] { 7, 7, 7, 8, 8, 9 });
-
-//392: Is Subsequence (Easy)
-IsSubsequence.Run("abc", "ahbgdc");
-
-//412: Fizz Buzz (Easy)
-FizzBuzz.Run(15);
-
-//414: Third Maximum Number (Easy)  
-ThirdMaximumNumber.Run(new int[] { 4, 1, 2, 2, 5, 3, 5 });
-
-//441: Arranging Coins (Easy)
-//ArrangingCoins.Run(6);
-
-//448: Find All Numbers Disappeared in an Array (Easy)
-FindAllNumbersDisappearedInAnArray.Run(new int[] { 4, 3, 2, 7, 8, 2, 3, 1 });
-
-//455: Assign Cookies (Easy)
-AssignCookies.Run(new int[] { 1, 2, 3 }, new int[] { 1, 1 });
-//AssignCookies.Run(new int[] { 10, 9, 8, 7, 10, 9, 8, 7 }, new int[] { 10, 9, 8, 7 });
-
-//485: Max Consecutive Ones (Easy)
-MaxConsecutiveOnes.Run(new int[] { 1, 1, 0, 1, 1, 1 });
-
-//495: Teemo Attacking (Easy)
-TeemoAttacking.Run(new int[] { 1, 3, 8 }, 4);
-
-//496: Next Greater Element I (Easy)    
-NextGreaterElementI.Run(new int[] { 4, 1, 2, 0 }, new int[] { 3, 4, 2, 0, 1 });
-
-//506: Relative Ranks (Easy)
-RelativeRanks.Run(new int[] { 5, 4, 3, 2, 1 });
-
-//509: Fibonacci Number (Easy)
-//FibonacciNumber.Run(5);
-
-//520: Detect Capital (Easy)
-DetectCapital.Run("FlaG");
-
-//538: Convert BST to Greater Tree
-ConvertBSTToGreaterTree.Run(new Algorithms.Solutions.Medium.TreeNode(val: 4,
-    left: new(1, new(0), new(2, null, new(3))),
-    right: new(6, new(5), new(7, null, new(8)))));
-
-//561: Array Partition
-ArrayPartition.Run(new int[] { 1, 4, 3, 2 });
-
-//575: Distribute Candies
-DistributeCandies.Run(new int[] { 6, 6, 6, 6 });
-
-//594: Longest Harmonious Subsequence
-LongestHarmoniousSubsequence.Run(new int[] { 1, 3, 2, 2, 5, 2, 3, 7 });
-
-//605: Can Place Flowers (Easy)
-//CanPlaceFlowers.Run(new int[] { 1, 0, 0, 0, 1 }, 1);
-CanPlaceFlowers.Run(new int[] { 0 }, 1);
-
-//628: Maximum Product of Three Numbers
-MaximumProductOfThreeNumbers.Run(new int[] { -10, -10, 5, 2 });
-
-//643: Maximum Average Subarray I
-MaximumAverageSubarrayI.Run(new int[] { 1, 12, -5, -6, 50, 3 }, 4);
-
-//645: Set Mismatch
-SetMismatch.Run(new int[] { 1, 1 });
-
-//657: Robot Return to Origin (Easy)
-RobotReturnToOrigin.Run("UDLR");
-
-//661: Image Smoother
-ImageSmoother.Run(new int[][] {
-    [1,1,1],
-    [1,0,1],
-    [1,1,1]
-});
-
-//ImageSmoother.Run(new int[][] {
-//    [10,20],
-//    [30,40],
-//});
-
-
-//674: Longest Continuous Increasing Subsequence
-LongestContinuousIncreasingSubsequence.Run(new int[] { 1, 3, 5, 4, 7 });
-
-//682: Baseball Game (Easy)
-BaseballGame.Run(new string[] { "5", "2", "C", "D", "+" });
-
-//697: Degree of an Array
-DegreeOfAnArray.Run(new int[] { 1, 2, 2, 3, 1 });
-//DegreeOfAnArray.Run(new int[] { 2, 1 });
-
-//704: Binary Search
-BinarySearch.Run(new int[] { -1, 0, 3, 5, 9, 12 }, 9);
-
-//709: To Lower Case (Easy)
-ToLowerCase.Run("Hello");
-
-//724: Find Pivot Index
-FindPivotIndex.Run(new int[] { 1, 7, 3, 6, 5, 6 });
-
-//728: Self Dividing Numbers (Easy)
-SelfDividingNumbers.Run(1, 22);
-
-//739: Daily Temperatures (Medium)
-//DailyTemperatures.Run(new int[] { 34, 80, 80, 34, 34, 80, 80, 80, 80, 34 });
-
-//744: Find Smallest Letter Greater Than Target
-FindSmallestLetterGreaterThanTarget.Run(new char[] { 'c', 'f', 'j' }, 'c');
-
-//746: Min Cost Climbing Stairs
-MinCostClimbingStairs.Run(new int[] { 1, 100, 1, 1, 1, 100, 1, 1, 100, 1 });
-//MinCostClimbingStairs.Run(new int[] { 0, 1, 2, 2 });
-
-//771: Jewels and Stones (Easy)
-//JewelsAndStones.Run("aA", "aAAbbbb");
-
-//876: Middle of the Linked List
-MiddleOfTheLinkedList.Run(new(1, new(2, new(3, new(4, new(5, null))))));
-
-//1018: Binary Prefix Divisible By 5
-//BinaryPrefixDivisibleBy5.Run(new int[] { 1, 1, 1 });
-
-//1047: Remove All Adjacent Duplicates In String
-RemoveAllAdjacentDuplicatesInString.Run("abbaca");
-//Add Two Numbers (Easy)
-//AddTwoNumbers.Run(new DoublyListNode(2, new DoublyListNode(4, new DoublyListNode(3))), new DoublyListNode(5, new DoublyListNode(6, new DoublyListNode(4))));
-
-//1290: Convert Binary Number in a Linked List to Integer
-ConvertBinaryNumberInALinkedListToInteger.Run(new(1, new(0, new(1, null))));
-
-//1431: Kids With the Greatest Number of Candies (Easy)
-KidsWithTheGreatestNumberOfCandies.Run(new int[] { 2, 3, 5, 1, 3 }, 3);
-
-//1768: Merge Strings Alternately (Easy)
-MergeStringsAlternately.Run("abc", "pqr");
-
-//3289: The Two Sneaky Numbers of Digitville (Easy)
-TheTwoSneakyNumbersOfDigitville.Run(new int[] { 0, 3, 2, 1, 3, 2 });
-
-
+using Algorithms.Array.Easy;
+using Algorithms.Array.Medium;
+using Algorithms.String.Easy;
+using Algorithms.String.Medium;
+using Algorithms.Math.Easy;
+using Algorithms.Math.Medium;
+using Algorithms.DynamicProgramming.Easy;
+using Algorithms.LinkedList.Easy;
+using Algorithms.LinkedList.Medium;
+using Algorithms.Tree.Easy;
+using Algorithms.Tree.Medium;
+using Algorithms.Stack.Easy;
+using Algorithms.Greedy.Easy;
+using Algorithms.BinarySearch.Easy;
+using Algorithms.BitManipulation.Easy;
+using Algorithms.HashTable.Easy;
+using Algorithms.TwoPointers.Easy;
+using Algorithms.Backtracking.Medium;
+
+// ── Array ─────────────────────────────────────────────────────────────────────
+ArrayEasyRunner.Run();
+ArrayMediumRunner.Run();
+
+// ── String ────────────────────────────────────────────────────────────────────
+StringEasyRunner.Run();
+StringMediumRunner.Run();
+
+// ── Math ──────────────────────────────────────────────────────────────────────
+MathEasyRunner.Run();
+MathMediumRunner.Run();
+
+// ── Dynamic Programming ───────────────────────────────────────────────────────
+DynamicProgrammingEasyRunner.Run();
+
+// ── Linked List ───────────────────────────────────────────────────────────────
+LinkedListEasyRunner.Run();
+LinkedListMediumRunner.Run();
+
+// ── Tree ──────────────────────────────────────────────────────────────────────
+TreeEasyRunner.Run();
+TreeMediumRunner.Run();
+
+// ── Stack ─────────────────────────────────────────────────────────────────────
+StackEasyRunner.Run();
+
+// ── Greedy ────────────────────────────────────────────────────────────────────
+GreedyEasyRunner.Run();
+
+// ── Binary Search ─────────────────────────────────────────────────────────────
+BinarySearchEasyRunner.Run();
+
+// ── Bit Manipulation ──────────────────────────────────────────────────────────
+BitManipulationEasyRunner.Run();
+
+// ── Hash Table ────────────────────────────────────────────────────────────────
+HashTableEasyRunner.Run();
+
+// ── Two Pointers ──────────────────────────────────────────────────────────────
+TwoPointersEasyRunner.Run();
+
+// ── Backtracking ──────────────────────────────────────────────────────────────
+BacktrackingMediumRunner.Run();
