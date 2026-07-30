@@ -20,5 +20,6 @@ public static class MathEasyRunner
         AddStrings.Run("11", "123");
         ArrangingCoins.Run(5);
         Base7.Run(-7);
+        PerfectNumber.Run(7);
     }
 }
