@@ -19,5 +19,6 @@ public static class MathEasyRunner
         ValidPerfectSquare.Run(400);
         AddStrings.Run("11", "123");
         ArrangingCoins.Run(5);
+        Base7.Run(-7);
     }
 }
