@@ -16,5 +16,8 @@ public static class MathEasyRunner
         SelfDividingNumbers.Run(1, 22);
         TheTwoSneakyNumbersOfDigitville.Run(new int[] { 0, 3, 2, 1, 3, 2 });
         UglyNumber.Run(30);
+        ValidPerfectSquare.Run(400);
+        AddStrings.Run("11", "123");
+        ArrangingCoins.Run(5);
     }
 }
