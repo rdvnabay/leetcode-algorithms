@@ -23,5 +23,6 @@ public static class StringEasyRunner
         FindTheIndexOfTheFirstOccurrenceInAString.Run("mississippi", "issip");
         ExcelSheetColumnTitle.Run(701);
         ValidAnagram.Run("listen", "silent");
+        WordPattern.Run("aaa", "aa aa aa aa");
     }
 }
