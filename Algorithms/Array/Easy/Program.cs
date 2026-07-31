@@ -38,5 +38,7 @@ public static class ArrayEasyRunner
         NumberOfLinesToWriteString.Run(new[] { 4, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "bbbcccdddaaa");
         MostCommonWord.Run("Bob hit a ball, the hit BALL flew far after it was hit.", new string[] { "hit" });
         ReshapeTheMatrix.Run(new int[][] { [1, 2], [3, 4] }, 1, 4);
+        RangeAdditionII.Run(3, 3, new int[][] { [2, 2], [3, 3] });
+        //RangeAdditionII.Run(40000, 40000, new int[][] {});
     }
 }
