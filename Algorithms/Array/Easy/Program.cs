@@ -42,5 +42,6 @@ public static class ArrayEasyRunner
         LemonadeChange.Run(new int[] { 5, 5, 10, 5, 20, 5, 5, 5, 5, 5, 20, 5, 10, 5, 5, 5, 5, 20, 20, 5 });
         TransposeMatrix.Run(new int[][] { [1, 2, 3], [4, 5, 6] });
         MonotonicArray.Run(new int[] { 1, 2, 5, 3, 3 });
+        SortArrayByParity.Run(new int[] { 3, 1, 2, 4 });
     }
 }
