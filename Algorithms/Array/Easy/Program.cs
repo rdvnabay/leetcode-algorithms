@@ -41,5 +41,6 @@ public static class ArrayEasyRunner
         RangeAdditionII.Run(3, 3, new int[][] { [2, 2], [3, 3] });
         LemonadeChange.Run(new int[] { 5, 5, 10, 5, 20, 5, 5, 5, 5, 5, 20, 5, 10, 5, 5, 5, 5, 20, 20, 5 });
         TransposeMatrix.Run(new int[][] { [1, 2, 3], [4, 5, 6] });
+        MonotonicArray.Run(new int[] { 1, 2, 5, 3, 3 });
     }
 }
