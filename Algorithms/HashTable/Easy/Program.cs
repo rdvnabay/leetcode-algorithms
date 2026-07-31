@@ -15,5 +15,6 @@ public static class HashTableEasyRunner
         DistributeCandies.Run(new int[] { 6, 6, 6, 6 });
         LongestHarmoniousSubsequence.Run(new int[] { 1, 3, 2, 2, 5, 2, 3, 7 });
         FirstUniqueCharacterInAString.Run("loveleetcode");
+        FindTheDifference.Run("aab", "aabb");
     }
 }
