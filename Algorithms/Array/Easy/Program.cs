@@ -35,7 +35,8 @@ public static class ArrayEasyRunner
         LargestNumberAtLeastTwiceOfOthers.Run(new int[] { 3, 6, 1, 0 });
         ToeplitzMatrix.Run(new int[][] { [1, 2, 3, 4], [5, 1, 2, 3], [9, 5, 1, 2] });
         //ToeplitzMatrix.Run(new int[][] { [11, 74, 0, 93], [40, 11, 74, 7] });
-        //NumberOfLinesToWriteString.Run(new[] { 4, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "bbbcccdddaaa");
-        NumberOfLinesToWriteString.Run(new[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "abcdefghijklmnopqrstuvwxyz");
+        NumberOfLinesToWriteString.Run(new[] { 4, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "bbbcccdddaaa");
+        MostCommonWord.Run("Bob hit a ball, the hit BALL flew far after it was hit.", new string[] { "hit" });
+        ReshapeTheMatrix.Run(new int[][] { [1, 2], [3, 4] }, 1, 4);
     }
 }
