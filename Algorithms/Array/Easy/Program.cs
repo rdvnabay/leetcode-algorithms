@@ -39,6 +39,6 @@ public static class ArrayEasyRunner
         MostCommonWord.Run("Bob hit a ball, the hit BALL flew far after it was hit.", new string[] { "hit" });
         ReshapeTheMatrix.Run(new int[][] { [1, 2], [3, 4] }, 1, 4);
         RangeAdditionII.Run(3, 3, new int[][] { [2, 2], [3, 3] });
-        //RangeAdditionII.Run(40000, 40000, new int[][] {});
+        LemonadeChange.Run(new int[]{ 5, 5, 10, 5, 20, 5, 5, 5, 5, 5, 20, 5, 10, 5, 5, 5, 5, 20, 20, 5 });
     }
 }
