@@ -27,5 +27,6 @@ public static class StringEasyRunner
         WordPattern.Run("aaa", "aa aa aa aa");
         RansomNote.Run("aa", "aab");
         NumberOfSegmentsInAString.Run("Hello, my name is John");
+        LicenseKeyFormatting.Run("--a-a-a-a--", 2);
     }
 }
