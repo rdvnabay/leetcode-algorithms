@@ -1,4 +1,6 @@
 
+using String.Easy;
+
 namespace Algorithms.String.Easy;
 
 public static class StringEasyRunner
@@ -24,5 +26,6 @@ public static class StringEasyRunner
         ValidAnagram.Run("listen", "silent");
         WordPattern.Run("aaa", "aa aa aa aa");
         RansomNote.Run("aa", "aab");
+        NumberOfSegmentsInAString.Run("Hello, my name is John");
     }
 }
