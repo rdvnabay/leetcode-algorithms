@@ -48,5 +48,6 @@ public static class ArrayEasyRunner
         DeleteColumnsToMakeSorted.Run(new string[] { "cba", "daf", "ghi" });
         NRepeatedElementInSize2NArray.Run(new int[] { 1, 2, 3, 3 });
         SquaresOfASortedArray.Run(new int[] { -4, -2, 0, 3, 5 });
+        AddToArrayFormOfInteger.Run(new int[] { 1, 2, 0, 0 }, 34);
     }
 }
