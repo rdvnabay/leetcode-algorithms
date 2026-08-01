@@ -24,5 +24,6 @@ public static class StringEasyRunner
         ExcelSheetColumnTitle.Run(701);
         ValidAnagram.Run("listen", "silent");
         WordPattern.Run("aaa", "aa aa aa aa");
+        RansomNote.Run("aa", "aab");
     }
 }

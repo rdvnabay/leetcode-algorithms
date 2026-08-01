@@ -1,4 +1,6 @@
-﻿namespace Algorithms.Tree.Easy.Solutions;
+﻿using Algorithms.Common;
+
+namespace Algorithms.Tree.Easy.Solutions;
 
 public class ConvertSortedArrayToBinarySearchTree
 {
@@ -53,18 +55,3 @@ public class ConvertSortedArrayToBinarySearchTree
         return null;
     }
 }
-
-//Definition for a binary tree node.
-public class TreeNode
-{
-    public int val;
-    public TreeNode left;
-    public TreeNode right;
-    public TreeNode(int val = 0, TreeNode left = null, TreeNode right = null)
-    {
-        this.val = val;
-        this.left = left;
-        this.right = right;
-    }
-}
-

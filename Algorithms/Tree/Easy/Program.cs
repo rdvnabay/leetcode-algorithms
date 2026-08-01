@@ -1,4 +1,5 @@
-﻿using Algorithms.Tree.Easy.Solutions;
+﻿using Algorithms.Common;
+using Algorithms.Tree.Easy.Solutions;
 
 namespace Algorithms.Tree.Easy;
 
@@ -6,7 +7,8 @@ public static class TreeEasyRunner
 {
     public static void Run()
     {
-        // 108: Convert Sorted Array to Binary Search Tree
         ConvertSortedArrayToBinarySearchTree.Run(new int[] { -10, -3, 0, 5, 9 });
+        //BinaryTreePaths.Run(
+        //    new TreeNode(1, left: new TreeNode(2, right: new TreeNode(5)), right: new TreeNode(3)));
     }
 }
