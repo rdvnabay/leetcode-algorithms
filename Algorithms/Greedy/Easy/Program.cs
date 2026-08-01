@@ -1,4 +1,3 @@
-﻿using Algorithms.Greedy.Easy.Solutions;
 
 namespace Algorithms.Greedy.Easy;
 

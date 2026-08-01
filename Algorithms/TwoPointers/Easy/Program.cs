@@ -1,4 +1,3 @@
-﻿using Algorithms.TwoPointers.Easy.Solutions;
 
 namespace Algorithms.TwoPointers.Easy;
 

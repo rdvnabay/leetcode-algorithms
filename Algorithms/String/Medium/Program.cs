@@ -1,4 +1,3 @@
-﻿using Algorithms.String.Medium.Solutions;
 
 namespace Algorithms.String.Medium;
 

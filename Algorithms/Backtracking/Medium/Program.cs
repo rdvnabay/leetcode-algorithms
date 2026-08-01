@@ -1,4 +1,3 @@
-﻿using Algorithms.Backtracking.Medium.Solutions;
 
 namespace Algorithms.Backtracking.Medium;
 

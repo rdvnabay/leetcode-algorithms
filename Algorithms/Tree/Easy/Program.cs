@@ -1,5 +1,4 @@
-﻿using Algorithms.Common;
-using Algorithms.Tree.Easy.Solutions;
+using Algorithms.Common;
 
 namespace Algorithms.Tree.Easy;
 

@@ -1,4 +1,3 @@
-﻿using Algorithms.BitManipulation.Easy.Solutions;
 
 namespace Algorithms.BitManipulation.Easy;
 

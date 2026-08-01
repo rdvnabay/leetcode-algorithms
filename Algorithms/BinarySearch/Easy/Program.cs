@@ -1,5 +1,4 @@
-using Algorithms.BinarySearch.Easy.Solutions;
-using BinarySearchSolution = Algorithms.BinarySearch.Easy.Solutions.BinarySearch;
+using BinarySearchSolution = Algorithms.BinarySearch.Easy.BinarySearch;
 
 namespace Algorithms.BinarySearch.Easy;
 

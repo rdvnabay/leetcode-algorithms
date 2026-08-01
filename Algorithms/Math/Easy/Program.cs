@@ -1,4 +1,3 @@
-﻿using Algorithms.Math.Easy.Solutions;
 
 namespace Algorithms.Math.Easy;
 
