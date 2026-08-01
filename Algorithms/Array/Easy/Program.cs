@@ -1,4 +1,6 @@
 
+using Array.Easy;
+
 namespace Algorithms.Array.Easy;
 
 public static class ArrayEasyRunner
@@ -48,5 +50,7 @@ public static class ArrayEasyRunner
         NRepeatedElementInSize2NArray.Run(new int[] { 1, 2, 3, 3 });
         SquaresOfASortedArray.Run(new int[] { -4, -2, 0, 3, 5 });
         AddToArrayFormOfInteger.Run(new int[] { 1, 2, 0, 0 }, 34);
+        MaximizeSumOfArrayAfterKNegations.Run(new int[] { 5, 6, 9, -3, 3 }, 2);
+        HeightChecker.Run(new int[] { 1, 1, 4, 2, 1, 3 });
     }
 }
