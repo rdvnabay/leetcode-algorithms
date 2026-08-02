@@ -53,5 +53,7 @@ public static class ArrayEasyRunner
         MaximizeSumOfArrayAfterKNegations.Run(new int[] { 5, 6, 9, -3, 3 }, 2);
         HeightChecker.Run(new int[] { 1, 1, 4, 2, 1, 3 });
         FlippingAnImage.Run(new int[][] { [1, 1, 0], [1, 0, 1], [0, 0, 0] });
+        SortArrayByParityII.Run(new int[] { 4, 2, 5, 7 });
+        DuplicateZeros.Run(new int[] { 1, 0, 2, 3, 0, 4, 5, 0 });
     }
 }
