@@ -1,4 +1,6 @@
 
+using Math.Easy;
+
 namespace Algorithms.Math.Easy;
 
 public static class MathEasyRunner
@@ -20,5 +22,6 @@ public static class MathEasyRunner
         ArrangingCoins.Run(5);
         Base7.Run(-7);
         PerfectNumber.Run(7);
+        DayOfTheYear.Run("2016-02-09");
     }
 }
