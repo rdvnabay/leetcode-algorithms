@@ -56,5 +56,6 @@ public static class ArrayEasyRunner
         SortArrayByParityII.Run(new int[] { 4, 2, 5, 7 });
         DuplicateZeros.Run(new int[] { 1, 0, 2, 3, 0, 4, 5, 0 });
         RelativeSortArray.Run(new int[] { 33, 22, 48, 4, 39, 36, 41, 47, 15, 45 }, new int[] { 22, 33, 48, 4 });
+        UniqueNumberOfOccurrences.Run(new int[] { -3, 0, 1, -3, 1, 1, 1, -3, 10, 0 });
     }
 }

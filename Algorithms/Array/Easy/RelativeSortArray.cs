@@ -1,6 +1,5 @@
 ﻿namespace Array.Easy;
 
-//RelativeSortArray.Run(new int[] { 2, 3, 1, 3, 2, 4, 6, 7, 9, 2, 19 }, new int[] { 2, 1, 4, 3, 9, 6 });
 public static class RelativeSortArray
 {
     public static int[] Run(int[] arr1, int[] arr2)
@@ -35,6 +34,7 @@ public static class RelativeSortArray
             }
             counter++;
         }
+      
         return arr1;
     }
 }

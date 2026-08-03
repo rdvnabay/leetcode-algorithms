@@ -28,5 +28,9 @@ public static class StringEasyRunner
         RansomNote.Run("aa", "aab");
         NumberOfSegmentsInAString.Run("Hello, my name is John");
         LicenseKeyFormatting.Run("--a-a-a-a--", 2);
+        ValidPalindromeII.Run("abca");
+        RotateString.Run("abcde", "cdeab");
+        BuddyStrings.Run("ab", "ab");
+        GreatestCommonDivisorOfStrings.Run("AAAAAB", "AAA");
     }
 }
