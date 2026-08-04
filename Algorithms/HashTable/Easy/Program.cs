@@ -1,4 +1,6 @@
 
+using HashTable.Easy;
+
 namespace Algorithms.HashTable.Easy;
 
 public static class HashTableEasyRunner
@@ -16,5 +18,6 @@ public static class HashTableEasyRunner
         FirstUniqueCharacterInAString.Run("loveleetcode");
         FindTheDifference.Run("aab", "aabb");
         LongestPalindrome.Run("ccc");
+        VerifyingAnAlienDictionary.Run(new string[] { "hello","leetcode" }, "hlabcdefgijkmnopqrstuvwxyz");
     }
 }
