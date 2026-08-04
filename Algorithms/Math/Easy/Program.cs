@@ -24,5 +24,6 @@ public static class MathEasyRunner
         PerfectNumber.Run(7);
         DayOfTheYear.Run("2016-02-09");
         CellsWithOddValuesInAMatrix.Run(2, 3, new int[][] { [0, 1], [1, 1] });
+        SubtractTheProductAndSumOfDigitsOfAnInteger.Run(4421);
     }
 }
