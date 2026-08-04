@@ -23,5 +23,6 @@ public static class MathEasyRunner
         Base7.Run(-7);
         PerfectNumber.Run(7);
         DayOfTheYear.Run("2016-02-09");
+        CellsWithOddValuesInAMatrix.Run(2, 3, new int[][] { [0, 1], [1, 1] });
     }
 }
