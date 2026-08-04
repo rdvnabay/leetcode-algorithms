@@ -25,5 +25,6 @@ public static class MathEasyRunner
         DayOfTheYear.Run("2016-02-09");
         CellsWithOddValuesInAMatrix.Run(2, 3, new int[][] { [0, 1], [1, 1] });
         SubtractTheProductAndSumOfDigitsOfAnInteger.Run(4421);
+        FindNumbersWithEvenNumberOfDigits.Run(new int[] { 12, 345, 2, 6, 7896 });
     }
 }
