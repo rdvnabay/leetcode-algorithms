@@ -18,6 +18,8 @@ public static class HashTableEasyRunner
         FirstUniqueCharacterInAString.Run("loveleetcode");
         FindTheDifference.Run("aab", "aabb");
         LongestPalindrome.Run("ccc");
-        VerifyingAnAlienDictionary.Run(new string[] { "hello","leetcode" }, "hlabcdefgijkmnopqrstuvwxyz");
+        VerifyingAnAlienDictionary.Run(new string[] { "hello", "leetcode" }, "hlabcdefgijkmnopqrstuvwxyz");
+        RankTransformOfAnArray.Run(new int[] { 37, 12, 28, 9, 100, 56, 80, 5, 12 });
+        CheckIfNAndItsDoubleExist.Run(new int[] { 10, 2, 5, 3 });
     }
 }
