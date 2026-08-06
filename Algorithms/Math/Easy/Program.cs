@@ -29,5 +29,6 @@ public static class MathEasyRunner
         FindNUniqueIntegersSumUpToZero.Run(6);
         NumberOfGoodPairs.Run(new int[] { 1,2,3 });
         XOROperationInAnArray.Run(4, 3);
+        CountLargestGroup.Run(13);
     }
 }
