@@ -26,5 +26,7 @@ public static class MathEasyRunner
         CellsWithOddValuesInAMatrix.Run(2, 3, new int[][] { [0, 1], [1, 1] });
         SubtractTheProductAndSumOfDigitsOfAnInteger.Run(4421);
         FindNumbersWithEvenNumberOfDigits.Run(new int[] { 12, 345, 2, 6, 7896 });
+        FindNUniqueIntegersSumUpToZero.Run(6);
+        NumberOfGoodPairs.Run(new int[] { 1,2,3 });
     }
 }
