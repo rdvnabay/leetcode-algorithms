@@ -31,5 +31,6 @@ public static class MathEasyRunner
         XOROperationInAnArray.Run(4, 3);
         CountLargestGroup.Run(13);
         NumberOfStepsToReduceANumberToZero.Run(14);
+        Maximum69Number.Run(9669);
     }
 }
