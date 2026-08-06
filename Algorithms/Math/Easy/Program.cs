@@ -28,5 +28,6 @@ public static class MathEasyRunner
         FindNumbersWithEvenNumberOfDigits.Run(new int[] { 12, 345, 2, 6, 7896 });
         FindNUniqueIntegersSumUpToZero.Run(6);
         NumberOfGoodPairs.Run(new int[] { 1,2,3 });
+        XOROperationInAnArray.Run(4, 3);
     }
 }
