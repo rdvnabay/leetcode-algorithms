@@ -30,5 +30,6 @@ public static class MathEasyRunner
         NumberOfGoodPairs.Run(new int[] { 1,2,3 });
         XOROperationInAnArray.Run(4, 3);
         CountLargestGroup.Run(13);
+        NumberOfStepsToReduceANumberToZero.Run(14);
     }
 }
