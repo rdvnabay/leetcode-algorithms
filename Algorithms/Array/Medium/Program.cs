@@ -14,5 +14,6 @@ public static class ArrayMediumRunner
         SortColors.Run(new int[] { 2, 0, 2, 1, 1, 0 });
         SetMatrixZeroes.Run(new int[][] { [1, 1, 1], [1, 0, 0], [1, 1, 1] });
         Subsets.Run(new int[] { 1, 2, 3 });
+        ProductOfArrayExceptSelf.Run(new int[] { 1,2,3,4});
     }
 }
