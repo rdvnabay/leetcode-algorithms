@@ -32,5 +32,6 @@ public static class StringEasyRunner
         RotateString.Run("abcde", "cdeab");
         BuddyStrings.Run("ab", "ab");
         GreatestCommonDivisorOfStrings.Run("AAAAAB", "AAA");
+        DecryptStringFromAlphabetToIntegerMapping.Run("12");
     }
 }

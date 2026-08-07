@@ -32,5 +32,7 @@ public static class MathEasyRunner
         CountLargestGroup.Run(13);
         NumberOfStepsToReduceANumberToZero.Run(14);
         Maximum69Number.Run(9669);
+        FibonacciNumber.Run(4);
+        CountOfMatchesInTournament.Run(7);
     }
 }
