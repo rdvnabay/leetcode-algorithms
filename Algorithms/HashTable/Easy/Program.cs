@@ -23,5 +23,8 @@ public static class HashTableEasyRunner
         CheckIfNAndItsDoubleExist.Run(new int[] { 10, 2, 5, 3 });
         HowManyNumbersAreSmallerThanTheCurrentNumber.Run(new int[] { 8, 1, 2, 2, 3 });
         UniqueNumberOfOccurrences.Run(new int[] { 1, 2, 2, 1, 1, 3, 3 });
+        FindWordsThatCanBeFormedByCharacters.Run(new string[] { "cat", "bt", "hat", "tree" }, "atach");
+        FairCandySwap.Run(new int[] { 1, 2, 5 }, new int[] { 2, 4 });
+        UncommonWordsFromTwoSentences.Run("this apple is sweet", "this apple is sour");
     }
 }
