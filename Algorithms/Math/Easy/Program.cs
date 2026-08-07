@@ -27,12 +27,14 @@ public static class MathEasyRunner
         SubtractTheProductAndSumOfDigitsOfAnInteger.Run(4421);
         FindNumbersWithEvenNumberOfDigits.Run(new int[] { 12, 345, 2, 6, 7896 });
         FindNUniqueIntegersSumUpToZero.Run(6);
-        NumberOfGoodPairs.Run(new int[] { 1,2,3 });
+        NumberOfGoodPairs.Run(new int[] { 1, 2, 3 });
         XOROperationInAnArray.Run(4, 3);
         CountLargestGroup.Run(13);
         NumberOfStepsToReduceANumberToZero.Run(14);
         Maximum69Number.Run(9669);
         FibonacciNumber.Run(4);
         CountOfMatchesInTournament.Run(7);
+        AddTwoIntegers.Run(12, 5);
+        CountOperationsToObtainZero.Run(2,3);
     }
 }
