@@ -37,5 +37,6 @@ public static class MathEasyRunner
         AddTwoIntegers.Run(12, 5);
         CountOperationsToObtainZero.Run(2,3);
         MinimumSumOfFourDigitNumberAfterSplittingDigits.Run(2932);
+        ANumberAfterADoubleReversal.Run(1800);
     }
 }
