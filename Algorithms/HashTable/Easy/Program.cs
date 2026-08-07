@@ -22,5 +22,6 @@ public static class HashTableEasyRunner
         RankTransformOfAnArray.Run(new int[] { 37, 12, 28, 9, 100, 56, 80, 5, 12 });
         CheckIfNAndItsDoubleExist.Run(new int[] { 10, 2, 5, 3 });
         HowManyNumbersAreSmallerThanTheCurrentNumber.Run(new int[] { 8, 1, 2, 2, 3 });
+        UniqueNumberOfOccurrences.Run(new int[] { 1, 2, 2, 1, 1, 3, 3 });
     }
 }
