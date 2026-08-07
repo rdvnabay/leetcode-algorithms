@@ -36,5 +36,6 @@ public static class MathEasyRunner
         CountOfMatchesInTournament.Run(7);
         AddTwoIntegers.Run(12, 5);
         CountOperationsToObtainZero.Run(2,3);
+        MinimumSumOfFourDigitNumberAfterSplittingDigits.Run(2932);
     }
 }
