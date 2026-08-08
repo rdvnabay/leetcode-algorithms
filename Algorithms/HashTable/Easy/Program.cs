@@ -27,5 +27,6 @@ public static class HashTableEasyRunner
         FairCandySwap.Run(new int[] { 1, 2, 5 }, new int[] { 2, 4 });
         UncommonWordsFromTwoSentences.Run("this apple is sweet", "this apple is sour");
         SortArrayByIncreasingFrequency.Run(new int[] { 2, 3, 1, 3, 2 });
+        SumOfUniqueElements.Run(new int[] { 1, 2, 3, 2 });
     }
 }
