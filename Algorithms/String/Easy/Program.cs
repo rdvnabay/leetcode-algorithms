@@ -35,5 +35,6 @@ public static class StringEasyRunner
         DecryptStringFromAlphabetToIntegerMapping.Run("12");
         ReverseWordsInAStringIII.Run("Let's take LeetCode contest");
         ReverseOnlyLetters.Run("Test1ng-Leet=code-Q!");
+        GenerateAStringWithCharactersThatHaveOddCounts.Run(4);
     }
 }
