@@ -1,4 +1,4 @@
-﻿namespace String.Easy;
+namespace Algorithms.String.Easy;
 
 public static class RotateString
 {

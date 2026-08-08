@@ -1,6 +1,6 @@
-﻿using Algorithms.Common;
+using Algorithms.Common;
 
-namespace Tree.Easy;
+namespace Algorithms.Tree.Easy;
 
 public static class SameTree
 {

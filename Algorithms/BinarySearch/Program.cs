@@ -1,4 +1,11 @@
 using Algorithms.BinarySearch.Easy;
+using BinarySearchSolution = Algorithms.BinarySearch.Easy.BinarySearch;
 
-Console.WriteLine("=== Binary Search Algorithms ===");
-BinarySearchEasyRunner.Run();
+Console.WriteLine("=== BinarySearch Algorithms ===");
+
+// --- Easy ------------------------------------------------------------
+// BinarySearch.Run(...);
+BinarySearchSolution.Run(new int[] { -1, 0, 3, 5, 9, 12 }, 9);
+FindSmallestLetterGreaterThanTarget.Run(new char[] { 'c', 'f', 'j' }, 'c');
+// SearchInsertPosition.Run(...);
+

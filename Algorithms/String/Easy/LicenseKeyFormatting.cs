@@ -1,6 +1,6 @@
-﻿using System.Text;
+using System.Text;
 
-namespace String.Easy;
+namespace Algorithms.String.Easy;
 
 public static class LicenseKeyFormatting
 {

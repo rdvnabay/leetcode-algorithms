@@ -1,4 +1,4 @@
-﻿namespace Array.Easy;
+namespace Algorithms.Array.Easy;
 
 public static class MaximizeSumOfArrayAfterKNegations
 {

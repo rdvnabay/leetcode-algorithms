@@ -1,4 +1,10 @@
 using Algorithms.Stack.Easy;
 
 Console.WriteLine("=== Stack Algorithms ===");
-StackEasyRunner.Run();
+
+// --- Easy ------------------------------------------------------------
+BaseballGame.Run(new string[] { "5", "2", "C", "D", "+" });
+// ImplementStackUsingQueues.Run(...);
+// NextGreaterElementI.Run(...);
+ValidParentheses.Run("(){}}{ ");
+

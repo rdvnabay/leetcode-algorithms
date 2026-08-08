@@ -1,4 +1,7 @@
 using Algorithms.Backtracking.Medium;
 
 Console.WriteLine("=== Backtracking Algorithms ===");
-BacktrackingMediumRunner.Run();
+
+// --- Medium ------------------------------------------------------------
+LetterCombinationsOfAPhoneNumber.Run("23");
+

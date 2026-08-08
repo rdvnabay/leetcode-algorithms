@@ -1,6 +1,6 @@
-﻿using System.Text;
+using System.Text;
 
-namespace Math.Easy;
+namespace Algorithms.Math.Easy;
 
 public static class Maximum69Number
 {

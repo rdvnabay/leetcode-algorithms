@@ -1,6 +1,6 @@
-﻿using System.Net.Http.Headers;
+using System.Net.Http.Headers;
 
-namespace String.Easy;
+namespace Algorithms.String.Easy;
 
 public static class ReverseVowelsOfAString
 {

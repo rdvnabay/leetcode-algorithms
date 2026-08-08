@@ -1,7 +1,7 @@
-﻿using System.Reflection.Emit;
+using System.Reflection.Emit;
 using System.Text;
 
-namespace String.Easy;
+namespace Algorithms.String.Easy;
 
 public static class ReverseWordsInAStringIII
 {

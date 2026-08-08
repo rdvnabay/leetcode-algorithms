@@ -1,6 +1,6 @@
-﻿using System.Data;
+using System.Data;
 
-namespace Math.Easy;
+namespace Algorithms.Math.Easy;
 
 public static class CellsWithOddValuesInAMatrix
 {

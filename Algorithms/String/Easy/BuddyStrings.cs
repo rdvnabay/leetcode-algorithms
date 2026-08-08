@@ -1,6 +1,6 @@
-﻿using System.Collections;
+using System.Collections;
 
-namespace String.Easy;
+namespace Algorithms.String.Easy;
 
 public static class BuddyStrings
 {

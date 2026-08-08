@@ -1,4 +1,4 @@
-﻿namespace Array.Medium;
+namespace Algorithms.Array.Medium;
 
 public static class ValidSudoku
 {

@@ -1,10 +1,10 @@
-ï»¿using System.Text;
+using System.Text;
 
-namespace Math.Easy;
+namespace Algorithms.Math.Easy;
 
 public static class ConvertANumberToHexadecimal
 {
-    //num negatif sayÄ± gelme durumu ele alÄ±nacak!
+    //num negatif sayý gelme durumu ele alýnacak!
     public static string Run(int num)
     {
         StringBuilder sb = new();

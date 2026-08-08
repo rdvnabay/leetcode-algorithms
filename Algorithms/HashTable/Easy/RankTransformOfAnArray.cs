@@ -1,4 +1,4 @@
-﻿namespace HashTable.Easy;
+namespace Algorithms.HashTable.Easy;
 
 public static class RankTransformOfAnArray
 {

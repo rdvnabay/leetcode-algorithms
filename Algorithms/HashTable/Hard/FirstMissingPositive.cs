@@ -1,4 +1,4 @@
-﻿namespace HashTable.Hard;
+namespace Algorithms.HashTable.Hard;
 
 public static class FirstMissingPositive
 {

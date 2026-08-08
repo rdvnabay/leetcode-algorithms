@@ -1,4 +1,4 @@
-ï»¿namespace Array.Easy;
+namespace Algorithms.Array.Easy;
 
 public static class SortArrayByParityII
 {
@@ -20,13 +20,13 @@ public static class SortArrayByParityII
                 {
 
                 }
-                //index Ã§ift, sayÄ± tek
+                //index çift, sayý tek
             }
             else if (i % 2 == 1 && nums[i] % 2 == 0)
             {
                 list.Add(i);
                 isOddIndex = true;
-                //index tek, sayÄ± Ã§ift
+                //index tek, sayý çift
 
             }
         }

@@ -1,4 +1,7 @@
 using Algorithms.BitManipulation.Easy;
 
-Console.WriteLine("=== Bit Manipulation Algorithms ===");
-BitManipulationEasyRunner.Run();
+Console.WriteLine("=== BitManipulation Algorithms ===");
+
+// --- Easy ------------------------------------------------------------
+NumberOf1Bits.Run(1);
+

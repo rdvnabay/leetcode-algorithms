@@ -1,4 +1,4 @@
-﻿namespace Sorting.Easy;
+namespace Algorithms.Sorting.Easy;
 
 public static class TheKWeakestRowsInAMatrix
 {

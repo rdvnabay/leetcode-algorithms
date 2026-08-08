@@ -1,4 +1,4 @@
-﻿namespace Math.Easy;
+namespace Algorithms.Math.Easy;
 
 public static class SubtractTheProductAndSumOfDigitsOfAnInteger
 {

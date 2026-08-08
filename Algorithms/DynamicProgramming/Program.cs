@@ -1,4 +1,10 @@
 using Algorithms.DynamicProgramming.Easy;
 
-Console.WriteLine("=== Dynamic Programming Algorithms ===");
-DynamicProgrammingEasyRunner.Run();
+Console.WriteLine("=== DynamicProgramming Algorithms ===");
+
+// --- Easy ------------------------------------------------------------
+BestTimeToBuyAndSellStock.Run(new int[] { 3, 2, 6, 5, 0, 3 });
+ClimbingStairs.Run(4);
+MinCostClimbingStairs.Run(new int[] { 1, 100, 1, 1, 1, 100, 1, 1, 100, 1 });
+// PascalsTriangleII.Run(...);
+

@@ -1,7 +1,7 @@
-ï»¿using System.Text;
+using System.Text;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace Math.Easy;
+namespace Algorithms.Math.Easy;
 
 public static class MaximumDifferenceByRemappingADigit
 {
@@ -38,7 +38,7 @@ public static class MaximumDifferenceByRemappingADigit
         return (int)maxValue;
     }
 
-    //current deÄŸeri iÃ§in mantÄ±ksal hata giderilecek!
+    //current deðeri için mantýksal hata giderilecek!
     static int GetMinValue(int num)
     {
         string numStr = num.ToString();
