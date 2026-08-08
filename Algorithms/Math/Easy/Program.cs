@@ -41,5 +41,6 @@ public static class MathEasyRunner
         FindGreatestCommonDivisorOfArray.Run(new int[] { 3,3 });
         ConvertANumberToHexadecimal.Run(-1);
         FindThePivotInteger.Run(4);
+        ConvertTheTemperature.Run(36.50);
     }
 }
