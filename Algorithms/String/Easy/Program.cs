@@ -34,5 +34,6 @@ public static class StringEasyRunner
         GreatestCommonDivisorOfStrings.Run("AAAAAB", "AAA");
         DecryptStringFromAlphabetToIntegerMapping.Run("12");
         ReverseWordsInAStringIII.Run("Let's take LeetCode contest");
+        ReverseOnlyLetters.Run("Test1ng-Leet=code-Q!");
     }
 }
