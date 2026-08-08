@@ -36,5 +36,6 @@ public static class StringEasyRunner
         ReverseWordsInAStringIII.Run("Let's take LeetCode contest");
         ReverseOnlyLetters.Run("Test1ng-Leet=code-Q!");
         GenerateAStringWithCharactersThatHaveOddCounts.Run(4);
+        ShuffleString.Run("codeleet", new int[] { 4, 5, 6, 7, 0, 2, 1, 3 });
     }
 }
