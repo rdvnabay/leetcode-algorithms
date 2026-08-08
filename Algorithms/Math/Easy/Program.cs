@@ -35,12 +35,13 @@ public static class MathEasyRunner
         FibonacciNumber.Run(4);
         CountOfMatchesInTournament.Run(7);
         AddTwoIntegers.Run(12, 5);
-        CountOperationsToObtainZero.Run(2,3);
+        CountOperationsToObtainZero.Run(2, 3);
         MinimumSumOfFourDigitNumberAfterSplittingDigits.Run(2932);
         ANumberAfterADoubleReversal.Run(1800);
-        FindGreatestCommonDivisorOfArray.Run(new int[] { 3,3 });
+        FindGreatestCommonDivisorOfArray.Run(new int[] { 3, 3 });
         ConvertANumberToHexadecimal.Run(-1);
         FindThePivotInteger.Run(4);
         ConvertTheTemperature.Run(36.50);
+        DifferenceBetweenElementSumAndDigitSumOfAnArray.Run(new int[] { 1, 2, 3, 4 });
     }
 }
