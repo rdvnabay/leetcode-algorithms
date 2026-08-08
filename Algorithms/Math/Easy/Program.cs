@@ -39,5 +39,7 @@ public static class MathEasyRunner
         MinimumSumOfFourDigitNumberAfterSplittingDigits.Run(2932);
         ANumberAfterADoubleReversal.Run(1800);
         FindGreatestCommonDivisorOfArray.Run(new int[] { 3,3 });
+        ConvertANumberToHexadecimal.Run(-1);
+        FindThePivotInteger.Run(4);
     }
 }
