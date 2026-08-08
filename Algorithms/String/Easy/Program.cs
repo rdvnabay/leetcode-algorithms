@@ -37,5 +37,6 @@ public static class StringEasyRunner
         ReverseOnlyLetters.Run("Test1ng-Leet=code-Q!");
         GenerateAStringWithCharactersThatHaveOddCounts.Run(4);
         ShuffleString.Run("codeleet", new int[] { 4, 5, 6, 7, 0, 2, 1, 3 });
+        CrawlerLogFolder.Run(new string[] { "d1/", "d2/", "../", "d21/", "./" });
     }
 }
