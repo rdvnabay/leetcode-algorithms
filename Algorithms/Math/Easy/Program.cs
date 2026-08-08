@@ -45,5 +45,6 @@ public static class MathEasyRunner
         DifferenceBetweenElementSumAndDigitSumOfAnArray.Run(new int[] { 1, 2, 3, 4 });
         MaximumDifferenceByRemappingADigit.Run(11891);
         SmallestEvenMultiple.Run(5);
+        SplitWithMinimumSum.Run(687);
     }
 }
