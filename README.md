@@ -1,4 +1,4 @@
-﻿# LeetCode Algorithms
+# LeetCode Algorithms
 
 A structured, modular collection of **LeetCode** solutions written in C# (.NET 8), organized by **Topic** and **Difficulty**.
 
@@ -8,19 +8,19 @@ A structured, modular collection of **LeetCode** solutions written in C# (.NET 8
 
 Each algorithm topic is structured as an independent Console Application referencing a shared `Common` class library (`ListNode`, `TreeNode`):
 
-```text
+```
 Algorithms/
-â”œâ”€â”€ Common/                 (Shared data structures: ListNode, TreeNode)
-â”œâ”€â”€ Array/
-â”‚   â”œâ”€â”€ Easy/               (Solution implementations)
-â”‚   â”œâ”€â”€ Medium/
-â”‚   â”œâ”€â”€ Hard/
-â”‚   â”œâ”€â”€ Program.cs          (Main runner: Easy -> Medium -> Hard, A-Z)
-â”‚   â”œâ”€â”€ Array.csproj        (Topic Console App)
-â”‚   â””â”€â”€ README.md           (Topic Problem Index)
-â”œâ”€â”€ BinarySearch/
-â”œâ”€â”€ HashTable/
-â””â”€â”€ ... (14 Topic Projects)
++-- Common/                 (Shared data structures: ListNode, TreeNode)
++-- Array/
+|   +-- Easy/               (Solution implementations)
+|   +-- Medium/
+|   +-- Hard/
+|   +-- Program.cs          (Main runner: Easy -> Medium -> Hard, A-Z)
+|   +-- Array.csproj        (Topic Console App)
+|   +-- README.md           (Topic Problem Index)
++-- BinarySearch/
++-- HashTable/
++-- ... (14 Topic Projects)
 ```
 
 ---
@@ -60,13 +60,13 @@ Algorithms/
 
 ## How to Run Solutions
 
-You can build the entire solution using Visual Studio or the .NET CLI:
+Build the entire solution:
 
 ```bash
 dotnet build LeetCode.sln
 ```
 
-To run the console application for a specific topic:
+Run a specific topic:
 
 ```bash
 dotnet run --project Algorithms/Array/Array.csproj
@@ -79,4 +79,4 @@ dotnet run --project Algorithms/HashTable/HashTable.csproj
 
 - Solution files are organized under `Algorithms/<Topic>/<Difficulty>/<ProblemName>.cs`.
 - Namespaces follow `Algorithms.<Topic>.<Difficulty>`.
-- Top-level `Program.cs` in each topic runs solutions ordered by difficulty (`Easy` -> `Medium` -> `Hard`) and then alphabetically (`A-Z`).
+- `Program.cs` in each topic runs solutions ordered by difficulty (`Easy` -> `Medium` -> `Hard`) and then alphabetically (`A-Z`).

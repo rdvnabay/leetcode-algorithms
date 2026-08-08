@@ -1,7 +1,5 @@
-using Algorithms.TwoPointers.Easy;
+﻿using Algorithms.TwoPointers.Easy;
 
 Console.WriteLine("=== TwoPointers Algorithms ===");
 
 // --- Easy ------------------------------------------------------------
-// IsSubsequence.Run(...);
-
