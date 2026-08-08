@@ -43,5 +43,7 @@ public static class MathEasyRunner
         FindThePivotInteger.Run(4);
         ConvertTheTemperature.Run(36.50);
         DifferenceBetweenElementSumAndDigitSumOfAnArray.Run(new int[] { 1, 2, 3, 4 });
+        MaximumDifferenceByRemappingADigit.Run(11891);
+        SmallestEvenMultiple.Run(5);
     }
 }
