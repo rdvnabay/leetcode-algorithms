@@ -27,9 +27,11 @@ Algorithms/
 
 ## Statistics
 
+> The counts below represent solution files, not verified accepted solutions. See [AUDIT.md](AUDIT.md) for reviewed statuses.
+
 | Metric | Count |
 |--------|-------|
-| Total Solutions | **181** |
+| Solution Files | **181** |
 | Easy | **165** |
 | Medium | **15** |
 | Hard | **1** |
@@ -58,6 +60,37 @@ Algorithms/
 
 ---
 
+## Audit Status Model
+
+A solution file is not considered solved only because the `.cs` file exists. Reviewed implementations are classified with these statuses:
+
+- `Solved` — implementation satisfies the problem requirements for the reviewed cases and constraints.
+- `Incomplete` — implementation is unfinished or returns a placeholder result.
+- `Incorrect` — implementation can produce an incorrect result or has broken control flow.
+- `Constraint Violation` — output may be correct, but the implementation violates an explicit LeetCode requirement.
+- `Needs Optimization` — implementation is functionally valid but has a clearly better time or auxiliary-space approach worth documenting.
+
+The current verified findings are tracked in [AUDIT.md](AUDIT.md).
+
+---
+
+## Topic Classification Policy
+
+Physical solution files use one canonical topic location:
+
+```
+Algorithms/<PrimaryTopic>/<Difficulty>/<ProblemName>.cs
+```
+
+When LeetCode assigns multiple topics to the same problem:
+
+1. The topic selected when the problem was discovered/filtered is treated as the **Primary Topic**.
+2. The solution should have one canonical physical location.
+3. Additional LeetCode topics should be documented as **Secondary Topics** rather than duplicating the same solution file across multiple topic directories.
+4. Alternative implementations are allowed when intentionally documented as alternative solutions rather than accidental duplicates.
+
+---
+
 ## How to Run Solutions
 
 Build the entire solution:
@@ -80,3 +113,4 @@ dotnet run --project Algorithms/HashTable/HashTable.csproj
 - Solution files are organized under `Algorithms/<Topic>/<Difficulty>/<ProblemName>.cs`.
 - Namespaces follow `Algorithms.<Topic>.<Difficulty>`.
 - `Program.cs` in each topic runs solutions ordered by difficulty (`Easy` -> `Medium` -> `Hard`) and then alphabetically (`A-Z`).
+- Audit findings must be based on implementation review; unreviewed files must not automatically be classified as `Solved`.
