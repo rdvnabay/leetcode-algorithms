@@ -9,6 +9,7 @@ _1BitAnd2BitCharacters.Run(new int[] { 1, 1, 1, 0 });
 ArrayPartition.Run(new int[] { 1, 4, 3, 2 });
 CanPlaceFlowers.Run(new int[] { 0 }, 1);
 ContainsDuplicate.Run(new int[] { 1, 2, 3, 1 });
+DecompressRunLengthEncodedList.Solution2(new int[] { 1, 2, 3, 4 });
 DegreeOfAnArray.Run(new int[] { 1, 2, 2, 3, 1 });
 DeleteColumnsToMakeSorted.Run(new string[] { "cba", "daf", "ghi" });
 DuplicateZeros.Run(new int[] { 1, 0, 2, 3, 0, 4, 5, 0 });
