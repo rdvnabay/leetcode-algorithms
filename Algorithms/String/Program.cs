@@ -1,5 +1,6 @@
 ﻿using Algorithms.String.Easy;
 using Algorithms.String.Medium;
+using String.Easy;
 
 Console.WriteLine("=== String Algorithms ===");
 
@@ -8,7 +9,6 @@ BuddyStrings.Run("ab", "ab");
 CrawlerLogFolder.Run(new string[] { "d1/", "d2/", "../", "d21/", "./" });
 DetectCapital.Run("FlaG");
 ExcelSheetColumnTitle.Run(701);
-FindTheDifference.Run("abcd", "abcde");
 FizzBuzz.Run(15);
 GenerateAStringWithCharactersThatHaveOddCounts.Run(4);
 GreatestCommonDivisorOfStrings.Run("AAAAAB", "AAA");
@@ -24,6 +24,7 @@ ReverseVowelsOfAString.Run("a.");
 RobotReturnToOrigin.Run("UDLR");
 RotateString.Run("abcde", "cdeab");
 ShuffleString.Run("codeleet", new int[] { 4, 5, 6, 7, 0, 2, 1, 3 });
+StudentAttendanceRecordI.Run("PPALLL");
 ToLowerCase.Run("Hello");
 ValidAnagram.Run("listen", "silent");
 ValidPalindrome.Run("A man, a plan, a canal: Panama");
