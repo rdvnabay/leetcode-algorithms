@@ -1,5 +1,6 @@
 ﻿using Algorithms.Array.Easy;
 using Algorithms.Array.Medium;
+using Array.Easy;
 
 Console.WriteLine("=== Array Algorithms ===");
 
@@ -11,6 +12,7 @@ ContainsDuplicate.Run(new int[] { 1, 2, 3, 1 });
 DegreeOfAnArray.Run(new int[] { 1, 2, 2, 3, 1 });
 DeleteColumnsToMakeSorted.Run(new string[] { "cba", "daf", "ghi" });
 DuplicateZeros.Run(new int[] { 1, 0, 2, 3, 0, 4, 5, 0 });
+FindNUniqueIntegersSumUpToZero.Run(6);
 FloodFill.Run(new int[][] { [1, 1, 1], [1, 1, 0], [1, 0, 1] }, 1, 1, 2);
 HeightChecker.Run(new int[] { 1, 1, 4, 2, 1, 3 });
 KidsWithTheGreatestNumberOfCandies.Run(new int[] { 2, 3, 5, 1, 3 }, 3);
