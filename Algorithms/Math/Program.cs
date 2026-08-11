@@ -1,5 +1,7 @@
 ﻿using Algorithms.Math.Easy;
 using Algorithms.Math.Medium;
+using Math.Easy;
+using Math.Medium;
 
 Console.WriteLine("=== Math Algorithms ===");
 
@@ -35,5 +37,7 @@ SplitWithMinimumSum.Run(687);
 TheTwoSneakyNumbersOfDigitville.Run(new int[] { 0, 3, 2, 1, 3, 2 });
 UglyNumber.Run(30);
 ValidPerfectSquare.Run(400);
+AlternatingDigitSum.Run(886996);
 
 // --- Medium ------------------------------------------------------------
+BulbSwitcher.Run(5);
