@@ -8,9 +8,11 @@ Console.WriteLine("=== Math Algorithms ===");
 // --- Easy ------------------------------------------------------------
 AddDigits.Run(3);
 AddStrings.Run("11", "123");
+AlternatingDigitSum.Run(886996);
 ANumberAfterADoubleReversal.Run(1800);
 ArrangingCoins.Run(5);
 Base7.Run(-7);
+CalculateMoneyInLeetcodeBank.Run(10);
 ConvertANumberToHexadecimal.Run(-1);
 ConvertTheTemperature.Run(36.50);
 CountLargestGroup.Run(13);
@@ -28,6 +30,7 @@ MissingNumber.Run(new int[] { 0, 1, 3 });
 NumberOfGoodPairs.Run(new int[] { 1, 2, 3 });
 NumberOfStepsToReduceANumberToZero.Run(14);
 PalindromeNumber.Run(123);
+PassThePillow.Run(3,2);
 PerfectNumber.Run(7);
 PowerOfFour.Run(0);
 PowerOfTwo.Run(-16);
@@ -37,7 +40,7 @@ SplitWithMinimumSum.Run(687);
 TheTwoSneakyNumbersOfDigitville.Run(new int[] { 0, 3, 2, 1, 3, 2 });
 UglyNumber.Run(30);
 ValidPerfectSquare.Run(400);
-AlternatingDigitSum.Run(886996);
+
 
 // --- Medium ------------------------------------------------------------
 BulbSwitcher.Run(5);
