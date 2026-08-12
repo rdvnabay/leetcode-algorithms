@@ -40,6 +40,7 @@ SplitWithMinimumSum.Run(687);
 TheTwoSneakyNumbersOfDigitville.Run(new int[] { 0, 3, 2, 1, 3, 2 });
 UglyNumber.Run(30);
 ValidPerfectSquare.Run(400);
+SumOfDigitsInBaseK.Run(10,10);
 
 
 // --- Medium ------------------------------------------------------------
