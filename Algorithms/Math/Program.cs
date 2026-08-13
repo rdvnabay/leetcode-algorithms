@@ -43,6 +43,8 @@ ValidPerfectSquare.Run(400);
 SumOfDigitsInBaseK.Run(10,10);
 LargestOddNumberInString.Run("2");
 FindTheMaximumAchievableNumber.Run(4, 1);
+CountSymmetricIntegers.Run(1, 100);
+DivisibleAndNonDivisibleSumsDifference.Run(10, 3);
 
 
 // --- Medium ------------------------------------------------------------
