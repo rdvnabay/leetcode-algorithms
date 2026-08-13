@@ -41,6 +41,8 @@ TheTwoSneakyNumbersOfDigitville.Run(new int[] { 0, 3, 2, 1, 3, 2 });
 UglyNumber.Run(30);
 ValidPerfectSquare.Run(400);
 SumOfDigitsInBaseK.Run(10,10);
+LargestOddNumberInString.Run("2");
+FindTheMaximumAchievableNumber.Run(4, 1);
 
 
 // --- Medium ------------------------------------------------------------
