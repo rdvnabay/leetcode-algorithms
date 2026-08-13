@@ -46,6 +46,7 @@ FindTheMaximumAchievableNumber.Run(4, 1);
 CountSymmetricIntegers.Run(1, 100);
 DivisibleAndNonDivisibleSumsDifference.Run(10, 3);
 FindMinimumOperationsToMakeAllElementsDivisibleByThree.Run(new int[] { 1, 2, 3, 4 });
+HarshadNumber.Run(18);
 
 
 // --- Medium ------------------------------------------------------------
