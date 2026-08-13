@@ -1,6 +1,7 @@
 ﻿using Algorithms.Array.Easy;
 using Algorithms.Array.Medium;
 using Array.Easy;
+using Array.Medium;
 
 Console.WriteLine("=== Array Algorithms ===");
 
@@ -29,6 +30,7 @@ MostCommonWord.Run("Bob hit a ball, the hit BALL flew far after it was hit.", ne
 MoveZeroes.Run(new int[] { 0, 1, 0, 3, 12 });
 NumberOfLinesToWriteString.Run(new[] { 4, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 }, "bbbcccdddaaa");
 PlusOne.Run(new int[] { 9, 9, 9 });
+RankTransformOfAnArray.Run(new int[] { 40, 10, 20, 30, 10, 40 });
 RelativeRanks.Run(new int[] { 5, 4, 3, 2, 1 });
 RelativeSortArray.Run(new int[] { 33, 22, 48, 4, 39, 36, 41, 47, 15, 45 }, new int[] { 22, 33, 48, 4 });
 RemoveElement.Run(new int[] { 3, 2, 2, 3, 4, 3 }, 3);
@@ -44,6 +46,7 @@ TransposeMatrix.Run(new int[][] { [1, 2, 3], [4, 5, 6] });
 TwoSum.Run(new int[] { 3, 2, 4 }, 6);
 UniqueNumberOfOccurrences.Run(new int[] { -3, 0, 1, -3, 1, 1, 1, -3, 10, 0 });
 ValidMountainArray.Run(new int[] { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 });
+WordBreak.Run("catsandog", new List<string>() { "cats", "dog", "sand", "and", "cat" });
 
 // --- Medium ------------------------------------------------------------
 _3Sum.Run(new int[] { -1, 0, 1, 2, -1, -4 });
