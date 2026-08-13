@@ -30,7 +30,7 @@ MissingNumber.Run(new int[] { 0, 1, 3 });
 NumberOfGoodPairs.Run(new int[] { 1, 2, 3 });
 NumberOfStepsToReduceANumberToZero.Run(14);
 PalindromeNumber.Run(123);
-PassThePillow.Run(3,2);
+PassThePillow.Run(3, 2);
 PerfectNumber.Run(7);
 PowerOfFour.Run(0);
 PowerOfTwo.Run(-16);
@@ -40,11 +40,12 @@ SplitWithMinimumSum.Run(687);
 TheTwoSneakyNumbersOfDigitville.Run(new int[] { 0, 3, 2, 1, 3, 2 });
 UglyNumber.Run(30);
 ValidPerfectSquare.Run(400);
-SumOfDigitsInBaseK.Run(10,10);
+SumOfDigitsInBaseK.Run(10, 10);
 LargestOddNumberInString.Run("2");
 FindTheMaximumAchievableNumber.Run(4, 1);
 CountSymmetricIntegers.Run(1, 100);
 DivisibleAndNonDivisibleSumsDifference.Run(10, 3);
+FindMinimumOperationsToMakeAllElementsDivisibleByThree.Run(new int[] { 1, 2, 3, 4 });
 
 
 // --- Medium ------------------------------------------------------------
