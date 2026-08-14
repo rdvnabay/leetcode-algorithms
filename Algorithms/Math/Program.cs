@@ -49,6 +49,10 @@ FindMinimumOperationsToMakeAllElementsDivisibleByThree.Run(new int[] { 1, 2, 3, 
 HarshadNumber.Run(18);
 CountIntegersWithEvenDigitSum.Run(4);
 CountTheDigitsThatDivideANumber.Run(7);
+FindMissingAndRepeatedValues.Run(new int[][]
+{
+    [9,1,7],[8,9,2],[3,4,6]
+});
 
 
 // --- Medium ------------------------------------------------------------
