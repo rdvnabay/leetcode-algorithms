@@ -55,6 +55,8 @@ FindMissingAndRepeatedValues.Run(new int[][]
 });
 MinimumElementAfterReplacementWithDigitSum.Run(new int[] { 10, 12, 13, 14 });
 SmallestDivisibleDigitProductI.Run(15, 3);
+WaterBottles.Run(9, 3);
+MinimumOperationsToMakeArraySumDivisibleByK.Run(new int[] { 3, 9, 7 }, 5);
 
 // --- Medium ------------------------------------------------------------
 BulbSwitcher.Run(5);
