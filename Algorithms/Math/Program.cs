@@ -48,6 +48,7 @@ DivisibleAndNonDivisibleSumsDifference.Run(10, 3);
 FindMinimumOperationsToMakeAllElementsDivisibleByThree.Run(new int[] { 1, 2, 3, 4 });
 HarshadNumber.Run(18);
 CountIntegersWithEvenDigitSum.Run(4);
+CountTheDigitsThatDivideANumber.Run(7);
 
 
 // --- Medium ------------------------------------------------------------
