@@ -50,6 +50,8 @@ CountItemsMatchingARule.Run(new List<IList<string>>
     new List<string> { "computer", "silver", "lenovo" },
     new List<string> { "phone", "gold", "iphone" }
 }, "type", "phone");
+SortThePeople.Run(new string[] { "Mary", "John", "Emma" }, new int[] { 180, 165, 170 });
+TrafficSignalColor.Run(60);
 
 // --- Medium ------------------------------------------------------------
 LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
