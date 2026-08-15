@@ -43,6 +43,8 @@ ReverseStringPrefix.Run("abcd", 2);
 FindMostFrequentVowelAndConsonant.Run("successes");
 ReverseDegreeOfAString.Run("zaza");
 SplitAStringInBalancedStrings.Run("RLRRLLRLRL");
+TruncateSentence.Run("Hello how are you Contestant", 4);
+
 
 // --- Medium ------------------------------------------------------------
 LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
