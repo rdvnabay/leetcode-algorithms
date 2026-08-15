@@ -41,6 +41,7 @@ DestinationCity.Run(new List<IList<string>>
 MaximumNestingDepthOfTheParentheses.Run("(1+(2*3)+((8)/4))+1");
 CheckIfTwoStringArraysAreEquivalent.Run(new string[] { "abc", "d", "defg" }, new string[] { "abcddefg" });
 GoalParserInterpretation.Run("(al)G(al)()()G");
+CountTheNumberOfConsistentStrings.Run("cad", new string[] { "cc", "acd", "b", "ba", "bac", "bad", "ac", "d" });
 
 // --- Medium ------------------------------------------------------------
 LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
