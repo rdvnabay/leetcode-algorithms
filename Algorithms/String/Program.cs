@@ -36,6 +36,7 @@ CheckIfTwoStringArraysAreEquivalent.Run(new string[] { "abc", "d", "defg" }, new
 GoalParserInterpretation.Run("(al)G(al)()()G");
 CountTheNumberOfConsistentStrings.Run("cad", new string[] { "cc", "acd", "b", "ba", "bac", "bad", "ac", "d" });
 ScoreOfAString.Run("hello");
+FinalValueOfVariableAfterPerformingOperations.Run(new string[] { "X++", "++X", "--X", "X--" });
 
 // --- Medium ------------------------------------------------------------
 LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
