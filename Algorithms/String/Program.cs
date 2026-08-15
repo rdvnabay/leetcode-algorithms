@@ -38,6 +38,7 @@ CountTheNumberOfConsistentStrings.Run("cad", new string[] { "cc", "acd", "b", "b
 ScoreOfAString.Run("hello");
 FinalValueOfVariableAfterPerformingOperations.Run(new string[] { "X++", "++X", "--X", "X--" });
 FindWordsContainingCharacter.Run(new string[] { "abc", "bcd", "aaaa", "cbc" }, 'a');
+DefangingAnIPAddress.Run("255.100.50.0");
 
 // --- Medium ------------------------------------------------------------
 LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
