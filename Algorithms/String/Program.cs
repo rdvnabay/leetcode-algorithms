@@ -32,16 +32,10 @@ ToLowerCase.Run("Hello");
 ValidAnagram.Run("listen", "silent");
 ValidPalindrome.Run("A man, a plan, a canal: Panama");
 WordPattern.Run("aaa", "aa aa aa aa");
-DestinationCity.Run(new List<IList<string>>
-{
-    new List<string> { "B", "C" },
-    new List<string> { "D", "B" },
-    new List<string> { "C", "A" }
-});
-MaximumNestingDepthOfTheParentheses.Run("(1+(2*3)+((8)/4))+1");
 CheckIfTwoStringArraysAreEquivalent.Run(new string[] { "abc", "d", "defg" }, new string[] { "abcddefg" });
 GoalParserInterpretation.Run("(al)G(al)()()G");
 CountTheNumberOfConsistentStrings.Run("cad", new string[] { "cc", "acd", "b", "ba", "bac", "bad", "ac", "d" });
+ScoreOfAString.Run("hello");
 
 // --- Medium ------------------------------------------------------------
 LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
