@@ -44,7 +44,12 @@ FindMostFrequentVowelAndConsonant.Run("successes");
 ReverseDegreeOfAString.Run("zaza");
 SplitAStringInBalancedStrings.Run("RLRRLLRLRL");
 TruncateSentence.Run("Hello how are you Contestant", 4);
-
+CountItemsMatchingARule.Run(new List<IList<string>>
+{
+    new List<string> { "phone", "blue", "pixel" },
+    new List<string> { "computer", "silver", "lenovo" },
+    new List<string> { "phone", "gold", "iphone" }
+}, "type", "phone");
 
 // --- Medium ------------------------------------------------------------
 LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
