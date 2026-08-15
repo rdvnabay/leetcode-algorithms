@@ -42,6 +42,7 @@ DefangingAnIPAddress.Run("255.100.50.0");
 ReverseStringPrefix.Run("abcd", 2);
 FindMostFrequentVowelAndConsonant.Run("successes");
 ReverseDegreeOfAString.Run("zaza");
+SplitAStringInBalancedStrings.Run("RLRRLLRLRL");
 
 // --- Medium ------------------------------------------------------------
 LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
