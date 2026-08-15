@@ -39,6 +39,8 @@ ScoreOfAString.Run("hello");
 FinalValueOfVariableAfterPerformingOperations.Run(new string[] { "X++", "++X", "--X", "X--" });
 FindWordsContainingCharacter.Run(new string[] { "abc", "bcd", "aaaa", "cbc" }, 'a');
 DefangingAnIPAddress.Run("255.100.50.0");
+ReverseStringPrefix.Run("abcd", 2);
+FindMostFrequentVowelAndConsonant.Run("successes");
 
 // --- Medium ------------------------------------------------------------
 LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
