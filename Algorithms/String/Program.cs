@@ -68,6 +68,7 @@ RemoveTrailingZerosFromAString.Run("51230100");
 CheckAdjacentDigitDifferences.Run("129");
 DetermineIfStringHalvesAreAlike.Run("textbook");
 TrimTrailingVowels.Run("idea");
+CountTheNumberOfSpecialCharactersI.Run("aaAbcBC");
 
 
 // --- Medium ------------------------------------------------------------
