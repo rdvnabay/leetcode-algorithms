@@ -54,6 +54,7 @@ SortThePeople.Run(new string[] { "Mary", "John", "Emma" }, new int[] { 180, 165,
 TrafficSignalColor.Run(60);
 SortingTheSentence.Run("is2 sentence4 This1 a3");
 CountingWordsWithAGivenPrefix.Run(new string[] { "pay", "attention", "practice", "attend" }, "at");
+CheckIfTheSentenceIsPangram.Run("thequickbrownfoxjumpsoverthelazydog");
 
 
 // --- Medium ------------------------------------------------------------
