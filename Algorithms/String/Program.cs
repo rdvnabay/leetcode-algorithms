@@ -70,6 +70,7 @@ DetermineIfStringHalvesAreAlike.Run("textbook");
 TrimTrailingVowels.Run("idea");
 CountTheNumberOfSpecialCharactersI.Run("aaAbcBC");
 FurthestPointFromOrigin.Run("_R__LL_");
+SubstringsOfSizeThreeWithDistinctCharacters.Run("xyzzaz");
 
 
 // --- Medium ------------------------------------------------------------
