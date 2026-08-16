@@ -63,6 +63,7 @@ ClearDigits.Run("cb34");
 SnakeInMatrix.Run(3, new List<string>() { "DOWN", "RIGHT", "UP" });
 KthDistinctStringInAnArray.Run(new string[] { "d", "b", "c", "b", "c", "a" }, 2);
 NumberOfChangingKeys.Run("aAbBcC");
+NumberOfSeniorCitizens.Run(new string[] { "5612624052M0130", "5378802576M6424", "5447619845F0171", "2941701174O9078" });
 
 
 // --- Medium ------------------------------------------------------------
