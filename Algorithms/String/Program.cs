@@ -66,6 +66,7 @@ NumberOfChangingKeys.Run("aAbBcC");
 NumberOfSeniorCitizens.Run(new string[] { "5612624052M0130", "5378802576M6424", "5447619845F0171", "2941701174O9078" });
 RemoveTrailingZerosFromAString.Run("51230100");
 CheckAdjacentDigitDifferences.Run("129");
+DetermineIfStringHalvesAreAlike.Run("textbook");
 
 
 // --- Medium ------------------------------------------------------------
