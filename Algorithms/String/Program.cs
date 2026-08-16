@@ -71,6 +71,7 @@ TrimTrailingVowels.Run("idea");
 CountTheNumberOfSpecialCharactersI.Run("aaAbcBC");
 FurthestPointFromOrigin.Run("_R__LL_");
 SubstringsOfSizeThreeWithDistinctCharacters.Run("xyzzaz");
+Largest3SameDigitNumberInString.Run("6777133339");
 
 
 // --- Medium ------------------------------------------------------------
