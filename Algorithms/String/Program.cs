@@ -58,7 +58,7 @@ FindFirstPalindromicStringInTheArray.Run(new string[] { "abc", "car", "ada", "ra
 CheckIfAStringIsAnAcronymOfWords.Run(new List<string>() { "alice", "bob", "charlie" }, "abc");
 CheckBalancedString.Run("1234");
 MaximumOddBinaryNumber.Run("0101");
-
+ReplaceAllDigitsWithCharacters.Run("a1b2c3d4e");
 
 // --- Medium ------------------------------------------------------------
 LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
