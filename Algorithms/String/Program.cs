@@ -56,6 +56,7 @@ SortingTheSentence.Run("is2 sentence4 This1 a3");
 CountingWordsWithAGivenPrefix.Run(new string[] { "pay", "attention", "practice", "attend" }, "at");
 CheckIfTheSentenceIsPangram.Run("thequickbrownfoxjumpsoverthelazydog");
 CellsInARangeOnAnExcelSheet.Run("K1:L2");
+FindFirstPalindromicStringInTheArray.Run(new string[] { "abc", "car", "ada", "racecar", "cool" });
 
 
 // --- Medium ------------------------------------------------------------
