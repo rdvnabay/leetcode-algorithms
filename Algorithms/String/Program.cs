@@ -61,6 +61,7 @@ MaximumOddBinaryNumber.Run("0101");
 ReplaceAllDigitsWithCharacters.Run("a1b2c3d4e");
 ClearDigits.Run("cb34");
 SnakeInMatrix.Run(3, new List<string>() { "DOWN", "RIGHT", "UP" });
+KthDistinctStringInAnArray.Run(new string[] { "d", "b", "c", "b", "c", "a" }, 2);
 
 
 // --- Medium ------------------------------------------------------------
