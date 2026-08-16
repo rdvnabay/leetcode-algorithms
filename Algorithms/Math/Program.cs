@@ -43,7 +43,6 @@ ValidPerfectSquare.Run(400);
 SumOfDigitsInBaseK.Run(10, 10);
 LargestOddNumberInString.Run("2");
 FindTheMaximumAchievableNumber.Run(4, 1);
-CountSymmetricIntegers.Run(1, 100);
 DivisibleAndNonDivisibleSumsDifference.Run(10, 3);
 FindMinimumOperationsToMakeAllElementsDivisibleByThree.Run(new int[] { 1, 2, 3, 4 });
 HarshadNumber.Run(18);
@@ -55,7 +54,6 @@ FindMissingAndRepeatedValues.Run(new int[][]
 });
 MinimumElementAfterReplacementWithDigitSum.Run(new int[] { 10, 12, 13, 14 });
 SmallestDivisibleDigitProductI.Run(15, 3);
-WaterBottles.Run(9, 3);
 MinimumOperationsToMakeArraySumDivisibleByK.Run(new int[] { 3, 9, 7 }, 5);
 FindClosestPerson.Run(2, 7, 4);
 

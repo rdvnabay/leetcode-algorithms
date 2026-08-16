@@ -2,8 +2,6 @@
 
 public static class FindWordsContainingCharacter
 {
-    //"abc","bcd","aaaa","cbc"
-    //a
     public static IList<int> Run(string[] words, char x)
     {
         List<int> result = new();

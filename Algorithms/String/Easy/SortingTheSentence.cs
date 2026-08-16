@@ -2,7 +2,6 @@
 
 public static class SortingTheSentence
 {
-    //is2 sentence4 This1 a3
     public static string Run(string s)
     {
         string[] words = s.Split(' ');

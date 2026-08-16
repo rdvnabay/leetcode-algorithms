@@ -2,7 +2,6 @@
 
 public static class SmallestDivisibleDigitProductI
 {
-    //15 3
     public static int Run(int n, int t)
     {
         int product = 1;
