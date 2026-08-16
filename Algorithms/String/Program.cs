@@ -69,6 +69,7 @@ CheckAdjacentDigitDifferences.Run("129");
 DetermineIfStringHalvesAreAlike.Run("textbook");
 TrimTrailingVowels.Run("idea");
 CountTheNumberOfSpecialCharactersI.Run("aaAbcBC");
+FurthestPointFromOrigin.Run("_R__LL_");
 
 
 // --- Medium ------------------------------------------------------------
