@@ -58,6 +58,7 @@ CheckIfTheSentenceIsPangram.Run("thequickbrownfoxjumpsoverthelazydog");
 CellsInARangeOnAnExcelSheet.Run("K1:L2");
 FindFirstPalindromicStringInTheArray.Run(new string[] { "abc", "car", "ada", "racecar", "cool" });
 CheckIfAStringIsAnAcronymOfWords.Run(new List<string>() { "alice", "bob", "charlie" }, "abc");
+CheckBalancedString.Run("1234");
 
 
 // --- Medium ------------------------------------------------------------
