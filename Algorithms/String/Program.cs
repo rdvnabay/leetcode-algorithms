@@ -59,6 +59,9 @@ CheckIfAStringIsAnAcronymOfWords.Run(new List<string>() { "alice", "bob", "charl
 CheckBalancedString.Run("1234");
 MaximumOddBinaryNumber.Run("0101");
 ReplaceAllDigitsWithCharacters.Run("a1b2c3d4e");
+ClearDigits.Run("cb34");
+SnakeInMatrix.Run(3, new List<string>() { "DOWN", "RIGHT", "UP" });
+
 
 // --- Medium ------------------------------------------------------------
 LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
