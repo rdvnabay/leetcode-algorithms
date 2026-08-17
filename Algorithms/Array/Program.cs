@@ -53,6 +53,7 @@ ComputeAlternatingSum.Run(new int[] { 1, 3, 5, 7 });
 ConcatenationOfArray.Run(new int[] { 1, 3, 2, 1 });
 TransformArrayByParity.Run(new int[] { 4, 3, 2, 1 });
 LeftAndRightSumDifferences.Run(new int[] { 10, 4, 8, 3 });
+RichestCustomerWealth.Run(new int[][] { [1, 5], [7, 3], [3, 5] });
 
 
 // --- Medium ------------------------------------------------------------
