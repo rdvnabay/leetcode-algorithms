@@ -71,3 +71,4 @@ SetMatrixZeroes.Run(new int[][] { [1, 1, 1], [1, 0, 0], [1, 1, 1] });
 SortColors.Run(new int[] { 2, 0, 2, 1, 1, 0 });
 Subsets.Run(new int[] { 1, 2, 3 });
 FindThePrefixCommonArrayOfTwoArrays.Run(new int[] { 2, 3, 1 }, new int[] { 3, 1, 2 });
+NumberOfLaserBeamsInABank.Run(new string[] { "011001", "000000", "010100", "001000" });
