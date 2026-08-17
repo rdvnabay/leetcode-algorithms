@@ -74,6 +74,9 @@ SubstringsOfSizeThreeWithDistinctCharacters.Run("xyzzaz");
 Largest3SameDigitNumberInString.Run("6777133339");
 GreatestEnglishLetterInUpperAndLowerCase.Run("arRAzFif");
 LargestEvenNumber.Run("1112");
+MakeTheStringGreat.Run("abBAcC");
+ReformatPhoneNumber.Run("123 4-567");
+JewelsAndStones.Run("aA", "aAAbbbb");
 
 
 // --- Medium ------------------------------------------------------------
