@@ -56,6 +56,8 @@ LeftAndRightSumDifferences.Run(new int[] { 10, 4, 8, 3 });
 RichestCustomerWealth.Run(new int[][] { [1, 5], [7, 3], [3, 5] });
 ShuffleTheArray.Run(new int[] { 1, 2, 3, 4, 4, 3, 2, 1 }, 4);
 WeightedWordMapping.Run(new string[] { "abcd", "def", "xyz" }, new int[] { 5, 3, 12, 14, 1, 2, 3, 2, 10, 6, 6, 9, 7, 8, 7, 10, 8, 9, 6, 9, 9, 8, 3, 7, 7, 2 });
+NumberOfEmployeesWhoMetTheTarget.Run(new int[] { 0, 1, 2, 3, 4 }, 2);
+CountPairsWhoseSumIsLessThanTarget.Run(new List<int>() { -6, 2, 5, -2, -7, -1, 3 }, -2);
 
 
 // --- Medium ------------------------------------------------------------
