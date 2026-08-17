@@ -2,7 +2,6 @@
 
 public static class RearrangeArrayElementsBySign
 {
-    //3,1,-2,-5,2,-4
     public static int[] Run(int[] nums)
     {
         int[] positiveNumbers = new int[nums.Length / 2];
