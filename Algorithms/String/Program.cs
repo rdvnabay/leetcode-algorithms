@@ -77,6 +77,7 @@ LargestEvenNumber.Run("1112");
 MakeTheStringGreat.Run("abBAcC");
 ReformatPhoneNumber.Run("123 4-567");
 JewelsAndStones.Run("aA", "aAAbbbb");
+ReverseStringPrefix.Run("abcd", 2);
 
 
 // --- Medium ------------------------------------------------------------
