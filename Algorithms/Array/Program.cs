@@ -60,6 +60,7 @@ NumberOfEmployeesWhoMetTheTarget.Run(new int[] { 0, 1, 2, 3, 4 }, 2);
 CountPairsWhoseSumIsLessThanTarget.Run(new List<int>() { -6, 2, 5, -2, -7, -1, 3 }, -2);
 FindIndicesOfStableMountains.Run(new int[] { 1, 2, 3, 4, 5 }, 2);
 RunningSumOf1dArray.Run(new int[] { 1, 2, 3, 4 });
+MinimumNumberOfMovesToSeatEveryone.Run(new int[] { 3, 1, 5 }, new int[] { 2, 7, 4 });
 
 
 // --- Medium ------------------------------------------------------------
