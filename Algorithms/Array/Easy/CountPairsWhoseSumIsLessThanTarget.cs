@@ -2,7 +2,6 @@
 
 public static class CountPairsWhoseSumIsLessThanTarget
 {
-    //-6,2,5,-2,-7,-1,3    -2
     public static int Run(IList<int> nums, int target)
     {
         int counter = 0;

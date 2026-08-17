@@ -59,6 +59,7 @@ WeightedWordMapping.Run(new string[] { "abcd", "def", "xyz" }, new int[] { 5, 3,
 NumberOfEmployeesWhoMetTheTarget.Run(new int[] { 0, 1, 2, 3, 4 }, 2);
 CountPairsWhoseSumIsLessThanTarget.Run(new List<int>() { -6, 2, 5, -2, -7, -1, 3 }, -2);
 FindIndicesOfStableMountains.Run(new int[] { 1, 2, 3, 4, 5 }, 2);
+RunningSumOf1dArray.Run(new int[] { 1, 2, 3, 4 });
 
 
 // --- Medium ------------------------------------------------------------
