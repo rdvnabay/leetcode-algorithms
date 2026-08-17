@@ -2,12 +2,11 @@
 
 public static class FurthestPointFromOrigin
 {
-    //_R__LL_
     public static int Run(string moves)
     {
         int left = 0;
         int right = 0;
-        int unknow = 0;
+        int unknown = 0;
 
         foreach (var move in moves)
         {
@@ -15,10 +14,10 @@ public static class FurthestPointFromOrigin
             {
                 'L' => left++,
                 'R' => right++,
-                _ => unknow++
+                _ => unknown++
             };
         }
 
-        return Math.Abs(left - right) + unknow;
+        return Math.Abs(left - right) + unknown;
     }
 }

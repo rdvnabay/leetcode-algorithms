@@ -2,7 +2,6 @@
 
 public static class ShuffleTheArray
 {
-    //1,2,3,4,4,3,2,1  4
     public static int[] Run(int[] nums, int n)
     {
         int[] result = new int[nums.Length];
