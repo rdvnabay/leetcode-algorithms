@@ -51,7 +51,7 @@ ConcatenateArrayWithReverse.Run(new int[] { 1, 2, 3 });
 BuildArrayFromPermutation.Run(new int[] { 0, 2, 1, 5, 3, 4 });
 ComputeAlternatingSum.Run(new int[] { 1, 3, 5, 7 });
 ConcatenationOfArray.Run(new int[] { 1, 3, 2, 1 });
-
+TransformArrayByParity.Run(new int[] { 4, 3, 2, 1 });
 
 // --- Medium ------------------------------------------------------------
 _3Sum.Run(new int[] { -1, 0, 1, 2, -1, -4 });
