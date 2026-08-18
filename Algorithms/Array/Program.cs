@@ -83,4 +83,5 @@ subrectangleQueries.UpdateSubrectangle(0, 0, 3, 2, 5);
 subrectangleQueries.GetValue(0, 2);
 
 CountDigitAppearances.Run(new int[] { 12, 54, 32, 22 }, 2);
+ConvertAnArrayIntoA2DArrayWithConditions.Run(new int[] { 1, 3, 4, 1, 2, 3, 1 });
 
