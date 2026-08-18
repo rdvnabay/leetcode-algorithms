@@ -61,6 +61,7 @@ CountPairsWhoseSumIsLessThanTarget.Run(new List<int>() { -6, 2, 5, -2, -7, -1, 3
 FindIndicesOfStableMountains.Run(new int[] { 1, 2, 3, 4, 5 }, 2);
 RunningSumOf1dArray.Run(new int[] { 1, 2, 3, 4 });
 MinimumNumberOfMovesToSeatEveryone.Run(new int[] { 3, 1, 5 }, new int[] { 2, 7, 4 });
+CountGoodTriplets.Run(new int[] { 3, 0, 1, 1, 9, 7 }, 7, 2, 3);
 
 
 // --- Medium ------------------------------------------------------------
@@ -87,4 +88,6 @@ ConvertAnArrayIntoA2DArrayWithConditions.Run(new int[] { 1, 3, 4, 1, 2, 3, 1 });
 SortTheStudentsByTheirKthScore.Run(new int[][] { [10, 6, 9, 1], [7, 5, 11, 2], [4, 8, 3, 15] }, 2);
 MinimumAmountOfTimeToCollectGarbage.Run(new string[] { "G", "P", "GP", "GG" }, new int[] { 2, 3, 4 });
 QueriesOnAPermutationWithKey.Run(new int[] { 3, 1, 2, 1 }, 5);
+SortMatrixByDiagonals.Run(new int[][] { [1, 7, 3], [9, 8, 2], [4, 5, 6] });
+DifferenceBetweenOnesAndZerosInRowAndColumn.Run(new int[][] { [0, 1, 1], [1, 0, 1], [0, 0, 1] });
 
