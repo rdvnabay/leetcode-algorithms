@@ -75,3 +75,4 @@ NumberOfLaserBeamsInABank.Run(new string[] { "011001", "000000", "010100", "0010
 MaximumNumberOfCoinsYouCanGet.Run(new int[] { 9, 8, 7, 6, 5, 1, 2, 3, 4 });
 RearrangeArrayElementsBySign.Run(new int[] { 3, 1, -2, -5, 2, -4 });
 ArithmeticSubarrays.Run(new int[] { 4, 6, 5, 9, 3, 7 }, new int[] { 0, 0, 2 }, new int[] { 2, 3, 5 });
+PartitionArrayAccordingToGivenPivot.Run(new int[] { 9, 12, 5, 10, 14, 3, 10 }, 10);
