@@ -84,4 +84,5 @@ subrectangleQueries.GetValue(0, 2);
 
 CountDigitAppearances.Run(new int[] { 12, 54, 32, 22 }, 2);
 ConvertAnArrayIntoA2DArrayWithConditions.Run(new int[] { 1, 3, 4, 1, 2, 3, 1 });
+SortTheStudentsByTheirKthScore.Run(new int[][] { [10, 6, 9, 1], [7, 5, 11, 2], [4, 8, 3, 15] }, 2);
 
