@@ -63,6 +63,7 @@ RunningSumOf1dArray.Run(new int[] { 1, 2, 3, 4 });
 MinimumNumberOfMovesToSeatEveryone.Run(new int[] { 3, 1, 5 }, new int[] { 2, 7, 4 });
 CountGoodTriplets.Run(new int[] { 3, 0, 1, 1, 9, 7 }, 7, 2, 3);
 CountNumberOfPairsWithAbsoluteDifferenceK.Run(new int[] { 1, 2, 2, 1 }, 1);
+MinimumAverageOfSmallestAndLargestElements.Run(new int[] { 7, 8, 3, 4, 15, 13, 4, 1 });
 
 
 // --- Medium ------------------------------------------------------------
