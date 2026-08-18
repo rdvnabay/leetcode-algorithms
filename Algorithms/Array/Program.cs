@@ -82,3 +82,5 @@ SubrectangleQueries subrectangleQueries = new([[1, 2, 1], [4, 3, 4], [3, 2, 1], 
 subrectangleQueries.UpdateSubrectangle(0, 0, 3, 2, 5);
 subrectangleQueries.GetValue(0, 2);
 
+CountDigitAppearances.Run(new int[] { 12, 54, 32, 22 }, 2);
+
