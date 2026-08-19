@@ -96,4 +96,6 @@ SortMatrixByDiagonals.Run(new int[][] { [1, 7, 3], [9, 8, 2], [4, 5, 6] });
 DifferenceBetweenOnesAndZerosInRowAndColumn.Run(new int[][] { [0, 1, 1], [1, 0, 1], [0, 0, 1] });
 FindtheWinnerOfTheCircularGame.Run(6, 5);
 FindTriangularSumOfAnArray.Run(new int[] { 1, 2, 3, 4, 5 });
+WateringPlants.Run(new int[] { 7, 7, 7, 7, 7, 7, 7 }, 8);
+DivideArrayIntoArraysWithMaxDifference.Run(new int[] { 1, 3, 4, 8, 7, 9, 3, 5, 1 }, 2);
 
