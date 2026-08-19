@@ -78,6 +78,9 @@ MakeTheStringGreat.Run("abBAcC");
 ReformatPhoneNumber.Run("123 4-567");
 JewelsAndStones.Run("aA", "aAAbbbb");
 ReverseStringPrefix.Run("abcd", 2);
+IncreasingDecreasingString.Run("aaaabbbbcccc");
+DivideAStringIntoGroupsOfSizeK.Run("abcdefghi", 3, 'x');
+CalculateDigitSumOfAString.Run("11111222223", 3);
 
 
 // --- Medium ------------------------------------------------------------
