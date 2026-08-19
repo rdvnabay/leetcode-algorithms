@@ -58,6 +58,8 @@ MinimumOperationsToMakeArraySumDivisibleByK.Run(new int[] { 3, 9, 7 }, 5);
 FindClosestPerson.Run(2, 7, 4);
 DigitFrequencyScore.Run(55521);
 MirrorDistanceOfAnInteger.Run(120);
+CountSymmetricIntegers.Run(1, 100);
+MinimumMovesToEqualArrayElementsIII.Run(new int[] { 2, 1, 3 });
 
 // --- Medium ------------------------------------------------------------
 BulbSwitcher.Run(5);
