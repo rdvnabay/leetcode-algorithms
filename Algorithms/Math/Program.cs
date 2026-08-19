@@ -64,6 +64,9 @@ CheckIfDigitsAreEqualInStringAfterOperationsI.Run("3902");
 FindIfDigitGameCanBeWon.Run(new int[] { 1, 2, 3, 4, 10 });
 FindTheKThCharacterInStringGameI.Run(5);
 RemoveZerosInDecimalRepresentation.Run(1020030);
+MaximumProductOfTwoDigits.Run(31);
+MaximumNumberOfBallsInABox.Run(5, 15);
+
 
 // --- Medium ------------------------------------------------------------
 BulbSwitcher.Run(5);
