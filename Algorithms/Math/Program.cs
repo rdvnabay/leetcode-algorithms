@@ -60,6 +60,7 @@ DigitFrequencyScore.Run(55521);
 MirrorDistanceOfAnInteger.Run(120);
 CountSymmetricIntegers.Run(1, 100);
 MinimumMovesToEqualArrayElementsIII.Run(new int[] { 2, 1, 3 });
+CheckIfDigitsAreEqualInStringAfterOperationsI.Run("3902");
 
 // --- Medium ------------------------------------------------------------
 BulbSwitcher.Run(5);
