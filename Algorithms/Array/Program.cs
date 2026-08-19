@@ -94,4 +94,5 @@ MinimumAmountOfTimeToCollectGarbage.Run(new string[] { "G", "P", "GP", "GG" }, n
 QueriesOnAPermutationWithKey.Run(new int[] { 3, 1, 2, 1 }, 5);
 SortMatrixByDiagonals.Run(new int[][] { [1, 7, 3], [9, 8, 2], [4, 5, 6] });
 DifferenceBetweenOnesAndZerosInRowAndColumn.Run(new int[][] { [0, 1, 1], [1, 0, 1], [0, 0, 1] });
+FindtheWinnerOfTheCircularGame.Run(6, 5);
 
