@@ -61,6 +61,9 @@ MirrorDistanceOfAnInteger.Run(120);
 CountSymmetricIntegers.Run(1, 100);
 MinimumMovesToEqualArrayElementsIII.Run(new int[] { 2, 1, 3 });
 CheckIfDigitsAreEqualInStringAfterOperationsI.Run("3902");
+FindIfDigitGameCanBeWon.Run(new int[] { 1, 2, 3, 4, 10 });
+FindTheKThCharacterInStringGameI.Run(5);
+RemoveZerosInDecimalRepresentation.Run(1020030);
 
 // --- Medium ------------------------------------------------------------
 BulbSwitcher.Run(5);
