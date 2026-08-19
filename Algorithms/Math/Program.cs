@@ -56,6 +56,7 @@ MinimumElementAfterReplacementWithDigitSum.Run(new int[] { 10, 12, 13, 14 });
 SmallestDivisibleDigitProductI.Run(15, 3);
 MinimumOperationsToMakeArraySumDivisibleByK.Run(new int[] { 3, 9, 7 }, 5);
 FindClosestPerson.Run(2, 7, 4);
+DigitFrequencyScore.Run(55521);
 
 // --- Medium ------------------------------------------------------------
 BulbSwitcher.Run(5);
