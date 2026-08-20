@@ -71,6 +71,7 @@ ValidDigitNumber.Run(232, 2);
 CountCommasInRange.Run(1002);
 DistributeCandiesToPeople.Run(10, 3);
 ComputeDecimalRepresentation.Run(537);
+CountDistinctNumbersOnBoard.Run(5);
 
 
 // --- Medium ------------------------------------------------------------
