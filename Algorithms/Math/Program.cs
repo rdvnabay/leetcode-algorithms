@@ -66,6 +66,8 @@ FindTheKThCharacterInStringGameI.Run(5);
 RemoveZerosInDecimalRepresentation.Run(1020030);
 MaximumProductOfTwoDigits.Run(31);
 MaximumNumberOfBallsInABox.Run(5, 15);
+WaterBottles.Run(9, 3);
+ValidDigitNumber.Run(232, 2);
 
 
 // --- Medium ------------------------------------------------------------
