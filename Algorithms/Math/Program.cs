@@ -76,6 +76,7 @@ KItemsWithTheMaximumSum.Run(6, 6, 6, 13);
 ConvertIntegerToTheSumOfTwoNoZeroIntegers.Run(505);
 AccountBalanceAfterRoundedPurchase.Run(9);
 MinimumCutsToDivideACircle.Run(4);
+CountOddNumbersInAnIntervalRange.Run(3, 7);
 
 
 // --- Medium ------------------------------------------------------------
