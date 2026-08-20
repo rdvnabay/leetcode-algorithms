@@ -8,5 +8,6 @@ Console.WriteLine("=== TwoPointers Algorithms ===");
 IsSubsequence.Run("", "");
 ReversePrefixOfWord.Run("abcdefd", 'd');
 NumberOfArithmeticTriplets.Run(new int[] { 0, 1, 4, 6, 7, 10 }, 3);
+LimitOccurrencesInSortedArray.Run(new int[] { 1, 1, 1, 2, 2, 3 }, 2);
 
 
