@@ -69,6 +69,7 @@ MaximumNumberOfBallsInABox.Run(5, 15);
 WaterBottles.Run(9, 3);
 ValidDigitNumber.Run(232, 2);
 CountCommasInRange.Run(1002);
+DistributeCandiesToPeople.Run(10, 3);
 
 
 // --- Medium ------------------------------------------------------------
