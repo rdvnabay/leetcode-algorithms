@@ -1,3 +1,10 @@
+/**
+ * @id         225
+ * @title      Implement Stack using Queues
+ * @topic      stack
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/implement-stack-using-queues/
+ */
 namespace Algorithms.Stack.Easy;
 
 public class ImplementStackUsingQueues
@@ -34,3 +41,5 @@ public class MyStack
 
     public bool Empty() => _list.Count == 0;
 }
+
+

@@ -1,3 +1,10 @@
+/**
+ * @id         367
+ * @title      Valid Perfect Square
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/valid-perfect-square/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class ValidPerfectSquare
@@ -29,3 +36,5 @@ public static class ValidPerfectSquare
         return dict.All(x => x.Value % 2 == 0);
     }
 }
+
+

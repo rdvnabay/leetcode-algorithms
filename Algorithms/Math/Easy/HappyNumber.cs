@@ -1,3 +1,10 @@
+/**
+ * @id         202
+ * @title      Happy Number
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/happy-number/
+ */
 namespace Algorithms.Math.Easy;
 
 public class HappyNumber
@@ -26,3 +33,5 @@ public class HappyNumber
         return true;
     }
 }
+
+

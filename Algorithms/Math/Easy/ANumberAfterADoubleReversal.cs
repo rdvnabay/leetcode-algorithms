@@ -1,3 +1,10 @@
+/**
+ * @id         2119
+ * @title      A Number After a Double Reversal
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/a-number-after-a-double-reversal/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class ANumberAfterADoubleReversal
@@ -13,3 +20,5 @@ public static class ANumberAfterADoubleReversal
         return false;
     }
 }
+
+

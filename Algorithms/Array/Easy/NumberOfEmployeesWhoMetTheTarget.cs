@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2798
+ * @title      Number of Employees Who Met the Target
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/number-of-employees-who-met-the-target/
+ */
+namespace Array.Easy;
 
 public static class NumberOfEmployeesWhoMetTheTarget
 {
@@ -15,3 +22,5 @@ public static class NumberOfEmployeesWhoMetTheTarget
         return result;
     }
 }
+
+

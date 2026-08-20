@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3512
+ * @title      Minimum Operations to Make Array Sum Divisible by K
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/
+ */
+namespace Math.Easy;
 
 public static class MinimumOperationsToMakeArraySumDivisibleByK
 {
@@ -13,3 +20,5 @@ public static class MinimumOperationsToMakeArraySumDivisibleByK
         return total % k;
     }
 }
+
+

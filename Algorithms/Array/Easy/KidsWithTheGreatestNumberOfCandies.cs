@@ -1,3 +1,10 @@
+/**
+ * @id         1431
+ * @title      Kids With the Greatest Number of Candies
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class KidsWithTheGreatestNumberOfCandies
@@ -26,3 +33,5 @@ public static class KidsWithTheGreatestNumberOfCandies
         return max;
     }
 }
+
+

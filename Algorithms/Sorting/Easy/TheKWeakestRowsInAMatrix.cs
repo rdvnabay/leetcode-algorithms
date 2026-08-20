@@ -1,3 +1,10 @@
+/**
+ * @id         1337
+ * @title      The K Weakest Rows in a Matrix
+ * @topic      sorting
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
+ */
 namespace Algorithms.Sorting.Easy;
 
 public static class TheKWeakestRowsInAMatrix
@@ -25,3 +32,5 @@ public static class TheKWeakestRowsInAMatrix
         return dict.OrderBy(x => x.Value).Take(k).Select(x => x.Key).ToArray();
     }
 }
+
+

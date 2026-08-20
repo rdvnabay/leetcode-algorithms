@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         2391
+ * @title      Minimum Amount of Time to Collect Garbage
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
+ */
+namespace Array.Medium;
 
 public static class MinimumAmountOfTimeToCollectGarbage
 {
@@ -39,3 +46,5 @@ public static class MinimumAmountOfTimeToCollectGarbage
         return total;
     }
 }
+
+

@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         2600
+ * @title      K Items With the Maximum Sum
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/k-items-with-the-maximum-sum/
+ */
+namespace Math.Easy;
 
 public static class KItemsWithTheMaximumSum
 {
@@ -25,3 +32,5 @@ public static class KItemsWithTheMaximumSum
         return total;
     }
 }
+
+

@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         2610
+ * @title      Convert an Array Into a 2D Array With Conditions
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/
+ */
+namespace Array.Medium;
 
 public static class ConvertAnArrayIntoA2DArrayWithConditions
 {
@@ -35,3 +42,5 @@ public static class ConvertAnArrayIntoA2DArrayWithConditions
         return result;
     }
 }
+
+

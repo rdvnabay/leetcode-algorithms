@@ -1,3 +1,10 @@
+/**
+ * @id         819
+ * @title      Most Common Word
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/most-common-word/
+ */
 using System.Text;
 
 namespace Algorithms.Array.Easy;
@@ -23,3 +30,5 @@ public static class MostCommonWord
         return "";
     }
 }
+
+

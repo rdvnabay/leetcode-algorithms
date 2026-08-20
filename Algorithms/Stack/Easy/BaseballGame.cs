@@ -1,3 +1,10 @@
+/**
+ * @id         682
+ * @title      Baseball Game
+ * @topic      stack
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/baseball-game/
+ */
 namespace Algorithms.Stack.Easy;
 public class BaseballGame
 {
@@ -26,4 +33,6 @@ public class BaseballGame
         return output.Sum();
     }
 }
+
+
 

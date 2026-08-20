@@ -1,3 +1,10 @@
+/**
+ * @id         125
+ * @title      Valid Palindrome
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/valid-palindrome/
+ */
 namespace Algorithms.String.Easy;
 
 public static class ValidPalindrome
@@ -18,3 +25,5 @@ public static class ValidPalindrome
         return origin == reverse ? true : false;
     }
 }
+
+

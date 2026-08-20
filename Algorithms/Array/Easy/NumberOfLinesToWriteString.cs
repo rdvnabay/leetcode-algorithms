@@ -1,3 +1,10 @@
+/**
+ * @id         806
+ * @title      Number of Lines To Write String
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/number-of-lines-to-write-string/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class NumberOfLinesToWriteString
@@ -28,3 +35,5 @@ public static class NumberOfLinesToWriteString
         return result;
     }
 }
+
+

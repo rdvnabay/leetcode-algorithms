@@ -1,3 +1,10 @@
+/**
+ * @id         605
+ * @title      Can Place Flowers
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/can-place-flowers/
+ */
 namespace Algorithms.Array.Easy;
 
 public class CanPlaceFlowers
@@ -54,3 +61,5 @@ public class CanPlaceFlowers
         return changeCount >= n ? true : false;
     }
 }
+
+

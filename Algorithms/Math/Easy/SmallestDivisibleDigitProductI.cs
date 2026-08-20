@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3345
+ * @title      Smallest Divisible Digit Product I
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/smallest-divisible-digit-product-i/
+ */
+namespace Math.Easy;
 
 public static class SmallestDivisibleDigitProductI
 {
@@ -19,3 +26,5 @@ public static class SmallestDivisibleDigitProductI
         return Run(n + 1, t);
     }
 }
+
+

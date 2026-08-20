@@ -1,3 +1,10 @@
+/**
+ * @id         724
+ * @title      Find Pivot Index
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-pivot-index/
+ */
 namespace Algorithms.Array.Easy;
 
 public class FindPivotIndex
@@ -21,3 +28,4 @@ public class FindPivotIndex
         return -1;
     }
 }
+

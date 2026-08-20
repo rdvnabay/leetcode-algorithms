@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2824
+ * @title      Count Pairs Whose Sum is Less than Target
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
+ */
+namespace Array.Easy;
 
 public static class CountPairsWhoseSumIsLessThanTarget
 {
@@ -18,3 +25,5 @@ public static class CountPairsWhoseSumIsLessThanTarget
         return counter;
     }
 }
+
+

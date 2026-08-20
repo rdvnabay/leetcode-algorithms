@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         2221
+ * @title      Find Triangular Sum of an Array
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/find-triangular-sum-of-an-array/
+ */
+namespace Array.Medium;
 
 public class FindTriangularSumOfAnArray
 {
@@ -17,3 +24,5 @@ public class FindTriangularSumOfAnArray
         return nums[0];
     }
 }
+
+

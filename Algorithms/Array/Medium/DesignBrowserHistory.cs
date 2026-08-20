@@ -1,4 +1,11 @@
-﻿using Algorithms.Common;
+/**
+ * @id         1472
+ * @title      Design Browser History
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/design-browser-history/
+ */
+using Algorithms.Common;
 
 namespace Array.Medium;
 
@@ -42,3 +49,4 @@ public class TestListNode
         this.site = site;
     }
 }
+

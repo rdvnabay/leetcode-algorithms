@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         3120
+ * @title      Count the Number of Special Characters I
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-the-number-of-special-characters-i/
+ */
+namespace String.Easy;
 
 public static class CountTheNumberOfSpecialCharactersI
 {
@@ -16,3 +23,5 @@ public static class CountTheNumberOfSpecialCharactersI
         return counter / 2;
     }
 }
+
+

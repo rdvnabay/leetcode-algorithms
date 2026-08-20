@@ -1,3 +1,10 @@
+/**
+ * @id         228
+ * @title      Summary Ranges
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/summary-ranges/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class SummaryRanges
@@ -62,3 +69,5 @@ public static class SummaryRanges
         return result;
     }
 }
+
+

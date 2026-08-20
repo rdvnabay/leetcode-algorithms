@@ -1,3 +1,10 @@
+/**
+ * @id         876
+ * @title      Middle of the Linked List
+ * @topic      linked-list
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/middle-of-the-linked-list/
+ */
 namespace Algorithms.LinkedList.Easy;
 
 public class MiddleOfTheLinkedList
@@ -28,4 +35,6 @@ public class ListNode_876
         this.next = next;
     }
 }
+
+
 

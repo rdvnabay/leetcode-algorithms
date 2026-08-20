@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         3498
+ * @title      Reverse Degree of a String
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/reverse-degree-of-a-string/
+ */
+namespace String.Easy;
 
 public static class ReverseDegreeOfAString
 {
@@ -17,3 +24,5 @@ public static class ReverseDegreeOfAString
         return total;
     }
 }
+
+

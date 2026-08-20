@@ -1,3 +1,10 @@
+/**
+ * @id         884
+ * @title      Uncommon Words from Two Sentences
+ * @topic      hash-table
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/uncommon-words-from-two-sentences/
+ */
 namespace Algorithms.HashTable.Easy;
 
 public static class UncommonWordsFromTwoSentences
@@ -41,3 +48,5 @@ public static class UncommonWordsFromTwoSentences
             .ToArray();
     }
 }
+
+

@@ -1,3 +1,10 @@
+/**
+ * @id         3
+ * @title      Longest Substring Without Repeating Characters
+ * @topic      string
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/longest-substring-without-repeating-characters/
+ */
 namespace Algorithms.String.Medium;
 
 public static class LongestSubstringWithoutRepeatingCharacters
@@ -33,3 +40,5 @@ public static class LongestSubstringWithoutRepeatingCharacters
         return substrings.Max(str => str.Length);
     }
 }
+
+

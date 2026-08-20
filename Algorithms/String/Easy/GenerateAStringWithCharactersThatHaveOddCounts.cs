@@ -1,3 +1,10 @@
+/**
+ * @id         1374
+ * @title      Generate a String With Characters That Have Odd Counts
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
+ */
 namespace Algorithms.String.Easy;
 
 public class GenerateAStringWithCharactersThatHaveOddCounts
@@ -15,3 +22,5 @@ public class GenerateAStringWithCharactersThatHaveOddCounts
         return new string(charArray);
     }
 }
+
+

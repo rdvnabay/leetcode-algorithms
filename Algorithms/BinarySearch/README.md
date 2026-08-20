@@ -1,31 +1,22 @@
-﻿# BinarySearch Algorithms
+# BinarySearch Algorithms
 
-Collection of LeetCode solutions categorized under the **BinarySearch** topic.
+LeetCode solutions indexed by problem number. File names remain descriptive and alphabetic-friendly.
 
 ## Summary
 
-| Metric | Count |
-|--------|-------|
-| Total Solutions | **3** |
-| Easy | **3** |
-| Medium | **0** |
-| Hard | **0** |
-
----
+| Solution files | Easy | Medium | Hard |
+|---:|---:|---:|---:|
+| 3 | 3 | 0 | 0 |
 
 ## Solutions
 
-| # | Difficulty | Problem | Solution File |
-|---|-----------|---------|---------------|
-| 1 | Easy | Binary Search | [BinarySearch.cs](Easy/BinarySearch.cs) |
-| 2 | Easy | Find Smallest Letter Greater Than Target | [FindSmallestLetterGreaterThanTarget.cs](Easy/FindSmallestLetterGreaterThanTarget.cs) |
-| 3 | Easy | Search Insert Position | [SearchInsertPosition.cs](Easy/SearchInsertPosition.cs) |
+| ID | Problem | Difficulty | Status | Solution |
+|---:|---|---|---|---|
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Implemented | [SearchInsertPosition.cs](Easy/SearchInsertPosition.cs) |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Implemented | [BinarySearch.cs](Easy/BinarySearch.cs) |
+| 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | Implemented | [FindSmallestLetterGreaterThanTarget.cs](Easy/FindSmallestLetterGreaterThanTarget.cs) |
 
----
-
-## How to Run
-
-Execute the BinarySearch console project from the repository root:
+## Run
 
 ```bash
 dotnet run --project Algorithms/BinarySearch/BinarySearch.csproj

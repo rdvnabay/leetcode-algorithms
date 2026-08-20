@@ -1,3 +1,10 @@
+/**
+ * @id         35
+ * @title      Search Insert Position
+ * @topic      binary-search
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/search-insert-position/
+ */
 namespace Algorithms.BinarySearch.Easy
 {
     public class SearchInsertPosition
@@ -22,3 +29,5 @@ namespace Algorithms.BinarySearch.Easy
         }
     }
 }
+
+

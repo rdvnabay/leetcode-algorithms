@@ -1,3 +1,10 @@
+/**
+ * @id         1748
+ * @title      Sum of Unique Elements
+ * @topic      hash-table
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/sum-of-unique-elements/
+ */
 namespace Algorithms.HashTable.Easy;
 
 public static class SumOfUniqueElements
@@ -22,3 +29,5 @@ public static class SumOfUniqueElements
         return total;
     }
 }
+
+

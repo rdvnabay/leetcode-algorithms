@@ -1,3 +1,10 @@
+/**
+ * @id         1399
+ * @title      Count Largest Group
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-largest-group/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class CountLargestGroup
@@ -30,3 +37,5 @@ public static class CountLargestGroup
         return dict.Values.Count(x => x == maxCount);
     }
 }
+
+

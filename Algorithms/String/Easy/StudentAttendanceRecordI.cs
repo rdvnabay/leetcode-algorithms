@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         551
+ * @title      Student Attendance Record I
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/student-attendance-record-i/
+ */
+namespace String.Easy;
 
 public static class StudentAttendanceRecordI
 {
@@ -33,3 +40,5 @@ public static class StudentAttendanceRecordI
         return true;
     }
 }
+
+

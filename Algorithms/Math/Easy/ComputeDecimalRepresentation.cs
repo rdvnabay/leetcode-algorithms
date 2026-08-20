@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3697
+ * @title      Compute Decimal Representation
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/compute-decimal-representation/
+ */
+namespace Math.Easy;
 
 public static class ComputeDecimalRepresentation
 {
@@ -21,3 +28,5 @@ public static class ComputeDecimalRepresentation
         return result.ToArray();
     }
 }
+
+

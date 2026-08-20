@@ -1,4 +1,5 @@
-﻿using Algorithms.String.Easy;
+// Demo runner for 83 indexed solution files. Canonical ordering: LeetCode problem ID.
+using Algorithms.String.Easy;
 using Algorithms.String.Medium;
 using String.Easy;
 
@@ -89,3 +90,5 @@ CheckIfNumbersAreAscendingInASentence.Run("1 box has 3 blue 4 red 6 green and 12
 // --- Medium ------------------------------------------------------------
 LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
 ZigzagConversion.Run("ABCDE", 2);
+
+

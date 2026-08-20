@@ -1,3 +1,10 @@
+/**
+ * @id         242
+ * @title      Valid Anagram
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/valid-anagram/
+ */
 namespace Algorithms.String.Easy;
 
 public static class ValidAnagram
@@ -26,3 +33,5 @@ public static class ValidAnagram
         return result1.SequenceEqual(result2);
     }
 }
+
+

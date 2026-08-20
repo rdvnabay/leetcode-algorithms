@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1331
+ * @title      Rank Transform of an Array
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/rank-transform-of-an-array/
+ */
+namespace Array.Easy;
 
 public static class RankTransformOfAnArray
 {
@@ -19,3 +26,5 @@ public static class RankTransformOfAnArray
         return result;
     }
 }
+
+

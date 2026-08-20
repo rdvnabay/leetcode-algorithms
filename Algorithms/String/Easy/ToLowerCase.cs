@@ -1,3 +1,10 @@
+/**
+ * @id         709
+ * @title      To Lower Case
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/to-lower-case/
+ */
 namespace Algorithms.String.Easy;
 
 public static class ToLowerCase
@@ -17,3 +24,5 @@ public static class ToLowerCase
 
     }
 }
+
+

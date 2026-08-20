@@ -1,3 +1,10 @@
+/**
+ * @id         1486
+ * @title      XOR Operation in an Array
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/xor-operation-in-an-array/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class XOROperationInAnArray
@@ -15,3 +22,5 @@ public static class XOROperationInAnArray
         return result;
     }
 }
+
+

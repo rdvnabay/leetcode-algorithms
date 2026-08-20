@@ -1,3 +1,10 @@
+/**
+ * @id         1323
+ * @title      Maximum 69 Number
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-69-number/
+ */
 using System.Text;
 
 namespace Algorithms.Math.Easy;
@@ -16,3 +23,5 @@ public static class Maximum69Number
         return int.Parse(new string(chars));
     }
 }
+
+

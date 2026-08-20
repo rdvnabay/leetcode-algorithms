@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         1859
+ * @title      Sorting the Sentence
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/sorting-the-sentence/
+ */
+namespace String.Easy;
 
 public static class SortingTheSentence
 {
@@ -16,3 +23,5 @@ public static class SortingTheSentence
         return string.Join(" ", result);
     }
 }
+
+

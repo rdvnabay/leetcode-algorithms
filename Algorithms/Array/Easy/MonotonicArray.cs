@@ -1,3 +1,10 @@
+/**
+ * @id         896
+ * @title      Monotonic Array
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/monotonic-array/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class MonotonicArray
@@ -42,3 +49,5 @@ public static class MonotonicArray
         return true;
     }
 }
+
+

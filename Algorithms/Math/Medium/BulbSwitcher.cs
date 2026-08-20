@@ -1,4 +1,11 @@
-﻿namespace Math.Medium;
+/**
+ * @id         319
+ * @title      Bulb Switcher
+ * @topic      math
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/bulb-switcher/
+ */
+namespace Math.Medium;
 
 public static class BulbSwitcher
 {
@@ -26,3 +33,5 @@ public static class BulbSwitcher
         return counter;
     }
 }
+
+

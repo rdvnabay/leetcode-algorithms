@@ -1,3 +1,10 @@
+/**
+ * @id         1252
+ * @title      Cells with Odd Values in a Matrix
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
+ */
 using System.Data;
 
 namespace Algorithms.Math.Easy;
@@ -44,3 +51,5 @@ public static class CellsWithOddValuesInAMatrix
             matrix[i][col] += 1;
     }
 }
+
+

@@ -1,3 +1,10 @@
+/**
+ * @id         953
+ * @title      Verifying an Alien Dictionary
+ * @topic      hash-table
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/verifying-an-alien-dictionary/
+ */
 namespace Algorithms.HashTable.Easy;
 
 public static class VerifyingAnAlienDictionary
@@ -40,3 +47,5 @@ public static class VerifyingAnAlienDictionary
         return false;
     }
 }
+
+

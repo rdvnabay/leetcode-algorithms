@@ -1,3 +1,10 @@
+/**
+ * @id         78
+ * @title      Subsets
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/subsets/
+ */
 namespace Algorithms.Array.Medium;
 
 public static class Subsets
@@ -19,3 +26,5 @@ public static class Subsets
         return null;
     }
 }
+
+

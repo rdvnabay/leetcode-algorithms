@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3736
+ * @title      Minimum Moves to Equal Array Elements III
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/
+ */
+namespace Math.Easy;
 
 public static class MinimumMovesToEqualArrayElementsIII
 {
@@ -13,3 +20,5 @@ public static class MinimumMovesToEqualArrayElementsIII
         return total;
     }
 }
+
+

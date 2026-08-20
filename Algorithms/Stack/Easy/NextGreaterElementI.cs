@@ -1,3 +1,10 @@
+/**
+ * @id         496
+ * @title      Next Greater Element I
+ * @topic      stack
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/next-greater-element-i/
+ */
 namespace Algorithms.Stack.Easy;
 
 public class NextGreaterElementI
@@ -33,3 +40,5 @@ public class NextGreaterElementI
         return nums1;
     }
 }
+
+

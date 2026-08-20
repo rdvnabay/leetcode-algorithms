@@ -1,3 +1,10 @@
+/**
+ * @id         392
+ * @title      Is Subsequence
+ * @topic      two-pointers
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/is-subsequence/
+ */
 namespace Algorithms.TwoPointers.Easy;
 
 public static class IsSubsequence
@@ -28,3 +35,5 @@ public static class IsSubsequence
         return isMatched;
     }
 }
+
+

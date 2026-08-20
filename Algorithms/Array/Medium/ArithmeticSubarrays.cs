@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         1630
+ * @title      Arithmetic Subarrays
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/arithmetic-subarrays/
+ */
+namespace Array.Medium;
 
 public static class ArithmeticSubarrays
 {
@@ -36,3 +43,5 @@ public static class ArithmeticSubarrays
         return result;
     }
 }
+
+

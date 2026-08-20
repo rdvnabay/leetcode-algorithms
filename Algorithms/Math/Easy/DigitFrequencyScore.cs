@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3945
+ * @title      Digit Frequency Score
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/digit-frequency-score/
+ */
+namespace Math.Easy;
 
 public static class DigitFrequencyScore
 {
@@ -41,3 +48,5 @@ public static class DigitFrequencyScore
         return total;
     }
 }
+
+

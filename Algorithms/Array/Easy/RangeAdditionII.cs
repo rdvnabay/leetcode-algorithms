@@ -1,3 +1,10 @@
+/**
+ * @id         598
+ * @title      Range Addition II
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/range-addition-ii/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class RangeAdditionII
@@ -22,3 +29,5 @@ public static class RangeAdditionII
         return minRow * minCol;
     }
 }
+
+

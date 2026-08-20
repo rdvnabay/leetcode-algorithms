@@ -1,3 +1,10 @@
+/**
+ * @id         746
+ * @title      Min Cost Climbing Stairs
+ * @topic      dynamic-programming
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/min-cost-climbing-stairs/
+ */
 namespace Algorithms.DynamicProgramming.Easy;
 
 public class MinCostClimbingStairs
@@ -51,3 +58,5 @@ public class MinCostClimbingStairs
         return total;
     }
 }
+
+

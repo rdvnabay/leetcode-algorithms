@@ -1,34 +1,25 @@
-﻿# LinkedList Algorithms
+# LinkedList Algorithms
 
-Collection of LeetCode solutions categorized under the **LinkedList** topic.
+LeetCode solutions indexed by problem number. File names remain descriptive and alphabetic-friendly.
 
 ## Summary
 
-| Metric | Count |
-|--------|-------|
-| Total Solutions | **6** |
-| Easy | **4** |
-| Medium | **2** |
-| Hard | **0** |
-
----
+| Solution files | Easy | Medium | Hard |
+|---:|---:|---:|---:|
+| 6 | 4 | 2 | 0 |
 
 ## Solutions
 
-| # | Difficulty | Problem | Solution File |
-|---|-----------|---------|---------------|
-| 1 | Easy | Convert Binary Number In ALinked List To Integer | [ConvertBinaryNumberInALinkedListToInteger.cs](Easy/ConvertBinaryNumberInALinkedListToInteger.cs) |
-| 2 | Easy | Merge Two Sorted Lists | [MergeTwoSortedLists.cs](Easy/MergeTwoSortedLists.cs) |
-| 3 | Easy | Middle Of The Linked List | [MiddleOfTheLinkedList.cs](Easy/MiddleOfTheLinkedList.cs) |
-| 4 | Easy | Reverse Linked List | [ReverseLinkedList.cs](Easy/ReverseLinkedList.cs) |
-| 5 | Medium | Add Two Numbers | [AddTwoNumbers.cs](Medium/AddTwoNumbers.cs) |
-| 6 | Medium | Remove Nth Node From End Of List | [RemoveNthNodeFromEndOfList.cs](Medium/RemoveNthNodeFromEndOfList.cs) |
+| ID | Problem | Difficulty | Status | Solution |
+|---:|---|---|---|---|
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Incomplete | [AddTwoNumbers.cs](Medium/AddTwoNumbers.cs) |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | Implemented | [RemoveNthNodeFromEndOfList.cs](Medium/RemoveNthNodeFromEndOfList.cs) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Incomplete | [MergeTwoSortedLists.cs](Easy/MergeTwoSortedLists.cs) |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Implemented | [ReverseLinkedList.cs](Easy/ReverseLinkedList.cs) |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | Implemented | [MiddleOfTheLinkedList.cs](Easy/MiddleOfTheLinkedList.cs) |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | Implemented | [ConvertBinaryNumberInALinkedListToInteger.cs](Easy/ConvertBinaryNumberInALinkedListToInteger.cs) |
 
----
-
-## How to Run
-
-Execute the LinkedList console project from the repository root:
+## Run
 
 ```bash
 dotnet run --project Algorithms/LinkedList/LinkedList.csproj

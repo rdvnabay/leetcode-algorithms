@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         139
+ * @title      Word Break
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/word-break/
+ */
+namespace Array.Medium;
 
 public static class WordBreak
 {
@@ -9,3 +16,5 @@ public static class WordBreak
         return false;
     }
 }
+
+

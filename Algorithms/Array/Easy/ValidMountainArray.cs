@@ -1,3 +1,10 @@
+/**
+ * @id         941
+ * @title      Valid Mountain Array
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/valid-mountain-array/
+ */
 using System.Text;
 
 namespace Algorithms.Array.Easy;
@@ -44,3 +51,4 @@ public static class ValidMountainArray
         return true;
     }
 }
+

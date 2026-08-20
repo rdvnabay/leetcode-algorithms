@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         1844
+ * @title      Replace All Digits with Characters
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/replace-all-digits-with-characters/
+ */
+namespace String.Easy;
 
 public static class ReplaceAllDigitsWithCharacters
 {
@@ -20,3 +27,5 @@ public static class ReplaceAllDigitsWithCharacters
         return new string(result);
     }
 }
+
+

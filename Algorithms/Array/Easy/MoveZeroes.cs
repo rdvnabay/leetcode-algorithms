@@ -1,3 +1,10 @@
+/**
+ * @id         283
+ * @title      Move Zeroes
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/move-zeroes/
+ */
 namespace Algorithms.Array.Easy;
 
 public class MoveZeroes
@@ -22,3 +29,5 @@ public class MoveZeroes
         }
     }
 }
+
+

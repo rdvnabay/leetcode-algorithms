@@ -1,3 +1,10 @@
+/**
+ * @id         350
+ * @title      Intersection of Two Arrays II
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/intersection-of-two-arrays-ii/
+ */
 namespace Algorithms.Array.Easy;
 
 public class IntersectionOfTwoArraysII
@@ -36,3 +43,5 @@ public class IntersectionOfTwoArraysII
         return result.ToArray();
     }
 }
+
+

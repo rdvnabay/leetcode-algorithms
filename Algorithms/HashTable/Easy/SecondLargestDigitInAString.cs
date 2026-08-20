@@ -1,3 +1,10 @@
+/**
+ * @id         1796
+ * @title      Second Largest Digit in a String
+ * @topic      hash-table
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/second-largest-digit-in-a-string/
+ */
 namespace Algorithms.HashTable.Easy;
 
 public static class SecondLargestDigitInAString
@@ -22,3 +29,5 @@ public static class SecondLargestDigitInAString
         return dict.OrderByDescending(x => x.Key).Skip(1).Take(1).FirstOrDefault().Key;
     }
 }
+
+

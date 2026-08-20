@@ -1,3 +1,10 @@
+/**
+ * @id         268
+ * @title      Missing Number
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/missing-number/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class MissingNumber
@@ -10,3 +17,5 @@ public static class MissingNumber
         return allNumberTotal - numsTotal;
     }
 }
+
+

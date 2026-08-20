@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2011
+ * @title      Final Value of Variable After Performing Operations
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+ */
+namespace String.Easy;
 
 public static class FinalValueOfVariableAfterPerformingOperations
 {
@@ -26,3 +33,5 @@ public static class FinalValueOfVariableAfterPerformingOperations
         return counter;
     }
 }
+
+

@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         3174
+ * @title      Clear Digits
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/clear-digits/
+ */
+namespace String.Easy;
 
 public static class ClearDigits
 {
@@ -52,3 +59,5 @@ public static class ClearDigits
         return "";
     }
 }
+
+

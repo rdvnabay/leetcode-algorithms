@@ -1,3 +1,10 @@
+/**
+ * @id         36
+ * @title      Valid Sudoku
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/valid-sudoku/
+ */
 namespace Algorithms.Array.Medium;
 
 public static class ValidSudoku
@@ -71,3 +78,5 @@ public static class ValidSudoku
         return false;
     }
 }
+
+

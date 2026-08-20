@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         3921
+ * @title      Score Validator
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/score-validator/
+ */
+namespace String.Easy;
 
 public static class ScoreValidator
 {
@@ -34,3 +41,5 @@ public static class ScoreValidator
         return [score, counter];
     }
 }
+
+

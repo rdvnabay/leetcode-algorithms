@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         2769
+ * @title      Find the Maximum Achievable Number
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-maximum-achievable-number/
+ */
+namespace Math.Easy;
 
 public static class FindTheMaximumAchievableNumber
 {
@@ -7,3 +14,5 @@ public static class FindTheMaximumAchievableNumber
         return num + t * 2;
     }
 }
+
+

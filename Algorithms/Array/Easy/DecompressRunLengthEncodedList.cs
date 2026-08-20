@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1313
+ * @title      Decompress Run-Length Encoded List
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/decompress-run-length-encoded-list/
+ */
+namespace Array.Easy;
 
 public static class DecompressRunLengthEncodedList
 {
@@ -39,3 +46,5 @@ public static class DecompressRunLengthEncodedList
         return result;
     }
 }
+
+

@@ -1,3 +1,10 @@
+/**
+ * @id         1207
+ * @title      Unique Number of Occurrences
+ * @topic      hash-table
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/unique-number-of-occurrences/
+ */
 namespace Algorithms.HashTable.Easy;
 
 public static class UniqueNumberOfOccurrences
@@ -23,3 +30,5 @@ public static class UniqueNumberOfOccurrences
         return dict.Count == values.Count;
     }
 }
+
+

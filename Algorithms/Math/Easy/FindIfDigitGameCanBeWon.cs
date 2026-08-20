@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3232
+ * @title      Find if Digit Game Can Be Won
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-if-digit-game-can-be-won/
+ */
+namespace Math.Easy;
 
 public static class FindIfDigitGameCanBeWon
 {
@@ -19,3 +26,5 @@ public static class FindIfDigitGameCanBeWon
         return singleDigit != doubleDigit;
     }
 }
+
+

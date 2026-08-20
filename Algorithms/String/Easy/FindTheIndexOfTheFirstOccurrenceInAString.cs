@@ -1,3 +1,10 @@
+/**
+ * @id         28
+ * @title      Find the Index of the First Occurrence in a String
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+ */
 using System.Reflection;
 
 namespace Algorithms.String.Easy;
@@ -44,3 +51,5 @@ public static class FindTheIndexOfTheFirstOccurrenceInAString
         return -1;
     }
 }
+
+

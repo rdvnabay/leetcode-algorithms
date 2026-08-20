@@ -1,4 +1,11 @@
-﻿using System.Net;
+/**
+ * @id         3194
+ * @title      Minimum Average of Smallest and Largest Elements
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/
+ */
+using System.Net;
 
 namespace Array.Easy;
 
@@ -26,3 +33,5 @@ public static class MinimumAverageOfSmallestAndLargestElements
         return minAverage;
     }
 }
+
+

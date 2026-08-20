@@ -1,4 +1,11 @@
-﻿using System.Reflection.Metadata.Ecma335;
+/**
+ * @id         1304
+ * @title      Find N Unique Integers Sum up to Zero
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
+ */
+using System.Reflection.Metadata.Ecma335;
 
 namespace Array.Easy;
 
@@ -35,4 +42,6 @@ public static class FindNUniqueIntegersSumUpToZero
         return result;
     }
 }
+
+
 

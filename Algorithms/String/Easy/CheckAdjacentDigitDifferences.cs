@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         3931
+ * @title      Check Adjacent Digit Differences
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/check-adjacent-digit-differences/
+ */
+namespace String.Easy;
 
 public static class CheckAdjacentDigitDifferences
 {
@@ -17,3 +24,5 @@ public static class CheckAdjacentDigitDifferences
         return true;
     }
 }
+
+

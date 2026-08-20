@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         2657
+ * @title      Find the Prefix Common Array of Two Arrays
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/
+ */
+namespace Array.Medium;
 
 public static class FindThePrefixCommonArrayOfTwoArrays
 {
@@ -21,3 +28,5 @@ public static class FindThePrefixCommonArrayOfTwoArrays
         return result;
     }
 }
+
+

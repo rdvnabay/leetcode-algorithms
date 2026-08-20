@@ -1,3 +1,10 @@
+/**
+ * @id         506
+ * @title      Relative Ranks
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/relative-ranks/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class RelativeRanks
@@ -42,3 +49,5 @@ public static class RelativeRanks
         return scoreCopy;
     }
 }
+
+

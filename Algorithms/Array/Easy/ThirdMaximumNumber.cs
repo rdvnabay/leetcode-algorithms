@@ -1,3 +1,10 @@
+/**
+ * @id         414
+ * @title      Third Maximum Number
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/third-maximum-number/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class ThirdMaximumNumber
@@ -16,3 +23,5 @@ public static class ThirdMaximumNumber
         }
     }
 }
+
+

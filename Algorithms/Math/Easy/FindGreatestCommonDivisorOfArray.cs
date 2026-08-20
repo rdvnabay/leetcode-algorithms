@@ -1,3 +1,10 @@
+/**
+ * @id         1979
+ * @title      Find Greatest Common Divisor of Array
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class FindGreatestCommonDivisorOfArray
@@ -21,3 +28,5 @@ public static class FindGreatestCommonDivisorOfArray
         return num1;
     }
 }
+
+

@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         1816
+ * @title      Truncate Sentence
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/truncate-sentence/
+ */
+using System.Text;
 
 namespace String.Easy;
 
@@ -26,3 +33,5 @@ public static class TruncateSentence
         return sb.ToString().TrimEnd();
     }
 }
+
+

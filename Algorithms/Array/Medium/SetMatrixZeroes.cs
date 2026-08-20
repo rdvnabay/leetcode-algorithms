@@ -1,3 +1,10 @@
+/**
+ * @id         73
+ * @title      Set Matrix Zeroes
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/set-matrix-zeroes/
+ */
 namespace Algorithms.Array.Medium;
 
 public static class SetMatrixZeroes
@@ -38,3 +45,5 @@ public static class SetMatrixZeroes
         }
     }
 }
+
+

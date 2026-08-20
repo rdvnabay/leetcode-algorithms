@@ -1,3 +1,10 @@
+/**
+ * @id         944
+ * @title      Delete Columns to Make Sorted
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/delete-columns-to-make-sorted/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class DeleteColumnsToMakeSorted
@@ -22,3 +29,5 @@ public static class DeleteColumnsToMakeSorted
         return result;
     }
 }
+
+

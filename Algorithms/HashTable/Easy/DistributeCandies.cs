@@ -1,3 +1,10 @@
+/**
+ * @id         575
+ * @title      Distribute Candies
+ * @topic      hash-table
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/distribute-candies/
+ */
 namespace Algorithms.HashTable.Easy;
 
 public class DistributeCandies
@@ -10,3 +17,5 @@ public class DistributeCandies
         return System.Math.Min(candiesToTake, distinctCandyCount);
     }
 }
+
+

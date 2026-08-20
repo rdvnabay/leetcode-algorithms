@@ -1,3 +1,10 @@
+/**
+ * @id         504
+ * @title      Base 7
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/base-7/
+ */
 using System.Text;
 
 namespace Algorithms.Math.Easy;
@@ -27,3 +34,5 @@ public static class Base7
         return sb.ToString();
     }
 }
+
+

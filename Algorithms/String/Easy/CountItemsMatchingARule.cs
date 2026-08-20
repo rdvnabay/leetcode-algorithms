@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         1773
+ * @title      Count Items Matching a Rule
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-items-matching-a-rule/
+ */
+namespace String.Easy;
 
 public static class CountItemsMatchingARule
 {
@@ -30,3 +37,5 @@ public static class CountItemsMatchingARule
         return counter;
     }
 }
+
+

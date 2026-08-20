@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         1769
+ * @title      Minimum Number of Operations to Move All Balls to Each Box
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
+ */
+namespace Array.Medium;
 
 public static class MinimumNumberOfOperationsToMoveAllBallsToEachBox
 {
@@ -22,3 +29,5 @@ public static class MinimumNumberOfOperationsToMoveAllBallsToEachBox
         return result;
     }
 }
+
+

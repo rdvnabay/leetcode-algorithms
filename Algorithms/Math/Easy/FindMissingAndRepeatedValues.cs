@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         2965
+ * @title      Find Missing and Repeated Values
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-missing-and-repeated-values/
+ */
+namespace Math.Easy;
 
 public static class FindMissingAndRepeatedValues
 {
@@ -32,3 +39,5 @@ public static class FindMissingAndRepeatedValues
         };
     }
 }
+
+

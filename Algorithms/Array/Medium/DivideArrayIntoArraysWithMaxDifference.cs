@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         2966
+ * @title      Divide Array Into Arrays With Max Difference
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/
+ */
+namespace Array.Medium;
 
 public static class DivideArrayIntoArraysWithMaxDifference
 {
@@ -22,3 +29,5 @@ public static class DivideArrayIntoArraysWithMaxDifference
         return parts;
     }
 }
+
+

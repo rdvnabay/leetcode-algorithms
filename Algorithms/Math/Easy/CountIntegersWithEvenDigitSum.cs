@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         2180
+ * @title      Count Integers With Even Digit Sum
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-integers-with-even-digit-sum/
+ */
+namespace Math.Easy;
 
 public static class CountIntegersWithEvenDigitSum
 {
@@ -24,3 +31,5 @@ public static class CountIntegersWithEvenDigitSum
         return result;
     }
 }
+
+

@@ -1,7 +1,10 @@
-﻿using Algorithms.Stack.Easy;
+// Demo runner for 4 indexed solution files. Canonical ordering: LeetCode problem ID.
+using Algorithms.Stack.Easy;
 
 Console.WriteLine("=== Stack Algorithms ===");
 
 // --- Easy ------------------------------------------------------------
 BaseballGame.Run(new string[] { "5", "2", "C", "D", "+" });
 ValidParentheses.Run("(){}}{ ");
+
+

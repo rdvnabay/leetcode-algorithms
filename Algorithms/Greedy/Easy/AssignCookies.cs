@@ -1,3 +1,10 @@
+/**
+ * @id         455
+ * @title      Assign Cookies
+ * @topic      greedy
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/assign-cookies/
+ */
 namespace Algorithms.Greedy.Easy;
 
 public class AssignCookies
@@ -23,3 +30,5 @@ public class AssignCookies
         return result;
     }
 }
+
+

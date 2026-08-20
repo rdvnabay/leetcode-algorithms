@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         844
+ * @title      Backspace String Compare
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/backspace-string-compare/
+ */
+using System.Text;
 
 namespace String.Easy;
 
@@ -29,3 +36,5 @@ public static class BackspaceStringCompare
         return word1.ToString() == word2.ToString();
     }
 }
+
+

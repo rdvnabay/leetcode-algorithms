@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         2652
+ * @title      Sum Multiples
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/sum-multiples/
+ */
+namespace Math.Easy;
 
 public static class SumMultiples
 {
@@ -27,3 +34,5 @@ public static class SumMultiples
         return result;
     }
 }
+
+

@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         2843
+ * @title      Count Symmetric Integers
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-symmetric-integers/
+ */
+namespace Math.Easy;
 
 public static class CountSymmetricIntegers
 {
@@ -17,3 +24,5 @@ public static class CountSymmetricIntegers
         return 0;
     }
 }
+
+

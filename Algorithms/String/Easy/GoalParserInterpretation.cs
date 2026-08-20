@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         1678
+ * @title      Goal Parser Interpretation
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/goal-parser-interpretation/
+ */
+using System.Text;
 
 namespace String.Easy;
 
@@ -33,3 +40,5 @@ public static class GoalParserInterpretation
         return sb.ToString();
     }
 }
+
+

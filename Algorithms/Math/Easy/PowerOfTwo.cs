@@ -1,3 +1,10 @@
+/**
+ * @id         231
+ * @title      Power of Two
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/power-of-two/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class PowerOfTwo
@@ -16,3 +23,5 @@ public static class PowerOfTwo
 
     }
 }
+
+

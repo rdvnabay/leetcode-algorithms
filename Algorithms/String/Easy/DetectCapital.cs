@@ -1,3 +1,10 @@
+/**
+ * @id         520
+ * @title      Detect Capital
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/detect-capital/
+ */
 namespace Algorithms.String.Easy;
 
 public static class DetectCapital
@@ -35,3 +42,5 @@ public static class DetectCapital
         return true;
     }
 }
+
+

@@ -1,3 +1,10 @@
+/**
+ * @id         538
+ * @title      Convert BST to Greater Tree
+ * @topic      tree
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/convert-bst-to-greater-tree/
+ */
 using Algorithms.Common;
 
 namespace Algorithms.Tree.Medium;
@@ -27,3 +34,4 @@ public class ConvertBSTToGreaterTree
         return root;
     }
 }
+

@@ -1,10 +1,17 @@
+/**
+ * @id         405
+ * @title      Convert a Number to Hexadecimal
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/convert-a-number-to-hexadecimal/
+ */
 using System.Text;
 
 namespace Algorithms.Math.Easy;
 
 public static class ConvertANumberToHexadecimal
 {
-    //num negatif sayý gelme durumu ele alýnacak!
+    //num negatif sayï¿½ gelme durumu ele alï¿½nacak!
     public static string Run(int num)
     {
         StringBuilder sb = new();
@@ -28,3 +35,5 @@ public static class ConvertANumberToHexadecimal
 
     }
 }
+
+

@@ -1,3 +1,10 @@
+/**
+ * @id         1346
+ * @title      Check If N and Its Double Exist
+ * @topic      hash-table
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/check-if-n-and-its-double-exist/
+ */
 namespace Algorithms.HashTable.Easy;
 
 public static class CheckIfNAndItsDoubleExist
@@ -48,3 +55,5 @@ public static class CheckIfNAndItsDoubleExist
         return false;
     }
 }
+
+

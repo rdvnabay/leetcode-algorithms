@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         3726
+ * @title      Remove Zeros in Decimal Representation
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/remove-zeros-in-decimal-representation/
+ */
+using System.Text;
 
 namespace Math.Easy;
 
@@ -37,3 +44,5 @@ public static class RemoveZerosInDecimalRepresentation
         return long.Parse(new string(sb.ToString().Reverse().ToArray()));
     }
 }
+
+

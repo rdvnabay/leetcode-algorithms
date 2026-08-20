@@ -1,3 +1,10 @@
+/**
+ * @id         2578
+ * @title      Split With Minimum Sum
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/split-with-minimum-sum/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class SplitWithMinimumSum
@@ -28,3 +35,5 @@ public static class SplitWithMinimumSum
         return total;
     }
 }
+
+

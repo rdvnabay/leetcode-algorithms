@@ -1,3 +1,10 @@
+/**
+ * @id         119
+ * @title      Pascal's Triangle II
+ * @topic      dynamic-programming
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/pascals-triangle-ii/
+ */
 using System.Numerics;
 
 namespace Algorithms.DynamicProgramming.Easy;
@@ -27,3 +34,5 @@ public static class PascalsTriangleII
         return result;
     }
 }
+
+

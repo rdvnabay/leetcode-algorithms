@@ -1,3 +1,10 @@
+/**
+ * @id         70
+ * @title      Climbing Stairs
+ * @topic      dynamic-programming
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/climbing-stairs/
+ */
 namespace Algorithms.DynamicProgramming.Easy;
 
 public static class ClimbingStairs
@@ -14,3 +21,5 @@ public static class ClimbingStairs
         return arr[n];
     }
 }
+
+

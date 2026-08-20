@@ -1,3 +1,10 @@
+/**
+ * @id         15
+ * @title      3Sum
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/3sum/
+ */
 namespace Algorithms.Array.Medium;
 
 public static class _3Sum
@@ -77,3 +84,5 @@ public static class _3Sum
         return result.ToArray();
     }
 }
+
+

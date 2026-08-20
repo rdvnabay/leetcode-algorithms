@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         1876
+ * @title      Substrings of Size Three with Distinct Characters
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
+ */
+namespace String.Easy;
 
 public static class SubstringsOfSizeThreeWithDistinctCharacters
 {
@@ -19,3 +26,5 @@ public static class SubstringsOfSizeThreeWithDistinctCharacters
         return counter;
     }
 }
+
+

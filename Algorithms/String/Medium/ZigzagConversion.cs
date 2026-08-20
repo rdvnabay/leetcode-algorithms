@@ -1,3 +1,10 @@
+/**
+ * @id         6
+ * @title      Zigzag Conversion
+ * @topic      string
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/zigzag-conversion/
+ */
 using static System.String;
 namespace Algorithms.String.Medium;
 
@@ -26,3 +33,5 @@ public static class ZigzagConversion
         return string.Join("", result);
     }
 }
+
+

@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2194
+ * @title      Cells in a Range on an Excel Sheet
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
+ */
+namespace String.Easy;
 
 public static class CellsInARangeOnAnExcelSheet
 {
@@ -21,3 +28,5 @@ public static class CellsInARangeOnAnExcelSheet
         return result;
     }
 }
+
+

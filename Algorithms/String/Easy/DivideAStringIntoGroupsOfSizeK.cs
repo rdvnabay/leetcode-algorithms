@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2138
+ * @title      Divide a String Into Groups of Size k
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/
+ */
+namespace String.Easy;
 
 public static class DivideAStringIntoGroupsOfSizeK
 {
@@ -32,3 +39,5 @@ public static class DivideAStringIntoGroupsOfSizeK
         return null;
     }
 }
+
+

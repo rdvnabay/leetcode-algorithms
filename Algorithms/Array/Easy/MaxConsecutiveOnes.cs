@@ -1,3 +1,10 @@
+/**
+ * @id         485
+ * @title      Max Consecutive Ones
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/max-consecutive-ones/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class MaxConsecutiveOnes
@@ -30,3 +37,5 @@ public static class MaxConsecutiveOnes
         return max;
     }
 }
+
+

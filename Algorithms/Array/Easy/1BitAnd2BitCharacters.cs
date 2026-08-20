@@ -1,3 +1,10 @@
+/**
+ * @id         717
+ * @title      1-bit and 2-bit Characters
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/1-bit-and-2-bit-characters/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class _1BitAnd2BitCharacters
@@ -22,3 +29,5 @@ public static class _1BitAnd2BitCharacters
         return result == 0;
     }
 }
+
+

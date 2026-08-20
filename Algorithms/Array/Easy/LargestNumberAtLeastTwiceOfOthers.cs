@@ -1,3 +1,10 @@
+/**
+ * @id         747
+ * @title      Largest Number At Least Twice of Others
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/largest-number-at-least-twice-of-others/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class LargestNumberAtLeastTwiceOfOthers
@@ -28,3 +35,5 @@ public static class LargestNumberAtLeastTwiceOfOthers
         return maxNumberIndex;
     }
 }
+
+

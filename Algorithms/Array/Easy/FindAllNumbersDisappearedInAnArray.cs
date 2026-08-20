@@ -1,3 +1,10 @@
+/**
+ * @id         448
+ * @title      Find All Numbers Disappeared in an Array
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+ */
 namespace Algorithms.Array.Easy;
 
 public class FindAllNumbersDisappearedInAnArray
@@ -22,3 +29,5 @@ public class FindAllNumbersDisappearedInAnArray
         return result;
     }
 }
+
+

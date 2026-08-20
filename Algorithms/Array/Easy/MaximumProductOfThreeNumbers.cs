@@ -1,3 +1,10 @@
+/**
+ * @id         628
+ * @title      Maximum Product of Three Numbers
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-product-of-three-numbers/
+ */
 namespace Algorithms.Array.Easy;
 
 public class MaximumProductOfThreeNumbers
@@ -13,3 +20,5 @@ public class MaximumProductOfThreeNumbers
         return System.Math.Max(result1, result2);
     }
 }
+
+

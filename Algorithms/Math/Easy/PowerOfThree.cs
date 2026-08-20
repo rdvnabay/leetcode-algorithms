@@ -1,3 +1,10 @@
+/**
+ * @id         326
+ * @title      Power of Three
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/power-of-three/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class PowerOfThree
@@ -20,3 +27,5 @@ public static class PowerOfThree
         return true;
     }
 }
+
+

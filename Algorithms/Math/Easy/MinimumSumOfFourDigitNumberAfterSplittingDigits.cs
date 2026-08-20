@@ -1,3 +1,10 @@
+/**
+ * @id         2160
+ * @title      Minimum Sum of Four Digit Number After Splitting Digits
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class MinimumSumOfFourDigitNumberAfterSplittingDigits
@@ -21,3 +28,5 @@ public static class MinimumSumOfFourDigitNumberAfterSplittingDigits
         return num1 + num2;
     }
 }
+
+

@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         3541
+ * @title      Find Most Frequent Vowel and Consonant
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/
+ */
+namespace String.Easy;
 
 public static class FindMostFrequentVowelAndConsonant
 {
@@ -44,3 +51,5 @@ public static class FindMostFrequentVowelAndConsonant
         return maxVowelCount + maxConsonantCount;
     }
 }
+
+

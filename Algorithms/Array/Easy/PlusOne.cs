@@ -1,3 +1,10 @@
+/**
+ * @id         66
+ * @title      Plus One
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/plus-one/
+ */
 using System.Numerics;
 namespace Algorithms.Array.Easy;
 
@@ -17,3 +24,5 @@ public class PlusOne
         return System.Array.ConvertAll(output.ToString().ToArray(), x => (int)x - 48);
     }
 }
+
+

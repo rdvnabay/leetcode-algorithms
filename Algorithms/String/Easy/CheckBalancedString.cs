@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         3340
+ * @title      Check Balanced String
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/check-balanced-string/
+ */
+namespace String.Easy;
 
 public static class CheckBalancedString
 {
@@ -20,3 +27,5 @@ public static class CheckBalancedString
         return totalOdd == totalEven;
     }
 }
+
+

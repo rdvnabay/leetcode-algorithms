@@ -1,3 +1,10 @@
+/**
+ * @id         55
+ * @title      Jump Game
+ * @topic      greedy
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/jump-game/
+ */
 namespace Algorithms.Greedy.Easy;
 
 public static class JumpGame
@@ -16,3 +23,5 @@ public static class JumpGame
         return false;
     }
 }
+
+

@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         1684
+ * @title      Count the Number of Consistent Strings
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-the-number-of-consistent-strings/
+ */
+namespace String.Easy;
 
 public static class CountTheNumberOfConsistentStrings
 {
@@ -27,3 +34,5 @@ public static class CountTheNumberOfConsistentStrings
         return counter;
     }
 }
+
+

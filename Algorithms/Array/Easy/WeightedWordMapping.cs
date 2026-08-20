@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3838
+ * @title      Weighted Word Mapping
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/weighted-word-mapping/
+ */
+namespace Array.Easy;
 
 public static class WeightedWordMapping
 {
@@ -26,3 +33,5 @@ public static class WeightedWordMapping
         return new string(result);
     }
 }
+
+

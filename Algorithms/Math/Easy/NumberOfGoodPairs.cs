@@ -1,3 +1,10 @@
+/**
+ * @id         1512
+ * @title      Number of Good Pairs
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/number-of-good-pairs/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class NumberOfGoodPairs
@@ -18,3 +25,5 @@ public static class NumberOfGoodPairs
         return result;
     }
 }
+
+

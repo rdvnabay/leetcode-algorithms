@@ -1,3 +1,10 @@
+/**
+ * @id         1528
+ * @title      Shuffle String
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/shuffle-string/
+ */
 namespace Algorithms.String.Easy;
 
 public static class ShuffleString
@@ -12,3 +19,5 @@ public static class ShuffleString
         return new string(charArray);
     }
 }
+
+

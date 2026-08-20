@@ -1,3 +1,10 @@
+/**
+ * @id         26
+ * @title      Remove Duplicates from Sorted Array
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+ */
 namespace Algorithms.Array.Easy;
 
 public class RemoveDuplicatesFromSortedArray
@@ -20,3 +27,5 @@ public class RemoveDuplicatesFromSortedArray
         return nums.Length;
     }
 }
+
+

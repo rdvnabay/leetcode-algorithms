@@ -1,4 +1,5 @@
-﻿using Algorithms.HashTable.Easy;
+// Demo runner for 18 indexed solution files. Canonical ordering: LeetCode problem ID.
+using Algorithms.HashTable.Easy;
 using Algorithms.HashTable.Hard;
 
 Console.WriteLine("=== HashTable Algorithms ===");
@@ -18,3 +19,5 @@ UniqueNumberOfOccurrences.Run(new int[] { 1, 2, 2, 1, 1, 3, 3 });
 VerifyingAnAlienDictionary.Run(new string[] { "hello", "leetcode" }, "hlabcdefgijkmnopqrstuvwxyz");
 
 // --- Hard ------------------------------------------------------------
+
+

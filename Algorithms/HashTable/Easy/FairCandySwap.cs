@@ -1,3 +1,10 @@
+/**
+ * @id         888
+ * @title      Fair Candy Swap
+ * @topic      hash-table
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/fair-candy-swap/
+ */
 namespace Algorithms.HashTable.Easy;
 
 public static class FairCandySwap
@@ -26,3 +33,5 @@ public static class FairCandySwap
         return result;
     }
 }
+
+

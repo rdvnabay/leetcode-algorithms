@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1470
+ * @title      Shuffle the Array
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/shuffle-the-array/
+ */
+namespace Array.Easy;
 
 public static class ShuffleTheArray
 {
@@ -15,3 +22,5 @@ public static class ShuffleTheArray
         return result;
     }
 }
+
+

@@ -1,3 +1,10 @@
+/**
+ * @id         217
+ * @title      Contains Duplicate
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/contains-duplicate/
+ */
 namespace Algorithms.Array.Easy;
 
 public class ContainsDuplicate
@@ -21,3 +28,5 @@ public class ContainsDuplicate
         */
     }
 }
+
+

@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         1742
+ * @title      Maximum Number of Balls in a Box
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
+ */
+namespace Math.Easy;
 
 public static class MaximumNumberOfBallsInABox
 {
@@ -27,3 +34,5 @@ public static class MaximumNumberOfBallsInABox
         return dict.Max(x => x.Value);
     }
 }
+
+

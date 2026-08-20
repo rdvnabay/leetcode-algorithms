@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1464
+ * @title      Maximum Product of Two Elements in an Array
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
+ */
+namespace Array.Easy;
 
 public static class MaximumProductOfTwoElementsInAnArray
 {
@@ -19,3 +26,5 @@ public static class MaximumProductOfTwoElementsInAnArray
         return maxValue;
     }
 }
+
+

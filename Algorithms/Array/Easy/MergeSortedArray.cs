@@ -1,3 +1,10 @@
+/**
+ * @id         88
+ * @title      Merge Sorted Array
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/merge-sorted-array/
+ */
 namespace Algorithms.Array.Easy;
 
 public class MergeSortedArray
@@ -30,3 +37,4 @@ public class MergeSortedArray
         }
     }
 }
+

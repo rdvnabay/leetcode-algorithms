@@ -1,3 +1,10 @@
+/**
+ * @id         1207
+ * @title      Unique Number of Occurrences
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/unique-number-of-occurrences/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class UniqueNumberOfOccurrences
@@ -34,3 +41,5 @@ public static class UniqueNumberOfOccurrences
         return false;
     }
 }
+
+

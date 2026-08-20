@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2042
+ * @title      Check if Numbers Are Ascending in a Sentence
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
+ */
+namespace String.Easy;
 
 public static class CheckIfNumbersAreAscendingInASentence
 {
@@ -23,3 +30,5 @@ public static class CheckIfNumbersAreAscendingInASentence
         return true;
     }
 }
+
+

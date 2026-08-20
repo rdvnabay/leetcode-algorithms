@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         3895
+ * @title      Count Digit Appearances
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/count-digit-appearances/
+ */
+namespace Array.Medium;
 
 public static class CountDigitAppearances
 {
@@ -23,3 +30,5 @@ public static class CountDigitAppearances
         return total;
     }
 }
+
+

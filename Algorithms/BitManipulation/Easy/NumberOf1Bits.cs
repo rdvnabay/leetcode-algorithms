@@ -1,3 +1,10 @@
+/**
+ * @id         191
+ * @title      Number of 1 Bits
+ * @topic      bit-manipulation
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/number-of-1-bits/
+ */
 namespace Algorithms.BitManipulation.Easy;
 
 public static class NumberOf1Bits
@@ -16,3 +23,5 @@ public static class NumberOf1Bits
         return countOfOnes;
     }
 }
+
+

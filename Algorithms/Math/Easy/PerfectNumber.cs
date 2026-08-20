@@ -1,3 +1,10 @@
+/**
+ * @id         507
+ * @title      Perfect Number
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/perfect-number/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class PerfectNumber
@@ -32,3 +39,5 @@ public static class PerfectNumber
         return total == num;
     }
 }
+
+

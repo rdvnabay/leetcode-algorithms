@@ -1,3 +1,10 @@
+/**
+ * @id         1005
+ * @title      Maximize Sum Of Array After K Negations
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class MaximizeSumOfArrayAfterKNegations
@@ -65,3 +72,5 @@ public static class MaximizeSumOfArrayAfterKNegations
         }
     }
 }
+
+

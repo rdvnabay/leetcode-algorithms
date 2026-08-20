@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2942
+ * @title      Find Words Containing Character
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-words-containing-character/
+ */
+namespace String.Easy;
 
 public static class FindWordsContainingCharacter
 {
@@ -21,3 +28,5 @@ public static class FindWordsContainingCharacter
         return result;
     }
 }
+
+

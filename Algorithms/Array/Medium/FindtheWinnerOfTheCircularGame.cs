@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         1823
+ * @title      Find the Winner of the Circular Game
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/find-the-winner-of-the-circular-game/
+ */
+namespace Array.Medium;
 
 public static class FindtheWinnerOfTheCircularGame
 {
@@ -29,3 +36,5 @@ public static class FindtheWinnerOfTheCircularGame
         return list[0];
     }
 }
+
+

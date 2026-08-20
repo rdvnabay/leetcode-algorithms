@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2053
+ * @title      Kth Distinct String in an Array
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/kth-distinct-string-in-an-array/
+ */
+namespace String.Easy;
 
 public static class KthDistinctStringInAnArray
 {
@@ -27,3 +34,5 @@ public static class KthDistinctStringInAnArray
         return distinct[k - 1];
     }
 }
+
+

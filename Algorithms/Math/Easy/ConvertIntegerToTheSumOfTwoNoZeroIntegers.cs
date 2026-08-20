@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         1317
+ * @title      Convert Integer to the Sum of Two No-Zero Integers
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/
+ */
+namespace Math.Easy;
 
 public static class ConvertIntegerToTheSumOfTwoNoZeroIntegers
 {
@@ -27,3 +34,5 @@ public static class ConvertIntegerToTheSumOfTwoNoZeroIntegers
         return new int[] { a, b };
     }
 }
+
+

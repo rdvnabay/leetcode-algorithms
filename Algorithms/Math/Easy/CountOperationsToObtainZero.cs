@@ -1,3 +1,10 @@
+/**
+ * @id         2169
+ * @title      Count Operations to Obtain Zero
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-operations-to-obtain-zero/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class CountOperationsToObtainZero
@@ -22,3 +29,5 @@ public static class CountOperationsToObtainZero
         return counter;
     }
 }
+
+

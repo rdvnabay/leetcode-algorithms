@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         2520
+ * @title      Count the Digits That Divide a Number
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-the-digits-that-divide-a-number/
+ */
+namespace Math.Easy;
 
 public static class CountTheDigitsThatDivideANumber
 {
@@ -19,3 +26,5 @@ public static class CountTheDigitsThatDivideANumber
         return counter;
     }
 }
+
+

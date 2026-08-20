@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         2739
+ * @title      Total Distance Traveled
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/total-distance-traveled/
+ */
+namespace Math.Easy;
 
 public static class TotalDistanceTraveled
 {
@@ -15,3 +22,5 @@ public static class TotalDistanceTraveled
         return (mainTank + additionalTank) * 10;
     }
 }
+
+

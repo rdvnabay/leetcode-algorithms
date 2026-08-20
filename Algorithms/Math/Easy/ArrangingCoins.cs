@@ -1,3 +1,10 @@
+/**
+ * @id         441
+ * @title      Arranging Coins
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/arranging-coins/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class ArrangingCoins
@@ -16,3 +23,5 @@ public static class ArrangingCoins
         return counter - 1;
     }
 }
+
+

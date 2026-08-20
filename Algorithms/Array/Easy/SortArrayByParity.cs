@@ -1,3 +1,10 @@
+/**
+ * @id         905
+ * @title      Sort Array By Parity
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/sort-array-by-parity/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class SortArrayByParity
@@ -20,3 +27,5 @@ public static class SortArrayByParity
         return nums;
     }
 }
+
+

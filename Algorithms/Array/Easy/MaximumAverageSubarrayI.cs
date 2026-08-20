@@ -1,3 +1,10 @@
+/**
+ * @id         643
+ * @title      Maximum Average Subarray I
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-average-subarray-i/
+ */
 namespace Algorithms.Array.Easy;
 
 public class MaximumAverageSubarrayI
@@ -24,3 +31,5 @@ public class MaximumAverageSubarrayI
         return maxAverage;
     }
 }
+
+

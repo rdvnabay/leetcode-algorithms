@@ -1,3 +1,10 @@
+/**
+ * @id         674
+ * @title      Longest Continuous Increasing Subsequence
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/longest-continuous-increasing-subsequence/
+ */
 namespace Algorithms.Array.Easy;
 
 public class LongestContinuousIncreasingSubsequence
@@ -26,3 +33,5 @@ public class LongestContinuousIncreasingSubsequence
         return System.Math.Max(result, counter);
     }
 }
+
+

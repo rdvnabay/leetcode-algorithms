@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         830
+ * @title      Positions of Large Groups
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/positions-of-large-groups/
+ */
+namespace String.Easy;
 
 public static class PositionsOfLargeGroups
 {
@@ -38,3 +45,5 @@ public static class PositionsOfLargeGroups
         return result;
     }
 }
+
+

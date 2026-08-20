@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3516
+ * @title      Find Closest Person
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-closest-person/
+ */
+namespace Math.Easy;
 
 public static class FindClosestPerson
 {
@@ -14,3 +21,5 @@ public static class FindClosestPerson
         return first > second ? 1 : 2;
     }
 }
+
+

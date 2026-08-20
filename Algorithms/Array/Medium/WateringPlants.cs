@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         2079
+ * @title      Watering Plants
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/watering-plants/
+ */
+namespace Array.Medium;
 
 public static class WateringPlants
 {
@@ -29,3 +36,5 @@ public static class WateringPlants
         return totalStep;
     }
 }
+
+

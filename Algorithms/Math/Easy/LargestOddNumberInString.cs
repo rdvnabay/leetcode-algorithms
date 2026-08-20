@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         1903
+ * @title      Largest Odd Number in String
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/largest-odd-number-in-string/
+ */
+namespace Math.Easy;
 
 public static class LargestOddNumberInString
 {
@@ -47,3 +54,5 @@ public static class LargestOddNumberInString
         return new string(resultChar);
     }
 }
+
+

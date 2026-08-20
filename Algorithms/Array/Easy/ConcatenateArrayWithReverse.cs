@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3925
+ * @title      Concatenate Array With Reverse
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/concatenate-array-with-reverse/
+ */
+namespace Array.Easy;
 
 public static class ConcatenateArrayWithReverse
 {
@@ -16,3 +23,5 @@ public static class ConcatenateArrayWithReverse
         return result;
     }
 }
+
+

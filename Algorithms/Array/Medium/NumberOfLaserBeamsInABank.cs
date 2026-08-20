@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         2125
+ * @title      Number of Laser Beams in a Bank
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
+ */
+namespace Array.Medium;
 
 public static class NumberOfLaserBeamsInABank
 {
@@ -40,3 +47,4 @@ public static class NumberOfLaserBeamsInABank
         return result;
     }
 }
+

@@ -1,3 +1,10 @@
+/**
+ * @id         697
+ * @title      Degree of an Array
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/degree-of-an-array/
+ */
 namespace Algorithms.Array.Easy;
 
 public class DegreeOfAnArray
@@ -55,3 +62,4 @@ public class NumberInfo
     public int FirstIndex;
     public int LastIndex;
 }
+

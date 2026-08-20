@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         821
+ * @title      Shortest Distance to a Character
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/shortest-distance-to-a-character/
+ */
+namespace String.Easy;
 
 public static class ShortestDistanceToACharacter
 {
@@ -43,3 +50,5 @@ public static class ShortestDistanceToACharacter
         return null;
     }
 }
+
+

@@ -1,3 +1,10 @@
+/**
+ * @id         989
+ * @title      Add to Array-Form of Integer
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/add-to-array-form-of-integer/
+ */
 using System.Numerics;
 using System.Text;
 
@@ -24,3 +31,5 @@ public static class AddToArrayFormOfInteger
         return result;
     }
 }
+
+

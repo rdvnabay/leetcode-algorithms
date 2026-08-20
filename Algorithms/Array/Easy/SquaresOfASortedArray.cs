@@ -1,3 +1,10 @@
+/**
+ * @id         977
+ * @title      Squares of a Sorted Array
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/squares-of-a-sorted-array/
+ */
 using System.Collections.Immutable;
 
 namespace Algorithms.Array.Easy;
@@ -29,3 +36,5 @@ public static class SquaresOfASortedArray
         return nums;
     }
 }
+
+

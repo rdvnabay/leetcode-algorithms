@@ -1,3 +1,10 @@
+/**
+ * @id         1122
+ * @title      Relative Sort Array
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/relative-sort-array/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class RelativeSortArray
@@ -38,3 +45,5 @@ public static class RelativeSortArray
         return arr1;
     }
 }
+
+

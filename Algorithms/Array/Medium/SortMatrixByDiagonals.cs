@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         3446
+ * @title      Sort Matrix by Diagonals
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/sort-matrix-by-diagonals/
+ */
+namespace Array.Medium;
 
 public static class SortMatrixByDiagonals
 {
@@ -27,3 +34,5 @@ public static class SortMatrixByDiagonals
         return null;
     }
 }
+
+

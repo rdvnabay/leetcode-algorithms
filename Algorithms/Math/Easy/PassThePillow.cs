@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         2582
+ * @title      Pass the Pillow
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/pass-the-pillow/
+ */
+namespace Math.Easy;
 
 public static class PassThePillow
 {
@@ -28,3 +35,5 @@ public static class PassThePillow
         return -1;
     }
 }
+
+

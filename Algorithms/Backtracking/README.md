@@ -1,29 +1,20 @@
-﻿# Backtracking Algorithms
+# Backtracking Algorithms
 
-Collection of LeetCode solutions categorized under the **Backtracking** topic.
+LeetCode solutions indexed by problem number. File names remain descriptive and alphabetic-friendly.
 
 ## Summary
 
-| Metric | Count |
-|--------|-------|
-| Total Solutions | **1** |
-| Easy | **0** |
-| Medium | **1** |
-| Hard | **0** |
-
----
+| Solution files | Easy | Medium | Hard |
+|---:|---:|---:|---:|
+| 1 | 0 | 1 | 0 |
 
 ## Solutions
 
-| # | Difficulty | Problem | Solution File |
-|---|-----------|---------|---------------|
-| 1 | Medium | Letter Combinations Of APhone Number | [LetterCombinationsOfAPhoneNumber.cs](Medium/LetterCombinationsOfAPhoneNumber.cs) |
+| ID | Problem | Difficulty | Status | Solution |
+|---:|---|---|---|---|
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Incomplete | [LetterCombinationsOfAPhoneNumber.cs](Medium/LetterCombinationsOfAPhoneNumber.cs) |
 
----
-
-## How to Run
-
-Execute the Backtracking console project from the repository root:
+## Run
 
 ```bash
 dotnet run --project Algorithms/Backtracking/Backtracking.csproj

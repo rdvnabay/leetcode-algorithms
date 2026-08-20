@@ -1,3 +1,10 @@
+/**
+ * @id         58
+ * @title      Length of Last Word
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/length-of-last-word/
+ */
 namespace Algorithms.String.Easy;
 
 public class LengthOfLastWord
@@ -30,3 +37,5 @@ public class LengthOfLastWord
 
     private static int SolutionTwo(string s) => s.Trim().Split(' ').Last().Count();
 }
+
+

@@ -1,32 +1,23 @@
-﻿# DynamicProgramming Algorithms
+# DynamicProgramming Algorithms
 
-Collection of LeetCode solutions categorized under the **DynamicProgramming** topic.
+LeetCode solutions indexed by problem number. File names remain descriptive and alphabetic-friendly.
 
 ## Summary
 
-| Metric | Count |
-|--------|-------|
-| Total Solutions | **4** |
-| Easy | **4** |
-| Medium | **0** |
-| Hard | **0** |
-
----
+| Solution files | Easy | Medium | Hard |
+|---:|---:|---:|---:|
+| 4 | 4 | 0 | 0 |
 
 ## Solutions
 
-| # | Difficulty | Problem | Solution File |
-|---|-----------|---------|---------------|
-| 1 | Easy | Best Time To Buy And Sell Stock | [BestTimeToBuyAndSellStock.cs](Easy/BestTimeToBuyAndSellStock.cs) |
-| 2 | Easy | Climbing Stairs | [ClimbingStairs.cs](Easy/ClimbingStairs.cs) |
-| 3 | Easy | Min Cost Climbing Stairs | [MinCostClimbingStairs.cs](Easy/MinCostClimbingStairs.cs) |
-| 4 | Easy | Pascals Triangle II | [PascalsTriangleII.cs](Easy/PascalsTriangleII.cs) |
+| ID | Problem | Difficulty | Status | Solution |
+|---:|---|---|---|---|
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Implemented | [ClimbingStairs.cs](Easy/ClimbingStairs.cs) |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | Implemented | [PascalsTriangleII.cs](Easy/PascalsTriangleII.cs) |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Implemented | [BestTimeToBuyAndSellStock.cs](Easy/BestTimeToBuyAndSellStock.cs) |
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | Implemented | [MinCostClimbingStairs.cs](Easy/MinCostClimbingStairs.cs) |
 
----
-
-## How to Run
-
-Execute the DynamicProgramming console project from the repository root:
+## Run
 
 ```bash
 dotnet run --project Algorithms/DynamicProgramming/DynamicProgramming.csproj

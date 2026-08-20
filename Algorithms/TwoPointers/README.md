@@ -1,29 +1,20 @@
-﻿# TwoPointers Algorithms
+# TwoPointers Algorithms
 
-Collection of LeetCode solutions categorized under the **TwoPointers** topic.
+LeetCode solutions indexed by problem number. File names remain descriptive and alphabetic-friendly.
 
 ## Summary
 
-| Metric | Count |
-|--------|-------|
-| Total Solutions | **1** |
-| Easy | **1** |
-| Medium | **0** |
-| Hard | **0** |
-
----
+| Solution files | Easy | Medium | Hard |
+|---:|---:|---:|---:|
+| 1 | 1 | 0 | 0 |
 
 ## Solutions
 
-| # | Difficulty | Problem | Solution File |
-|---|-----------|---------|---------------|
-| 1 | Easy | Is Subsequence | [IsSubsequence.cs](Easy/IsSubsequence.cs) |
+| ID | Problem | Difficulty | Status | Solution |
+|---:|---|---|---|---|
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | Implemented | [IsSubsequence.cs](Easy/IsSubsequence.cs) |
 
----
-
-## How to Run
-
-Execute the TwoPointers console project from the repository root:
+## Run
 
 ```bash
 dotnet run --project Algorithms/TwoPointers/TwoPointers.csproj

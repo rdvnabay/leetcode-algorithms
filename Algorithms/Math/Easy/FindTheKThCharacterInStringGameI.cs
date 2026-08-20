@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3304
+ * @title      Find the K-th Character in String Game I
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/
+ */
+namespace Math.Easy;
 
 public static class FindTheKThCharacterInStringGameI
 {
@@ -20,3 +27,5 @@ public static class FindTheKThCharacterInStringGameI
         return ' ';
     }
 }
+
+
