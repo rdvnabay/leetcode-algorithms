@@ -77,9 +77,11 @@ ConvertIntegerToTheSumOfTwoNoZeroIntegers.Run(505);
 AccountBalanceAfterRoundedPurchase.Run(9);
 MinimumCutsToDivideACircle.Run(4);
 CountOddNumbersInAnIntervalRange.Run(3, 7);
-FindTheWinningPlayerInCoinGame.Run(2,7);
+FindTheWinningPlayerInCoinGame.Run(2, 7);
 CheckIfTheNumberIsFascinating.Run(192);
 StoneRemovalGame.Run(12);
+TotalDistanceTraveled.Run(5, 10);
+DistributeMoneyToMaximumChildren.Run(12, 3);
 
 
 // --- Medium ------------------------------------------------------------
