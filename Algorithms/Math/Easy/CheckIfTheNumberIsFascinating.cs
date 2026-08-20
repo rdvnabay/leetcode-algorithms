@@ -11,4 +11,10 @@ public static class CheckIfTheNumberIsFascinating
             !set.Contains('0') &&
              set.Count == 9;
     }
+
+    //Alternative solutions
+    static bool Solution2(int n)
+    {
+        return $"{n}{n * 2}{n * 3}".OrderBy(x => x).SequenceEqual("123456789");
+    }
 }
