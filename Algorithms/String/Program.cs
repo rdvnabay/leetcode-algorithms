@@ -59,7 +59,7 @@ CheckIfAStringIsAnAcronymOfWords.Run(new List<string>() { "alice", "bob", "charl
 CheckBalancedString.Run("1234");
 MaximumOddBinaryNumber.Run("0101");
 ReplaceAllDigitsWithCharacters.Run("a1b2c3d4e");
-ClearDigits.Run("cb34");
+ClearDigits.Run("abc3d");
 SnakeInMatrix.Run(3, new List<string>() { "DOWN", "RIGHT", "UP" });
 KthDistinctStringInAnArray.Run(new string[] { "d", "b", "c", "b", "c", "a" }, 2);
 NumberOfChangingKeys.Run("aAbBcC");
@@ -81,6 +81,7 @@ ReverseStringPrefix.Run("abcd", 2);
 IncreasingDecreasingString.Run("aaaabbbbcccc");
 DivideAStringIntoGroupsOfSizeK.Run("abcdefghi", 3, 'x');
 CalculateDigitSumOfAString.Run("11111222223", 3);
+FindMaximumNumberOfStringPairs.Run(new string[] { "cd", "ac", "dc", "ca", "zz" });
 
 
 // --- Medium ------------------------------------------------------------
