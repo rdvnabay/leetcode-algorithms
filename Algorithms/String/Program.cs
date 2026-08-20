@@ -83,6 +83,7 @@ DivideAStringIntoGroupsOfSizeK.Run("abcdefghi", 3, 'x');
 CalculateDigitSumOfAString.Run("11111222223", 3);
 FindMaximumNumberOfStringPairs.Run(new string[] { "cd", "ac", "dc", "ca", "zz" });
 ScoreValidator.Run(new string[] { "1", "4", "W", "6", "WD" });
+CheckIfNumbersAreAscendingInASentence.Run("1 box has 3 blue 4 red 6 green and 12 yellow marbles");
 
 
 // --- Medium ------------------------------------------------------------

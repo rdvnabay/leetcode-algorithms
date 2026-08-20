@@ -2,7 +2,6 @@
 
 public static class ScoreValidator
 {
-    //"1","4","W","6","WD"
     public static int[] Run(string[] events)
     {
         int score = 0;
