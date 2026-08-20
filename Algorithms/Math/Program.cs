@@ -78,6 +78,7 @@ AccountBalanceAfterRoundedPurchase.Run(9);
 MinimumCutsToDivideACircle.Run(4);
 CountOddNumbersInAnIntervalRange.Run(3, 7);
 FindTheWinningPlayerInCoinGame.Run(2,7);
+CheckIfTheNumberIsFascinating.Run(192);
 
 
 // --- Medium ------------------------------------------------------------
