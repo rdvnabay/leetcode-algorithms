@@ -72,6 +72,7 @@ CountCommasInRange.Run(1002);
 DistributeCandiesToPeople.Run(10, 3);
 ComputeDecimalRepresentation.Run(537);
 CountDistinctNumbersOnBoard.Run(5);
+KItemsWithTheMaximumSum.Run(6, 6, 6, 13);
 
 
 // --- Medium ------------------------------------------------------------
