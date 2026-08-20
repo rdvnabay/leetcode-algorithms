@@ -82,6 +82,7 @@ IncreasingDecreasingString.Run("aaaabbbbcccc");
 DivideAStringIntoGroupsOfSizeK.Run("abcdefghi", 3, 'x');
 CalculateDigitSumOfAString.Run("11111222223", 3);
 FindMaximumNumberOfStringPairs.Run(new string[] { "cd", "ac", "dc", "ca", "zz" });
+ScoreValidator.Run(new string[] { "1", "4", "W", "6", "WD" });
 
 
 // --- Medium ------------------------------------------------------------
