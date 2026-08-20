@@ -10,20 +10,20 @@ public static class PassThePillow
 
 
 
-        for (int i = 1; i <= n;)
-        {
-            int current = i;
-            //if (i == 1)
-            //    i++;
+        //for (int i = 1; i <= n;)
+        //{
+        //    int current = i;
+        //    //if (i == 1)
+        //    //    i++;
 
-            //else if (i == n)
-            //    i--;
+        //    //else if (i == n)
+        //    //    i--;
 
-            //time--;
+        //    //time--;
 
-            //if (time == 0)
-            //    return i;
-        }
+        //    //if (time == 0)
+        //    //    return i;
+        //}
 
         return -1;
     }

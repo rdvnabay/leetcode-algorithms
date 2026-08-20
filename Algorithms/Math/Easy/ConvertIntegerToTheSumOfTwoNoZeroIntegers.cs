@@ -11,18 +11,18 @@ public static class ConvertIntegerToTheSumOfTwoNoZeroIntegers
         int tempA = a;
         int tempB = b;
 
-        while (tempA > 0)
-        {
-            if (a % 10 == 0 || b % 10 == 0)
-            {
-                a += 1;
-                b -= 1;
-            }
-            else
-            {
-                break;
-            }
-        }
+        //while (tempA > 0)
+        //{
+        //    if (a % 10 == 0 || b % 10 == 0)
+        //    {
+        //        a += 1;
+        //        b -= 1;
+        //    }
+        //    else
+        //    {
+        //        break;
+        //    }
+        //}
 
         return new int[] { a, b };
     }
