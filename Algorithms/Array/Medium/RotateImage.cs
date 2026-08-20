@@ -1,3 +1,10 @@
+/**
+ * @id         48
+ * @title      Rotate Image
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/rotate-image/
+ */
 namespace Algorithms.Array.Medium;
 
 public static class RotateImage
@@ -32,3 +39,5 @@ public static class RotateImage
         }
     }
 }
+
+

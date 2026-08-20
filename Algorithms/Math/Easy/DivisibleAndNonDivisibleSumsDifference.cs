@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         2894
+ * @title      Divisible and Non-divisible Sums Difference
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
+ */
+namespace Math.Easy;
 
 public static class DivisibleAndNonDivisibleSumsDifference
 {
@@ -18,3 +25,5 @@ public static class DivisibleAndNonDivisibleSumsDifference
         return sumOfNonDivisibles - sumOfDivisibles;
     }
 }
+
+

@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         2243
+ * @title      Calculate Digit Sum of a String
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/calculate-digit-sum-of-a-string/
+ */
+using System.Text;
 
 namespace String.Easy;
 
@@ -27,3 +34,5 @@ public static class CalculateDigitSumOfAString
         return sb.ToString();
     }
 }
+
+

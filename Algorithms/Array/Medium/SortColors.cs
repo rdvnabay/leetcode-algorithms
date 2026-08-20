@@ -1,3 +1,10 @@
+/**
+ * @id         75
+ * @title      Sort Colors
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/sort-colors/
+ */
 namespace Algorithms.Array.Medium;
 
 public static class SortColors
@@ -31,3 +38,5 @@ public static class SortColors
         }
     }
 }
+
+

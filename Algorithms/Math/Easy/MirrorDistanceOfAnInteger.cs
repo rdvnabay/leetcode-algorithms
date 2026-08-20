@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         3783
+ * @title      Mirror Distance of an Integer
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/mirror-distance-of-an-integer/
+ */
+using System.Text;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Math.Easy;
@@ -22,3 +29,5 @@ public static class MirrorDistanceOfAnInteger
         return System.Math.Abs(originValue - reverseNumber);
     }
 }
+
+

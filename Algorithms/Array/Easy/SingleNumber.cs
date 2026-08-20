@@ -1,3 +1,10 @@
+/**
+ * @id         136
+ * @title      Single Number
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/single-number/
+ */
 namespace Algorithms.Array.Easy;
 
 public class SingleNumber
@@ -49,3 +56,5 @@ public class SingleNumber
         return output;
     }
 }
+
+

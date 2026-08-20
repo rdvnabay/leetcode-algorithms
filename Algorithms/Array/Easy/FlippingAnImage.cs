@@ -1,3 +1,10 @@
+/**
+ * @id         832
+ * @title      Flipping an Image
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/flipping-an-image/
+ */
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -41,3 +48,5 @@ public static class FlippingAnImage
         return image;
     }
 }
+
+

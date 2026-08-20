@@ -1,3 +1,10 @@
+/**
+ * @id         258
+ * @title      Add Digits
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/add-digits/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class AddDigits
@@ -29,3 +36,5 @@ public static class AddDigits
         return result;
     }
 }
+
+

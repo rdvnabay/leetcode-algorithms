@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3099
+ * @title      Harshad Number
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/harshad-number/
+ */
+namespace Math.Easy;
 
 public static class HarshadNumber
 {
@@ -20,3 +27,5 @@ public static class HarshadNumber
         return -1;
     }
 }
+
+

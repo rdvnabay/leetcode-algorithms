@@ -1,3 +1,10 @@
+/**
+ * @id         1768
+ * @title      Merge Strings Alternately
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/merge-strings-alternately/
+ */
 namespace Algorithms.String.Easy;
 
 public static class MergeStringsAlternately
@@ -25,3 +32,5 @@ public static class MergeStringsAlternately
         return new string(merged);
     }
 }
+
+

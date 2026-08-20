@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3467
+ * @title      Transform Array by Parity
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/transform-array-by-parity/
+ */
+namespace Array.Easy;
 
 public static class TransformArrayByParity
 {
@@ -25,3 +32,5 @@ public static class TransformArrayByParity
         return result;
     }
 }
+
+

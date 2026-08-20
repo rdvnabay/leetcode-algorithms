@@ -1,3 +1,10 @@
+/**
+ * @id         495
+ * @title      Teemo Attacking
+ * @topic      greedy
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/teemo-attacking/
+ */
 namespace Algorithms.Greedy.Easy;
 
 public class TeemoAttacking
@@ -18,3 +25,5 @@ public class TeemoAttacking
         //return result.Count;
     }
 }
+
+

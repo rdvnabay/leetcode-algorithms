@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1672
+ * @title      Richest Customer Wealth
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/richest-customer-wealth/
+ */
+namespace Array.Easy;
 
 public static class RichestCustomerWealth
 {
@@ -21,3 +28,5 @@ public static class RichestCustomerWealth
         return maxValue;
     }
 }
+
+

@@ -1,3 +1,10 @@
+/**
+ * @id         434
+ * @title      Number of Segments in a String
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/number-of-segments-in-a-string/
+ */
 namespace Algorithms.String.Easy;
 
 public static class NumberOfSegmentsInAString
@@ -7,3 +14,5 @@ public static class NumberOfSegmentsInAString
         return s.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).Length;
     }
 }
+
+

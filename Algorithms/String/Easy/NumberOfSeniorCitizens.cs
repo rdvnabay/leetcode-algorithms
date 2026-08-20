@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2678
+ * @title      Number of Senior Citizens
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/number-of-senior-citizens/
+ */
+namespace String.Easy;
 
 public static class NumberOfSeniorCitizens
 {
@@ -17,3 +24,5 @@ public static class NumberOfSeniorCitizens
         return counter;
     }
 }
+
+

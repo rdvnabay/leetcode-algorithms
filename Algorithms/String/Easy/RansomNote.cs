@@ -1,3 +1,10 @@
+/**
+ * @id         383
+ * @title      Ransom Note
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/ransom-note/
+ */
 namespace Algorithms.String.Easy;
 
 public static class RansomNote
@@ -7,3 +14,5 @@ public static class RansomNote
         return false;
     }
 }
+
+

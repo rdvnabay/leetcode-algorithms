@@ -1,3 +1,10 @@
+/**
+ * @id         1636
+ * @title      Sort Array by Increasing Frequency
+ * @topic      hash-table
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/sort-array-by-increasing-frequency/
+ */
 namespace Algorithms.HashTable.Easy;
 
 public static class SortArrayByIncreasingFrequency
@@ -23,3 +30,5 @@ public static class SortArrayByIncreasingFrequency
         return result.ToArray();
     }
 }
+
+

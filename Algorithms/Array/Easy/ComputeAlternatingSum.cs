@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3701
+ * @title      Compute Alternating Sum
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/compute-alternating-sum/
+ */
+namespace Array.Easy;
 
 public static class ComputeAlternatingSum
 {
@@ -17,3 +24,5 @@ public static class ComputeAlternatingSum
         return evenIndexSum - oddIndexSum;
     }
 }
+
+

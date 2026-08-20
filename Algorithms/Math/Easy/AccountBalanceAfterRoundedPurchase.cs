@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         2806
+ * @title      Account Balance After Rounded Purchase
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/account-balance-after-rounded-purchase/
+ */
+namespace Math.Easy;
 
 public static class AccountBalanceAfterRoundedPurchase
 {
@@ -23,3 +30,5 @@ public static class AccountBalanceAfterRoundedPurchase
         return 100 - sum;
     }
 }
+
+

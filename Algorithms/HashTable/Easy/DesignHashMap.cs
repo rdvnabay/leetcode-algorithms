@@ -1,3 +1,10 @@
+/**
+ * @id         706
+ * @title      Design HashMap
+ * @topic      hash-table
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/design-hashmap/
+ */
 namespace Algorithms.HashTable.Easy;
 
 public class DesignHashMap
@@ -23,3 +30,5 @@ public class DesignHashMap
 
     }
 }
+
+

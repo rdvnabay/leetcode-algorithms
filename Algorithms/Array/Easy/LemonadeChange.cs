@@ -1,3 +1,10 @@
+/**
+ * @id         860
+ * @title      Lemonade Change
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/lemonade-change/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class LemonadeChange
@@ -46,3 +53,5 @@ public static class LemonadeChange
         return true;
     }
 }
+
+

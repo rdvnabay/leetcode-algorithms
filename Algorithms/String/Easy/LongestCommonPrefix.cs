@@ -1,3 +1,10 @@
+/**
+ * @id         14
+ * @title      Longest Common Prefix
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/longest-common-prefix/
+ */
 namespace Algorithms.String.Easy;
 
 public class LongestCommonPrefix
@@ -38,3 +45,5 @@ public class LongestCommonPrefix
         return commonLetters.Min(x => x);
     }
 }
+
+

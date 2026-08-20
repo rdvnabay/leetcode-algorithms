@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         2544
+ * @title      Alternating Digit Sum
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/alternating-digit-sum/
+ */
+namespace Math.Easy;
 
 public static class AlternatingDigitSum
 {
@@ -16,3 +23,5 @@ public static class AlternatingDigitSum
         return total;
     }
 }
+
+

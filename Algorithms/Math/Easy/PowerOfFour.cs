@@ -1,3 +1,10 @@
+/**
+ * @id         342
+ * @title      Power of Four
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/power-of-four/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class PowerOfFour
@@ -25,3 +32,5 @@ public static class PowerOfFour
         return false;
     }
 }
+
+

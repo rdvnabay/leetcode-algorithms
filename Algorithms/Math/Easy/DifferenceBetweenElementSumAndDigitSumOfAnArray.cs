@@ -1,3 +1,10 @@
+/**
+ * @id         2535
+ * @title      Difference Between Element Sum and Digit Sum of an Array
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class DifferenceBetweenElementSumAndDigitSumOfAnArray
@@ -24,3 +31,5 @@ public static class DifferenceBetweenElementSumAndDigitSumOfAnArray
         return System.Math.Abs(numberTotal - digitTotal);
     }
 }
+
+

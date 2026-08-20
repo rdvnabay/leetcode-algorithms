@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3190
+ * @title      Find Minimum Operations to Make All Elements Divisible by Three
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/
+ */
+namespace Math.Easy;
 
 public static class FindMinimumOperationsToMakeAllElementsDivisibleByThree
 {
@@ -16,3 +23,5 @@ public static class FindMinimumOperationsToMakeAllElementsDivisibleByThree
         return total;
     }
 }
+
+

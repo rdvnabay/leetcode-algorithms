@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2037
+ * @title      Minimum Number of Moves to Seat Everyone
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
+ */
+namespace Array.Easy;
 
 public static class MinimumNumberOfMovesToSeatEveryone
 {
@@ -14,3 +21,5 @@ public static class MinimumNumberOfMovesToSeatEveryone
         return total;
     }
 }
+
+

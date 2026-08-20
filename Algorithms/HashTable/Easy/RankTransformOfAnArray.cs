@@ -1,3 +1,10 @@
+/**
+ * @id         1331
+ * @title      Rank Transform of an Array
+ * @topic      hash-table
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/rank-transform-of-an-array/
+ */
 namespace Algorithms.HashTable.Easy;
 
 public static class RankTransformOfAnArray
@@ -28,3 +35,5 @@ public static class RankTransformOfAnArray
         return arr;
     }
 }
+
+

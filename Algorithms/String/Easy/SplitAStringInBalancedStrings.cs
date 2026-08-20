@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         1221
+ * @title      Split a String in Balanced Strings
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/split-a-string-in-balanced-strings/
+ */
+namespace String.Easy;
 
 public static class SplitAStringInBalancedStrings
 {
@@ -27,3 +34,5 @@ public static class SplitAStringInBalancedStrings
         return counter;
     }
 }
+
+

@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         1370
+ * @title      Increasing Decreasing String
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/increasing-decreasing-string/
+ */
+namespace String.Easy;
 
 public static class IncreasingDecreasingString
 {
@@ -15,3 +22,5 @@ public static class IncreasingDecreasingString
         return "";
     }
 }
+
+

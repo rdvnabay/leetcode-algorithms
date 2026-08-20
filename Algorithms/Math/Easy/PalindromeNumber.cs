@@ -1,3 +1,10 @@
+/**
+ * @id         9
+ * @title      Palindrome Number
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/palindrome-number/
+ */
 namespace Algorithms.Math.Easy;
 
 public class PalindromeNumber
@@ -22,3 +29,5 @@ public class PalindromeNumber
         return true;
     }
 }
+
+

@@ -1,3 +1,10 @@
+/**
+ * @id         7
+ * @title      Reverse Integer
+ * @topic      math
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/reverse-integer/
+ */
 namespace Algorithms.Math.Medium;
 
 public static class ReverseInteger
@@ -24,3 +31,5 @@ public static class ReverseInteger
         return int.Parse(result);
     }
 }
+
+

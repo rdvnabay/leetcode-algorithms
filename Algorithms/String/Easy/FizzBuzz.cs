@@ -1,3 +1,10 @@
+/**
+ * @id         412
+ * @title      Fizz Buzz
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/fizz-buzz/
+ */
 namespace Algorithms.String.Easy;
 
 public static class FizzBuzz
@@ -23,3 +30,5 @@ public static class FizzBuzz
         return result;
     }
 }
+
+

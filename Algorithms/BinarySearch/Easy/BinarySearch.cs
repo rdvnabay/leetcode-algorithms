@@ -1,3 +1,10 @@
+/**
+ * @id         704
+ * @title      Binary Search
+ * @topic      binary-search
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/binary-search/
+ */
 namespace Algorithms.BinarySearch.Easy;
 
 public class BinarySearch
@@ -23,3 +30,5 @@ public class BinarySearch
         return -1;
     }
 }
+
+

@@ -1,29 +1,20 @@
-﻿# Sorting Algorithms
+# Sorting Algorithms
 
-Collection of LeetCode solutions categorized under the **Sorting** topic.
+LeetCode solutions indexed by problem number. File names remain descriptive and alphabetic-friendly.
 
 ## Summary
 
-| Metric | Count |
-|--------|-------|
-| Total Solutions | **1** |
-| Easy | **1** |
-| Medium | **0** |
-| Hard | **0** |
-
----
+| Solution files | Easy | Medium | Hard |
+|---:|---:|---:|---:|
+| 1 | 1 | 0 | 0 |
 
 ## Solutions
 
-| # | Difficulty | Problem | Solution File |
-|---|-----------|---------|---------------|
-| 1 | Easy | The KWeakest Rows In AMatrix | [TheKWeakestRowsInAMatrix.cs](Easy/TheKWeakestRowsInAMatrix.cs) |
+| ID | Problem | Difficulty | Status | Solution |
+|---:|---|---|---|---|
+| 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | Easy | Implemented | [TheKWeakestRowsInAMatrix.cs](Easy/TheKWeakestRowsInAMatrix.cs) |
 
----
-
-## How to Run
-
-Execute the Sorting console project from the repository root:
+## Run
 
 ```bash
 dotnet run --project Algorithms/Sorting/Sorting.csproj

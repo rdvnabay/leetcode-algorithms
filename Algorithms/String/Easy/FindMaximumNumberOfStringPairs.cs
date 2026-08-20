@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2744
+ * @title      Find Maximum Number of String Pairs
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-maximum-number-of-string-pairs/
+ */
+namespace String.Easy;
 
 public static class FindMaximumNumberOfStringPairs
 {
@@ -23,3 +30,5 @@ public static class FindMaximumNumberOfStringPairs
         return counter;
     }
 }
+
+

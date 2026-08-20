@@ -1,31 +1,22 @@
-﻿# Greedy Algorithms
+# Greedy Algorithms
 
-Collection of LeetCode solutions categorized under the **Greedy** topic.
+LeetCode solutions indexed by problem number. File names remain descriptive and alphabetic-friendly.
 
 ## Summary
 
-| Metric | Count |
-|--------|-------|
-| Total Solutions | **3** |
-| Easy | **3** |
-| Medium | **0** |
-| Hard | **0** |
-
----
+| Solution files | Easy | Medium | Hard |
+|---:|---:|---:|---:|
+| 3 | 2 | 1 | 0 |
 
 ## Solutions
 
-| # | Difficulty | Problem | Solution File |
-|---|-----------|---------|---------------|
-| 1 | Easy | Assign Cookies | [AssignCookies.cs](Easy/AssignCookies.cs) |
-| 2 | Easy | Jump Game | [JumpGame.cs](Easy/JumpGame.cs) |
-| 3 | Easy | Teemo Attacking | [TeemoAttacking.cs](Easy/TeemoAttacking.cs) |
+| ID | Problem | Difficulty | Status | Solution |
+|---:|---|---|---|---|
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | Implemented | [JumpGame.cs](Easy/JumpGame.cs) |
+| 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | Implemented | [AssignCookies.cs](Easy/AssignCookies.cs) |
+| 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | Easy | Incomplete | [TeemoAttacking.cs](Easy/TeemoAttacking.cs) |
 
----
-
-## How to Run
-
-Execute the Greedy console project from the repository root:
+## Run
 
 ```bash
 dotnet run --project Algorithms/Greedy/Greedy.csproj

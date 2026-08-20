@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         2549
+ * @title      Count Distinct Numbers on Board
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-distinct-numbers-on-board/
+ */
+namespace Math.Easy;
 
 public static class CountDistinctNumbersOnBoard
 {
@@ -31,3 +38,5 @@ public static class CountDistinctNumbersOnBoard
         return n == 1 ? 1 : n - 1;
     }
 }
+
+

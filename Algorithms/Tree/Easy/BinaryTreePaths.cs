@@ -1,3 +1,10 @@
+/**
+ * @id         257
+ * @title      Binary Tree Paths
+ * @topic      tree
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/binary-tree-paths/
+ */
 using Algorithms.Common;
 using System.Text;
 
@@ -34,3 +41,5 @@ public static class BinaryTreePaths
         Recursive(root, sb);
     }
 }
+
+

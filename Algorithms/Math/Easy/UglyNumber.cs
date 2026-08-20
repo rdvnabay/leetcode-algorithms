@@ -1,3 +1,10 @@
+/**
+ * @id         263
+ * @title      Ugly Number
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/ugly-number/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class UglyNumber
@@ -27,3 +34,5 @@ public static class UglyNumber
         return Recursive(n, counter);
     }
 }
+
+

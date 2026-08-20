@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2185
+ * @title      Counting Words With a Given Prefix
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/counting-words-with-a-given-prefix/
+ */
+namespace String.Easy;
 
 public static class CountingWordsWithAGivenPrefix
 {
@@ -28,3 +35,5 @@ public static class CountingWordsWithAGivenPrefix
         return result;
     }
 }
+
+

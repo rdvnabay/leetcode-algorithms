@@ -1,3 +1,10 @@
+/**
+ * @id         1304
+ * @title      Find N Unique Integers Sum up to Zero
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class FindNUniqueIntegersSumUpToZero
@@ -18,3 +25,5 @@ public static class FindNUniqueIntegersSumUpToZero
         return null;
     }
 }
+
+

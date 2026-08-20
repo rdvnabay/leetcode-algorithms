@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         1837
+ * @title      Sum of Digits in Base K
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/sum-of-digits-in-base-k/
+ */
+namespace Math.Easy;
 
 public static class SumOfDigitsInBaseK
 {
@@ -15,3 +22,5 @@ public static class SumOfDigitsInBaseK
         return total;
     }
 }
+
+

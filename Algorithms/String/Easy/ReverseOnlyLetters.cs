@@ -1,3 +1,10 @@
+/**
+ * @id         917
+ * @title      Reverse Only Letters
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/reverse-only-letters/
+ */
 namespace Algorithms.String.Easy;
 
 public static class ReverseOnlyLetters
@@ -35,3 +42,4 @@ public static class ReverseOnlyLetters
         return new string(reversed);
     }
 }
+

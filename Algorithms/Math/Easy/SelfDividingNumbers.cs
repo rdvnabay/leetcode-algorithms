@@ -1,3 +1,10 @@
+/**
+ * @id         728
+ * @title      Self Dividing Numbers
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/self-dividing-numbers/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class SelfDividingNumbers
@@ -34,3 +41,5 @@ public static class SelfDividingNumbers
         return result;
     }
 }
+
+

@@ -1,3 +1,10 @@
+/**
+ * @id         206
+ * @title      Reverse Linked List
+ * @topic      linked-list
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/reverse-linked-list/
+ */
 namespace Algorithms.LinkedList.Easy;
 
 public class ReverseLinkedList
@@ -41,3 +48,5 @@ public class ListNode_206
         this.next = next;
     }
 }
+
+

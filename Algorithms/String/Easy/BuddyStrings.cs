@@ -1,3 +1,10 @@
+/**
+ * @id         859
+ * @title      Buddy Strings
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/buddy-strings/
+ */
 using System.Collections;
 
 namespace Algorithms.String.Easy;
@@ -24,3 +31,5 @@ public static class BuddyStrings
         return s.Length - counter == 2;
     }
 }
+
+

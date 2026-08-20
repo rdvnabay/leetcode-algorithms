@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3222
+ * @title      Find the Winning Player in Coin Game
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-winning-player-in-coin-game/
+ */
+namespace Math.Easy;
 
 public static class FindTheWinningPlayerInCoinGame
 {
@@ -17,3 +24,5 @@ public static class FindTheWinningPlayerInCoinGame
         return numberOfMoves % 2 != 0 ? "Alice" : "Bob";
     }
 }
+
+

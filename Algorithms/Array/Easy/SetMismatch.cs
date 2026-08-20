@@ -1,3 +1,10 @@
+/**
+ * @id         645
+ * @title      Set Mismatch
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/set-mismatch/
+ */
 namespace Algorithms.Array.Easy;
 
 public class SetMismatch
@@ -23,3 +30,5 @@ public class SetMismatch
         return result;
     }
 }
+
+

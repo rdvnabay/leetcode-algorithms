@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2864
+ * @title      Maximum Odd Binary Number
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-odd-binary-number/
+ */
+namespace String.Easy;
 
 public static class MaximumOddBinaryNumber
 {
@@ -30,3 +37,5 @@ public static class MaximumOddBinaryNumber
         return new string(result);
     }
 }
+
+

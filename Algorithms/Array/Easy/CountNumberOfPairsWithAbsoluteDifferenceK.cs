@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2006
+ * @title      Count Number of Pairs With Absolute Difference K
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
+ */
+namespace Array.Easy;
 
 public static class CountNumberOfPairsWithAbsoluteDifferenceK
 {
@@ -19,3 +26,5 @@ public static class CountNumberOfPairsWithAbsoluteDifferenceK
         return total;
     }
 }
+
+

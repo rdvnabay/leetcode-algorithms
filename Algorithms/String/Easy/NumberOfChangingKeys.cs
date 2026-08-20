@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         3019
+ * @title      Number of Changing Keys
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/number-of-changing-keys/
+ */
+namespace String.Easy;
 
 public static class NumberOfChangingKeys
 {
@@ -16,3 +23,5 @@ public static class NumberOfChangingKeys
         return changeCount;
     }
 }
+
+

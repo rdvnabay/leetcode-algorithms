@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         1704
+ * @title      Determine if String Halves Are Alike
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/determine-if-string-halves-are-alike/
+ */
+namespace String.Easy;
 
 public static class DetermineIfStringHalvesAreAlike
 {
@@ -24,3 +31,5 @@ public static class DetermineIfStringHalvesAreAlike
         return leftVowelsCount == rightVowelsCount;
     }
 }
+
+

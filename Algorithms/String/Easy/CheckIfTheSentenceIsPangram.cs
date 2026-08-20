@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         1832
+ * @title      Check if the Sentence Is Pangram
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/check-if-the-sentence-is-pangram/
+ */
+namespace String.Easy;
 
 public static class CheckIfTheSentenceIsPangram
 {
@@ -8,3 +15,5 @@ public static class CheckIfTheSentenceIsPangram
         return alphabet.Count == 26;
     }
 }
+
+

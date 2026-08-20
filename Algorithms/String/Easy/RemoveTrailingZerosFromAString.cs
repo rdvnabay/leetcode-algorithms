@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2710
+ * @title      Remove Trailing Zeros From a String
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/remove-trailing-zeros-from-a-string/
+ */
+namespace String.Easy;
 
 public static class RemoveTrailingZerosFromAString
 {
@@ -20,3 +27,5 @@ public static class RemoveTrailingZerosFromAString
         return num.Substring(0, num.Length - zeroCount);
     }
 }
+
+

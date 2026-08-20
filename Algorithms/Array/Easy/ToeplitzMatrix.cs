@@ -1,3 +1,10 @@
+/**
+ * @id         766
+ * @title      Toeplitz Matrix
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/toeplitz-matrix/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class ToeplitzMatrix
@@ -35,3 +42,5 @@ public static class ToeplitzMatrix
         return true;
     }
 }
+
+

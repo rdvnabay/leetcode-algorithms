@@ -1,3 +1,10 @@
+/**
+ * @id         500
+ * @title      Keyboard Row
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/keyboard-row/
+ */
 namespace Algorithms.String.Easy;
 
 public class KeyboardRow
@@ -10,3 +17,5 @@ public class KeyboardRow
         return null;
     }
 }
+
+

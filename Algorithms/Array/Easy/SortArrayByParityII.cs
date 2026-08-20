@@ -1,3 +1,10 @@
+/**
+ * @id         922
+ * @title      Sort Array By Parity II
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/sort-array-by-parity-ii/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class SortArrayByParityII
@@ -20,16 +27,17 @@ public static class SortArrayByParityII
                 {
 
                 }
-                //index çift, sayý tek
+                //index ï¿½ift, sayï¿½ tek
             }
             else if (i % 2 == 1 && nums[i] % 2 == 0)
             {
                 list.Add(i);
                 isOddIndex = true;
-                //index tek, sayý çift
+                //index tek, sayï¿½ ï¿½ift
 
             }
         }
         return null;
     }
 }
+

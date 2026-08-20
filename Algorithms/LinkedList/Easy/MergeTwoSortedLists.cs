@@ -1,3 +1,10 @@
+/**
+ * @id         21
+ * @title      Merge Two Sorted Lists
+ * @topic      linked-list
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/merge-two-sorted-lists/
+ */
 using Algorithms.Common;
 namespace Algorithms.LinkedList.Easy;
 
@@ -8,4 +15,6 @@ public class MergeTwoSortedLists
         return null;
     }
 }
+
+
 

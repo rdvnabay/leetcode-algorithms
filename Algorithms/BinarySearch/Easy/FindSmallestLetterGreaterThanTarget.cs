@@ -1,3 +1,10 @@
+/**
+ * @id         744
+ * @title      Find Smallest Letter Greater Than Target
+ * @topic      binary-search
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+ */
 namespace Algorithms.BinarySearch.Easy;
 
 public class FindSmallestLetterGreaterThanTarget
@@ -14,3 +21,5 @@ public class FindSmallestLetterGreaterThanTarget
         return firstLetter;
     }
 }
+
+

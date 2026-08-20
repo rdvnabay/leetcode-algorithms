@@ -1,3 +1,10 @@
+/**
+ * @id         31
+ * @title      Next Permutation
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/next-permutation/
+ */
 namespace Algorithms.Array.Medium;
 
 public static class NextPermutation
@@ -44,3 +51,5 @@ public static class NextPermutation
         }
     }
 }
+
+

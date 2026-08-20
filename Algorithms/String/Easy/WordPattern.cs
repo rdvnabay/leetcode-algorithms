@@ -1,3 +1,10 @@
+/**
+ * @id         290
+ * @title      Word Pattern
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/word-pattern/
+ */
 namespace Algorithms.String.Easy;
 
 public static class WordPattern
@@ -30,3 +37,5 @@ public static class WordPattern
         return true;
     }
 }
+
+

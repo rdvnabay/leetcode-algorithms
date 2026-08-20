@@ -1,3 +1,10 @@
+/**
+ * @id         2469
+ * @title      Convert the Temperature
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/convert-the-temperature/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class ConvertTheTemperature
@@ -11,3 +18,5 @@ public static class ConvertTheTemperature
         };
     }
 }
+
+

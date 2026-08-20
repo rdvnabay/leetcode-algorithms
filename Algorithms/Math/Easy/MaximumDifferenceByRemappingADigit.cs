@@ -1,3 +1,10 @@
+/**
+ * @id         2566
+ * @title      Maximum Difference by Remapping a Digit
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/
+ */
 using System.Text;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
@@ -38,7 +45,7 @@ public static class MaximumDifferenceByRemappingADigit
         return (int)maxValue;
     }
 
-    //current deðeri için mantýksal hata giderilecek!
+    //current deï¿½eri iï¿½in mantï¿½ksal hata giderilecek!
     static int GetMinValue(int num)
     {
         string numStr = num.ToString();
@@ -63,3 +70,5 @@ public static class MaximumDifferenceByRemappingADigit
         return (int)minValue;
     }
 }
+
+

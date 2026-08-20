@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         2161
+ * @title      Partition Array According to Given Pivot
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/partition-array-according-to-given-pivot/
+ */
+namespace Array.Medium;
 
 public static class PartitionArrayAccordingToGivenPivot
 {
@@ -31,3 +38,5 @@ public static class PartitionArrayAccordingToGivenPivot
         return result.ToArray();
     }
 }
+
+

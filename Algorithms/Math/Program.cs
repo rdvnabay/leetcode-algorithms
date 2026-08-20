@@ -1,4 +1,5 @@
-﻿using Algorithms.Math.Easy;
+// Demo runner for 87 indexed solution files. Canonical ordering: LeetCode problem ID.
+using Algorithms.Math.Easy;
 using Algorithms.Math.Medium;
 using Math.Easy;
 using Math.Medium;
@@ -86,3 +87,4 @@ DistributeMoneyToMaximumChildren.Run(12, 3);
 
 // --- Medium ------------------------------------------------------------
 BulbSwitcher.Run(5);
+

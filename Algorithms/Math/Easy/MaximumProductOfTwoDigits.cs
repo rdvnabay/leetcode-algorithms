@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3536
+ * @title      Maximum Product of Two Digits
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-product-of-two-digits/
+ */
+namespace Math.Easy;
 
 public static class MaximumProductOfTwoDigits
 {
@@ -24,3 +31,5 @@ public static class MaximumProductOfTwoDigits
         return first * second;
     }
 }
+
+

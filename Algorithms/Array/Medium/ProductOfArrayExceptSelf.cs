@@ -1,3 +1,10 @@
+/**
+ * @id         238
+ * @title      Product of Array Except Self
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/product-of-array-except-self/
+ */
 namespace Algorithms.Array.Medium;
 
 public static class ProductOfArrayExceptSelf
@@ -37,3 +44,5 @@ public static class ProductOfArrayExceptSelf
         return nums;
     }
 }
+
+

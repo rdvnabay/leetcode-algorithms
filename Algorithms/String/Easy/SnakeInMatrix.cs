@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         3248
+ * @title      Snake in Matrix
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/snake-in-matrix/
+ */
+namespace String.Easy;
 
 public static class SnakeInMatrix
 {
@@ -21,3 +28,4 @@ public static class SnakeInMatrix
         return value;
     }
 }
+

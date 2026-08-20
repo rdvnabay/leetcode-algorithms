@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3432
+ * @title      Count Partitions with Even Sum Difference
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-partitions-with-even-sum-difference/
+ */
+namespace Array.Easy;
 
 public static class CountPartitionsWithEvenSumDifference
 {
@@ -23,3 +30,5 @@ public static class CountPartitionsWithEvenSumDifference
         return result;
     }
 }
+
+

@@ -1,3 +1,10 @@
+/**
+ * @id         100
+ * @title      Same Tree
+ * @topic      tree
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/same-tree/
+ */
 using Algorithms.Common;
 
 namespace Algorithms.Tree.Easy;
@@ -21,3 +28,5 @@ public static class SameTree
         return isLeftNodeEqual && isRightNodeEqual;
     }
 }
+
+

@@ -1,3 +1,10 @@
+/**
+ * @id         3289
+ * @title      The Two Sneaky Numbers of Digitville
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class TheTwoSneakyNumbersOfDigitville
@@ -19,3 +26,5 @@ public static class TheTwoSneakyNumbersOfDigitville
         return result;
     }
 }
+
+

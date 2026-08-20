@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         1694
+ * @title      Reformat Phone Number
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/reformat-phone-number/
+ */
+namespace String.Easy;
 
 public static class ReformatPhoneNumber
 {
@@ -18,3 +25,5 @@ public static class ReformatPhoneNumber
         return "";
     }
 }
+
+

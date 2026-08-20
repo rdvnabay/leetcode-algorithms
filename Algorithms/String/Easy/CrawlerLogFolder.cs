@@ -1,3 +1,10 @@
+/**
+ * @id         1598
+ * @title      Crawler Log Folder
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/crawler-log-folder/
+ */
 namespace Algorithms.String.Easy;
 
 public static class CrawlerLogFolder
@@ -26,3 +33,5 @@ public static class CrawlerLogFolder
         return counter;
     }
 }
+
+

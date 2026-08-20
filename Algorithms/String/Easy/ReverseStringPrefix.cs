@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         3794
+ * @title      Reverse String Prefix
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/reverse-string-prefix/
+ */
+namespace String.Easy;
 
 public static class ReverseStringPrefix
 {
@@ -20,3 +27,5 @@ public static class ReverseStringPrefix
         return new string(result);
     }
 }
+
+

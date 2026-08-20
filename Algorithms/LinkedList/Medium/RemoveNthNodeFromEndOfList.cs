@@ -1,3 +1,10 @@
+/**
+ * @id         19
+ * @title      Remove Nth Node From End of List
+ * @topic      linked-list
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+ */
 using Algorithms.Common;
 namespace Algorithms.LinkedList.Medium;
 
@@ -36,4 +43,6 @@ public class RemoveNthNodeFromEndOfList
         return head;
     }
 }
+
+
 

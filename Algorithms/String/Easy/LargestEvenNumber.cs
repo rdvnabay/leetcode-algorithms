@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         3798
+ * @title      Largest Even Number
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/largest-even-number/
+ */
+namespace String.Easy;
 
 public static class LargestEvenNumber
 {
@@ -19,3 +26,5 @@ public static class LargestEvenNumber
         return "";
     }
 }
+
+

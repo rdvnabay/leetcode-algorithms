@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1480
+ * @title      Running Sum of 1d Array
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/running-sum-of-1d-array/
+ */
+namespace Array.Easy;
 
 public static class RunningSumOf1dArray
 {
@@ -10,3 +17,5 @@ public static class RunningSumOf1dArray
         return nums;
     }
 }
+
+

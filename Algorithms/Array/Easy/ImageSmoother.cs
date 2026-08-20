@@ -1,3 +1,10 @@
+/**
+ * @id         661
+ * @title      Image Smoother
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/image-smoother/
+ */
 namespace Algorithms.Array.Easy;
 
 public class ImageSmoother
@@ -86,3 +93,5 @@ public class ImageSmoother
         return result;
     }
 }
+
+

@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         1662
+ * @title      Check If Two String Arrays are Equivalent
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+ */
+using System.Text;
 
 namespace String.Easy;
 
@@ -19,3 +26,5 @@ public static class CheckIfTwoStringArraysAreEquivalent
         return sbWord1.ToString() == sbWord2.ToString();
     }
 }
+
+

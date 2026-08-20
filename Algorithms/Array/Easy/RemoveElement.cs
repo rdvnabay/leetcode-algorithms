@@ -1,3 +1,10 @@
+/**
+ * @id         27
+ * @title      Remove Element
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/remove-element/
+ */
 namespace Algorithms.Array.Easy;
 
 public class RemoveElement
@@ -16,4 +23,6 @@ public class RemoveElement
         return k;
     }
 }
+
+
 

@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         3461
+ * @title      Check If Digits Are Equal in String After Operations I
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/
+ */
+using System.Text;
 
 namespace Math.Easy;
 
@@ -24,3 +31,5 @@ public static class CheckIfDigitsAreEqualInStringAfterOperationsI
         return sb[0] == sb[1];
     }
 }
+
+

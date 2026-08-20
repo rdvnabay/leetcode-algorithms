@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         2729
+ * @title      Check if The Number is Fascinating
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/check-if-the-number-is-fascinating/
+ */
+namespace Math.Easy;
 
 public static class CheckIfTheNumberIsFascinating
 {
@@ -18,3 +25,5 @@ public static class CheckIfTheNumberIsFascinating
         return $"{n}{n * 2}{n * 3}".OrderBy(x => x).SequenceEqual("123456789");
     }
 }
+
+

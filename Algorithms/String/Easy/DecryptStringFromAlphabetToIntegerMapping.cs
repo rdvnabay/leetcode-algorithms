@@ -1,3 +1,10 @@
+/**
+ * @id         1309
+ * @title      Decrypt String from Alphabet to Integer Mapping
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
+ */
 namespace Algorithms.String.Easy;
 
 public static class DecryptStringFromAlphabetToIntegerMapping
@@ -36,3 +43,5 @@ public static class DecryptStringFromAlphabetToIntegerMapping
         return "";
     }
 }
+
+

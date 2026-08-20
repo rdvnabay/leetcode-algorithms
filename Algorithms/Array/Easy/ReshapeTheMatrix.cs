@@ -1,3 +1,10 @@
+/**
+ * @id         566
+ * @title      Reshape the Matrix
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/reshape-the-matrix/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class ReshapeTheMatrix
@@ -39,3 +46,5 @@ public static class ReshapeTheMatrix
         return result;
     }
 }
+
+

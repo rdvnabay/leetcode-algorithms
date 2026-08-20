@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1929
+ * @title      Concatenation of Array
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/concatenation-of-array/
+ */
+namespace Array.Easy;
 
 public static class ConcatenationOfArray
 {
@@ -15,3 +22,5 @@ public static class ConcatenationOfArray
         return result;
     }
 }
+
+

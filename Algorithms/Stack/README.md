@@ -1,32 +1,23 @@
-﻿# Stack Algorithms
+# Stack Algorithms
 
-Collection of LeetCode solutions categorized under the **Stack** topic.
+LeetCode solutions indexed by problem number. File names remain descriptive and alphabetic-friendly.
 
 ## Summary
 
-| Metric | Count |
-|--------|-------|
-| Total Solutions | **4** |
-| Easy | **4** |
-| Medium | **0** |
-| Hard | **0** |
-
----
+| Solution files | Easy | Medium | Hard |
+|---:|---:|---:|---:|
+| 4 | 4 | 0 | 0 |
 
 ## Solutions
 
-| # | Difficulty | Problem | Solution File |
-|---|-----------|---------|---------------|
-| 1 | Easy | Baseball Game | [BaseballGame.cs](Easy/BaseballGame.cs) |
-| 2 | Easy | Implement Stack Using Queues | [ImplementStackUsingQueues.cs](Easy/ImplementStackUsingQueues.cs) |
-| 3 | Easy | Next Greater Element I | [NextGreaterElementI.cs](Easy/NextGreaterElementI.cs) |
-| 4 | Easy | Valid Parentheses | [ValidParentheses.cs](Easy/ValidParentheses.cs) |
+| ID | Problem | Difficulty | Status | Solution |
+|---:|---|---|---|---|
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Implemented | [ValidParentheses.cs](Easy/ValidParentheses.cs) |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | Implemented | [ImplementStackUsingQueues.cs](Easy/ImplementStackUsingQueues.cs) |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | Implemented | [NextGreaterElementI.cs](Easy/NextGreaterElementI.cs) |
+| 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Easy | Implemented | [BaseballGame.cs](Easy/BaseballGame.cs) |
 
----
-
-## How to Run
-
-Execute the Stack console project from the repository root:
+## Run
 
 ```bash
 dotnet run --project Algorithms/Stack/Stack.csproj

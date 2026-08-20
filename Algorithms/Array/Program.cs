@@ -1,4 +1,5 @@
-﻿using Algorithms.Array.Easy;
+// Demo runner for 102 indexed solution files. Canonical ordering: LeetCode problem ID.
+using Algorithms.Array.Easy;
 using Algorithms.Array.Medium;
 using Array.Easy;
 using Array.Medium;
@@ -98,4 +99,6 @@ FindtheWinnerOfTheCircularGame.Run(6, 5);
 FindTriangularSumOfAnArray.Run(new int[] { 1, 2, 3, 4, 5 });
 WateringPlants.Run(new int[] { 7, 7, 7, 7, 7, 7, 7 }, 8);
 DivideArrayIntoArraysWithMaxDifference.Run(new int[] { 1, 3, 4, 8, 7, 9, 3, 5, 1 }, 2);
+
+
 

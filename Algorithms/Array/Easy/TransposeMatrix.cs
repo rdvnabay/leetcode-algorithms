@@ -1,3 +1,10 @@
+/**
+ * @id         867
+ * @title      Transpose Matrix
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/transpose-matrix/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class TransposeMatrix
@@ -23,3 +30,5 @@ public static class TransposeMatrix
         return result;
     }
 }
+
+

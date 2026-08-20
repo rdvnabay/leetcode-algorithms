@@ -1,3 +1,10 @@
+/**
+ * @id         344
+ * @title      Reverse String
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/reverse-string/
+ */
 namespace Algorithms.String.Easy;
 
 public class ReverseString
@@ -61,3 +68,5 @@ public class ReverseString
         Solution3(s, ++left, --right);
     }
 }
+
+

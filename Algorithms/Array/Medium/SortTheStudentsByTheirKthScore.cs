@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         2545
+ * @title      Sort the Students by Their Kth Score
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/sort-the-students-by-their-kth-score/
+ */
+namespace Array.Medium;
 
 public static class SortTheStudentsByTheirKthScore
 {
@@ -29,3 +36,5 @@ public static class SortTheStudentsByTheirKthScore
         return result;
     }
 }
+
+

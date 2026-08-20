@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         2828
+ * @title      Check if a String Is an Acronym of Words
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/
+ */
+using System.Text;
 
 namespace String.Easy;
 
@@ -14,3 +21,5 @@ public static class CheckIfAStringIsAnAcronymOfWords
         return sb.ToString() == s;
     }
 }
+
+

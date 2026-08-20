@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3285
+ * @title      Find Indices of Stable Mountains
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-indices-of-stable-mountains/
+ */
+namespace Array.Easy;
 
 public static class FindIndicesOfStableMountains
 {
@@ -15,3 +22,5 @@ public static class FindIndicesOfStableMountains
         return result;
     }
 }
+
+

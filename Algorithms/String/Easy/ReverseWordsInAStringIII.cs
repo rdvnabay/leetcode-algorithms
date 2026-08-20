@@ -1,3 +1,10 @@
+/**
+ * @id         557
+ * @title      Reverse Words in a String III
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/reverse-words-in-a-string-iii/
+ */
 using System.Reflection.Emit;
 using System.Text;
 
@@ -28,3 +35,5 @@ public static class ReverseWordsInAStringIII
         return sb.ToString().TrimEnd();
     }
 }
+
+

@@ -1,3 +1,10 @@
+/**
+ * @id         1154
+ * @title      Day of the Year
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/day-of-the-year/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class DayOfTheYear
@@ -32,3 +39,5 @@ public static class DayOfTheYear
         return false;
     }
 }
+
+

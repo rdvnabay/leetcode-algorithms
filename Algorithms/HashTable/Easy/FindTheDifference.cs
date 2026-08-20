@@ -1,3 +1,10 @@
+/**
+ * @id         389
+ * @title      Find the Difference
+ * @topic      hash-table
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-difference/
+ */
 namespace Algorithms.HashTable.Easy;
 
 public static class FindTheDifference
@@ -36,3 +43,5 @@ public static class FindTheDifference
         }
     }
 }
+
+

@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         2591
+ * @title      Distribute Money to Maximum Children
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/distribute-money-to-maximum-children/
+ */
+namespace Math.Easy;
 
 public static class DistributeMoneyToMaximumChildren
 {
@@ -19,3 +26,5 @@ public static class DistributeMoneyToMaximumChildren
         return eightDollarCount;
     }
 }
+
+

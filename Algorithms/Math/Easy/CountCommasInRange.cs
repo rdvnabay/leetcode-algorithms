@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3870
+ * @title      Count Commas in Range
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-commas-in-range/
+ */
+namespace Math.Easy;
 
 public static class CountCommasInRange
 {
@@ -12,3 +19,5 @@ public static class CountCommasInRange
         return n - FirstNumberWithComma + 1;
     }
 }
+
+

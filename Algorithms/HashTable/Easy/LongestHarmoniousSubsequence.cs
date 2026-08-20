@@ -1,3 +1,10 @@
+/**
+ * @id         594
+ * @title      Longest Harmonious Subsequence
+ * @topic      hash-table
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/longest-harmonious-subsequence/
+ */
 namespace Algorithms.HashTable.Easy;
 
 public class LongestHarmoniousSubsequence
@@ -31,3 +38,4 @@ public class LongestHarmoniousSubsequence
         return max;
     }
 }
+

@@ -1,32 +1,23 @@
-﻿# Tree Algorithms
+# Tree Algorithms
 
-Collection of LeetCode solutions categorized under the **Tree** topic.
+LeetCode solutions indexed by problem number. File names remain descriptive and alphabetic-friendly.
 
 ## Summary
 
-| Metric | Count |
-|--------|-------|
-| Total Solutions | **4** |
-| Easy | **3** |
-| Medium | **1** |
-| Hard | **0** |
-
----
+| Solution files | Easy | Medium | Hard |
+|---:|---:|---:|---:|
+| 4 | 3 | 1 | 0 |
 
 ## Solutions
 
-| # | Difficulty | Problem | Solution File |
-|---|-----------|---------|---------------|
-| 1 | Easy | Binary Tree Paths | [BinaryTreePaths.cs](Easy/BinaryTreePaths.cs) |
-| 2 | Easy | Convert Sorted Array To Binary Search Tree | [ConvertSortedArrayToBinarySearchTree.cs](Easy/ConvertSortedArrayToBinarySearchTree.cs) |
-| 3 | Easy | Same Tree | [SameTree.cs](Easy/SameTree.cs) |
-| 4 | Medium | Convert BSTTo Greater Tree | [ConvertBSTToGreaterTree.cs](Medium/ConvertBSTToGreaterTree.cs) |
+| ID | Problem | Difficulty | Status | Solution |
+|---:|---|---|---|---|
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Implemented | [SameTree.cs](Easy/SameTree.cs) |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | Incomplete | [ConvertSortedArrayToBinarySearchTree.cs](Easy/ConvertSortedArrayToBinarySearchTree.cs) |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | Easy | Incomplete | [BinaryTreePaths.cs](Easy/BinaryTreePaths.cs) |
+| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | Medium | Implemented | [ConvertBSTToGreaterTree.cs](Medium/ConvertBSTToGreaterTree.cs) |
 
----
-
-## How to Run
-
-Execute the Tree console project from the repository root:
+## Run
 
 ```bash
 dotnet run --project Algorithms/Tree/Tree.csproj

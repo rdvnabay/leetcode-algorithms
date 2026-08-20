@@ -1,3 +1,10 @@
+/**
+ * @id         219
+ * @title      Contains Duplicate II
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/contains-duplicate-ii/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class ContainsDuplicateII
@@ -26,3 +33,5 @@ public static class ContainsDuplicateII
         return false;
     }
 }
+
+

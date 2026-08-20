@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         1523
+ * @title      Count Odd Numbers in an Interval Range
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
+ */
+namespace Math.Easy;
 
 public static class CountOddNumbersInAnIntervalRange
 {
@@ -16,3 +23,5 @@ public static class CountOddNumbersInAnIntervalRange
         };
     }
 }
+
+

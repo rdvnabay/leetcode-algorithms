@@ -1,3 +1,10 @@
+/**
+ * @id         121
+ * @title      Best Time to Buy and Sell Stock
+ * @topic      dynamic-programming
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+ */
 namespace Algorithms.DynamicProgramming.Easy;
 
 public class BestTimeToBuyAndSellStock
@@ -29,3 +36,5 @@ public class BestTimeToBuyAndSellStock
         return output;
     }
 }
+
+

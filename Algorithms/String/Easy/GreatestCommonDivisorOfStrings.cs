@@ -1,3 +1,10 @@
+/**
+ * @id         1071
+ * @title      Greatest Common Divisor of Strings
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/greatest-common-divisor-of-strings/
+ */
 namespace Algorithms.String.Easy;
 
 public static class GreatestCommonDivisorOfStrings
@@ -56,3 +63,5 @@ public static class GreatestCommonDivisorOfStrings
         return result;
     }
 }
+
+

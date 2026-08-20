@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         771
+ * @title      Jewels and Stones
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/jewels-and-stones/
+ */
+namespace String.Easy;
 
 public static class JewelsAndStones
 {
@@ -13,3 +20,5 @@ public static class JewelsAndStones
         return count;
     }
 }
+
+

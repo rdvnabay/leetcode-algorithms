@@ -1,3 +1,10 @@
+/**
+ * @id         1160
+ * @title      Find Words That Can Be Formed by Characters
+ * @topic      hash-table
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
+ */
 namespace Algorithms.HashTable.Easy;
 
 public static class FindWordsThatCanBeFormedByCharacters
@@ -25,3 +32,5 @@ public static class FindWordsThatCanBeFormedByCharacters
         return 0;
     }
 }
+
+

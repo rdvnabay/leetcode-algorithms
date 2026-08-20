@@ -1,3 +1,10 @@
+/**
+ * @id         1089
+ * @title      Duplicate Zeros
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/duplicate-zeros/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class DuplicateZeros
@@ -20,3 +27,5 @@ public static class DuplicateZeros
         }
     }
 }
+
+

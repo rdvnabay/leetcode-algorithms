@@ -1,3 +1,10 @@
+/**
+ * @id         168
+ * @title      Excel Sheet Column Title
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/excel-sheet-column-title/
+ */
 using System.Text;
 
 namespace Algorithms.String.Easy;
@@ -28,3 +35,5 @@ public static class ExcelSheetColumnTitle
         Recursive(quotient, sb);
     }
 }
+
+

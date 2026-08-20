@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2574
+ * @title      Left and Right Sum Differences
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/left-and-right-sum-differences/
+ */
+namespace Array.Easy;
 
 public static class LeftAndRightSumDifferences
 {
@@ -28,3 +35,5 @@ public static class LeftAndRightSumDifferences
         return result;
     }
 }
+
+

@@ -1,3 +1,10 @@
+/**
+ * @id         67
+ * @title      Add Binary
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/add-binary/
+ */
 using System.Text;
 
 namespace Algorithms.Math.Easy;
@@ -43,3 +50,5 @@ public static class AddBinary
         return new string(sb.ToString().Reverse().ToArray());
     }
 }
+
+

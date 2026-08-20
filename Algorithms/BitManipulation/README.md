@@ -1,29 +1,20 @@
-﻿# BitManipulation Algorithms
+# BitManipulation Algorithms
 
-Collection of LeetCode solutions categorized under the **BitManipulation** topic.
+LeetCode solutions indexed by problem number. File names remain descriptive and alphabetic-friendly.
 
 ## Summary
 
-| Metric | Count |
-|--------|-------|
-| Total Solutions | **1** |
-| Easy | **1** |
-| Medium | **0** |
-| Hard | **0** |
-
----
+| Solution files | Easy | Medium | Hard |
+|---:|---:|---:|---:|
+| 1 | 1 | 0 | 0 |
 
 ## Solutions
 
-| # | Difficulty | Problem | Solution File |
-|---|-----------|---------|---------------|
-| 1 | Easy | Number Of1Bits | [NumberOf1Bits.cs](Easy/NumberOf1Bits.cs) |
+| ID | Problem | Difficulty | Status | Solution |
+|---:|---|---|---|---|
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | Implemented | [NumberOf1Bits.cs](Easy/NumberOf1Bits.cs) |
 
----
-
-## How to Run
-
-Execute the BitManipulation console project from the repository root:
+## Run
 
 ```bash
 dotnet run --project Algorithms/BitManipulation/BitManipulation.csproj

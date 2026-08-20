@@ -1,3 +1,10 @@
+/**
+ * @id         1365
+ * @title      How Many Numbers Are Smaller Than the Current Number
+ * @topic      hash-table
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+ */
 namespace Algorithms.HashTable.Easy;
 
 public static class HowManyNumbersAreSmallerThanTheCurrentNumber
@@ -89,3 +96,5 @@ public static class HowManyNumbersAreSmallerThanTheCurrentNumber
         return result;
     }
 }
+
+

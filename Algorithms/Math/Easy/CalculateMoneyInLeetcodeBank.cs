@@ -1,4 +1,11 @@
-﻿using System.Diagnostics.Metrics;
+/**
+ * @id         1716
+ * @title      Calculate Money in Leetcode Bank
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/calculate-money-in-leetcode-bank/
+ */
+using System.Diagnostics.Metrics;
 
 namespace Math.Easy;
 
@@ -27,3 +34,5 @@ public static class CalculateMoneyInLeetcodeBank
         return total;
     }
 }
+
+

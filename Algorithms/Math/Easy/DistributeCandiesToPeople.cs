@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         1103
+ * @title      Distribute Candies to People
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/distribute-candies-to-people/
+ */
+namespace Math.Easy;
 
 public static class DistributeCandiesToPeople
 {
@@ -30,3 +37,5 @@ public static class DistributeCandiesToPeople
         return result;
     }
 }
+
+

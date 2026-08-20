@@ -1,3 +1,10 @@
+/**
+ * @id         20
+ * @title      Valid Parentheses
+ * @topic      stack
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/valid-parentheses/
+ */
 namespace Algorithms.Stack.Easy;
 
 public class ValidParentheses
@@ -67,3 +74,5 @@ public class Item
     public char Key { get; set; }
     public int Value { get; set; }
 }
+
+

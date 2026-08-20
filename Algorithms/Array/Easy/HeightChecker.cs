@@ -1,3 +1,10 @@
+/**
+ * @id         1051
+ * @title      Height Checker
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/height-checker/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class HeightChecker
@@ -18,3 +25,5 @@ public static class HeightChecker
         return count;
     }
 }
+
+

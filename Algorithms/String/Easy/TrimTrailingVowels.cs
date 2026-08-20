@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         3856
+ * @title      Trim Trailing Vowels
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/trim-trailing-vowels/
+ */
+namespace String.Easy;
 
 public static class TrimTrailingVowels
 {
@@ -22,3 +29,5 @@ public static class TrimTrailingVowels
         return s.Substring(0, s.Length - deleteVowelCount);
     }
 }
+
+

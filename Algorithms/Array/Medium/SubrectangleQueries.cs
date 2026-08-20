@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         1476
+ * @title      Subrectangle Queries
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/subrectangle-queries/
+ */
+namespace Array.Medium;
 
 public class SubrectangleQueries
 {
@@ -25,3 +32,5 @@ public class SubrectangleQueries
         return _matrix[row][col];
     }
 }
+
+

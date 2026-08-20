@@ -1,3 +1,10 @@
+/**
+ * @id         561
+ * @title      Array Partition
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/array-partition/
+ */
 namespace Algorithms.Array.Easy;
 
 public class ArrayPartition
@@ -13,3 +20,5 @@ public class ArrayPartition
         return total;
     }
 }
+
+

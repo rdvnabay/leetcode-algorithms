@@ -1,3 +1,10 @@
+/**
+ * @id         1047
+ * @title      Remove All Adjacent Duplicates In String
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+ */
 namespace Algorithms.String.Easy;
 
 public static class RemoveAllAdjacentDuplicatesInString
@@ -18,3 +25,5 @@ public static class RemoveAllAdjacentDuplicatesInString
         return s;
     }
 }
+
+

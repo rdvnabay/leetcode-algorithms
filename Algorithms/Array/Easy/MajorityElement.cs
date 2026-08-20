@@ -1,3 +1,10 @@
+/**
+ * @id         169
+ * @title      Majority Element
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/majority-element/
+ */
 namespace Algorithms.Array.Easy;
 public class MajorityElement
 {
@@ -34,3 +41,5 @@ public class MajorityElement
         return output;
     }
 }
+
+

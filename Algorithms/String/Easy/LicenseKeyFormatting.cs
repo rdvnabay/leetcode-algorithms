@@ -1,3 +1,10 @@
+/**
+ * @id         482
+ * @title      License Key Formatting
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/license-key-formatting/
+ */
 using System.Text;
 
 namespace Algorithms.String.Easy;
@@ -33,3 +40,5 @@ public static class LicenseKeyFormatting
         return result;
     }
 }
+
+

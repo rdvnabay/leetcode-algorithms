@@ -1,3 +1,10 @@
+/**
+ * @id         2485
+ * @title      Find the Pivot Integer
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-pivot-integer/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class FindThePivotInteger
@@ -18,3 +25,5 @@ public static class FindThePivotInteger
         return -1;
     }
 }
+
+

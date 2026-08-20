@@ -1,3 +1,10 @@
+/**
+ * @id         1
+ * @title      Two Sum
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/two-sum/
+ */
 namespace Algorithms.Array.Easy;
 
 public static class TwoSum
@@ -33,3 +40,5 @@ public static class TwoSum
         return resultArray;
     }
 }
+
+

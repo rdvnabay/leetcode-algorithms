@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         1518
+ * @title      Water Bottles
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/water-bottles/
+ */
+namespace Math.Easy;
 
 public static class WaterBottles
 {
@@ -15,3 +22,5 @@ public static class WaterBottles
         return total;
     }
 }
+
+

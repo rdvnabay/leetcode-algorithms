@@ -1,3 +1,10 @@
+/**
+ * @id         205
+ * @title      Isomorphic Strings
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/isomorphic-strings/
+ */
 namespace Algorithms.String.Easy;
 
 public static class IsomorphicStrings
@@ -25,3 +32,5 @@ public static class IsomorphicStrings
         return true;
     }
 }
+
+

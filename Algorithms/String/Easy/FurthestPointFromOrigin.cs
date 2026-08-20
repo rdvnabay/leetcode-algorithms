@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2833
+ * @title      Furthest Point From Origin
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/furthest-point-from-origin/
+ */
+namespace String.Easy;
 
 public static class FurthestPointFromOrigin
 {
@@ -21,3 +28,5 @@ public static class FurthestPointFromOrigin
         return Math.Abs(left - right) + unknown;
     }
 }
+
+

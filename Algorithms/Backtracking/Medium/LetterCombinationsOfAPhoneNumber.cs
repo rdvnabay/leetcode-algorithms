@@ -1,3 +1,10 @@
+/**
+ * @id         17
+ * @title      Letter Combinations of a Phone Number
+ * @topic      backtracking
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+ */
 namespace Algorithms.Backtracking.Medium;
 
 public static class LetterCombinationsOfAPhoneNumber
@@ -45,3 +52,5 @@ public static class LetterCombinationsOfAPhoneNumber
         }
     }
 }
+
+

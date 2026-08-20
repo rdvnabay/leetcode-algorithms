@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3300
+ * @title      Minimum Element After Replacement With Digit Sum
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/
+ */
+namespace Math.Easy;
 
 public static class MinimumElementAfterReplacementWithDigitSum
 {
@@ -25,3 +32,5 @@ public static class MinimumElementAfterReplacementWithDigitSum
         return minValue;
     }
 }
+
+

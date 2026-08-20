@@ -1,3 +1,10 @@
+/**
+ * @id         387
+ * @title      First Unique Character in a String
+ * @topic      hash-table
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/first-unique-character-in-a-string/
+ */
 namespace Algorithms.HashTable.Easy;
 
 public static class FirstUniqueCharacterInAString
@@ -23,3 +30,5 @@ public static class FirstUniqueCharacterInAString
         return -1;
     }
 }
+
+

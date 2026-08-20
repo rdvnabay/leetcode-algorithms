@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3360
+ * @title      Stone Removal Game
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/stone-removal-game/
+ */
+namespace Math.Easy;
 
 public static class StoneRemovalGame
 {
@@ -17,3 +24,5 @@ public static class StoneRemovalGame
         return moveCount % 2 == 1;
     }
 }
+
+

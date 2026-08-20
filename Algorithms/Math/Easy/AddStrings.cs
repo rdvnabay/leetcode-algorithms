@@ -1,3 +1,10 @@
+/**
+ * @id         415
+ * @title      Add Strings
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/add-strings/
+ */
 using System.Text;
 
 namespace Algorithms.Math.Easy;
@@ -39,3 +46,5 @@ public static class AddStrings
         return sb.ToString();
     }
 }
+
+

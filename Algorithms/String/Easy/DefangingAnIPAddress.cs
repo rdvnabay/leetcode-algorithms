@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         1108
+ * @title      Defanging an IP Address
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/defanging-an-ip-address/
+ */
+using System.Text;
 
 namespace String.Easy;
 
@@ -19,3 +26,5 @@ public static class DefangingAnIPAddress
         return sb.ToString();
     }
 }
+
+

@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1534
+ * @title      Count Good Triplets
+ * @topic      array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-good-triplets/
+ */
+namespace Array.Easy;
 
 public static class CountGoodTriplets
 {
@@ -25,3 +32,5 @@ public static class CountGoodTriplets
         return total;
     }
 }
+
+

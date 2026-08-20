@@ -1,3 +1,10 @@
+/**
+ * @id         345
+ * @title      Reverse Vowels of a String
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/reverse-vowels-of-a-string/
+ */
 using System.Net.Http.Headers;
 
 namespace Algorithms.String.Easy;
@@ -37,3 +44,5 @@ public static class ReverseVowelsOfAString
         return new string(result);
     }
 }
+
+

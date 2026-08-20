@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3908
+ * @title      Valid Digit Number
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/valid-digit-number/
+ */
+namespace Math.Easy;
 
 public static class ValidDigitNumber
 {
@@ -22,3 +29,5 @@ public static class ValidDigitNumber
         return false;
     }
 }
+
+

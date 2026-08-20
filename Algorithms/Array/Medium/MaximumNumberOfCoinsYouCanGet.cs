@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         1561
+ * @title      Maximum Number of Coins You Can Get
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
+ */
+namespace Array.Medium;
 
 public static class MaximumNumberOfCoinsYouCanGet
 {
@@ -21,3 +28,5 @@ public static class MaximumNumberOfCoinsYouCanGet
         return total;
     }
 }
+
+

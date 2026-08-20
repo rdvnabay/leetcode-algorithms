@@ -1,46 +1,37 @@
-﻿# HashTable Algorithms
+# HashTable Algorithms
 
-Collection of LeetCode solutions categorized under the **HashTable** topic.
+LeetCode solutions indexed by problem number. File names remain descriptive and alphabetic-friendly.
 
 ## Summary
 
-| Metric | Count |
-|--------|-------|
-| Total Solutions | **18** |
-| Easy | **17** |
-| Medium | **0** |
-| Hard | **1** |
-
----
+| Solution files | Easy | Medium | Hard |
+|---:|---:|---:|---:|
+| 18 | 17 | 0 | 1 |
 
 ## Solutions
 
-| # | Difficulty | Problem | Solution File |
-|---|-----------|---------|---------------|
-| 1 | Easy | Check If NAnd Its Double Exist | [CheckIfNAndItsDoubleExist.cs](Easy/CheckIfNAndItsDoubleExist.cs) |
-| 2 | Easy | Design Hash Map | [DesignHashMap.cs](Easy/DesignHashMap.cs) |
-| 3 | Easy | Distribute Candies | [DistributeCandies.cs](Easy/DistributeCandies.cs) |
-| 4 | Easy | Fair Candy Swap | [FairCandySwap.cs](Easy/FairCandySwap.cs) |
-| 5 | Easy | Find The Difference | [FindTheDifference.cs](Easy/FindTheDifference.cs) |
-| 6 | Easy | Find Words That Can Be Formed By Characters | [FindWordsThatCanBeFormedByCharacters.cs](Easy/FindWordsThatCanBeFormedByCharacters.cs) |
-| 7 | Easy | First Unique Character In AString | [FirstUniqueCharacterInAString.cs](Easy/FirstUniqueCharacterInAString.cs) |
-| 8 | Easy | How Many Numbers Are Smaller Than The Current Number | [HowManyNumbersAreSmallerThanTheCurrentNumber.cs](Easy/HowManyNumbersAreSmallerThanTheCurrentNumber.cs) |
-| 9 | Easy | Longest Harmonious Subsequence | [LongestHarmoniousSubsequence.cs](Easy/LongestHarmoniousSubsequence.cs) |
-| 10 | Easy | Longest Palindrome | [LongestPalindrome.cs](Easy/LongestPalindrome.cs) |
-| 11 | Easy | Rank Transform Of An Array | [RankTransformOfAnArray.cs](Easy/RankTransformOfAnArray.cs) |
-| 12 | Easy | Second Largest Digit In AString | [SecondLargestDigitInAString.cs](Easy/SecondLargestDigitInAString.cs) |
-| 13 | Easy | Sort Array By Increasing Frequency | [SortArrayByIncreasingFrequency.cs](Easy/SortArrayByIncreasingFrequency.cs) |
-| 14 | Easy | Sum Of Unique Elements | [SumOfUniqueElements.cs](Easy/SumOfUniqueElements.cs) |
-| 15 | Easy | Uncommon Words From Two Sentences | [UncommonWordsFromTwoSentences.cs](Easy/UncommonWordsFromTwoSentences.cs) |
-| 16 | Easy | Unique Number Of Occurrences | [UniqueNumberOfOccurrences.cs](Easy/UniqueNumberOfOccurrences.cs) |
-| 17 | Easy | Verifying An Alien Dictionary | [VerifyingAnAlienDictionary.cs](Easy/VerifyingAnAlienDictionary.cs) |
-| 18 | Hard | First Missing Positive | [FirstMissingPositive.cs](Hard/FirstMissingPositive.cs) |
+| ID | Problem | Difficulty | Status | Solution |
+|---:|---|---|---|---|
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | Implemented | [FirstMissingPositive.cs](Hard/FirstMissingPositive.cs) |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Implemented | [FirstUniqueCharacterInAString.cs](Easy/FirstUniqueCharacterInAString.cs) |
+| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | Implemented | [FindTheDifference.cs](Easy/FindTheDifference.cs) |
+| 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | Easy | Implemented | [LongestPalindrome.cs](Easy/LongestPalindrome.cs) |
+| 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | Easy | Implemented | [DistributeCandies.cs](Easy/DistributeCandies.cs) |
+| 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | Easy | Implemented | [LongestHarmoniousSubsequence.cs](Easy/LongestHarmoniousSubsequence.cs) |
+| 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | Incomplete | [DesignHashMap.cs](Easy/DesignHashMap.cs) |
+| 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Easy | Implemented | [UncommonWordsFromTwoSentences.cs](Easy/UncommonWordsFromTwoSentences.cs) |
+| 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | Easy | Implemented | [FairCandySwap.cs](Easy/FairCandySwap.cs) |
+| 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | Easy | Needs review | [VerifyingAnAlienDictionary.cs](Easy/VerifyingAnAlienDictionary.cs) |
+| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Easy | Incomplete | [FindWordsThatCanBeFormedByCharacters.cs](Easy/FindWordsThatCanBeFormedByCharacters.cs) |
+| 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | Implemented | [UniqueNumberOfOccurrences.cs](Easy/UniqueNumberOfOccurrences.cs) |
+| 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy | Implemented | [RankTransformOfAnArray.cs](Easy/RankTransformOfAnArray.cs) |
+| 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Easy | Implemented | [CheckIfNAndItsDoubleExist.cs](Easy/CheckIfNAndItsDoubleExist.cs) |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy | Implemented | [HowManyNumbersAreSmallerThanTheCurrentNumber.cs](Easy/HowManyNumbersAreSmallerThanTheCurrentNumber.cs) |
+| 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | Easy | Implemented | [SortArrayByIncreasingFrequency.cs](Easy/SortArrayByIncreasingFrequency.cs) |
+| 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | Easy | Implemented | [SumOfUniqueElements.cs](Easy/SumOfUniqueElements.cs) |
+| 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | Easy | Implemented | [SecondLargestDigitInAString.cs](Easy/SecondLargestDigitInAString.cs) |
 
----
-
-## How to Run
-
-Execute the HashTable console project from the repository root:
+## Run
 
 ```bash
 dotnet run --project Algorithms/HashTable/HashTable.csproj

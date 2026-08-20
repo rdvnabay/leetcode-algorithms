@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         1544
+ * @title      Make The String Great
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/make-the-string-great/
+ */
+namespace String.Easy;
 
 public static class MakeTheStringGreat
 {
@@ -29,3 +36,5 @@ public static class MakeTheStringGreat
         return "";
     }
 }
+
+

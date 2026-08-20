@@ -1,3 +1,10 @@
+/**
+ * @id         1295
+ * @title      Find Numbers with Even Number of Digits
+ * @topic      math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
+ */
 namespace Algorithms.Math.Easy;
 
 public static class FindNumbersWithEvenNumberOfDigits
@@ -24,3 +31,5 @@ public static class FindNumbersWithEvenNumberOfDigits
         return result;
     }
 }
+
+

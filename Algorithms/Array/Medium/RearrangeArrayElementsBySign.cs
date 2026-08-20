@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         2149
+ * @title      Rearrange Array Elements by Sign
+ * @topic      array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/rearrange-array-elements-by-sign/
+ */
+namespace Array.Medium;
 
 public static class RearrangeArrayElementsBySign
 {
@@ -34,3 +41,5 @@ public static class RearrangeArrayElementsBySign
         return result;
     }
 }
+
+

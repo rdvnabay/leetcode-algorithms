@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2309
+ * @title      Greatest English Letter in Upper and Lower Case
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
+ */
+namespace String.Easy;
 
 public static class GreatestEnglishLetterInUpperAndLowerCase
 {
@@ -28,3 +35,5 @@ public static class GreatestEnglishLetterInUpperAndLowerCase
         return result.Max(x => x).ToString();
     }
 }
+
+

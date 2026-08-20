@@ -1,4 +1,11 @@
-﻿using System.Net.Http.Headers;
+/**
+ * @id         2264
+ * @title      Largest 3-Same-Digit Number in String
+ * @topic      string
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/largest-3-same-digit-number-in-string/
+ */
+using System.Net.Http.Headers;
 
 namespace String.Easy;
 
@@ -34,3 +41,5 @@ public static class Largest3SameDigitNumberInString
         return new string(maxValue.ToString()[0], 3);
     }
 }
+
+

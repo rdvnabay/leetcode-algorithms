@@ -1,3 +1,10 @@
+/**
+ * @id         409
+ * @title      Longest Palindrome
+ * @topic      hash-table
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/longest-palindrome/
+ */
 namespace Algorithms.HashTable.Easy;
 
 public static class LongestPalindrome
@@ -35,3 +42,5 @@ public static class LongestPalindrome
         return result;
     }
 }
+
+
