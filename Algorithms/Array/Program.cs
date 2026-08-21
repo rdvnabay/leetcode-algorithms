@@ -69,6 +69,7 @@ CountPartitionsWithEvenSumDifference.Run(new int[] { 10, 10, 3, 7, 6 });
 MaximumProductOfTwoElementsInAnArray.Run(new int[] { 3, 4, 5, 2 });
 SumOfVariableLengthSubarrays.Run(new int[] { 2, 3, 1 });
 EarliestTimeToFinishOneTask.Run(new int[][] { [1, 6], [2, 3] });
+FindTheHighestAltitude.Run(new int[] { -5, 1, 5, 0, -7 });
 
 
 // --- Medium ------------------------------------------------------------
@@ -101,6 +102,7 @@ FindtheWinnerOfTheCircularGame.Run(6, 5);
 FindTriangularSumOfAnArray.Run(new int[] { 1, 2, 3, 4, 5 });
 WateringPlants.Run(new int[] { 7, 7, 7, 7, 7, 7, 7 }, 8);
 DivideArrayIntoArraysWithMaxDifference.Run(new int[] { 1, 3, 4, 8, 7, 9, 3, 5, 1 }, 2);
+FindingTheUsersActiveMinutes.Run(new int[][] { [0, 5], [1, 2], [0, 2], [0, 5], [1, 3] }, 5);
 
 
 
