@@ -83,6 +83,7 @@ CheckIfTheNumberIsFascinating.Run(192);
 StoneRemovalGame.Run(12);
 TotalDistanceTraveled.Run(5, 10);
 DistributeMoneyToMaximumChildren.Run(12, 3);
+CheckGoodInteger.Run(19);
 
 
 // --- Medium ------------------------------------------------------------
