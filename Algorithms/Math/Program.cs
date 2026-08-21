@@ -84,6 +84,8 @@ StoneRemovalGame.Run(12);
 TotalDistanceTraveled.Run(5, 10);
 DistributeMoneyToMaximumChildren.Run(12, 3);
 CheckGoodInteger.Run(19);
+ThreeDivisors.Run(14);
+SignOfTheProductOfAnArray.Run(new int[] { -1, -2, -3, -4, 3, 2, 1 });
 
 
 // --- Medium ------------------------------------------------------------
