@@ -67,7 +67,7 @@ CountNumberOfPairsWithAbsoluteDifferenceK.Run(new int[] { 1, 2, 2, 1 }, 1);
 MinimumAverageOfSmallestAndLargestElements.Run(new int[] { 7, 8, 3, 4, 15, 13, 4, 1 });
 CountPartitionsWithEvenSumDifference.Run(new int[] { 10, 10, 3, 7, 6 });
 MaximumProductOfTwoElementsInAnArray.Run(new int[] { 3, 4, 5, 2 });
-
+SumOfVariableLengthSubarrays.Run(new int[] { 2, 3, 1 });
 
 // --- Medium ------------------------------------------------------------
 _3Sum.Run(new int[] { -1, 0, 1, 2, -1, -4 });
