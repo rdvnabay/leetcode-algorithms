@@ -25,6 +25,7 @@ MaximumNumberOfWordsYouCanType.Run("leet code", "lt");
 MergeTwo2DArraysBySummingValues.Run(new int[][] { [2, 4], [3, 6], [5, 5] }, new int[][] { [1, 3], [4, 3] });
 FindTheDifferenceOfTwoArrays.Run(new int[] { 1, 2, 3 }, new int[] { 2, 4, 6 });
 RingsAndRods.Run("B0B6G0R6R0R6G9");
+CountElementsWithMaximumFrequency.Run(new int[] { 1, 2, 3, 4, 5 });
 
 
 // --- Hard ------------------------------------------------------------
