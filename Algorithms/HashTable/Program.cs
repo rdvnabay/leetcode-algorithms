@@ -46,6 +46,9 @@ PointsThatIntersectWithCars.Run(new List<IList<int>>
     new List<int> { 4, 7 }
 });
 NumberOfUnequalTripletsInArray.Run(new int[] { 4, 4, 2, 4, 3 });
+CheckIfNumberHasEqualDigitCountAndDigitValue.Run("030");
+ToggleLightBulbs.Run(new List<int>() { 10, 30, 20, 10 });
+
 
 // --- Hard ------------------------------------------------------------
 
