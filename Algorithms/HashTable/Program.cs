@@ -1,6 +1,7 @@
 // Demo runner for 18 indexed solution files. Canonical ordering: LeetCode problem ID.
 using Algorithms.HashTable.Easy;
 using Algorithms.HashTable.Hard;
+using HashTable.Easy;
 
 Console.WriteLine("=== HashTable Algorithms ===");
 
@@ -17,6 +18,7 @@ SumOfUniqueElements.Run(new int[] { 1, 2, 3, 2 });
 UncommonWordsFromTwoSentences.Run("this apple is sweet", "this apple is sour");
 UniqueNumberOfOccurrences.Run(new int[] { 1, 2, 2, 1, 1, 3, 3 });
 VerifyingAnAlienDictionary.Run(new string[] { "hello", "leetcode" }, "hlabcdefgijkmnopqrstuvwxyz");
+FindMissingElements.Run(new int[] { 5, 1 });
 
 // --- Hard ------------------------------------------------------------
 
