@@ -2,8 +2,6 @@
 
 public static class TwoOutOfThree
 {
-    //Input: nums1 = [1,1,3,2], nums2 = [2,3], nums3 = [3]
-    //Output: [3, 2]
     public static IList<int> Run(int[] nums1, int[] nums2, int[] nums3)
     {
         HashSet<int> setNums1 = new(nums1);
