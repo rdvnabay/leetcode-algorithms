@@ -48,6 +48,9 @@ PointsThatIntersectWithCars.Run(new List<IList<int>>
 NumberOfUnequalTripletsInArray.Run(new int[] { 4, 4, 2, 4, 3 });
 CheckIfNumberHasEqualDigitCountAndDigitValue.Run("030");
 ToggleLightBulbs.Run(new List<int>() { 10, 30, 20, 10 });
+MinimumNumberOfOperationsToMakeElementsInArrayDistinct.Run(new int[] { 1, 2, 3, 4, 2, 3, 3, 5, 7 });
+FindResultantArrayAfterRemovingAnagrams.Run(new string[] { "abba", "baba", "bbaa", "cd", "cd" });
+IntersectionOfMultipleArrays.Run(new int[][] { [3, 1, 2, 4, 5], [1, 2, 3, 4], [3, 4, 5, 6] });
 
 
 // --- Hard ------------------------------------------------------------
