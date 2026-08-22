@@ -19,6 +19,7 @@ UncommonWordsFromTwoSentences.Run("this apple is sweet", "this apple is sour");
 UniqueNumberOfOccurrences.Run(new int[] { 1, 2, 2, 1, 1, 3, 3 });
 VerifyingAnAlienDictionary.Run(new string[] { "hello", "leetcode" }, "hlabcdefgijkmnopqrstuvwxyz");
 FindMissingElements.Run(new int[] { 5, 1 });
+FindTheNumberOfGoodPairsI.Run(new int[] { 1, 2, 4, 12 }, new int[] { 2, 4 }, 3);
 
 // --- Hard ------------------------------------------------------------
 
