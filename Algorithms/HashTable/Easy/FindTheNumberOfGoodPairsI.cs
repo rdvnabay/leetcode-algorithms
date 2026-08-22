@@ -2,13 +2,6 @@
 
 public static class FindTheNumberOfGoodPairsI
 {
-    //Input: nums1 = [1,2,4,12], nums2 = [2,4], k = 3
-
-    //Output: 2
-
-    //Explanation:
-
-    //The 2 good pairs are(3, 0) and(3, 1).
     public static int Run(int[] nums1, int[] nums2, int k)
     {
         int total = 0;
