@@ -39,6 +39,12 @@ FindCommonCharacters.Run(new string[] { "bella", "label", "roller" });
 MakeArrayZeroBySubtractingEqualAmounts.Run(new int[] { 0 });
 CountPairsOfSimilarStrings.Run(new string[] { "aba", "aabb", "abcd", "bac", "aabc" });
 CountCommonWordsWithOneOccurrence.Run(new string[] { "leetcode", "is", "leetcode", "is", "amazing", "and", "fantastic" }, new string[] { "leetcode", "is", "leetcode", "is", "fantastic" });
+PointsThatIntersectWithCars.Run(new List<IList<int>>
+{
+    new List<int> { 3, 6 },
+    new List<int> { 1, 5 },
+    new List<int> { 4, 7 }
+});
 
 
 // --- Hard ------------------------------------------------------------
