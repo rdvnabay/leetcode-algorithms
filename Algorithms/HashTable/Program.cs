@@ -22,6 +22,7 @@ FindMissingElements.Run(new int[] { 5, 1 });
 FindTheNumberOfGoodPairsI.Run(new int[] { 1, 2, 4, 12 }, new int[] { 2, 4 }, 3);
 FindCommonElementsBetweenTwoArrays.Run(new int[] { 4, 3, 2, 3, 1 }, new int[] { 2, 2, 5, 2, 3, 6 });
 MaximumNumberOfWordsYouCanType.Run("leet code", "lt");
+MergeTwo2DArraysBySummingValues.Run(new int[][] { [2, 4], [3, 6], [5, 5] }, new int[][] { [1, 3], [4, 3] });
 
 
 // --- Hard ------------------------------------------------------------
