@@ -20,6 +20,8 @@ UniqueNumberOfOccurrences.Run(new int[] { 1, 2, 2, 1, 1, 3, 3 });
 VerifyingAnAlienDictionary.Run(new string[] { "hello", "leetcode" }, "hlabcdefgijkmnopqrstuvwxyz");
 FindMissingElements.Run(new int[] { 5, 1 });
 FindTheNumberOfGoodPairsI.Run(new int[] { 1, 2, 4, 12 }, new int[] { 2, 4 }, 3);
+FindCommonElementsBetweenTwoArrays.Run(new int[] { 4, 3, 2, 3, 1 }, new int[] { 2, 2, 5, 2, 3, 6 });
+
 
 // --- Hard ------------------------------------------------------------
 
