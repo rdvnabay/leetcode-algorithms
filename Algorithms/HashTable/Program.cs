@@ -45,7 +45,7 @@ PointsThatIntersectWithCars.Run(new List<IList<int>>
     new List<int> { 1, 5 },
     new List<int> { 4, 7 }
 });
-
+NumberOfUnequalTripletsInArray.Run(new int[] { 4, 4, 2, 4, 3 });
 
 // --- Hard ------------------------------------------------------------
 
