@@ -2,8 +2,6 @@
 
 public static class AppleRedistributionIntoBoxes
 {
-    //Input: apple = [1, 3, 2], capacity = [4, 3, 1, 5, 2]
-    //Output: 2
     public static int Run(int[] apple, int[] capacity)
     {
         int totalCapacity = 0;

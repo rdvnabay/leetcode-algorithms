@@ -12,5 +12,6 @@ MinimumOperationsToMakeTheArrayIncreasing.Run(new int[] { 1, 5, 2, 4, 1 });
 LexicographicallySmallestPalindrome.Run("seven");
 MaximumSumWithExactlyKElements.Run(new int[] { 5, 5 }, 2);
 AppleRedistributionIntoBoxes.Run(new int[] { 1, 3, 2 }, new int[] { 4, 3, 1, 5, 2 });
+MaximizeSumOfAtMostKDistinctElements.Run(new int[] { 84, 93, 100, 77, 90 }, 3);
 
 
