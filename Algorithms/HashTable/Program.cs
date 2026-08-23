@@ -52,6 +52,8 @@ MinimumNumberOfOperationsToMakeElementsInArrayDistinct.Run(new int[] { 1, 2, 3, 
 FindResultantArrayAfterRemovingAnagrams.Run(new string[] { "abba", "baba", "bbaa", "cd", "cd" });
 IntersectionOfMultipleArrays.Run(new int[][] { [3, 1, 2, 4, 5], [1, 2, 3, 4], [3, 4, 5, 6] });
 FindTheLeastFrequentDigit.Run(723344511);
+FirstUniqueEvenElement.Run(new int[] { 4, 4 });
+SmallestMissingMultipleOfK.Run(new int[] { 8, 2, 3, 4, 6 }, 2);
 
 
 // --- Hard ------------------------------------------------------------
