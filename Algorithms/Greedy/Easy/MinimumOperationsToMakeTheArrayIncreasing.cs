@@ -10,9 +10,9 @@ public static class MinimumOperationsToMakeTheArrayIncreasing
         {
             if (nums[i] >= nums[i + 1])
             {
-                int increaceCount = (nums[i] - nums[i + 1]) + 1;
-                nums[i + 1] += increaceCount;
-                total += increaceCount;
+                int increaseCount = (nums[i] - nums[i + 1]) + 1;
+                nums[i + 1] += increaseCount;
+                total += increaseCount;
             }
         }
 
