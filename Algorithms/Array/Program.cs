@@ -76,6 +76,7 @@ MaximizeExpressionOfThreeElements.Run(new int[] { 1, 4, 2, 5 });
 ReplaceElementsWithGreatestElementOnRightSide.Run(new int[] { 17, 18, 5, 4, 6, 1 });
 Convert1DArrayInto2DArray.Run(new int[] { 1, 2, 3, 4 }, 2, 2);
 UniqueMiddleElement.Run(new int[] { 13});
+FindWordsThatCanBeFormedByCharacters.Run(new string[] { "cat", "bt", "hat", "tree" }, "atach");
 
 
 // --- Medium ------------------------------------------------------------
