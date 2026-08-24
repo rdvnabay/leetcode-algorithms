@@ -70,6 +70,9 @@ MaximumProductOfTwoElementsInAnArray.Run(new int[] { 3, 4, 5, 2 });
 SumOfVariableLengthSubarrays.Run(new int[] { 2, 3, 1 });
 EarliestTimeToFinishOneTask.Run(new int[][] { [1, 6], [2, 3] });
 FindTheHighestAltitude.Run(new int[] { -5, 1, 5, 0, -7 });
+TransformedArray.Run(new int[] { 3, -2, 1, 1 });
+FindTheMiddleIndexInArray.Run(new int[] { 2, 3, -1, 8, 4 });
+MaximizeExpressionOfThreeElements.Run(new int[] { 1, 4, 2, 5 });
 
 
 // --- Medium ------------------------------------------------------------
