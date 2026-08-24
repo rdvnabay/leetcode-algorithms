@@ -2,7 +2,6 @@
 using Algorithms.Array.Easy;
 using Algorithms.Array.Medium;
 using Array.Easy;
-using Array.Hard;
 using Array.Medium;
 
 Console.WriteLine("=== Array Algorithms ===");
@@ -75,6 +74,7 @@ TransformedArray.Run(new int[] { 3, -2, 1, 1 });
 FindTheMiddleIndexInArray.Run(new int[] { 2, 3, -1, 8, 4 });
 MaximizeExpressionOfThreeElements.Run(new int[] { 1, 4, 2, 5 });
 ReplaceElementsWithGreatestElementOnRightSide.Run(new int[] { 17, 18, 5, 4, 6, 1 });
+Convert1DArrayInto2DArray.Run(new int[] { 1, 2, 3, 4 }, 2, 2);
 
 
 // --- Medium ------------------------------------------------------------
