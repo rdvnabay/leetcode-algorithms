@@ -80,6 +80,7 @@ FindWordsThatCanBeFormedByCharacters.Run(new string[] { "cat", "bt", "hat", "tre
 MinimumCostOfBuyingCandiesWithDiscount.Run(new int[] { 6, 5, 7, 9, 2, 2 });
 Unique3DigitEvenNumbers.Run(new int[] { 1, 2, 3, 4 });
 LastStoneWeight.Run(new int[] { 2, 7, 4, 1, 8, 1 });
+CountDominantIndices.Run(new int[] { 5, 4, 3 });
 
 
 // --- Medium ------------------------------------------------------------
