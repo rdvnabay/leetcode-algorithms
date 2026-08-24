@@ -18,6 +18,9 @@ MaximumUnitsOnATruck.Run(new int[][] { [1, 3], [2, 2], [3, 1] }, 4);
 MinimumSubsequenceInNonIncreasingOrder.Run(new int[] { 4, 3, 10, 9, 8 });
 BuyTwoChocolates.Run(new int[] { 1, 2, 2 }, 3);
 MinimumNumberOfOperationsToConvertTime.Run("02:30", "04:35");
+LargestIntegerWithGivenDigitSum.Run(2, 9);
+MinimumMovesToConvertString.Run("XXOX");
+MinimumAmountOfTimeToFillCups.Run(new int[] { 1, 4, 2 });
 
 
 

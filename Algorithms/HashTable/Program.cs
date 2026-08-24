@@ -54,6 +54,7 @@ IntersectionOfMultipleArrays.Run(new int[][] { [3, 1, 2, 4, 5], [1, 2, 3, 4], [3
 FindTheLeastFrequentDigit.Run(723344511);
 FirstUniqueEvenElement.Run(new int[] { 4, 4 });
 SmallestMissingMultipleOfK.Run(new int[] { 8, 2, 3, 4, 6 }, 2);
+CountSpecialQuadruplets.Run(new int[] { 1, 1, 1, 3, 5 });
 
 
 // --- Hard ------------------------------------------------------------

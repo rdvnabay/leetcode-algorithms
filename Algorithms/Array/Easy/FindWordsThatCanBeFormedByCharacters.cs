@@ -2,7 +2,6 @@
 
 public static class FindWordsThatCanBeFormedByCharacters
 {
-    //Input: words = ["cat", "bt", "hat", "tree"], chars = "atach"
     public static int Run(string[] words, string chars)
     {
         Dictionary<char, int> dict = new();
