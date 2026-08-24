@@ -78,6 +78,7 @@ Convert1DArrayInto2DArray.Run(new int[] { 1, 2, 3, 4 }, 2, 2);
 UniqueMiddleElement.Run(new int[] { 13 });
 FindWordsThatCanBeFormedByCharacters.Run(new string[] { "cat", "bt", "hat", "tree" }, "atach");
 MinimumCostOfBuyingCandiesWithDiscount.Run(new int[] { 6, 5, 7, 9, 2, 2 });
+Unique3DigitEvenNumbers.Run(new int[] { 1, 2, 3, 4 });
 
 
 // --- Medium ------------------------------------------------------------
