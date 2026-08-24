@@ -2,6 +2,7 @@
 using Algorithms.Array.Easy;
 using Algorithms.Array.Medium;
 using Array.Easy;
+using Array.Hard;
 using Array.Medium;
 
 Console.WriteLine("=== Array Algorithms ===");
@@ -73,6 +74,7 @@ FindTheHighestAltitude.Run(new int[] { -5, 1, 5, 0, -7 });
 TransformedArray.Run(new int[] { 3, -2, 1, 1 });
 FindTheMiddleIndexInArray.Run(new int[] { 2, 3, -1, 8, 4 });
 MaximizeExpressionOfThreeElements.Run(new int[] { 1, 4, 2, 5 });
+ReplaceElementsWithGreatestElementOnRightSide.Run(new int[] { 17, 18, 5, 4, 6, 1 });
 
 
 // --- Medium ------------------------------------------------------------
@@ -106,7 +108,7 @@ FindTriangularSumOfAnArray.Run(new int[] { 1, 2, 3, 4, 5 });
 WateringPlants.Run(new int[] { 7, 7, 7, 7, 7, 7, 7 }, 8);
 DivideArrayIntoArraysWithMaxDifference.Run(new int[] { 1, 3, 4, 8, 7, 9, 3, 5, 1 }, 2);
 FindingTheUsersActiveMinutes.Run(new int[][] { [0, 5], [1, 2], [0, 2], [0, 5], [1, 3] }, 5);
-CountSquareSubmatricesWithAllOnes.Run(new int[][] { [0,1,1,1], [1,1,1,1], [0,1,1,1] });
+CountSquareSubmatricesWithAllOnes.Run(new int[][] { [0, 1, 1, 1], [1, 1, 1, 1], [0, 1, 1, 1] });
 
 
 
