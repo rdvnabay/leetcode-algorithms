@@ -82,6 +82,9 @@ Unique3DigitEvenNumbers.Run(new int[] { 1, 2, 3, 4 });
 LastStoneWeight.Run(new int[] { 2, 7, 4, 1, 8, 1 });
 CountDominantIndices.Run(new int[] { 5, 4, 3 });
 MinimumAbsoluteDifferenceBetweenTwoValues.Run(new int[] { 1, 0, 1, 0 });
+CouponCodeValidator.Run(new string[] { "SAVE20", "", "PHARMA5", "SAVE@20" }, new string[] { "restaurant", "grocery", "pharmacy", "restaurant" }, new bool[] { true, true, true, true });
+SplitTheArray.Run(new int[] { 1, 1, 2, 2, 3, 4 });
+CountSubarraysOfLengthThreeWithACondition.Run(new int[] { -1, -4, -1, 4 });
 
 
 // --- Medium ------------------------------------------------------------
