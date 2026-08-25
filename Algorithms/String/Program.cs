@@ -90,6 +90,8 @@ MinimumDeletionsForAtMostKDistinctCharacters.Run("abc", 2);
 CheckIfAllAsAppearsBeforeAllBs.Run("abab");
 FindTheOriginalTypedStringI.Run("abbcccc");
 CircularSentence.Run("leetcode exercises sound delightful");
+StringMatchingInAnArray.Run(new string[] { "mass", "as", "hero", "superhero" });
+MinimumRecolorsToGetKConsecutiveBlackBlocks.Run("WBBWWBBWBW", 7);
 
 
 // --- Medium ------------------------------------------------------------
