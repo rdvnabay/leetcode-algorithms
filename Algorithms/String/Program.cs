@@ -89,6 +89,7 @@ PercentageOfLetterInString.Run("foobar", 'o');
 MinimumDeletionsForAtMostKDistinctCharacters.Run("abc", 2);
 CheckIfAllAsAppearsBeforeAllBs.Run("abab");
 FindTheOriginalTypedStringI.Run("abbcccc");
+CircularSentence.Run("leetcode exercises sound delightful");
 
 
 // --- Medium ------------------------------------------------------------
