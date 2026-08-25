@@ -88,6 +88,7 @@ CheckIfNumbersAreAscendingInASentence.Run("1 box has 3 blue 4 red 6 green and 12
 PercentageOfLetterInString.Run("foobar", 'o');
 MinimumDeletionsForAtMostKDistinctCharacters.Run("abc", 2);
 CheckIfAllAsAppearsBeforeAllBs.Run("abab");
+FindTheOriginalTypedStringI.Run("abbcccc");
 
 
 // --- Medium ------------------------------------------------------------
