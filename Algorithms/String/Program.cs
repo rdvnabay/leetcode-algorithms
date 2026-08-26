@@ -96,6 +96,8 @@ CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.Run("i love eating burger", "bur
 MaximumScoreAfterSplittingAString.Run("011101");
 ShortestDistancetoTargetStringInACircularArray.Run(new string[] { "a", "b", "leetcode" }, "leetcode", 0);
 CheckWhetherTwoStringsAreAlmostEquivalent.Run("aaaa", "bccb");
+MaximumNumberOfBalloons.Run("nlaebolko");
+OccurrencesAfterBigram.Run("alice is a good girl she is a good student", "a", "good");
 
 
 // --- Medium ------------------------------------------------------------
