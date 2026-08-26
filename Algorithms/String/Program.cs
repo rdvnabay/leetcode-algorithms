@@ -99,7 +99,7 @@ ShortestDistancetoTargetStringInACircularArray.Run(new string[] { "a", "b", "lee
 CheckWhetherTwoStringsAreAlmostEquivalent.Run("aaaa", "bccb");
 MaximumNumberOfBalloons.Run("nlaebolko");
 OccurrencesAfterBigram.Run("alice is a good girl she is a good student", "a", "good");
-FindTheKBeautyOfANumber.Run(430043,2);
+FindTheKBeautyOfANumber.Run(430043, 2);
 LongerContiguousSegmentsOfOnesThanZeros.Run("110100010");
 
 // --- Medium ------------------------------------------------------------
@@ -107,5 +107,8 @@ LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
 ZigzagConversion.Run("ABCDE", 2);
 MaximumSubstringsWithDistinctStart.Run("abcd");
 GenerateBinaryStringsWithoutAdjacentZeros.Run(1);
+TheKThLexicographicalStringOfAllHappyStringsOfLengthN.Run(3, 9);
+ConstructSmallestNumberFromDIString.Run("IIIDIDDD");
+HashDividedString.Run("abcd", 2);
 
 
