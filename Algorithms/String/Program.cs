@@ -92,6 +92,8 @@ FindTheOriginalTypedStringI.Run("abbcccc");
 CircularSentence.Run("leetcode exercises sound delightful");
 StringMatchingInAnArray.Run(new string[] { "mass", "as", "hero", "superhero" });
 MinimumRecolorsToGetKConsecutiveBlackBlocks.Run("WBBWWBBWBW", 7);
+CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.Run("i love eating burger", "burg");
+MaximumScoreAfterSplittingAString.Run("011101");
 
 
 // --- Medium ------------------------------------------------------------
