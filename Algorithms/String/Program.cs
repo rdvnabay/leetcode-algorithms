@@ -111,5 +111,7 @@ TheKThLexicographicalStringOfAllHappyStringsOfLengthN.Run(3, 9);
 ConstructSmallestNumberFromDIString.Run("IIIDIDDD");
 HashDividedString.Run("abcd", 2);
 SortVowelsInAString.Run("lEetcOde");
+MinimumNumberOfStepsToMakeTwoStringsAnagram.Run("leetcode", "practice");
+RemovingStarsFromAString.Solution2("u*ensso****x*q");
 
 
