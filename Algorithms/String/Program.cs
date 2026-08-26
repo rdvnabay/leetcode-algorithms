@@ -98,6 +98,7 @@ ShortestDistancetoTargetStringInACircularArray.Run(new string[] { "a", "b", "lee
 CheckWhetherTwoStringsAreAlmostEquivalent.Run("aaaa", "bccb");
 MaximumNumberOfBalloons.Run("nlaebolko");
 OccurrencesAfterBigram.Run("alice is a good girl she is a good student", "a", "good");
+FindTheKBeautyOfANumber.Run(430043,2);
 
 
 // --- Medium ------------------------------------------------------------
