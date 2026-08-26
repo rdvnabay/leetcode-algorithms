@@ -106,5 +106,6 @@ LongerContiguousSegmentsOfOnesThanZeros.Run("110100010");
 LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
 ZigzagConversion.Run("ABCDE", 2);
 MaximumSubstringsWithDistinctStart.Run("abcd");
+GenerateBinaryStringsWithoutAdjacentZeros.Run(1);
 
 
