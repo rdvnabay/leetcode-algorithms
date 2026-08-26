@@ -94,6 +94,8 @@ StringMatchingInAnArray.Run(new string[] { "mass", "as", "hero", "superhero" });
 MinimumRecolorsToGetKConsecutiveBlackBlocks.Run("WBBWWBBWBW", 7);
 CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.Run("i love eating burger", "burg");
 MaximumScoreAfterSplittingAString.Run("011101");
+ShortestDistancetoTargetStringInACircularArray.Run(new string[] { "a", "b", "leetcode" }, "leetcode", 0);
+CheckWhetherTwoStringsAreAlmostEquivalent.Run("aaaa", "bccb");
 
 
 // --- Medium ------------------------------------------------------------
