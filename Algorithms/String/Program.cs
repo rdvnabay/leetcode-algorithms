@@ -2,6 +2,7 @@
 using Algorithms.String.Easy;
 using Algorithms.String.Medium;
 using String.Easy;
+using String.Medium;
 
 Console.WriteLine("=== String Algorithms ===");
 
@@ -99,10 +100,11 @@ CheckWhetherTwoStringsAreAlmostEquivalent.Run("aaaa", "bccb");
 MaximumNumberOfBalloons.Run("nlaebolko");
 OccurrencesAfterBigram.Run("alice is a good girl she is a good student", "a", "good");
 FindTheKBeautyOfANumber.Run(430043,2);
-
+LongerContiguousSegmentsOfOnesThanZeros.Run("110100010");
 
 // --- Medium ------------------------------------------------------------
 LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
 ZigzagConversion.Run("ABCDE", 2);
+MaximumSubstringsWithDistinctStart.Run("abcd");
 
 
