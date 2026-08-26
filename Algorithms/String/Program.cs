@@ -110,5 +110,6 @@ GenerateBinaryStringsWithoutAdjacentZeros.Run(1);
 TheKThLexicographicalStringOfAllHappyStringsOfLengthN.Run(3, 9);
 ConstructSmallestNumberFromDIString.Run("IIIDIDDD");
 HashDividedString.Run("abcd", 2);
+SortVowelsInAString.Run("lEetcOde");
 
 
