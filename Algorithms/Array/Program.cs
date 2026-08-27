@@ -124,6 +124,7 @@ FindingTheUsersActiveMinutes.Run(new int[][] { [0, 5], [1, 2], [0, 2], [0, 5], [
 CountSquareSubmatricesWithAllOnes.Run(new int[][] { [0, 1, 1, 1], [1, 1, 1, 1], [0, 1, 1, 1] });
 MinimizeMaximumPairSumInArray.Run(new int[] { 4, 1, 5, 1, 2, 5, 1, 5, 5, 4 });
 FindUniqueBinaryString.Run(new string[] { "1" });
+MinimumDistanceBetweenThreeEqualElementsII.Run(new int[] { 1, 1, 1, 1 });
 
 
 
