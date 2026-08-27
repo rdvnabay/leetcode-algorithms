@@ -56,6 +56,7 @@ FirstUniqueEvenElement.Run(new int[] { 4, 4 });
 SmallestMissingMultipleOfK.Run(new int[] { 8, 2, 3, 4, 6 }, 2);
 CountSpecialQuadruplets.Run(new int[] { 1, 1, 1, 3, 5 });
 OddStringDifference.Run(new string[] { "adc", "wzy", "abc" });
+RestoreFinishingOrder.Run(new int[] { 3, 1, 2, 5, 4 }, new int[] { 1, 3, 4 });
 
 
 // --- Hard ------------------------------------------------------------
