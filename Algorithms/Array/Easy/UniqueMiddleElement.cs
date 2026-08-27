@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3978
+ * @title      Unique Middle Element
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/unique-middle-element/
+ */
+namespace Array.Easy;
 
 public static class UniqueMiddleElement
 {

@@ -1,7 +1,7 @@
 /**
  * @id         1837
  * @title      Sum of Digits in Base K
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/sum-of-digits-in-base-k/
  */

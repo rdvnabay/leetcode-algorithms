@@ -1,7 +1,7 @@
 /**
  * @id         2545
  * @title      Sort the Students by Their Kth Score
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/sort-the-students-by-their-kth-score/
  */

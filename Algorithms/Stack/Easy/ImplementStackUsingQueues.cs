@@ -1,7 +1,7 @@
 /**
  * @id         225
  * @title      Implement Stack using Queues
- * @topic      stack
+ * @topic      Stack
  * @difficulty Easy
  * @link       https://leetcode.com/problems/implement-stack-using-queues/
  */

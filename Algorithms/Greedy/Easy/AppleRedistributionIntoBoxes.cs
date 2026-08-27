@@ -1,4 +1,11 @@
-﻿namespace Greedy.Easy;
+/**
+ * @id         3074
+ * @title      Apple Redistribution into Boxes
+ * @topic      Greedy
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/apple-redistribution-into-boxes/
+ */
+namespace Greedy.Easy;
 
 public static class AppleRedistributionIntoBoxes
 {

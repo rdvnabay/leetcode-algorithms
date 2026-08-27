@@ -1,7 +1,7 @@
 /**
  * @id         819
  * @title      Most Common Word
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/most-common-word/
  */

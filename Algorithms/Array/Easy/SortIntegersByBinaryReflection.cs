@@ -1,4 +1,11 @@
-﻿using System.Numerics;
+/**
+ * @id         3769
+ * @title      Sort Integers by Binary Reflection
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/sort-integers-by-binary-reflection/
+ */
+using System.Numerics;
 
 namespace Array.Easy;
 

@@ -1,7 +1,7 @@
 /**
  * @id         3870
  * @title      Count Commas in Range
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/count-commas-in-range/
  */

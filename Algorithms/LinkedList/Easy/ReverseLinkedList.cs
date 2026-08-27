@@ -1,7 +1,7 @@
 /**
  * @id         206
  * @title      Reverse Linked List
- * @topic      linked-list
+ * @topic      LinkedList
  * @difficulty Easy
  * @link       https://leetcode.com/problems/reverse-linked-list/
  */

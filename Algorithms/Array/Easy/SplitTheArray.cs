@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3046
+ * @title      Split the Array
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/split-the-array/
+ */
+namespace Array.Easy;
 
 public static class SplitTheArray
 {

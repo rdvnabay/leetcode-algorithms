@@ -1,4 +1,11 @@
-﻿namespace String.Medium;
+/**
+ * @id         3211
+ * @title      Generate Binary Strings Without Adjacent Zeros
+ * @topic      String
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/
+ */
+namespace String.Medium;
 
 public static class GenerateBinaryStringsWithoutAdjacentZeros
 {

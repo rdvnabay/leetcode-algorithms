@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1160
+ * @title      Find Words That Can Be Formed by Characters
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
+ */
+namespace Array.Easy;
 
 public static class FindWordsThatCanBeFormedByCharacters
 {

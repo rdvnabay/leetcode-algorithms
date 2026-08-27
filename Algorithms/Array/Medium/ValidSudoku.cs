@@ -1,7 +1,7 @@
 /**
  * @id         36
  * @title      Valid Sudoku
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/valid-sudoku/
  */

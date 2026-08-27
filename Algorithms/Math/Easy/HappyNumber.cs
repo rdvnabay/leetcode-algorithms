@@ -1,7 +1,7 @@
 /**
  * @id         202
  * @title      Happy Number
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/happy-number/
  */

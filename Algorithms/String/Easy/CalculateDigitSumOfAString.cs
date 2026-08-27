@@ -1,7 +1,7 @@
 /**
  * @id         2243
  * @title      Calculate Digit Sum of a String
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/calculate-digit-sum-of-a-string/
  */

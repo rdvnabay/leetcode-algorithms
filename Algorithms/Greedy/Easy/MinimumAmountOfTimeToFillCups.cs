@@ -1,4 +1,11 @@
-﻿namespace Greedy.Easy;
+/**
+ * @id         2335
+ * @title      Minimum Amount of Time to Fill Cups
+ * @topic      Greedy
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/
+ */
+namespace Greedy.Easy;
 
 public static class MinimumAmountOfTimeToFillCups
 {

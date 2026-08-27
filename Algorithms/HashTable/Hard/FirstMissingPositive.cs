@@ -1,7 +1,7 @@
 /**
  * @id         41
  * @title      First Missing Positive
- * @topic      hash-table
+ * @topic      HashTable
  * @difficulty Hard
  * @link       https://leetcode.com/problems/first-missing-positive/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         2942
  * @title      Find Words Containing Character
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-words-containing-character/
  */

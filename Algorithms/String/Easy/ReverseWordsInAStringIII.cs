@@ -1,7 +1,7 @@
 /**
  * @id         557
  * @title      Reverse Words in a String III
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/reverse-words-in-a-string-iii/
  */

@@ -1,4 +1,11 @@
-﻿using System;
+/**
+ * @id         3427
+ * @title      Sum of Variable Length Subarrays
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/sum-of-variable-length-subarrays/
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2379
+ * @title      Minimum Recolors to Get K Consecutive Black Blocks
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/
+ */
+namespace String.Easy;
 
 public static class MinimumRecolorsToGetKConsecutiveBlackBlocks
 {

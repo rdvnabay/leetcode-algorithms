@@ -1,7 +1,7 @@
 /**
  * @id         345
  * @title      Reverse Vowels of a String
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/reverse-vowels-of-a-string/
  */

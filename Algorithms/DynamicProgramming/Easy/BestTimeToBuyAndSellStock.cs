@@ -1,7 +1,7 @@
 /**
  * @id         121
  * @title      Best Time to Buy and Sell Stock
- * @topic      dynamic-programming
+ * @topic      DynamicProgramming
  * @difficulty Easy
  * @link       https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
  */

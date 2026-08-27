@@ -1,7 +1,7 @@
 /**
  * @id         389
  * @title      Find the Difference
- * @topic      hash-table
+ * @topic      HashTable
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-the-difference/
  */

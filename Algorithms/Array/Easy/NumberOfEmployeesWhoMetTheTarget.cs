@@ -1,7 +1,7 @@
 /**
  * @id         2798
  * @title      Number of Employees Who Met the Target
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/number-of-employees-who-met-the-target/
  */

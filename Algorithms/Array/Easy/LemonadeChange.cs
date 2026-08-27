@@ -1,7 +1,7 @@
 /**
  * @id         860
  * @title      Lemonade Change
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/lemonade-change/
  */

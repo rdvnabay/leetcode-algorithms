@@ -1,7 +1,7 @@
 /**
  * @id         2194
  * @title      Cells in a Range on an Excel Sheet
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
  */

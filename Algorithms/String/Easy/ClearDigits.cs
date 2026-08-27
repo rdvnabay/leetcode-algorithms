@@ -1,7 +1,7 @@
 /**
  * @id         3174
  * @title      Clear Digits
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/clear-digits/
  */

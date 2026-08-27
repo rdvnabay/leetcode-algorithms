@@ -1,7 +1,7 @@
 /**
  * @id         680
  * @title      Valid Palindrome II
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/valid-palindrome-ii/
  */

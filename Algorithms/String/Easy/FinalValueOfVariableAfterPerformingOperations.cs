@@ -1,7 +1,7 @@
 /**
  * @id         2011
  * @title      Final Value of Variable After Performing Operations
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
  */

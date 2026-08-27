@@ -1,7 +1,7 @@
 /**
  * @id         405
  * @title      Convert a Number to Hexadecimal
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/convert-a-number-to-hexadecimal/
  */

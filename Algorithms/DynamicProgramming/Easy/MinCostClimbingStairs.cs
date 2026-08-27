@@ -1,7 +1,7 @@
 /**
  * @id         746
  * @title      Min Cost Climbing Stairs
- * @topic      dynamic-programming
+ * @topic      DynamicProgramming
  * @difficulty Easy
  * @link       https://leetcode.com/problems/min-cost-climbing-stairs/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         944
  * @title      Delete Columns to Make Sorted
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/delete-columns-to-make-sorted/
  */

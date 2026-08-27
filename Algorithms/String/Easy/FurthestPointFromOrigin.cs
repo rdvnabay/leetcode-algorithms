@@ -1,7 +1,7 @@
 /**
  * @id         2833
  * @title      Furthest Point From Origin
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/furthest-point-from-origin/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         953
  * @title      Verifying an Alien Dictionary
- * @topic      hash-table
+ * @topic      HashTable
  * @difficulty Easy
  * @link       https://leetcode.com/problems/verifying-an-alien-dictionary/
  */

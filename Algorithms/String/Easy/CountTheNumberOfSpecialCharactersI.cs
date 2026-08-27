@@ -1,7 +1,7 @@
 /**
  * @id         3120
  * @title      Count the Number of Special Characters I
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/count-the-number-of-special-characters-i/
  */

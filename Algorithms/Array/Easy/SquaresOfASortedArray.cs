@@ -1,7 +1,7 @@
 /**
  * @id         977
  * @title      Squares of a Sorted Array
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/squares-of-a-sorted-array/
  */

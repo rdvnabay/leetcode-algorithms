@@ -1,7 +1,7 @@
 /**
  * @id         821
  * @title      Shortest Distance to a Character
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/shortest-distance-to-a-character/
  */

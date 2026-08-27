@@ -1,4 +1,11 @@
-﻿namespace Greedy.Easy;
+/**
+ * @id         3684
+ * @title      Maximize Sum of At Most K Distinct Elements
+ * @topic      Greedy
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/
+ */
+namespace Greedy.Easy;
 
 public static class MaximizeSumOfAtMostKDistinctElements
 {

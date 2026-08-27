@@ -1,7 +1,7 @@
 /**
  * @id         242
  * @title      Valid Anagram
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/valid-anagram/
  */

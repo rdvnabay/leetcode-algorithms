@@ -1,7 +1,7 @@
 /**
  * @id         119
  * @title      Pascal's Triangle II
- * @topic      dynamic-programming
+ * @topic      DynamicProgramming
  * @difficulty Easy
  * @link       https://leetcode.com/problems/pascals-triangle-ii/
  */

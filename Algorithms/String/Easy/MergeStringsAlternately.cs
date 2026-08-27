@@ -1,7 +1,7 @@
 /**
  * @id         1768
  * @title      Merge Strings Alternately
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/merge-strings-alternately/
  */

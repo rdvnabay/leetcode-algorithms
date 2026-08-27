@@ -1,7 +1,7 @@
 /**
  * @id         762
  * @title      Prime Number of Set Bits in Binary Representation
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
  */

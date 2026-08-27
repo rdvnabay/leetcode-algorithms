@@ -1,7 +1,7 @@
 /**
  * @id         2535
  * @title      Difference Between Element Sum and Digit Sum of an Array
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
  */

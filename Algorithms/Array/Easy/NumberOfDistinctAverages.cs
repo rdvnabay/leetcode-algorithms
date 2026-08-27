@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2465
+ * @title      Number of Distinct Averages
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/number-of-distinct-averages/
+ */
+namespace Array.Easy;
 
 public static class NumberOfDistinctAverages
 {

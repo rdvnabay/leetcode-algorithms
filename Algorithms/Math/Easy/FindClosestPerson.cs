@@ -1,7 +1,7 @@
 /**
  * @id         3516
  * @title      Find Closest Person
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-closest-person/
  */

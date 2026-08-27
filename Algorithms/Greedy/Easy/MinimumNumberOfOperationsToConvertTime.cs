@@ -1,4 +1,11 @@
-﻿namespace Greedy.Easy;
+/**
+ * @id         2224
+ * @title      Minimum Number of Operations to Convert Time
+ * @topic      Greedy
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
+ */
+namespace Greedy.Easy;
 
 public static class MinimumNumberOfOperationsToConvertTime
 {

@@ -1,7 +1,7 @@
 /**
  * @id         344
  * @title      Reverse String
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/reverse-string/
  */

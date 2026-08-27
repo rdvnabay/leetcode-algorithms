@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         2390
+ * @title      Removing Stars From a String
+ * @topic      String
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/removing-stars-from-a-string/
+ */
+using System.Text;
 
 namespace String.Medium;
 

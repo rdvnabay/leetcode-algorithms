@@ -1,7 +1,7 @@
 /**
  * @id         1047
  * @title      Remove All Adjacent Duplicates In String
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
  */

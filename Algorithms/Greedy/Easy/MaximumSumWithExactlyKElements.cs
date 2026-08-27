@@ -1,4 +1,11 @@
-﻿namespace Greedy.Easy;
+/**
+ * @id         2656
+ * @title      Maximum Sum With Exactly K Elements
+ * @topic      Greedy
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/
+ */
+namespace Greedy.Easy;
 
 public static class MaximumSumWithExactlyKElements
 {

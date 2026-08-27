@@ -1,7 +1,7 @@
 /**
  * @id         1672
  * @title      Richest Customer Wealth
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/richest-customer-wealth/
  */

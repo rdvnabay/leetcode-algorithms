@@ -1,7 +1,7 @@
 /**
  * @id         482
  * @title      License Key Formatting
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/license-key-formatting/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         1431
  * @title      Kids With the Greatest Number of Candies
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
  */

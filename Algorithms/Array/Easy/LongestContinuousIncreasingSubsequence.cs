@@ -1,7 +1,7 @@
 /**
  * @id         674
  * @title      Longest Continuous Increasing Subsequence
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/longest-continuous-increasing-subsequence/
  */

@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2351
+ * @title      First Letter to Appear Twice
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/first-letter-to-appear-twice/
+ */
+namespace HashTable.Easy;
 
 public static class FirstLetterToAppearTwice
 {

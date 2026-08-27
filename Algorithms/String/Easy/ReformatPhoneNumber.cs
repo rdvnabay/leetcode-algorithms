@@ -1,7 +1,7 @@
 /**
  * @id         1694
  * @title      Reformat Phone Number
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/reformat-phone-number/
  */

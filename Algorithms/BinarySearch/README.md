@@ -1,12 +1,12 @@
 # BinarySearch Algorithms
 
-LeetCode solutions indexed by problem number. File names remain descriptive and alphabetic-friendly.
+LeetCode solutions indexed by problem number. Descriptive file names remain easy to search alphabetically.
 
 ## Summary
 
-| Solution files | Easy | Medium | Hard |
-|---:|---:|---:|---:|
-| 3 | 3 | 0 | 0 |
+| Files | Unique | Easy | Medium | Hard | Incomplete | Needs review |
+|---:|---:|---:|---:|---:|---:|---:|
+| 3 | 3 | 3 | 0 | 0 | 0 | 0 |
 
 ## Solutions
 

@@ -1,7 +1,7 @@
 /**
  * @id         3345
  * @title      Smallest Divisible Digit Product I
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/smallest-divisible-digit-product-i/
  */

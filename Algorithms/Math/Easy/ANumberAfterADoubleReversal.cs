@@ -1,7 +1,7 @@
 /**
  * @id         2119
  * @title      A Number After a Double Reversal
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/a-number-after-a-double-reversal/
  */

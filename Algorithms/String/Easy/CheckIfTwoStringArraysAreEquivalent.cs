@@ -1,7 +1,7 @@
 /**
  * @id         1662
  * @title      Check If Two String Arrays are Equivalent
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
  */

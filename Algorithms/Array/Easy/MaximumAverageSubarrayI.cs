@@ -1,7 +1,7 @@
 /**
  * @id         643
  * @title      Maximum Average Subarray I
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/maximum-average-subarray-i/
  */

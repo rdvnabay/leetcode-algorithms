@@ -1,7 +1,7 @@
 /**
  * @id         3697
  * @title      Compute Decimal Representation
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/compute-decimal-representation/
  */

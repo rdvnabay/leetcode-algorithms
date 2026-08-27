@@ -1,7 +1,7 @@
 /**
  * @id         2769
  * @title      Find the Maximum Achievable Number
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-the-maximum-achievable-number/
  */

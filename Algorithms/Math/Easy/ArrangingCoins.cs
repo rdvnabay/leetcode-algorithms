@@ -1,7 +1,7 @@
 /**
  * @id         441
  * @title      Arranging Coins
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/arranging-coins/
  */

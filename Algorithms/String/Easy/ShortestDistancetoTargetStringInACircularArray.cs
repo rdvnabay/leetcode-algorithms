@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2515
+ * @title      Shortest Distance to Target String in a Circular Array
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
+ */
+namespace String.Easy;
 
 public static class ShortestDistancetoTargetStringInACircularArray
 {

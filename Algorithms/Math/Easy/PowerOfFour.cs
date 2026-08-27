@@ -1,7 +1,7 @@
 /**
  * @id         342
  * @title      Power of Four
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/power-of-four/
  */

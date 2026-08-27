@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         1935
+ * @title      Maximum Number of Words You Can Type
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-number-of-words-you-can-type/
+ */
+namespace HashTable.Easy;
 
 public static class MaximumNumberOfWordsYouCanType
 {

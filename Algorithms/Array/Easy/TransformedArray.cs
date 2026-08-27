@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3379
+ * @title      Transformed Array
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/transformed-array/
+ */
+namespace Array.Easy;
 
 public static class TransformedArray
 {

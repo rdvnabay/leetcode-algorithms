@@ -1,7 +1,7 @@
 /**
  * @id         1409
  * @title      Queries on a Permutation With Key
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/queries-on-a-permutation-with-key/
  */

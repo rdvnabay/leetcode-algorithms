@@ -1,7 +1,7 @@
 /**
  * @id         3783
  * @title      Mirror Distance of an Integer
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/mirror-distance-of-an-integer/
  */

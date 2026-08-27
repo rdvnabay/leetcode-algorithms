@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2848
+ * @title      Points That Intersect With Cars
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/points-that-intersect-with-cars/
+ */
+namespace HashTable.Easy;
 
 public static class PointsThatIntersectWithCars
 {

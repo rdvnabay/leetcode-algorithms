@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3606
+ * @title      Coupon Code Validator
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/coupon-code-validator/
+ */
+namespace Array.Easy;
 
 public static class CouponCodeValidator
 {

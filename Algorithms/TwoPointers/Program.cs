@@ -1,4 +1,4 @@
-// Demo runner for 1 indexed solution files. Canonical ordering: LeetCode problem ID.
+// Demo runner for 7 solution files; the README is the canonical ID-sorted index.
 using Algorithms.TwoPointers.Easy;
 using TwoPointers.Easy;
 

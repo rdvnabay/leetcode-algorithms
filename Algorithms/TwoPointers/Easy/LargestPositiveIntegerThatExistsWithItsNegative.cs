@@ -1,4 +1,11 @@
-﻿namespace TwoPointers.Easy;
+/**
+ * @id         2441
+ * @title      Largest Positive Integer That Exists With Its Negative
+ * @topic      TwoPointers
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
+ */
+namespace TwoPointers.Easy;
 
 public static class LargestPositiveIntegerThatExistsWithItsNegative
 {

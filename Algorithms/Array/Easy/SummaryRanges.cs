@@ -1,7 +1,7 @@
 /**
  * @id         228
  * @title      Summary Ranges
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/summary-ranges/
  */

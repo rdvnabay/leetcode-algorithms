@@ -1,7 +1,7 @@
 /**
  * @id         2744
  * @title      Find Maximum Number of String Pairs
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-maximum-number-of-string-pairs/
  */

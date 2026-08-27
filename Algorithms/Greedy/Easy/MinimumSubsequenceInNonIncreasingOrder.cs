@@ -1,4 +1,11 @@
-﻿namespace Greedy.Easy;
+/**
+ * @id         1403
+ * @title      Minimum Subsequence in Non-Increasing Order
+ * @topic      Greedy
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
+ */
+namespace Greedy.Easy;
 
 public static class MinimumSubsequenceInNonIncreasingOrder
 {

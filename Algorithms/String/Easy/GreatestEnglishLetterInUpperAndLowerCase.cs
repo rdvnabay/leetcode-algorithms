@@ -1,7 +1,7 @@
 /**
  * @id         2309
  * @title      Greatest English Letter in Upper and Lower Case
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
  */

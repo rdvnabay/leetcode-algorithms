@@ -1,7 +1,7 @@
 /**
  * @id         888
  * @title      Fair Candy Swap
- * @topic      hash-table
+ * @topic      HashTable
  * @difficulty Easy
  * @link       https://leetcode.com/problems/fair-candy-swap/
  */

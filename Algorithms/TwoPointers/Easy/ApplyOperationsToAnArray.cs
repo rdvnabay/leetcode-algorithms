@@ -1,4 +1,11 @@
-﻿namespace TwoPointers.Easy;
+/**
+ * @id         2460
+ * @title      Apply Operations to an Array
+ * @topic      TwoPointers
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/apply-operations-to-an-array/
+ */
+namespace TwoPointers.Easy;
 
 public static class ApplyOperationsToAnArray
 {

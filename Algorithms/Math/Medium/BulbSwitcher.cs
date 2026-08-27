@@ -1,7 +1,7 @@
 /**
  * @id         319
  * @title      Bulb Switcher
- * @topic      math
+ * @topic      Math
  * @difficulty Medium
  * @link       https://leetcode.com/problems/bulb-switcher/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         1089
  * @title      Duplicate Zeros
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/duplicate-zeros/
  */

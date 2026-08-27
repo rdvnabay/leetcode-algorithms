@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         3741
+ * @title      Minimum Distance Between Three Equal Elements II
+ * @topic      Array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/
+ */
+namespace Array.Medium;
 
 public static class MinimumDistanceBetweenThreeEqualElementsII
 {

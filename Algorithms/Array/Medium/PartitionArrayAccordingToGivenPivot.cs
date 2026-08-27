@@ -1,7 +1,7 @@
 /**
  * @id         2161
  * @title      Partition Array According to Given Pivot
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/partition-array-according-to-given-pivot/
  */

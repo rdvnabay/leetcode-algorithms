@@ -1,7 +1,7 @@
 /**
  * @id         832
  * @title      Flipping an Image
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/flipping-an-image/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         2544
  * @title      Alternating Digit Sum
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/alternating-digit-sum/
  */

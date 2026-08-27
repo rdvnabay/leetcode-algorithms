@@ -1,7 +1,7 @@
 /**
  * @id         717
  * @title      1-bit and 2-bit Characters
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/1-bit-and-2-bit-characters/
  */

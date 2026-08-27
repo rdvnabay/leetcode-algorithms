@@ -1,7 +1,7 @@
 /**
  * @id         594
  * @title      Longest Harmonious Subsequence
- * @topic      hash-table
+ * @topic      HashTable
  * @difficulty Easy
  * @link       https://leetcode.com/problems/longest-harmonious-subsequence/
  */

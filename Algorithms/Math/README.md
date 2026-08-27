@@ -1,12 +1,12 @@
 # Math Algorithms
 
-LeetCode solutions indexed by problem number. File names remain descriptive and alphabetic-friendly.
+LeetCode solutions indexed by problem number. Descriptive file names remain easy to search alphabetically.
 
 ## Summary
 
-| Solution files | Easy | Medium | Hard |
-|---:|---:|---:|---:|
-| 87 | 85 | 2 | 0 |
+| Files | Unique | Easy | Medium | Hard | Incomplete | Needs review |
+|---:|---:|---:|---:|---:|---:|---:|
+| 93 | 93 | 91 | 2 | 0 | 4 | 1 |
 
 ## Solutions
 
@@ -50,15 +50,19 @@ LeetCode solutions indexed by problem number. File names remain descriptive and 
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | Easy | Implemented | [CountOfMatchesInTournament.cs](Easy/CountOfMatchesInTournament.cs) |
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | Easy | Implemented | [CalculateMoneyInLeetcodeBank.cs](Easy/CalculateMoneyInLeetcodeBank.cs) |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | Easy | Implemented | [MaximumNumberOfBallsInABox.cs](Easy/MaximumNumberOfBallsInABox.cs) |
+| 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Easy | Implemented | [SignOfTheProductOfAnArray.cs](Easy/SignOfTheProductOfAnArray.cs) |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | Easy | Implemented | [SumOfDigitsInBaseK.cs](Easy/SumOfDigitsInBaseK.cs) |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | Easy | Implemented | [LargestOddNumberInString.cs](Easy/LargestOddNumberInString.cs) |
+| 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | Easy | Implemented | [ThreeDivisors.cs](Easy/ThreeDivisors.cs) |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | Implemented | [FindGreatestCommonDivisorOfArray.cs](Easy/FindGreatestCommonDivisorOfArray.cs) |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | Easy | Implemented | [ANumberAfterADoubleReversal.cs](Easy/ANumberAfterADoubleReversal.cs) |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy | Implemented | [MinimumSumOfFourDigitNumberAfterSplittingDigits.cs](Easy/MinimumSumOfFourDigitNumberAfterSplittingDigits.cs) |
 | 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | Easy | Implemented | [CountOperationsToObtainZero.cs](Easy/CountOperationsToObtainZero.cs) |
 | 2180 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | Easy | Implemented | [CountIntegersWithEvenDigitSum.cs](Easy/CountIntegersWithEvenDigitSum.cs) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy | Implemented | [AddTwoIntegers.cs](Easy/AddTwoIntegers.cs) |
+| 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | Easy | Incomplete | [FindTheKBeautyOfANumber.cs](Easy/FindTheKBeautyOfANumber.cs) |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | Implemented | [SmallestEvenMultiple.cs](Easy/SmallestEvenMultiple.cs) |
+| 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | Easy | Implemented | [AverageValueOfEvenNumbersThatAreDivisibleByThree.cs](Easy/AverageValueOfEvenNumbersThatAreDivisibleByThree.cs) |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | Easy | Implemented | [ConvertTheTemperature.cs](Easy/ConvertTheTemperature.cs) |
 | 2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | Easy | Implemented | [MinimumCutsToDivideACircle.cs](Easy/MinimumCutsToDivideACircle.cs) |
 | 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | Easy | Implemented | [FindThePivotInteger.cs](Easy/FindThePivotInteger.cs) |
@@ -80,6 +84,7 @@ LeetCode solutions indexed by problem number. File names remain descriptive and 
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | Easy | Implemented | [DivisibleAndNonDivisibleSumsDifference.cs](Easy/DivisibleAndNonDivisibleSumsDifference.cs) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | Easy | Implemented | [FindMissingAndRepeatedValues.cs](Easy/FindMissingAndRepeatedValues.cs) |
 | 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | Easy | Implemented | [HarshadNumber.cs](Easy/HarshadNumber.cs) |
+| 3178 | [Find the Child Who Has the Ball After K Seconds](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/) | Easy | Needs review | [FindTheChildWhoHasTheBallAfterKSeconds.cs](Easy/FindTheChildWhoHasTheBallAfterKSeconds.cs) |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy | Implemented | [FindMinimumOperationsToMakeAllElementsDivisibleByThree.cs](Easy/FindMinimumOperationsToMakeAllElementsDivisibleByThree.cs) |
 | 3222 | [Find the Winning Player in Coin Game](https://leetcode.com/problems/find-the-winning-player-in-coin-game/) | Easy | Implemented | [FindTheWinningPlayerInCoinGame.cs](Easy/FindTheWinningPlayerInCoinGame.cs) |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | Easy | Implemented | [FindIfDigitGameCanBeWon.cs](Easy/FindIfDigitGameCanBeWon.cs) |
@@ -99,6 +104,7 @@ LeetCode solutions indexed by problem number. File names remain descriptive and 
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | Easy | Implemented | [CountCommasInRange.cs](Easy/CountCommasInRange.cs) |
 | 3908 | [Valid Digit Number](https://leetcode.com/problems/valid-digit-number/) | Easy | Implemented | [ValidDigitNumber.cs](Easy/ValidDigitNumber.cs) |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/) | Easy | Implemented | [DigitFrequencyScore.cs](Easy/DigitFrequencyScore.cs) |
+| 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer/) | Easy | Implemented | [CheckGoodInteger.cs](Easy/CheckGoodInteger.cs) |
 
 ## Run
 

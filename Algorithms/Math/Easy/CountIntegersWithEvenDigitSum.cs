@@ -1,7 +1,7 @@
 /**
  * @id         2180
  * @title      Count Integers With Even Digit Sum
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/count-integers-with-even-digit-sum/
  */

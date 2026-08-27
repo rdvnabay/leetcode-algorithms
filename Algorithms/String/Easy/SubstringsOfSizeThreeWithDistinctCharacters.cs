@@ -1,7 +1,7 @@
 /**
  * @id         1876
  * @title      Substrings of Size Three with Distinct Characters
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
  */

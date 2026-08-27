@@ -1,7 +1,7 @@
 /**
  * @id         2739
  * @title      Total Distance Traveled
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/total-distance-traveled/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         100
  * @title      Same Tree
- * @topic      tree
+ * @topic      Tree
  * @difficulty Easy
  * @link       https://leetcode.com/problems/same-tree/
  */

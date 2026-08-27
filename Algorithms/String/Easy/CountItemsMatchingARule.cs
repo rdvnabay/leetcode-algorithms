@@ -1,7 +1,7 @@
 /**
  * @id         1773
  * @title      Count Items Matching a Rule
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/count-items-matching-a-rule/
  */

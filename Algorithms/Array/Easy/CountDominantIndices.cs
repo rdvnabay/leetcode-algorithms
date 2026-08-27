@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3833
+ * @title      Count Dominant Indices
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-dominant-indices/
+ */
+namespace Array.Easy;
 
 public static class CountDominantIndices
 {

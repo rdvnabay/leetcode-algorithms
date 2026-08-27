@@ -1,7 +1,7 @@
 /**
  * @id         1688
  * @title      Count of Matches in Tournament
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/count-of-matches-in-tournament/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         19
  * @title      Remove Nth Node From End of List
- * @topic      linked-list
+ * @topic      LinkedList
  * @difficulty Medium
  * @link       https://leetcode.com/problems/remove-nth-node-from-end-of-list/
  */

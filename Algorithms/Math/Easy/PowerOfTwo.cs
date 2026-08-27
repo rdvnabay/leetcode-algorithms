@@ -1,7 +1,7 @@
 /**
  * @id         231
  * @title      Power of Two
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/power-of-two/
  */

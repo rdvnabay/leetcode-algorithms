@@ -1,4 +1,11 @@
-﻿namespace Greedy.Easy;
+/**
+ * @id         1710
+ * @title      Maximum Units on a Truck
+ * @topic      Greedy
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-units-on-a-truck/
+ */
+namespace Greedy.Easy;
 
 public static class MaximumUnitsOnATruck
 {

@@ -1,7 +1,7 @@
 /**
  * @id         520
  * @title      Detect Capital
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/detect-capital/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         58
  * @title      Length of Last Word
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/length-of-last-word/
  */

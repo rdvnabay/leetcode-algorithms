@@ -1,7 +1,7 @@
 /**
  * @id         1929
  * @title      Concatenation of Array
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/concatenation-of-array/
  */

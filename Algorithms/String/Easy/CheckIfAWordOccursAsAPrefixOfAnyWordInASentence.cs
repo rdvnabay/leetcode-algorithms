@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         1455
+ * @title      Check If a Word Occurs As a Prefix of Any Word in a Sentence
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/
+ */
+namespace String.Easy;
 
 public static class CheckIfAWordOccursAsAPrefixOfAnyWordInASentence
 {

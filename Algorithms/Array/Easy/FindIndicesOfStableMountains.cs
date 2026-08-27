@@ -1,7 +1,7 @@
 /**
  * @id         3285
  * @title      Find Indices of Stable Mountains
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-indices-of-stable-mountains/
  */

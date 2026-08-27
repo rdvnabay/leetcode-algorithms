@@ -1,7 +1,7 @@
 /**
  * @id         2469
  * @title      Convert the Temperature
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/convert-the-temperature/
  */

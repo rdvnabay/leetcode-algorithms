@@ -1,7 +1,7 @@
 /**
  * @id         283
  * @title      Move Zeroes
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/move-zeroes/
  */

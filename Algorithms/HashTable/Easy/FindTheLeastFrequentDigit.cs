@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         3663
+ * @title      Find The Least Frequent Digit
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-least-frequent-digit/
+ */
+namespace HashTable.Easy;
 
 public static class FindTheLeastFrequentDigit
 {

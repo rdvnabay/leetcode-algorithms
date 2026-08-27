@@ -1,7 +1,7 @@
 /**
  * @id         605
  * @title      Can Place Flowers
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/can-place-flowers/
  */

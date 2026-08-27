@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2032
+ * @title      Two Out of Three
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/two-out-of-three/
+ */
+namespace HashTable.Easy;
 
 public static class TwoOutOfThree
 {

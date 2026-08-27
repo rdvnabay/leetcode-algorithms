@@ -1,7 +1,7 @@
 /**
  * @id         495
  * @title      Teemo Attacking
- * @topic      greedy
+ * @topic      Greedy
  * @difficulty Easy
  * @link       https://leetcode.com/problems/teemo-attacking/
  */

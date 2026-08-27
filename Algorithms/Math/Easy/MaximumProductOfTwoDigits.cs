@@ -1,7 +1,7 @@
 /**
  * @id         3536
  * @title      Maximum Product of Two Digits
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/maximum-product-of-two-digits/
  */

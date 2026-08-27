@@ -1,7 +1,7 @@
 /**
  * @id         2678
  * @title      Number of Senior Citizens
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/number-of-senior-citizens/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         415
  * @title      Add Strings
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/add-strings/
  */

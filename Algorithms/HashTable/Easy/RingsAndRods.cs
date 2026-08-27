@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2103
+ * @title      Rings and Rods
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/rings-and-rods/
+ */
+namespace HashTable.Easy;
 
 public static class RingsAndRods
 {

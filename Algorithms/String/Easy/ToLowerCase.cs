@@ -1,7 +1,7 @@
 /**
  * @id         709
  * @title      To Lower Case
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/to-lower-case/
  */

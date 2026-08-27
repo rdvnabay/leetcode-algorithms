@@ -1,7 +1,7 @@
 /**
  * @id         2413
  * @title      Smallest Even Multiple
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/smallest-even-multiple/
  */

@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         3396
+ * @title      Minimum Number of Operations to Make Elements in Array Distinct
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/
+ */
+namespace HashTable.Easy;
 
 public static class MinimumNumberOfOperationsToMakeElementsInArrayDistinct
 {

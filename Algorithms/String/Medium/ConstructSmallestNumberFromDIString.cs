@@ -1,4 +1,11 @@
-﻿namespace String.Medium;
+/**
+ * @id         2375
+ * @title      Construct Smallest Number From DI String
+ * @topic      String
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/construct-smallest-number-from-di-string/
+ */
+namespace String.Medium;
 
 public static class ConstructSmallestNumberFromDIString
 {   //1-2 2-3 3-4 4-3 3-4 4-3 3-2 2-1

@@ -1,7 +1,7 @@
 /**
  * @id         3222
  * @title      Find the Winning Player in Coin Game
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-the-winning-player-in-coin-game/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         1108
  * @title      Defanging an IP Address
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/defanging-an-ip-address/
  */

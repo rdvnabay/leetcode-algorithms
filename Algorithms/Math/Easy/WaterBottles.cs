@@ -1,7 +1,7 @@
 /**
  * @id         1518
  * @title      Water Bottles
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/water-bottles/
  */

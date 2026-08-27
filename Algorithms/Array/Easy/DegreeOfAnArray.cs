@@ -1,7 +1,7 @@
 /**
  * @id         697
  * @title      Degree of an Array
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/degree-of-an-array/
  */

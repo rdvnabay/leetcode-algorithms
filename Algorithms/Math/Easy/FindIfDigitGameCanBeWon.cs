@@ -1,7 +1,7 @@
 /**
  * @id         3232
  * @title      Find if Digit Game Can Be Won
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-if-digit-game-can-be-won/
  */

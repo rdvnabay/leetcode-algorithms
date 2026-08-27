@@ -1,7 +1,7 @@
 /**
  * @id         771
  * @title      Jewels and Stones
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/jewels-and-stones/
  */

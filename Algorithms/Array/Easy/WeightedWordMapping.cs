@@ -1,7 +1,7 @@
 /**
  * @id         3838
  * @title      Weighted Word Mapping
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/weighted-word-mapping/
  */

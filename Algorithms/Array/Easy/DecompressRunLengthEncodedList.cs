@@ -1,7 +1,7 @@
 /**
  * @id         1313
  * @title      Decompress Run-Length Encoded List
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/decompress-run-length-encoded-list/
  */

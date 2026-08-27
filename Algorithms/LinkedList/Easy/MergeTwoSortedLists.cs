@@ -1,7 +1,7 @@
 /**
  * @id         21
  * @title      Merge Two Sorted Lists
- * @topic      linked-list
+ * @topic      LinkedList
  * @difficulty Easy
  * @link       https://leetcode.com/problems/merge-two-sorted-lists/
  */

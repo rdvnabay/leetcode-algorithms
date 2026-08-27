@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2154
+ * @title      Keep Multiplying Found Values by Two
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/keep-multiplying-found-values-by-two/
+ */
+namespace HashTable.Easy;
 
 public static class KeepMultiplyingFoundValuesByTwo
 {

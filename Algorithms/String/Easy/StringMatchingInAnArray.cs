@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         1408
+ * @title      String Matching in an Array
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/string-matching-in-an-array/
+ */
+namespace String.Easy;
 
 public static class StringMatchingInAnArray
 {

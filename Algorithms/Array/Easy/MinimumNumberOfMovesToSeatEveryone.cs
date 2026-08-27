@@ -1,7 +1,7 @@
 /**
  * @id         2037
  * @title      Minimum Number of Moves to Seat Everyone
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
  */

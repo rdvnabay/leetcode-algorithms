@@ -1,7 +1,7 @@
 /**
  * @id         2006
  * @title      Count Number of Pairs With Absolute Difference K
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
  */

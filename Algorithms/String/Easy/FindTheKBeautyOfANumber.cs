@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2269
+ * @title      Find the K-Beauty of a Number
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-k-beauty-of-a-number/
+ */
+namespace String.Easy;
 
 public static class FindTheKBeautyOfANumber
 {

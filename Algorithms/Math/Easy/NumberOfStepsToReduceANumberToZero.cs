@@ -1,7 +1,7 @@
 /**
  * @id         1342
  * @title      Number of Steps to Reduce a Number to Zero
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
  */

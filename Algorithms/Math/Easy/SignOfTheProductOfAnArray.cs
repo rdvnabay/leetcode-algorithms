@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         1822
+ * @title      Sign of the Product of an Array
+ * @topic      Math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/sign-of-the-product-of-an-array/
+ */
+namespace Math.Easy;
 
 public static class SignOfTheProductOfAnArray
 {

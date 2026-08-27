@@ -1,7 +1,7 @@
 /**
  * @id         884
  * @title      Uncommon Words from Two Sentences
- * @topic      hash-table
+ * @topic      HashTable
  * @difficulty Easy
  * @link       https://leetcode.com/problems/uncommon-words-from-two-sentences/
  */

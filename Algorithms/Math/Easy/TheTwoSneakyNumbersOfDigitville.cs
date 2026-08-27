@@ -1,7 +1,7 @@
 /**
  * @id         3289
  * @title      The Two Sneaky Numbers of Digitville
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/
  */

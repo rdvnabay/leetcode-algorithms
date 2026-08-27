@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2357
+ * @title      Make Array Zero by Subtracting Equal Amounts
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
+ */
+namespace HashTable.Easy;
 
 public static class MakeArrayZeroBySubtractingEqualAmounts
 {

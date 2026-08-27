@@ -1,7 +1,7 @@
 /**
  * @id         538
  * @title      Convert BST to Greater Tree
- * @topic      tree
+ * @topic      Tree
  * @difficulty Medium
  * @link       https://leetcode.com/problems/convert-bst-to-greater-tree/
  */

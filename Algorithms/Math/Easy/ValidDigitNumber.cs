@@ -1,7 +1,7 @@
 /**
  * @id         3908
  * @title      Valid Digit Number
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/valid-digit-number/
  */

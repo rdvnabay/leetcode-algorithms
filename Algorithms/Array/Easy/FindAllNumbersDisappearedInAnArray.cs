@@ -1,7 +1,7 @@
 /**
  * @id         448
  * @title      Find All Numbers Disappeared in an Array
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
  */

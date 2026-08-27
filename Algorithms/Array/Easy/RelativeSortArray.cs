@@ -1,7 +1,7 @@
 /**
  * @id         1122
  * @title      Relative Sort Array
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/relative-sort-array/
  */

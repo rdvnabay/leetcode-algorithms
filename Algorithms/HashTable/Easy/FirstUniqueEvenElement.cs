@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         3866
+ * @title      First Unique Even Element
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/first-unique-even-element/
+ */
+namespace HashTable.Easy;
 
 public static class FirstUniqueEvenElement
 {

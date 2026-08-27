@@ -1,7 +1,7 @@
 /**
  * @id         409
  * @title      Longest Palindrome
- * @topic      hash-table
+ * @topic      HashTable
  * @difficulty Easy
  * @link       https://leetcode.com/problems/longest-palindrome/
  */

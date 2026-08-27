@@ -1,7 +1,7 @@
 /**
  * @id         3340
  * @title      Check Balanced String
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/check-balanced-string/
  */

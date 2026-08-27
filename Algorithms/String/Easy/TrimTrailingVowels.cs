@@ -1,7 +1,7 @@
 /**
  * @id         3856
  * @title      Trim Trailing Vowels
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/trim-trailing-vowels/
  */

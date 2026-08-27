@@ -1,7 +1,7 @@
 /**
  * @id         1920
  * @title      Build Array from Permutation
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/build-array-from-permutation/
  */

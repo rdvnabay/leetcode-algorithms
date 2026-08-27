@@ -1,7 +1,7 @@
 /**
  * @id         17
  * @title      Letter Combinations of a Phone Number
- * @topic      backtracking
+ * @topic      Backtracking
  * @difficulty Medium
  * @link       https://leetcode.com/problems/letter-combinations-of-a-phone-number/
  */

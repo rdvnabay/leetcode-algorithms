@@ -1,7 +1,7 @@
 /**
  * @id         1346
  * @title      Check If N and Its Double Exist
- * @topic      hash-table
+ * @topic      HashTable
  * @difficulty Easy
  * @link       https://leetcode.com/problems/check-if-n-and-its-double-exist/
  */

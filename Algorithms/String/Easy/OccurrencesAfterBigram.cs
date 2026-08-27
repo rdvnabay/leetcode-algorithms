@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         1078
+ * @title      Occurrences After Bigram
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/occurrences-after-bigram/
+ */
+namespace String.Easy;
 
 public static class OccurrencesAfterBigram
 {

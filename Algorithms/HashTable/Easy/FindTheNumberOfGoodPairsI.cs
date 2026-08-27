@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         3162
+ * @title      Find the Number of Good Pairs I
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-number-of-good-pairs-i/
+ */
+namespace HashTable.Easy;
 
 public static class FindTheNumberOfGoodPairsI
 {

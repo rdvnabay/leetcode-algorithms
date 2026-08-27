@@ -1,7 +1,7 @@
 /**
  * @id         2824
  * @title      Count Pairs Whose Sum is Less than Target
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
  */

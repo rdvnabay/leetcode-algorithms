@@ -1,4 +1,11 @@
-﻿namespace Greedy.Easy;
+/**
+ * @id         2697
+ * @title      Lexicographically Smallest Palindrome
+ * @topic      Greedy
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/lexicographically-smallest-palindrome/
+ */
+namespace Greedy.Easy;
 
 public static class LexicographicallySmallestPalindrome
 {

@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2144
+ * @title      Minimum Cost of Buying Candies With Discount
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
+ */
+namespace Array.Easy;
 
 public static class MinimumCostOfBuyingCandiesWithDiscount
 {

@@ -1,7 +1,7 @@
 /**
  * @id         1252
  * @title      Cells with Odd Values in a Matrix
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
  */

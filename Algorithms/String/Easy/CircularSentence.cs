@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2490
+ * @title      Circular Sentence
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/circular-sentence/
+ */
+namespace String.Easy;
 
 public static class CircularSentence
 {

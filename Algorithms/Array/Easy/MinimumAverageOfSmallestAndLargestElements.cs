@@ -1,7 +1,7 @@
 /**
  * @id         3194
  * @title      Minimum Average of Smallest and Largest Elements
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/
  */

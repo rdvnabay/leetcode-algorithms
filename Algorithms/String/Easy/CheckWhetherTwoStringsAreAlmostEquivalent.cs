@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2068
+ * @title      Check Whether Two Strings are Almost Equivalent
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
+ */
+namespace String.Easy;
 
 public static class CheckWhetherTwoStringsAreAlmostEquivalent
 {

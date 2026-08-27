@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2506
+ * @title      Count Pairs Of Similar Strings
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-pairs-of-similar-strings/
+ */
+namespace HashTable.Easy;
 
 public static class CountPairsOfSimilarStrings
 {

@@ -1,7 +1,7 @@
 /**
  * @id         3798
  * @title      Largest Even Number
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/largest-even-number/
  */

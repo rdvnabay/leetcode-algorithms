@@ -1,7 +1,7 @@
 /**
  * @id         1844
  * @title      Replace All Digits with Characters
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/replace-all-digits-with-characters/
  */

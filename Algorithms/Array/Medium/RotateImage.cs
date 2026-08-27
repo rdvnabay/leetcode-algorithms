@@ -1,7 +1,7 @@
 /**
  * @id         48
  * @title      Rotate Image
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/rotate-image/
  */

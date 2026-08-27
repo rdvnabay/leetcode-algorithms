@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         1980
+ * @title      Find Unique Binary String
+ * @topic      Array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/find-unique-binary-string/
+ */
+using System.Text;
 
 namespace Array.Medium;
 

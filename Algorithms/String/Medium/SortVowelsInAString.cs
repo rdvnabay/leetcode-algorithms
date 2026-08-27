@@ -1,4 +1,11 @@
-﻿namespace String.Medium;
+/**
+ * @id         2785
+ * @title      Sort Vowels in a String
+ * @topic      String
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/sort-vowels-in-a-string/
+ */
+namespace String.Medium;
 
 public static class SortVowelsInAString
 {

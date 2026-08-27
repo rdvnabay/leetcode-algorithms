@@ -1,7 +1,7 @@
 /**
  * @id         1859
  * @title      Sorting the Sentence
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/sorting-the-sentence/
  */

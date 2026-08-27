@@ -1,7 +1,7 @@
 /**
  * @id         706
  * @title      Design HashMap
- * @topic      hash-table
+ * @topic      HashTable
  * @difficulty Easy
  * @link       https://leetcode.com/problems/design-hashmap/
  */

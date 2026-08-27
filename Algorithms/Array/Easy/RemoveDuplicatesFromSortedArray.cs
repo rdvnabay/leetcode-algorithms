@@ -1,7 +1,7 @@
 /**
  * @id         26
  * @title      Remove Duplicates from Sorted Array
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/remove-duplicates-from-sorted-array/
  */

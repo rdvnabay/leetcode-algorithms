@@ -1,4 +1,4 @@
-// Demo runner for 3 indexed solution files. Canonical ordering: LeetCode problem ID.
+// Demo runner for 3 solution files; the README is the canonical ID-sorted index.
 using Algorithms.BinarySearch.Easy;
 using BinarySearchSolution = Algorithms.BinarySearch.Easy.BinarySearch;
 

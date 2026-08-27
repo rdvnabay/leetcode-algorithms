@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2085
+ * @title      Count Common Words With One Occurrence
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-common-words-with-one-occurrence/
+ */
+namespace HashTable.Easy;
 
 public static class CountCommonWordsWithOneOccurrence
 {

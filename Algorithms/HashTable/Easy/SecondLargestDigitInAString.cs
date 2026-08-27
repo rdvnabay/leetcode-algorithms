@@ -1,7 +1,7 @@
 /**
  * @id         1796
  * @title      Second Largest Digit in a String
- * @topic      hash-table
+ * @topic      HashTable
  * @difficulty Easy
  * @link       https://leetcode.com/problems/second-largest-digit-in-a-string/
  */

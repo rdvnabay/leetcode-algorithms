@@ -1,12 +1,12 @@
 # Tree Algorithms
 
-LeetCode solutions indexed by problem number. File names remain descriptive and alphabetic-friendly.
+LeetCode solutions indexed by problem number. Descriptive file names remain easy to search alphabetically.
 
 ## Summary
 
-| Solution files | Easy | Medium | Hard |
-|---:|---:|---:|---:|
-| 4 | 3 | 1 | 0 |
+| Files | Unique | Easy | Medium | Hard | Incomplete | Needs review |
+|---:|---:|---:|---:|---:|---:|---:|
+| 4 | 4 | 3 | 1 | 0 | 2 | 0 |
 
 ## Solutions
 

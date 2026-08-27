@@ -1,7 +1,7 @@
 /**
  * @id         551
  * @title      Student Attendance Record I
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/student-attendance-record-i/
  */

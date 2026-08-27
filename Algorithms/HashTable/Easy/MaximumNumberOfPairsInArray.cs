@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2341
+ * @title      Maximum Number of Pairs in Array
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-number-of-pairs-in-array/
+ */
+namespace HashTable.Easy;
 
 public static class MaximumNumberOfPairsInArray
 {

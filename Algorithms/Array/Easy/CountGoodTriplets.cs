@@ -1,7 +1,7 @@
 /**
  * @id         1534
  * @title      Count Good Triplets
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/count-good-triplets/
  */

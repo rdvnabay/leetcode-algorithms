@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         3718
+ * @title      Smallest Missing Multiple of K
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/smallest-missing-multiple-of-k/
+ */
+namespace HashTable.Easy;
 
 public static class SmallestMissingMultipleOfK
 {

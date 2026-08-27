@@ -1,7 +1,7 @@
 /**
  * @id         661
  * @title      Image Smoother
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/image-smoother/
  */

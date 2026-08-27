@@ -1,7 +1,7 @@
 /**
  * @id         6
  * @title      Zigzag Conversion
- * @topic      string
+ * @topic      String
  * @difficulty Medium
  * @link       https://leetcode.com/problems/zigzag-conversion/
  */

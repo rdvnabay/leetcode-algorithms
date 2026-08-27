@@ -1,7 +1,7 @@
 /**
  * @id         1472
  * @title      Design Browser History
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/design-browser-history/
  */

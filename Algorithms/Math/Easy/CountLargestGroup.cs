@@ -1,7 +1,7 @@
 /**
  * @id         1399
  * @title      Count Largest Group
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/count-largest-group/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         724
  * @title      Find Pivot Index
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-pivot-index/
  */

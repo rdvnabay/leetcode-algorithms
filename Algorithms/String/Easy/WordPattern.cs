@@ -1,7 +1,7 @@
 /**
  * @id         290
  * @title      Word Pattern
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/word-pattern/
  */

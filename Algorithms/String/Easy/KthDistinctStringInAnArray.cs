@@ -1,7 +1,7 @@
 /**
  * @id         2053
  * @title      Kth Distinct String in an Array
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/kth-distinct-string-in-an-array/
  */

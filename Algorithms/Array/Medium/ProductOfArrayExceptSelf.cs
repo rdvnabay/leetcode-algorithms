@@ -1,7 +1,7 @@
 /**
  * @id         238
  * @title      Product of Array Except Self
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/product-of-array-except-self/
  */

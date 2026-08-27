@@ -1,7 +1,7 @@
 /**
  * @id         1742
  * @title      Maximum Number of Balls in a Box
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
  */

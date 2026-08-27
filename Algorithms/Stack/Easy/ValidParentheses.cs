@@ -1,7 +1,7 @@
 /**
  * @id         20
  * @title      Valid Parentheses
- * @topic      stack
+ * @topic      Stack
  * @difficulty Easy
  * @link       https://leetcode.com/problems/valid-parentheses/
  */

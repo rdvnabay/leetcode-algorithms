@@ -1,7 +1,7 @@
 /**
  * @id         485
  * @title      Max Consecutive Ones
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/max-consecutive-ones/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         392
  * @title      Is Subsequence
- * @topic      two-pointers
+ * @topic      TwoPointers
  * @difficulty Easy
  * @link       https://leetcode.com/problems/is-subsequence/
  */

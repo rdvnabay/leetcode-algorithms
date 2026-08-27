@@ -1,4 +1,11 @@
-﻿namespace String.Medium;
+/**
+ * @id         1347
+ * @title      Minimum Number of Steps to Make Two Strings Anagram
+ * @topic      String
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
+ */
+namespace String.Medium;
 
 public static class MinimumNumberOfStepsToMakeTwoStringsAnagram
 {

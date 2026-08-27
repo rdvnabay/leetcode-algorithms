@@ -1,4 +1,11 @@
-﻿namespace Greedy.Easy;
+/**
+ * @id         2706
+ * @title      Buy Two Chocolates
+ * @topic      Greedy
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/buy-two-chocolates/
+ */
+namespace Greedy.Easy;
 
 public static class BuyTwoChocolates
 {

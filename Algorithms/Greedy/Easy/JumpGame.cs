@@ -1,7 +1,7 @@
 /**
  * @id         55
  * @title      Jump Game
- * @topic      greedy
+ * @topic      Greedy
  * @difficulty Medium
  * @link       https://leetcode.com/problems/jump-game/
  */

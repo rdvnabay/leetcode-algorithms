@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3483
+ * @title      Unique 3-Digit Even Numbers
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/unique-3-digit-even-numbers/
+ */
+namespace Array.Easy;
 
 public static class Unique3DigitEvenNumbers
 {

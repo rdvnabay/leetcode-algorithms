@@ -1,7 +1,7 @@
 /**
  * @id         2966
  * @title      Divide Array Into Arrays With Max Difference
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/
  */

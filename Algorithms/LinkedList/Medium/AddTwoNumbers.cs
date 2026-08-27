@@ -1,7 +1,7 @@
 /**
  * @id         2
  * @title      Add Two Numbers
- * @topic      linked-list
+ * @topic      LinkedList
  * @difficulty Medium
  * @link       https://leetcode.com/problems/add-two-numbers/
  */

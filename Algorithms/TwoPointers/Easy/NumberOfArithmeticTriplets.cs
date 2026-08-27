@@ -1,4 +1,11 @@
-﻿namespace TwoPointers.Easy;
+/**
+ * @id         2367
+ * @title      Number of Arithmetic Triplets
+ * @topic      TwoPointers
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/number-of-arithmetic-triplets/
+ */
+namespace TwoPointers.Easy;
 
 public static class NumberOfArithmeticTriplets
 {

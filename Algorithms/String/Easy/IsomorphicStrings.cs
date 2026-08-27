@@ -1,7 +1,7 @@
 /**
  * @id         205
  * @title      Isomorphic Strings
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/isomorphic-strings/
  */

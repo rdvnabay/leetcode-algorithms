@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3178
+ * @title      Find the Child Who Has the Ball After K Seconds
+ * @topic      Math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/
+ */
+namespace Math.Easy;
 
 public static class FindTheChildWhoHasTheBallAfterKSeconds
 {

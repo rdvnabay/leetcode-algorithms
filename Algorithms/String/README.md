@@ -1,12 +1,12 @@
 # String Algorithms
 
-LeetCode solutions indexed by problem number. File names remain descriptive and alphabetic-friendly.
+LeetCode solutions indexed by problem number. Descriptive file names remain easy to search alphabetically.
 
 ## Summary
 
-| Solution files | Easy | Medium | Hard |
-|---:|---:|---:|---:|
-| 83 | 81 | 2 | 0 |
+| Files | Unique | Easy | Medium | Hard | Incomplete | Needs review |
+|---:|---:|---:|---:|---:|---:|---:|
+| 106 | 106 | 96 | 10 | 0 | 10 | 2 |
 
 ## Solutions
 
@@ -44,11 +44,18 @@ LeetCode solutions indexed by problem number. File names remain descriptive and 
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | Easy | Implemented | [ReverseOnlyLetters.cs](Easy/ReverseOnlyLetters.cs) |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | Implemented | [RemoveAllAdjacentDuplicatesInString.cs](Easy/RemoveAllAdjacentDuplicatesInString.cs) |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | Implemented | [GreatestCommonDivisorOfStrings.cs](Easy/GreatestCommonDivisorOfStrings.cs) |
+| 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | Easy | Implemented | [OccurrencesAfterBigram.cs](Easy/OccurrencesAfterBigram.cs) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | Easy | Implemented | [DefangingAnIPAddress.cs](Easy/DefangingAnIPAddress.cs) |
+| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | Incomplete | [MaximumNumberOfBalloons.cs](Easy/MaximumNumberOfBalloons.cs) |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | Easy | Implemented | [SplitAStringInBalancedStrings.cs](Easy/SplitAStringInBalancedStrings.cs) |
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | Easy | Implemented | [DecryptStringFromAlphabetToIntegerMapping.cs](Easy/DecryptStringFromAlphabetToIntegerMapping.cs) |
+| 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | Medium | Incomplete | [MinimumNumberOfStepsToMakeTwoStringsAnagram.cs](Medium/MinimumNumberOfStepsToMakeTwoStringsAnagram.cs) |
 | 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | Easy | Implemented | [IncreasingDecreasingString.cs](Easy/IncreasingDecreasingString.cs) |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | Easy | Implemented | [GenerateAStringWithCharactersThatHaveOddCounts.cs](Easy/GenerateAStringWithCharactersThatHaveOddCounts.cs) |
+| 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | Easy | Incomplete | [StringMatchingInAnArray.cs](Easy/StringMatchingInAnArray.cs) |
+| 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | Incomplete | [TheKThLexicographicalStringOfAllHappyStringsOfLengthN.cs](Medium/TheKThLexicographicalStringOfAllHappyStringsOfLengthN.cs) |
+| 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | Easy | Implemented | [MaximumScoreAfterSplittingAString.cs](Easy/MaximumScoreAfterSplittingAString.cs) |
+| 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy | Implemented | [CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.cs](Easy/CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.cs) |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | Easy | Implemented | [ShuffleString.cs](Easy/ShuffleString.cs) |
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Easy | Implemented | [MakeTheStringGreat.cs](Easy/MakeTheStringGreat.cs) |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | Easy | Implemented | [CrawlerLogFolder.cs](Easy/CrawlerLogFolder.cs) |
@@ -63,20 +70,31 @@ LeetCode solutions indexed by problem number. File names remain descriptive and 
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | Easy | Implemented | [CheckIfTheSentenceIsPangram.cs](Easy/CheckIfTheSentenceIsPangram.cs) |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | Easy | Implemented | [ReplaceAllDigitsWithCharacters.cs](Easy/ReplaceAllDigitsWithCharacters.cs) |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | Easy | Implemented | [SortingTheSentence.cs](Easy/SortingTheSentence.cs) |
+| 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | Easy | Implemented | [LongerContiguousSegmentsOfOnesThanZeros.cs](Easy/LongerContiguousSegmentsOfOnesThanZeros.cs) |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | Easy | Implemented | [SubstringsOfSizeThreeWithDistinctCharacters.cs](Easy/SubstringsOfSizeThreeWithDistinctCharacters.cs) |
 | 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | Easy | Implemented | [FinalValueOfVariableAfterPerformingOperations.cs](Easy/FinalValueOfVariableAfterPerformingOperations.cs) |
 | 2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | Easy | Implemented | [CheckIfNumbersAreAscendingInASentence.cs](Easy/CheckIfNumbersAreAscendingInASentence.cs) |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | Easy | Implemented | [KthDistinctStringInAnArray.cs](Easy/KthDistinctStringInAnArray.cs) |
+| 2068 | [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/) | Easy | Implemented | [CheckWhetherTwoStringsAreAlmostEquivalent.cs](Easy/CheckWhetherTwoStringsAreAlmostEquivalent.cs) |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Easy | Implemented | [FindFirstPalindromicStringInTheArray.cs](Easy/FindFirstPalindromicStringInTheArray.cs) |
+| 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Easy | Implemented | [CheckIfAllAsAppearsBeforeAllBs.cs](Easy/CheckIfAllAsAppearsBeforeAllBs.cs) |
 | 2138 | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | Easy | Incomplete | [DivideAStringIntoGroupsOfSizeK.cs](Easy/DivideAStringIntoGroupsOfSizeK.cs) |
 | 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | Easy | Implemented | [CountingWordsWithAGivenPrefix.cs](Easy/CountingWordsWithAGivenPrefix.cs) |
 | 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | Easy | Implemented | [CellsInARangeOnAnExcelSheet.cs](Easy/CellsInARangeOnAnExcelSheet.cs) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy | Implemented | [CalculateDigitSumOfAString.cs](Easy/CalculateDigitSumOfAString.cs) |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | Easy | Implemented | [Largest3SameDigitNumberInString.cs](Easy/Largest3SameDigitNumberInString.cs) |
+| 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | Easy | Implemented | [FindTheKBeautyOfANumber.cs](Easy/FindTheKBeautyOfANumber.cs) |
+| 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | Easy | Implemented | [PercentageOfLetterInString.cs](Easy/PercentageOfLetterInString.cs) |
 | 2309 | [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/) | Easy | Implemented | [GreatestEnglishLetterInUpperAndLowerCase.cs](Easy/GreatestEnglishLetterInUpperAndLowerCase.cs) |
+| 2375 | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | Medium | Incomplete | [ConstructSmallestNumberFromDIString.cs](Medium/ConstructSmallestNumberFromDIString.cs) |
+| 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy | Implemented | [MinimumRecolorsToGetKConsecutiveBlackBlocks.cs](Easy/MinimumRecolorsToGetKConsecutiveBlackBlocks.cs) |
+| 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | Implemented | [RemovingStarsFromAString.cs](Medium/RemovingStarsFromAString.cs) |
+| 2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence/) | Easy | Implemented | [CircularSentence.cs](Easy/CircularSentence.cs) |
+| 2515 | [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | Easy | Needs review | [ShortestDistancetoTargetStringInACircularArray.cs](Easy/ShortestDistancetoTargetStringInACircularArray.cs) |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | Easy | Implemented | [NumberOfSeniorCitizens.cs](Easy/NumberOfSeniorCitizens.cs) |
 | 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | Easy | Implemented | [RemoveTrailingZerosFromAString.cs](Easy/RemoveTrailingZerosFromAString.cs) |
 | 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | Easy | Implemented | [FindMaximumNumberOfStringPairs.cs](Easy/FindMaximumNumberOfStringPairs.cs) |
+| 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | Medium | Implemented | [SortVowelsInAString.cs](Medium/SortVowelsInAString.cs) |
 | 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | Easy | Implemented | [CheckIfAStringIsAnAcronymOfWords.cs](Easy/CheckIfAStringIsAnAcronymOfWords.cs) |
 | 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) | Easy | Implemented | [FurthestPointFromOrigin.cs](Easy/FurthestPointFromOrigin.cs) |
 | 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | Easy | Implemented | [MaximumOddBinaryNumber.cs](Easy/MaximumOddBinaryNumber.cs) |
@@ -85,10 +103,15 @@ LeetCode solutions indexed by problem number. File names remain descriptive and 
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | Easy | Implemented | [ScoreOfAString.cs](Easy/ScoreOfAString.cs) |
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | Easy | Implemented | [CountTheNumberOfSpecialCharactersI.cs](Easy/CountTheNumberOfSpecialCharactersI.cs) |
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits/) | Easy | Implemented | [ClearDigits.cs](Easy/ClearDigits.cs) |
+| 3211 | [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/) | Medium | Implemented | [GenerateBinaryStringsWithoutAdjacentZeros.cs](Medium/GenerateBinaryStringsWithoutAdjacentZeros.cs) |
 | 3248 | [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/) | Easy | Implemented | [SnakeInMatrix.cs](Easy/SnakeInMatrix.cs) |
+| 3271 | [Hash Divided String](https://leetcode.com/problems/hash-divided-string/) | Medium | Implemented | [HashDividedString.cs](Medium/HashDividedString.cs) |
+| 3330 | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | Easy | Implemented | [FindTheOriginalTypedStringI.cs](Easy/FindTheOriginalTypedStringI.cs) |
 | 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string/) | Easy | Implemented | [CheckBalancedString.cs](Easy/CheckBalancedString.cs) |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | Implemented | [ReverseDegreeOfAString.cs](Easy/ReverseDegreeOfAString.cs) |
 | 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | Easy | Implemented | [FindMostFrequentVowelAndConsonant.cs](Easy/FindMostFrequentVowelAndConsonant.cs) |
+| 3545 | [Minimum Deletions for At Most K Distinct Characters](https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/) | Easy | Implemented | [MinimumDeletionsForAtMostKDistinctCharacters.cs](Easy/MinimumDeletionsForAtMostKDistinctCharacters.cs) |
+| 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | Medium | Implemented | [MaximumSubstringsWithDistinctStart.cs](Medium/MaximumSubstringsWithDistinctStart.cs) |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | Easy | Implemented | [ReverseStringPrefix.cs](Easy/ReverseStringPrefix.cs) |
 | 3798 | [Largest Even Number](https://leetcode.com/problems/largest-even-number/) | Easy | Implemented | [LargestEvenNumber.cs](Easy/LargestEvenNumber.cs) |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/) | Easy | Implemented | [TrimTrailingVowels.cs](Easy/TrimTrailingVowels.cs) |

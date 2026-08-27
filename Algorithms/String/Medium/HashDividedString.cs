@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         3271
+ * @title      Hash Divided String
+ * @topic      String
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/hash-divided-string/
+ */
+using System.Text;
 
 namespace String.Medium;
 

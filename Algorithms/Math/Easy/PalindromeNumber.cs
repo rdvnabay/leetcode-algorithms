@@ -1,7 +1,7 @@
 /**
  * @id         9
  * @title      Palindrome Number
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/palindrome-number/
  */

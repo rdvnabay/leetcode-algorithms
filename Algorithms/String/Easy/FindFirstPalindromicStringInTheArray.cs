@@ -1,7 +1,7 @@
 /**
  * @id         2108
  * @title      Find First Palindromic String in the Array
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
  */

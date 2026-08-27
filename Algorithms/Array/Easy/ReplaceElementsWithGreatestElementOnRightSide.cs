@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1299
+ * @title      Replace Elements with Greatest Element on Right Side
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
+ */
+namespace Array.Easy;
 
 public static class ReplaceElementsWithGreatestElementOnRightSide
 {

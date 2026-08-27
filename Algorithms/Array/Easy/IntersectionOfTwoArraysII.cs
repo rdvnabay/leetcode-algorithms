@@ -1,7 +1,7 @@
 /**
  * @id         350
  * @title      Intersection of Two Arrays II
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/intersection-of-two-arrays-ii/
  */

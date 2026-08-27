@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2956
+ * @title      Find Common Elements Between Two Arrays
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-common-elements-between-two-arrays/
+ */
+namespace HashTable.Easy;
 
 public static class FindCommonElementsBetweenTwoArrays
 {

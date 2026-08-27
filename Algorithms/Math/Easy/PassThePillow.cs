@@ -1,7 +1,7 @@
 /**
  * @id         2582
  * @title      Pass the Pillow
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/pass-the-pillow/
  */

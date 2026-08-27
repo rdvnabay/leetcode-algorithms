@@ -1,7 +1,7 @@
 /**
  * @id         387
  * @title      First Unique Character in a String
- * @topic      hash-table
+ * @topic      HashTable
  * @difficulty Easy
  * @link       https://leetcode.com/problems/first-unique-character-in-a-string/
  */

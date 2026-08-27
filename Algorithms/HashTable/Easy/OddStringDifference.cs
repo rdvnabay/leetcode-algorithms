@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2451
+ * @title      Odd String Difference
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/odd-string-difference/
+ */
+namespace HashTable.Easy;
 
 public static class OddStringDifference
 {

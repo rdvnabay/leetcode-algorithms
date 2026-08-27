@@ -1,7 +1,7 @@
 /**
  * @id         2482
  * @title      Difference Between Ones and Zeros in Row and Column
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
  */

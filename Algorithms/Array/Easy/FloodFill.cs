@@ -1,7 +1,7 @@
 /**
  * @id         733
  * @title      Flood Fill
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/flood-fill/
  */

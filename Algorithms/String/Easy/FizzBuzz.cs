@@ -1,7 +1,7 @@
 /**
  * @id         412
  * @title      Fizz Buzz
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/fizz-buzz/
  */

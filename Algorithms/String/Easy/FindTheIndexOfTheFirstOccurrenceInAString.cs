@@ -1,7 +1,7 @@
 /**
  * @id         28
  * @title      Find the Index of the First Occurrence in a String
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
  */

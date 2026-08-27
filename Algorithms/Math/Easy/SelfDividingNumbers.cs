@@ -1,7 +1,7 @@
 /**
  * @id         728
  * @title      Self Dividing Numbers
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/self-dividing-numbers/
  */

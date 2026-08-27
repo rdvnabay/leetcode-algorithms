@@ -1,7 +1,7 @@
 /**
  * @id         1512
  * @title      Number of Good Pairs
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/number-of-good-pairs/
  */

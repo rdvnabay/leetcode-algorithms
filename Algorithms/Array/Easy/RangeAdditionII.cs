@@ -1,7 +1,7 @@
 /**
  * @id         598
  * @title      Range Addition II
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/range-addition-ii/
  */

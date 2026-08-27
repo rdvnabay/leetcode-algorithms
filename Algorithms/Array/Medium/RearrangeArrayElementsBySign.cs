@@ -1,7 +1,7 @@
 /**
  * @id         2149
  * @title      Rearrange Array Elements by Sign
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/rearrange-array-elements-by-sign/
  */

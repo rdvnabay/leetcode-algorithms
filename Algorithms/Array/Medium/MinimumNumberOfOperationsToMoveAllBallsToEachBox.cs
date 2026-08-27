@@ -1,7 +1,7 @@
 /**
  * @id         1769
  * @title      Minimum Number of Operations to Move All Balls to Each Box
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
  */

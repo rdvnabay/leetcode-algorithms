@@ -1,7 +1,7 @@
 /**
  * @id         628
  * @title      Maximum Product of Three Numbers
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/maximum-product-of-three-numbers/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         1337
  * @title      The K Weakest Rows in a Matrix
- * @topic      sorting
+ * @topic      Sorting
  * @difficulty Easy
  * @link       https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
  */

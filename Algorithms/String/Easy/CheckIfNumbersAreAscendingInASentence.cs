@@ -1,7 +1,7 @@
 /**
  * @id         2042
  * @title      Check if Numbers Are Ascending in a Sentence
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
  */

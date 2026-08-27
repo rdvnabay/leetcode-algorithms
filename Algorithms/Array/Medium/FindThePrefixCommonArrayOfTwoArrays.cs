@@ -1,7 +1,7 @@
 /**
  * @id         2657
  * @title      Find the Prefix Common Array of Two Arrays
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/
  */

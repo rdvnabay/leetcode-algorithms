@@ -1,7 +1,7 @@
 /**
  * @id         859
  * @title      Buddy Strings
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/buddy-strings/
  */

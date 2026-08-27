@@ -1,7 +1,7 @@
 /**
  * @id         1528
  * @title      Shuffle String
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/shuffle-string/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         1207
  * @title      Unique Number of Occurrences
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/unique-number-of-occurrences/
  */

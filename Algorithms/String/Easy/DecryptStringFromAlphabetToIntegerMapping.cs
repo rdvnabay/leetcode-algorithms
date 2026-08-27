@@ -1,7 +1,7 @@
 /**
  * @id         1309
  * @title      Decrypt String from Alphabet to Integer Mapping
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         747
  * @title      Largest Number At Least Twice of Others
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/largest-number-at-least-twice-of-others/
  */

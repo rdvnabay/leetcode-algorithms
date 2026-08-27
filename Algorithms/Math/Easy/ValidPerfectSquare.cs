@@ -1,7 +1,7 @@
 /**
  * @id         367
  * @title      Valid Perfect Square
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/valid-perfect-square/
  */

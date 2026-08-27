@@ -1,7 +1,7 @@
 /**
  * @id         3300
  * @title      Minimum Element After Replacement With Digit Sum
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/
  */

@@ -1,4 +1,4 @@
-// Demo runner for 18 indexed solution files. Canonical ordering: LeetCode problem ID.
+// Demo runner for 51 solution files; the README is the canonical ID-sorted index.
 using Algorithms.HashTable.Easy;
 using Algorithms.HashTable.Hard;
 using HashTable.Easy;

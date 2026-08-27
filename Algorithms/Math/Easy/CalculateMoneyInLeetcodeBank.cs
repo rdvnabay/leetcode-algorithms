@@ -1,7 +1,7 @@
 /**
  * @id         1716
  * @title      Calculate Money in Leetcode Bank
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/calculate-money-in-leetcode-bank/
  */

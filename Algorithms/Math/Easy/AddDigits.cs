@@ -1,7 +1,7 @@
 /**
  * @id         258
  * @title      Add Digits
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/add-digits/
  */

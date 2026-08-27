@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2022
+ * @title      Convert 1D Array Into 2D Array
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/convert-1d-array-into-2d-array/
+ */
+namespace Array.Easy;
 
 public static class Convert1DArrayInto2DArray
 {

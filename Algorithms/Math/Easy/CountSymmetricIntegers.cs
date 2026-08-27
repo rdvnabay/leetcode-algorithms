@@ -1,7 +1,7 @@
 /**
  * @id         2843
  * @title      Count Symmetric Integers
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/count-symmetric-integers/
  */

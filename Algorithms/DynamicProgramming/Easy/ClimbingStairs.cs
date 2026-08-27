@@ -1,7 +1,7 @@
 /**
  * @id         70
  * @title      Climbing Stairs
- * @topic      dynamic-programming
+ * @topic      DynamicProgramming
  * @difficulty Easy
  * @link       https://leetcode.com/problems/climbing-stairs/
  */

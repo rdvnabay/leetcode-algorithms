@@ -1,7 +1,7 @@
 /**
  * @id         3925
  * @title      Concatenate Array With Reverse
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/concatenate-array-with-reverse/
  */

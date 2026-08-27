@@ -1,7 +1,7 @@
 /**
  * @id         1295
  * @title      Find Numbers with Even Number of Digits
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
  */

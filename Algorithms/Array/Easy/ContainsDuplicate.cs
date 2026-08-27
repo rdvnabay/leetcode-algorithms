@@ -1,7 +1,7 @@
 /**
  * @id         217
  * @title      Contains Duplicate
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/contains-duplicate/
  */

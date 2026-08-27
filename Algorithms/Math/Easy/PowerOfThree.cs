@@ -1,7 +1,7 @@
 /**
  * @id         326
  * @title      Power of Three
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/power-of-three/
  */

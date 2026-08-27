@@ -1,7 +1,7 @@
 /**
  * @id         1816
  * @title      Truncate Sentence
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/truncate-sentence/
  */

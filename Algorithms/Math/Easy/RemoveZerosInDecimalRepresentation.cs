@@ -1,7 +1,7 @@
 /**
  * @id         3726
  * @title      Remove Zeros in Decimal Representation
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/remove-zeros-in-decimal-representation/
  */

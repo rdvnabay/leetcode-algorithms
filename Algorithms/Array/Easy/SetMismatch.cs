@@ -1,7 +1,7 @@
 /**
  * @id         645
  * @title      Set Mismatch
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/set-mismatch/
  */

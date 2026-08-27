@@ -1,12 +1,12 @@
 # Array Algorithms
 
-LeetCode solutions indexed by problem number. File names remain descriptive and alphabetic-friendly.
+LeetCode solutions indexed by problem number. Descriptive file names remain easy to search alphabetically.
 
 ## Summary
 
-| Solution files | Easy | Medium | Hard |
-|---:|---:|---:|---:|
-| 102 | 73 | 29 | 0 |
+| Files | Unique | Easy | Medium | Hard | Incomplete | Needs review |
+|---:|---:|---:|---:|---:|---:|---:|
+| 129 | 129 | 94 | 35 | 0 | 9 | 2 |
 
 ## Solutions
 
@@ -67,10 +67,15 @@ LeetCode solutions indexed by problem number. File names remain descriptive and 
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | Implemented | [SquaresOfASortedArray.cs](Easy/SquaresOfASortedArray.cs) |
 | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Easy | Implemented | [AddToArrayFormOfInteger.cs](Easy/AddToArrayFormOfInteger.cs) |
 | 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | Easy | Implemented | [MaximizeSumOfArrayAfterKNegations.cs](Easy/MaximizeSumOfArrayAfterKNegations.cs) |
+| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | Incomplete | [CapacityToShipPackagesWithinDDays.cs](Medium/CapacityToShipPackagesWithinDDays.cs) |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | Implemented | [LastStoneWeight.cs](Easy/LastStoneWeight.cs) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | Easy | Implemented | [HeightChecker.cs](Easy/HeightChecker.cs) |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | Easy | Implemented | [DuplicateZeros.cs](Easy/DuplicateZeros.cs) |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy | Implemented | [RelativeSortArray.cs](Easy/RelativeSortArray.cs) |
+| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Easy | Implemented | [FindWordsThatCanBeFormedByCharacters.cs](Easy/FindWordsThatCanBeFormedByCharacters.cs) |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | Easy | Implemented | [UniqueNumberOfOccurrences.cs](Easy/UniqueNumberOfOccurrences.cs) |
+| 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium | Incomplete | [CountSquareSubmatricesWithAllOnes.cs](Medium/CountSquareSubmatricesWithAllOnes.cs) |
+| 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy | Implemented | [ReplaceElementsWithGreatestElementOnRightSide.cs](Easy/ReplaceElementsWithGreatestElementOnRightSide.cs) |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | Easy | Implemented | [FindNUniqueIntegersSumUpToZero.cs](Easy/FindNUniqueIntegersSumUpToZero.cs) |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | Easy | Implemented | [DecompressRunLengthEncodedList.cs](Easy/DecompressRunLengthEncodedList.cs) |
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Easy | Implemented | [RankTransformOfAnArray.cs](Easy/RankTransformOfAnArray.cs) |
@@ -85,18 +90,26 @@ LeetCode solutions indexed by problem number. File names remain descriptive and 
 | 1561 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Medium | Implemented | [MaximumNumberOfCoinsYouCanGet.cs](Medium/MaximumNumberOfCoinsYouCanGet.cs) |
 | 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) | Medium | Implemented | [ArithmeticSubarrays.cs](Medium/ArithmeticSubarrays.cs) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | Implemented | [RichestCustomerWealth.cs](Easy/RichestCustomerWealth.cs) |
+| 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | Incomplete | [FindTheHighestAltitude.cs](Easy/FindTheHighestAltitude.cs) |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium | Implemented | [MinimumNumberOfOperationsToMoveAllBallsToEachBox.cs](Medium/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cs) |
+| 1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/) | Medium | Implemented | [FindingTheUsersActiveMinutes.cs](Medium/FindingTheUsersActiveMinutes.cs) |
 | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium | Implemented | [FindtheWinnerOfTheCircularGame.cs](Medium/FindtheWinnerOfTheCircularGame.cs) |
+| 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Medium | Implemented | [MinimizeMaximumPairSumInArray.cs](Medium/MinimizeMaximumPairSumInArray.cs) |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | Easy | Implemented | [BuildArrayFromPermutation.cs](Easy/BuildArrayFromPermutation.cs) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | Implemented | [ConcatenationOfArray.cs](Easy/ConcatenationOfArray.cs) |
+| 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | Medium | Implemented | [FindUniqueBinaryString.cs](Medium/FindUniqueBinaryString.cs) |
+| 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | Easy | Needs review | [FindTheMiddleIndexInArray.cs](Easy/FindTheMiddleIndexInArray.cs) |
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | Easy | Implemented | [CountNumberOfPairsWithAbsoluteDifferenceK.cs](Easy/CountNumberOfPairsWithAbsoluteDifferenceK.cs) |
+| 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | Easy | Implemented | [Convert1DArrayInto2DArray.cs](Easy/Convert1DArrayInto2DArray.cs) |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | Easy | Implemented | [MinimumNumberOfMovesToSeatEveryone.cs](Easy/MinimumNumberOfMovesToSeatEveryone.cs) |
 | 2079 | [Watering Plants](https://leetcode.com/problems/watering-plants/) | Medium | Implemented | [WateringPlants.cs](Medium/WateringPlants.cs) |
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | Medium | Implemented | [NumberOfLaserBeamsInABank.cs](Medium/NumberOfLaserBeamsInABank.cs) |
+| 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | Easy | Implemented | [MinimumCostOfBuyingCandiesWithDiscount.cs](Easy/MinimumCostOfBuyingCandiesWithDiscount.cs) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | Medium | Implemented | [RearrangeArrayElementsBySign.cs](Medium/RearrangeArrayElementsBySign.cs) |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | Implemented | [PartitionArrayAccordingToGivenPivot.cs](Medium/PartitionArrayAccordingToGivenPivot.cs) |
 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | Medium | Implemented | [FindTriangularSumOfAnArray.cs](Medium/FindTriangularSumOfAnArray.cs) |
 | 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | Medium | Implemented | [MinimumAmountOfTimeToCollectGarbage.cs](Medium/MinimumAmountOfTimeToCollectGarbage.cs) |
+| 2465 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) | Easy | Implemented | [NumberOfDistinctAverages.cs](Easy/NumberOfDistinctAverages.cs) |
 | 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Medium | Incomplete | [DifferenceBetweenOnesAndZerosInRowAndColumn.cs](Medium/DifferenceBetweenOnesAndZerosInRowAndColumn.cs) |
 | 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | Medium | Implemented | [SortTheStudentsByTheirKthScore.cs](Medium/SortTheStudentsByTheirKthScore.cs) |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy | Implemented | [LeftAndRightSumDifferences.cs](Easy/LeftAndRightSumDifferences.cs) |
@@ -104,16 +117,30 @@ LeetCode solutions indexed by problem number. File names remain descriptive and 
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | Medium | Implemented | [FindThePrefixCommonArrayOfTwoArrays.cs](Medium/FindThePrefixCommonArrayOfTwoArrays.cs) |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | Easy | Implemented | [NumberOfEmployeesWhoMetTheTarget.cs](Easy/NumberOfEmployeesWhoMetTheTarget.cs) |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | Easy | Implemented | [CountPairsWhoseSumIsLessThanTarget.cs](Easy/CountPairsWhoseSumIsLessThanTarget.cs) |
+| 2873 | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | Easy | Implemented | [MaximumValueOfAnOrderedTripletI.cs](Easy/MaximumValueOfAnOrderedTripletI.cs) |
 | 2966 | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | Medium | Implemented | [DivideArrayIntoArraysWithMaxDifference.cs](Medium/DivideArrayIntoArraysWithMaxDifference.cs) |
+| 3046 | [Split the Array](https://leetcode.com/problems/split-the-array/) | Easy | Needs review | [SplitTheArray.cs](Easy/SplitTheArray.cs) |
 | 3194 | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | Easy | Implemented | [MinimumAverageOfSmallestAndLargestElements.cs](Easy/MinimumAverageOfSmallestAndLargestElements.cs) |
 | 3285 | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/) | Easy | Implemented | [FindIndicesOfStableMountains.cs](Easy/FindIndicesOfStableMountains.cs) |
+| 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/) | Easy | Incomplete | [TransformedArray.cs](Easy/TransformedArray.cs) |
+| 3392 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | Easy | Implemented | [CountSubarraysOfLengthThreeWithACondition.cs](Easy/CountSubarraysOfLengthThreeWithACondition.cs) |
+| 3427 | [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays/) | Easy | Implemented | [SumOfVariableLengthSubarrays.cs](Easy/SumOfVariableLengthSubarrays.cs) |
 | 3432 | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | Easy | Implemented | [CountPartitionsWithEvenSumDifference.cs](Easy/CountPartitionsWithEvenSumDifference.cs) |
 | 3446 | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | Medium | Incomplete | [SortMatrixByDiagonals.cs](Medium/SortMatrixByDiagonals.cs) |
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | Easy | Implemented | [TransformArrayByParity.cs](Easy/TransformArrayByParity.cs) |
+| 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | Implemented | [Unique3DigitEvenNumbers.cs](Easy/Unique3DigitEvenNumbers.cs) |
+| 3606 | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) | Easy | Implemented | [CouponCodeValidator.cs](Easy/CouponCodeValidator.cs) |
+| 3683 | [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task/) | Easy | Implemented | [EarliestTimeToFinishOneTask.cs](Easy/EarliestTimeToFinishOneTask.cs) |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | Easy | Implemented | [ComputeAlternatingSum.cs](Easy/ComputeAlternatingSum.cs) |
+| 3741 | [Minimum Distance Between Three Equal Elements II](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | Medium | Implemented | [MinimumDistanceBetweenThreeEqualElementsII.cs](Medium/MinimumDistanceBetweenThreeEqualElementsII.cs) |
+| 3745 | [Maximize Expression of Three Elements](https://leetcode.com/problems/maximize-expression-of-three-elements/) | Easy | Implemented | [MaximizeExpressionOfThreeElements.cs](Easy/MaximizeExpressionOfThreeElements.cs) |
+| 3769 | [Sort Integers by Binary Reflection](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | Easy | Implemented | [SortIntegersByBinaryReflection.cs](Easy/SortIntegersByBinaryReflection.cs) |
+| 3833 | [Count Dominant Indices](https://leetcode.com/problems/count-dominant-indices/) | Easy | Implemented | [CountDominantIndices.cs](Easy/CountDominantIndices.cs) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | Easy | Implemented | [WeightedWordMapping.cs](Easy/WeightedWordMapping.cs) |
+| 3880 | [Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | Easy | Implemented | [MinimumAbsoluteDifferenceBetweenTwoValues.cs](Easy/MinimumAbsoluteDifferenceBetweenTwoValues.cs) |
 | 3895 | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/) | Medium | Implemented | [CountDigitAppearances.cs](Medium/CountDigitAppearances.cs) |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | Easy | Implemented | [ConcatenateArrayWithReverse.cs](Easy/ConcatenateArrayWithReverse.cs) |
+| 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element/) | Easy | Implemented | [UniqueMiddleElement.cs](Easy/UniqueMiddleElement.cs) |
 
 ## Run
 

@@ -1,7 +1,7 @@
 /**
  * @id         7
  * @title      Reverse Integer
- * @topic      math
+ * @topic      Math
  * @difficulty Medium
  * @link       https://leetcode.com/problems/reverse-integer/
  */

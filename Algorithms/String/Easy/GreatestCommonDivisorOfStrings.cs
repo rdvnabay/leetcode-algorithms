@@ -1,7 +1,7 @@
 /**
  * @id         1071
  * @title      Greatest Common Divisor of Strings
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/greatest-common-divisor-of-strings/
  */

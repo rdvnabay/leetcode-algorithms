@@ -1,7 +1,7 @@
 /**
  * @id         1678
  * @title      Goal Parser Interpretation
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/goal-parser-interpretation/
  */

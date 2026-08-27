@@ -1,7 +1,7 @@
 /**
  * @id         1374
  * @title      Generate a String With Characters That Have Odd Counts
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
  */

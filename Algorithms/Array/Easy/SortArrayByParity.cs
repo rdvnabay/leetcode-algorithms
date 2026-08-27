@@ -1,7 +1,7 @@
 /**
  * @id         905
  * @title      Sort Array By Parity
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/sort-array-by-parity/
  */

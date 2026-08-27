@@ -1,7 +1,7 @@
 /**
  * @id         3467
  * @title      Transform Array by Parity
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/transform-array-by-parity/
  */

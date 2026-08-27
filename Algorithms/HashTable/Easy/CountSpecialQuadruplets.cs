@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         1995
+ * @title      Count Special Quadruplets
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-special-quadruplets/
+ */
+namespace HashTable.Easy;
 
 public static class CountSpecialQuadruplets
 {

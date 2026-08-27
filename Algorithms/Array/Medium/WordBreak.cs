@@ -1,7 +1,7 @@
 /**
  * @id         139
  * @title      Word Break
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/word-break/
  */

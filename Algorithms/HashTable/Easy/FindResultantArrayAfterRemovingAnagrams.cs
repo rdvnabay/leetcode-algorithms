@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2273
+ * @title      Find Resultant Array After Removing Anagrams
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/
+ */
+namespace HashTable.Easy;
 
 public static class FindResultantArrayAfterRemovingAnagrams
 {

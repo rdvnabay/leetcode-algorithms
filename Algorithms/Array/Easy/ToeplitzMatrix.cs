@@ -1,7 +1,7 @@
 /**
  * @id         766
  * @title      Toeplitz Matrix
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/toeplitz-matrix/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         1154
  * @title      Day of the Year
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/day-of-the-year/
  */

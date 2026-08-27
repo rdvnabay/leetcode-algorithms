@@ -1,7 +1,7 @@
 /**
  * @id         989
  * @title      Add to Array-Form of Integer
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/add-to-array-form-of-integer/
  */

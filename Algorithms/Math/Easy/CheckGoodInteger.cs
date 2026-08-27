@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3959
+ * @title      Check Good Integer
+ * @topic      Math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/check-good-integer/
+ */
+namespace Math.Easy;
 
 public static class CheckGoodInteger
 {

@@ -1,7 +1,7 @@
 /**
  * @id         3794
  * @title      Reverse String Prefix
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/reverse-string-prefix/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         2729
  * @title      Check if The Number is Fascinating
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/check-if-the-number-is-fascinating/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         896
  * @title      Monotonic Array
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/monotonic-array/
  */

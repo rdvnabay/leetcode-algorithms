@@ -1,7 +1,7 @@
 /**
  * @id         455
  * @title      Assign Cookies
- * @topic      greedy
+ * @topic      Greedy
  * @difficulty Easy
  * @link       https://leetcode.com/problems/assign-cookies/
  */

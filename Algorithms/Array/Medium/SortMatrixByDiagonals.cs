@@ -1,7 +1,7 @@
 /**
  * @id         3446
  * @title      Sort Matrix by Diagonals
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/sort-matrix-by-diagonals/
  */

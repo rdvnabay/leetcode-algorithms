@@ -1,7 +1,7 @@
 /**
  * @id         3701
  * @title      Compute Alternating Sum
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/compute-alternating-sum/
  */

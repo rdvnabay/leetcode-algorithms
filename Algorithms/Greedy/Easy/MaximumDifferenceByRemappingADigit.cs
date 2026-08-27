@@ -1,4 +1,11 @@
-﻿namespace Greedy.Easy;
+/**
+ * @id         2566
+ * @title      Maximum Difference by Remapping a Digit
+ * @topic      Greedy
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/
+ */
+namespace Greedy.Easy;
 
 public static class MaximumDifferenceByRemappingADigit
 {

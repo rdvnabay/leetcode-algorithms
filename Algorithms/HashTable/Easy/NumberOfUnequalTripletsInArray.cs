@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2475
+ * @title      Number of Unequal Triplets in Array
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/number-of-unequal-triplets-in-array/
+ */
+namespace HashTable.Easy;
 
 public static class NumberOfUnequalTripletsInArray
 {

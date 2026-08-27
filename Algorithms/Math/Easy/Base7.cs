@@ -1,7 +1,7 @@
 /**
  * @id         504
  * @title      Base 7
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/base-7/
  */

@@ -1,4 +1,11 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+/**
+ * @id         2094
+ * @title      Finding 3-Digit Even Numbers
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/finding-3-digit-even-numbers/
+ */
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace HashTable.Easy;
 

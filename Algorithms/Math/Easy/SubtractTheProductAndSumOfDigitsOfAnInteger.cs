@@ -1,7 +1,7 @@
 /**
  * @id         1281
  * @title      Subtract the Product and Sum of Digits of an Integer
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
  */

@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1732
+ * @title      Find the Highest Altitude
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-highest-altitude/
+ */
+namespace Array.Easy;
 
 public static class FindTheHighestAltitude
 {

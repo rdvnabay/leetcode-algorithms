@@ -1,7 +1,7 @@
 /**
  * @id         66
  * @title      Plus One
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/plus-one/
  */

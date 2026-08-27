@@ -1,7 +1,7 @@
 /**
  * @id         383
  * @title      Ransom Note
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/ransom-note/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         168
  * @title      Excel Sheet Column Title
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/excel-sheet-column-title/
  */

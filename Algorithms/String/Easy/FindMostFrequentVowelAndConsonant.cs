@@ -1,7 +1,7 @@
 /**
  * @id         3541
  * @title      Find Most Frequent Vowel and Consonant
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/
  */

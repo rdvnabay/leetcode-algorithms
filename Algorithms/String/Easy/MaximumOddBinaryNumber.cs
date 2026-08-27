@@ -1,7 +1,7 @@
 /**
  * @id         2864
  * @title      Maximum Odd Binary Number
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/maximum-odd-binary-number/
  */

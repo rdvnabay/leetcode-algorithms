@@ -1,7 +1,7 @@
 /**
  * @id         806
  * @title      Number of Lines To Write String
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/number-of-lines-to-write-string/
  */

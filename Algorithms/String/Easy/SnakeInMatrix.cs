@@ -1,7 +1,7 @@
 /**
  * @id         3248
  * @title      Snake in Matrix
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/snake-in-matrix/
  */

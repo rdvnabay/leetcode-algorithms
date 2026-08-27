@@ -1,7 +1,7 @@
 /**
  * @id         2235
  * @title      Add Two Integers
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/add-two-integers/
  */

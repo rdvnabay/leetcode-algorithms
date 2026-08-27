@@ -1,7 +1,7 @@
 /**
  * @id         1630
  * @title      Arithmetic Subarrays
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/arithmetic-subarrays/
  */

@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3745
+ * @title      Maximize Expression of Three Elements
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximize-expression-of-three-elements/
+ */
+namespace Array.Easy;
 
 public static class MaximizeExpressionOfThreeElements
 {

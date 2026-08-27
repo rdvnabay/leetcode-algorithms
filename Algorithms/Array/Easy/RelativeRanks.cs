@@ -1,7 +1,7 @@
 /**
  * @id         506
  * @title      Relative Ranks
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/relative-ranks/
  */

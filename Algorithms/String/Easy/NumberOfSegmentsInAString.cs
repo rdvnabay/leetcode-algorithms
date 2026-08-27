@@ -1,7 +1,7 @@
 /**
  * @id         434
  * @title      Number of Segments in a String
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/number-of-segments-in-a-string/
  */

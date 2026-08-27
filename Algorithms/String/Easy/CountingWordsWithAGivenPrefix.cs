@@ -1,7 +1,7 @@
 /**
  * @id         2185
  * @title      Counting Words With a Given Prefix
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/counting-words-with-a-given-prefix/
  */

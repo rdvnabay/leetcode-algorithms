@@ -1,7 +1,7 @@
 /**
  * @id         2610
  * @title      Convert an Array Into a 2D Array With Conditions
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/
  */

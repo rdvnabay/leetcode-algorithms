@@ -1,7 +1,7 @@
 /**
  * @id         2578
  * @title      Split With Minimum Sum
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/split-with-minimum-sum/
  */

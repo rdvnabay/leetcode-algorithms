@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3880
+ * @title      Minimum Absolute Difference Between Two Values
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-absolute-difference-between-two-values/
+ */
+namespace Array.Easy;
 
 public static class MinimumAbsoluteDifferenceBetweenTwoValues
 {

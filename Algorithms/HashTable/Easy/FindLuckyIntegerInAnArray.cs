@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         1394
+ * @title      Find Lucky Integer in an Array
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-lucky-integer-in-an-array/
+ */
+namespace HashTable.Easy;
 
 public static class FindLuckyIntegerInAnArray
 {

@@ -1,7 +1,7 @@
 /**
  * @id         1486
  * @title      XOR Operation in an Array
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/xor-operation-in-an-array/
  */

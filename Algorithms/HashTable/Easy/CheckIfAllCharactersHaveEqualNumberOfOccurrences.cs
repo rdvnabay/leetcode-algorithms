@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         1941
+ * @title      Check if All Characters Have Equal Number of Occurrences
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
+ */
+namespace HashTable.Easy;
 
 public static class CheckIfAllCharactersHaveEqualNumberOfOccurrences
 {

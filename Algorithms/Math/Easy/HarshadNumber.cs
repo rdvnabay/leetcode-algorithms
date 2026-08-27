@@ -1,7 +1,7 @@
 /**
  * @id         3099
  * @title      Harshad Number
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/harshad-number/
  */

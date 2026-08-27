@@ -1,7 +1,7 @@
 /**
  * @id         1331
  * @title      Rank Transform of an Array
- * @topic      hash-table
+ * @topic      HashTable
  * @difficulty Easy
  * @link       https://leetcode.com/problems/rank-transform-of-an-array/
  */

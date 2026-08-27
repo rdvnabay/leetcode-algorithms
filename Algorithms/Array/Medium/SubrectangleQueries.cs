@@ -1,7 +1,7 @@
 /**
  * @id         1476
  * @title      Subrectangle Queries
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/subrectangle-queries/
  */

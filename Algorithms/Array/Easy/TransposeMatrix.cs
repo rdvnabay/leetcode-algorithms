@@ -1,7 +1,7 @@
 /**
  * @id         867
  * @title      Transpose Matrix
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/transpose-matrix/
  */

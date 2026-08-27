@@ -1,7 +1,7 @@
 /**
  * @id         657
  * @title      Robot Return to Origin
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/robot-return-to-origin/
  */

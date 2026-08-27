@@ -1,7 +1,7 @@
 /**
  * @id         3019
  * @title      Number of Changing Keys
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/number-of-changing-keys/
  */

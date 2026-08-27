@@ -1,7 +1,7 @@
 /**
  * @id         1823
  * @title      Find the Winner of the Circular Game
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/find-the-winner-of-the-circular-game/
  */

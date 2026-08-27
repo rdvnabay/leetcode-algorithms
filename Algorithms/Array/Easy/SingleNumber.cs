@@ -1,7 +1,7 @@
 /**
  * @id         136
  * @title      Single Number
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/single-number/
  */

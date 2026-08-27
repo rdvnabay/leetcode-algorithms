@@ -1,7 +1,7 @@
 /**
  * @id         2485
  * @title      Find the Pivot Integer
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-the-pivot-integer/
  */

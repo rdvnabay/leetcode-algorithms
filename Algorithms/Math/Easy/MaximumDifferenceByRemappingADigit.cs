@@ -1,7 +1,7 @@
 /**
  * @id         2566
  * @title      Maximum Difference by Remapping a Digit
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/
  */

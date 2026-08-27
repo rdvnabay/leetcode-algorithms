@@ -1,4 +1,4 @@
-// Demo runner for 3 indexed solution files. Canonical ordering: LeetCode problem ID.
+// Demo runner for 16 solution files; the README is the canonical ID-sorted index.
 using Algorithms.Greedy.Easy;
 using Greedy.Easy;
 

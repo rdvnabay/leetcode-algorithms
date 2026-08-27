@@ -1,7 +1,7 @@
 /**
  * @id         219
  * @title      Contains Duplicate II
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/contains-duplicate-ii/
  */

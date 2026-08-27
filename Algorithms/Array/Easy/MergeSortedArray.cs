@@ -1,7 +1,7 @@
 /**
  * @id         88
  * @title      Merge Sorted Array
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/merge-sorted-array/
  */

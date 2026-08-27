@@ -1,7 +1,7 @@
 /**
  * @id         1561
  * @title      Maximum Number of Coins You Can Get
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
  */

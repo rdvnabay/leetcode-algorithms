@@ -1,7 +1,7 @@
 /**
  * @id         917
  * @title      Reverse Only Letters
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/reverse-only-letters/
  */

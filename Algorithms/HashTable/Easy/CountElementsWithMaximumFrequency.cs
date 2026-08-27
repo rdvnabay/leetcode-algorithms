@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         3005
+ * @title      Count Elements With Maximum Frequency
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-elements-with-maximum-frequency/
+ */
+namespace HashTable.Easy;
 
 public static class CountElementsWithMaximumFrequency
 {

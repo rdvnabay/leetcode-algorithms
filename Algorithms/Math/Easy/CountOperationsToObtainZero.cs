@@ -1,7 +1,7 @@
 /**
  * @id         2169
  * @title      Count Operations to Obtain Zero
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/count-operations-to-obtain-zero/
  */

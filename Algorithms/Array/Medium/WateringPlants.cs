@@ -1,7 +1,7 @@
 /**
  * @id         2079
  * @title      Watering Plants
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/watering-plants/
  */

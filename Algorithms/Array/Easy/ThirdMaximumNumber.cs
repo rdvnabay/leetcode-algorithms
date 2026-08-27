@@ -1,7 +1,7 @@
 /**
  * @id         414
  * @title      Third Maximum Number
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/third-maximum-number/
  */

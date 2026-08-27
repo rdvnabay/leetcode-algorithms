@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2248
+ * @title      Intersection of Multiple Arrays
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/intersection-of-multiple-arrays/
+ */
+namespace HashTable.Easy;
 
 public static class IntersectionOfMultipleArrays
 {

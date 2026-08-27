@@ -1,7 +1,7 @@
 /**
  * @id         1
  * @title      Two Sum
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/two-sum/
  */

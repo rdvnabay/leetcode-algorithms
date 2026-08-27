@@ -1,7 +1,7 @@
 /**
  * @id         561
  * @title      Array Partition
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/array-partition/
  */

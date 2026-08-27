@@ -1,7 +1,7 @@
 /**
  * @id         2828
  * @title      Check if a String Is an Acronym of Words
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/
  */

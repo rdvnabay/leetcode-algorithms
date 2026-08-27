@@ -1,7 +1,7 @@
 /**
  * @id         268
  * @title      Missing Number
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/missing-number/
  */

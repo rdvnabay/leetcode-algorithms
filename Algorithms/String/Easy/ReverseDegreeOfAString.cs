@@ -1,7 +1,7 @@
 /**
  * @id         3498
  * @title      Reverse Degree of a String
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/reverse-degree-of-a-string/
  */

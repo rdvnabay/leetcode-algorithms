@@ -1,7 +1,7 @@
 /**
  * @id         14
  * @title      Longest Common Prefix
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/longest-common-prefix/
  */

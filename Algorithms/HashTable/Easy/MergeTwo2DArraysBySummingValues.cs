@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2570
+ * @title      Merge Two 2D Arrays by Summing Values
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/
+ */
+namespace HashTable.Easy;
 
 public static class MergeTwo2DArraysBySummingValues
 {

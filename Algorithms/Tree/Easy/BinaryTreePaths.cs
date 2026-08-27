@@ -1,7 +1,7 @@
 /**
  * @id         257
  * @title      Binary Tree Paths
- * @topic      tree
+ * @topic      Tree
  * @difficulty Easy
  * @link       https://leetcode.com/problems/binary-tree-paths/
  */

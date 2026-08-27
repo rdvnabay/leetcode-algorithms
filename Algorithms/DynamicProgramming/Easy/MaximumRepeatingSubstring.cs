@@ -1,4 +1,11 @@
-﻿namespace DynamicProgramming.Easy;
+/**
+ * @id         1668
+ * @title      Maximum Repeating Substring
+ * @topic      DynamicProgramming
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-repeating-substring/
+ */
+namespace DynamicProgramming.Easy;
 
 public static class MaximumRepeatingSubstring
 {

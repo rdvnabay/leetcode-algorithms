@@ -1,7 +1,7 @@
 /**
  * @id         3921
  * @title      Score Validator
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/score-validator/
  */

@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2215
+ * @title      Find the Difference of Two Arrays
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-difference-of-two-arrays/
+ */
+namespace HashTable.Easy;
 
 public static class FindTheDifferenceOfTwoArrays
 {

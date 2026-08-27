@@ -1,7 +1,7 @@
 /**
  * @id         1544
  * @title      Make The String Great
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/make-the-string-great/
  */

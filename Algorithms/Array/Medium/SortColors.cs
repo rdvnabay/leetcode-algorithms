@@ -1,7 +1,7 @@
 /**
  * @id         75
  * @title      Sort Colors
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/sort-colors/
  */

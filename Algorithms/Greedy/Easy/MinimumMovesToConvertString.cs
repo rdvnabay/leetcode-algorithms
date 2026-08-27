@@ -1,4 +1,11 @@
-﻿namespace Greedy.Easy;
+/**
+ * @id         2027
+ * @title      Minimum Moves to Convert String
+ * @topic      Greedy
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-moves-to-convert-string/
+ */
+namespace Greedy.Easy;
 
 public static class MinimumMovesToConvertString
 {

@@ -1,7 +1,7 @@
 /**
  * @id         1304
  * @title      Find N Unique Integers Sum up to Zero
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         830
  * @title      Positions of Large Groups
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/positions-of-large-groups/
  */

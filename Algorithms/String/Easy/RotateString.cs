@@ -1,7 +1,7 @@
 /**
  * @id         796
  * @title      Rotate String
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/rotate-string/
  */

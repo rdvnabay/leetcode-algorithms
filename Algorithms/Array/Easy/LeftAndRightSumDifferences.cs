@@ -1,7 +1,7 @@
 /**
  * @id         2574
  * @title      Left and Right Sum Differences
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/left-and-right-sum-differences/
  */

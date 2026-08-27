@@ -1,4 +1,11 @@
-﻿namespace Greedy.Easy
+/**
+ * @id         4000
+ * @title      Largest Integer With Given Digit Sum
+ * @topic      Greedy
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/largest-integer-with-given-digit-sum/
+ */
+namespace Greedy.Easy
 {
     public static class LargestIntegerWithGivenDigitSum
     {

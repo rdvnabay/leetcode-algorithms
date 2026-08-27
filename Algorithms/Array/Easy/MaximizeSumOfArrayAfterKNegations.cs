@@ -1,7 +1,7 @@
 /**
  * @id         1005
  * @title      Maximize Sum Of Array After K Negations
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
  */

@@ -1,4 +1,4 @@
-// Demo runner for 102 indexed solution files. Canonical ordering: LeetCode problem ID.
+// Demo runner for 129 solution files; the README is the canonical ID-sorted index.
 using Algorithms.Array.Easy;
 using Algorithms.Array.Medium;
 using Array.Easy;
@@ -125,6 +125,7 @@ CountSquareSubmatricesWithAllOnes.Run(new int[][] { [0, 1, 1, 1], [1, 1, 1, 1], 
 MinimizeMaximumPairSumInArray.Run(new int[] { 4, 1, 5, 1, 2, 5, 1, 5, 5, 4 });
 FindUniqueBinaryString.Run(new string[] { "1" });
 MinimumDistanceBetweenThreeEqualElementsII.Run(new int[] { 1, 1, 1, 1 });
+CapacityToShipPackagesWithinDDays.Run(new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }, 5);
 
 
 

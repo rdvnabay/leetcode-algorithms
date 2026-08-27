@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         3545
+ * @title      Minimum Deletions for At Most K Distinct Characters
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/
+ */
+namespace String.Easy;
 
 public static class MinimumDeletionsForAtMostKDistinctCharacters
 {

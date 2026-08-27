@@ -1,7 +1,7 @@
 /**
  * @id         3894
  * @title      Traffic Signal Color
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/traffic-signal-color/
  */

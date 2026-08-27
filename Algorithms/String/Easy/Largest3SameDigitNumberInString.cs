@@ -1,7 +1,7 @@
 /**
  * @id         2264
  * @title      Largest 3-Same-Digit Number in String
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/largest-3-same-digit-number-in-string/
  */

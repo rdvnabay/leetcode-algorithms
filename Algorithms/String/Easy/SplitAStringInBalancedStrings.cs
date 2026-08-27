@@ -1,7 +1,7 @@
 /**
  * @id         1221
  * @title      Split a String in Balanced Strings
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/split-a-string-in-balanced-strings/
  */

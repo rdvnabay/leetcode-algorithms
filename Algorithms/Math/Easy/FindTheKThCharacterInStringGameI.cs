@@ -1,7 +1,7 @@
 /**
  * @id         3304
  * @title      Find the K-th Character in String Game I
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/
  */

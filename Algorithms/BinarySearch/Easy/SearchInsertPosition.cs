@@ -1,7 +1,7 @@
 /**
  * @id         35
  * @title      Search Insert Position
- * @topic      binary-search
+ * @topic      BinarySearch
  * @difficulty Easy
  * @link       https://leetcode.com/problems/search-insert-position/
  */

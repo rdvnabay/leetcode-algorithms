@@ -1,7 +1,7 @@
 /**
  * @id         1979
  * @title      Find Greatest Common Divisor of Array
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-greatest-common-divisor-of-array/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         2520
  * @title      Count the Digits That Divide a Number
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/count-the-digits-that-divide-a-number/
  */

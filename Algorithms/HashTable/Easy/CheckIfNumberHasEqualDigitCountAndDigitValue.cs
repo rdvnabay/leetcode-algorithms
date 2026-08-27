@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2283
+ * @title      Check if Number Has Equal Digit Count and Digit Value
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
+ */
+namespace HashTable.Easy;
 
 public static class CheckIfNumberHasEqualDigitCountAndDigitValue
 {

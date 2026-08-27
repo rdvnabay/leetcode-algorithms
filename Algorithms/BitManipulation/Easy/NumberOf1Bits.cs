@@ -1,7 +1,7 @@
 /**
  * @id         191
  * @title      Number of 1 Bits
- * @topic      bit-manipulation
+ * @topic      BitManipulation
  * @difficulty Easy
  * @link       https://leetcode.com/problems/number-of-1-bits/
  */

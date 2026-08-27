@@ -1,7 +1,7 @@
 /**
  * @id         1704
  * @title      Determine if String Halves Are Alike
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/determine-if-string-halves-are-alike/
  */

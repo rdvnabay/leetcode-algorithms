@@ -1,7 +1,7 @@
 /**
  * @id         1598
  * @title      Crawler Log Folder
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/crawler-log-folder/
  */

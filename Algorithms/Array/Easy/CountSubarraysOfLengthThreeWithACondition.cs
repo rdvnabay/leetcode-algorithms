@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3392
+ * @title      Count Subarrays of Length Three With a Condition
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/
+ */
+namespace Array.Easy;
 
 public static class CountSubarraysOfLengthThreeWithACondition
 {

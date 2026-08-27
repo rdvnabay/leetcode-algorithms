@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1046
+ * @title      Last Stone Weight
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/last-stone-weight/
+ */
+namespace Array.Easy;
 
 public static class LastStoneWeight
 {

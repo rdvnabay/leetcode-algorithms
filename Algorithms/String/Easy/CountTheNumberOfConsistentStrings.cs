@@ -1,7 +1,7 @@
 /**
  * @id         1684
  * @title      Count the Number of Consistent Strings
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/count-the-number-of-consistent-strings/
  */

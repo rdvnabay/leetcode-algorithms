@@ -1,7 +1,7 @@
 /**
  * @id         169
  * @title      Majority Element
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/majority-element/
  */

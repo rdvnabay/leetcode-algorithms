@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2278
+ * @title      Percentage of Letter in String
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/percentage-of-letter-in-string/
+ */
+namespace String.Easy;
 
 public static class PercentageOfLetterInString
 {

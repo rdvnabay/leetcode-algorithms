@@ -1,7 +1,7 @@
 /**
  * @id         961
  * @title      N-Repeated Element in Size 2N Array
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         2965
  * @title      Find Missing and Repeated Values
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-missing-and-repeated-values/
  */

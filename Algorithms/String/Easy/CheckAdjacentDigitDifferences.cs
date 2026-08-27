@@ -1,7 +1,7 @@
 /**
  * @id         3931
  * @title      Check Adjacent Digit Differences
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/check-adjacent-digit-differences/
  */

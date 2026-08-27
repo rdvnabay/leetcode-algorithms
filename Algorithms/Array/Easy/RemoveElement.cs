@@ -1,7 +1,7 @@
 /**
  * @id         27
  * @title      Remove Element
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/remove-element/
  */

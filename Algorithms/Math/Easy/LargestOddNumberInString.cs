@@ -1,7 +1,7 @@
 /**
  * @id         1903
  * @title      Largest Odd Number in String
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/largest-odd-number-in-string/
  */

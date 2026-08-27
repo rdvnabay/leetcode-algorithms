@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         1869
+ * @title      Longer Contiguous Segments of Ones than Zeros
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
+ */
+namespace String.Easy;
 
 public static class LongerContiguousSegmentsOfOnesThanZeros
 {

@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         3842
+ * @title      Toggle Light Bulbs
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/toggle-light-bulbs/
+ */
+namespace HashTable.Easy;
 
 public static class ToggleLightBulbs
 {

@@ -1,7 +1,7 @@
 /**
  * @id         575
  * @title      Distribute Candies
- * @topic      hash-table
+ * @topic      HashTable
  * @difficulty Easy
  * @link       https://leetcode.com/problems/distribute-candies/
  */

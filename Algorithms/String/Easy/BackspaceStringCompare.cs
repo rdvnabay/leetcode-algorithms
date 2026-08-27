@@ -1,7 +1,7 @@
 /**
  * @id         844
  * @title      Backspace String Compare
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/backspace-string-compare/
  */

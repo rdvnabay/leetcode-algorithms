@@ -1,7 +1,7 @@
 /**
  * @id         2391
  * @title      Minimum Amount of Time to Collect Garbage
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
  */

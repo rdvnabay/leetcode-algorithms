@@ -1,7 +1,7 @@
 /**
  * @id         2591
  * @title      Distribute Money to Maximum Children
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/distribute-money-to-maximum-children/
  */

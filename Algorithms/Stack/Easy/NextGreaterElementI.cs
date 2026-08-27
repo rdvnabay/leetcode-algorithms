@@ -1,7 +1,7 @@
 /**
  * @id         496
  * @title      Next Greater Element I
- * @topic      stack
+ * @topic      Stack
  * @difficulty Easy
  * @link       https://leetcode.com/problems/next-greater-element-i/
  */

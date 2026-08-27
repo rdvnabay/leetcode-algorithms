@@ -1,4 +1,11 @@
-﻿namespace TwoPointers.Easy;
+/**
+ * @id         2562
+ * @title      Find the Array Concatenation Value
+ * @topic      TwoPointers
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-array-concatenation-value/
+ */
+namespace TwoPointers.Easy;
 
 public static class FindTheArrayConcatenationValue
 {

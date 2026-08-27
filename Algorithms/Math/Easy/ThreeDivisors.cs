@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         1952
+ * @title      Three Divisors
+ * @topic      Math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/three-divisors/
+ */
+namespace Math.Easy;
 
 public static class ThreeDivisors
 {

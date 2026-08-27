@@ -1,7 +1,7 @@
 /**
  * @id         1051
  * @title      Height Checker
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/height-checker/
  */

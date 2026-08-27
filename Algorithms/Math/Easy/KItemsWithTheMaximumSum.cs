@@ -1,7 +1,7 @@
 /**
  * @id         2600
  * @title      K Items With the Maximum Sum
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/k-items-with-the-maximum-sum/
  */

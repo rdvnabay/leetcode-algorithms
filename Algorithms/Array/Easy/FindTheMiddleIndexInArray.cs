@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1991
+ * @title      Find the Middle Index in Array
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-middle-index-in-array/
+ */
+namespace Array.Easy;
 
 public static class FindTheMiddleIndexInArray
 {

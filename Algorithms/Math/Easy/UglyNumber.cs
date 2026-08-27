@@ -1,7 +1,7 @@
 /**
  * @id         263
  * @title      Ugly Number
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/ugly-number/
  */

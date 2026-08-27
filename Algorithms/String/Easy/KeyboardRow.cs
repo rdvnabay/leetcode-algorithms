@@ -1,7 +1,7 @@
 /**
  * @id         500
  * @title      Keyboard Row
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/keyboard-row/
  */

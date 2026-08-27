@@ -1,4 +1,11 @@
-﻿namespace Greedy.Easy;
+/**
+ * @id         1827
+ * @title      Minimum Operations to Make the Array Increasing
+ * @topic      Greedy
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
+ */
+namespace Greedy.Easy;
 
 public static class MinimumOperationsToMakeTheArrayIncreasing
 {

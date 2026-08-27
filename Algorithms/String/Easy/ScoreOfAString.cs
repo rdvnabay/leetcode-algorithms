@@ -1,7 +1,7 @@
 /**
  * @id         3110
  * @title      Score of a String
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/score-of-a-string/
  */

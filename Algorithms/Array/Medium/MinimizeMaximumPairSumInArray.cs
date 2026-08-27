@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         1877
+ * @title      Minimize Maximum Pair Sum in Array
+ * @topic      Array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
+ */
+namespace Array.Medium;
 
 public static class MinimizeMaximumPairSumInArray
 {

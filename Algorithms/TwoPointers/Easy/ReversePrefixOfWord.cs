@@ -1,4 +1,11 @@
-﻿namespace TwoPointers.Easy;
+/**
+ * @id         2000
+ * @title      Reverse Prefix of Word
+ * @topic      TwoPointers
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/reverse-prefix-of-word/
+ */
+namespace TwoPointers.Easy;
 
 public static class ReversePrefixOfWord
 {

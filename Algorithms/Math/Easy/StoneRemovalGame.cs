@@ -1,7 +1,7 @@
 /**
  * @id         3360
  * @title      Stone Removal Game
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/stone-removal-game/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         3512
  * @title      Minimum Operations to Make Array Sum Divisible by K
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         941
  * @title      Valid Mountain Array
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/valid-mountain-array/
  */

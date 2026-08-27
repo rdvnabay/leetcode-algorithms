@@ -1,7 +1,7 @@
 /**
  * @id         3895
  * @title      Count Digit Appearances
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/count-digit-appearances/
  */

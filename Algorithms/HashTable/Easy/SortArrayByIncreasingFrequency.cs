@@ -1,7 +1,7 @@
 /**
  * @id         1636
  * @title      Sort Array by Increasing Frequency
- * @topic      hash-table
+ * @topic      HashTable
  * @difficulty Easy
  * @link       https://leetcode.com/problems/sort-array-by-increasing-frequency/
  */

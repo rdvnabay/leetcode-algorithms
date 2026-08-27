@@ -1,7 +1,7 @@
 /**
  * @id         704
  * @title      Binary Search
- * @topic      binary-search
+ * @topic      BinarySearch
  * @difficulty Easy
  * @link       https://leetcode.com/problems/binary-search/
  */

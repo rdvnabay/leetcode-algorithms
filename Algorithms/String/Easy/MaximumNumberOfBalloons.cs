@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         1189
+ * @title      Maximum Number of Balloons
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-number-of-balloons/
+ */
+namespace String.Easy;
 
 public static class MaximumNumberOfBalloons
 {

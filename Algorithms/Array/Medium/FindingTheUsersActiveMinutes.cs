@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         1817
+ * @title      Finding the Users Active Minutes
+ * @topic      Array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/finding-the-users-active-minutes/
+ */
+namespace Array.Medium;
 
 public static class FindingTheUsersActiveMinutes
 {

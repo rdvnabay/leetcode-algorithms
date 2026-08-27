@@ -1,7 +1,7 @@
 /**
  * @id         2806
  * @title      Account Balance After Rounded Purchase
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/account-balance-after-rounded-purchase/
  */

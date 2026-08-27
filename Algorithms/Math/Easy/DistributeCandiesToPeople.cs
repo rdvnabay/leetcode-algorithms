@@ -1,7 +1,7 @@
 /**
  * @id         1103
  * @title      Distribute Candies to People
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/distribute-candies-to-people/
  */

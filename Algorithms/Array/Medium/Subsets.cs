@@ -1,7 +1,7 @@
 /**
  * @id         78
  * @title      Subsets
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/subsets/
  */

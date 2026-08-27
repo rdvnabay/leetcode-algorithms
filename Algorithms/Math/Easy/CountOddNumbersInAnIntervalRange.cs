@@ -1,7 +1,7 @@
 /**
  * @id         1523
  * @title      Count Odd Numbers in an Interval Range
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
  */

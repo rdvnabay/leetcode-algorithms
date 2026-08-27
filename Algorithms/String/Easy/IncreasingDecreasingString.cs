@@ -1,7 +1,7 @@
 /**
  * @id         1370
  * @title      Increasing Decreasing String
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/increasing-decreasing-string/
  */

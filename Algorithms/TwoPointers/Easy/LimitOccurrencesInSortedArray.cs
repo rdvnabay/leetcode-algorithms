@@ -1,4 +1,11 @@
-﻿namespace TwoPointers.Easy;
+/**
+ * @id         3940
+ * @title      Limit Occurrences in Sorted Array
+ * @topic      TwoPointers
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/limit-occurrences-in-sorted-array/
+ */
+namespace TwoPointers.Easy;
 
 public static class LimitOccurrencesInSortedArray
 {

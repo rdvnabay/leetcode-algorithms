@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         3712
+ * @title      Sum of Elements With Frequency Divisible by K
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/
+ */
+namespace HashTable.Easy;
 
 public static class SumOfElementsWithFrequencyDivisibleByK
 {

@@ -1,7 +1,7 @@
 /**
  * @id         3945
  * @title      Digit Frequency Score
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/digit-frequency-score/
  */

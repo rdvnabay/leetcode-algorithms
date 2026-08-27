@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         3731
+ * @title      Find Missing Elements
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-missing-elements/
+ */
+namespace HashTable.Easy;
 
 public static class FindMissingElements
 {

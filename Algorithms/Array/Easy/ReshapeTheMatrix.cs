@@ -1,7 +1,7 @@
 /**
  * @id         566
  * @title      Reshape the Matrix
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/reshape-the-matrix/
  */

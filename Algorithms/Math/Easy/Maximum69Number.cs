@@ -1,7 +1,7 @@
 /**
  * @id         1323
  * @title      Maximum 69 Number
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/maximum-69-number/
  */

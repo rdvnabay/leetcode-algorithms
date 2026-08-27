@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         1422
+ * @title      Maximum Score After Splitting a String
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-score-after-splitting-a-string/
+ */
+namespace String.Easy;
 
 public static class MaximumScoreAfterSplittingAString
 {

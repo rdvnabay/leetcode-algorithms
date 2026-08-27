@@ -1,7 +1,7 @@
 /**
  * @id         2549
  * @title      Count Distinct Numbers on Board
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/count-distinct-numbers-on-board/
  */

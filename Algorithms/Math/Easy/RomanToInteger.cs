@@ -1,7 +1,7 @@
 /**
  * @id         13
  * @title      Roman to Integer
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/roman-to-integer/
  */

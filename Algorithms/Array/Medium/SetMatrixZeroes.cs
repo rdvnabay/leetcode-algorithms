@@ -1,7 +1,7 @@
 /**
  * @id         73
  * @title      Set Matrix Zeroes
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/set-matrix-zeroes/
  */

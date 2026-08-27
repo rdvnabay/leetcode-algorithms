@@ -1,7 +1,7 @@
 /**
  * @id         744
  * @title      Find Smallest Letter Greater Than Target
- * @topic      binary-search
+ * @topic      BinarySearch
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-smallest-letter-greater-than-target/
  */

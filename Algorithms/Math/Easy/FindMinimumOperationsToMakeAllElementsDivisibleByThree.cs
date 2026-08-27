@@ -1,7 +1,7 @@
 /**
  * @id         3190
  * @title      Find Minimum Operations to Make All Elements Divisible by Three
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/
  */

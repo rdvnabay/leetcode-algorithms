@@ -1,7 +1,7 @@
 /**
  * @id         2652
  * @title      Sum Multiples
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/sum-multiples/
  */

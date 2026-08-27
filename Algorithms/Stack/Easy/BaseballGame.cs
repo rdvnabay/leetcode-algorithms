@@ -1,7 +1,7 @@
 /**
  * @id         682
  * @title      Baseball Game
- * @topic      stack
+ * @topic      Stack
  * @difficulty Easy
  * @link       https://leetcode.com/problems/baseball-game/
  */

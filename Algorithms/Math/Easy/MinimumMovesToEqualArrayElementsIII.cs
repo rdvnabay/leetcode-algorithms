@@ -1,7 +1,7 @@
 /**
  * @id         3736
  * @title      Minimum Moves to Equal Array Elements III
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/
  */

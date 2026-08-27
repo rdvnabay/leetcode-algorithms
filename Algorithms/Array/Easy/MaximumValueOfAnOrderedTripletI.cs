@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2873
+ * @title      Maximum Value of an Ordered Triplet I
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/
+ */
+namespace Array.Easy;
 
 public static class MaximumValueOfAnOrderedTripletI
 {

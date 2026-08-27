@@ -1,7 +1,7 @@
 /**
  * @id         3461
  * @title      Check If Digits Are Equal in String After Operations I
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/
  */

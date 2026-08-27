@@ -1,7 +1,7 @@
 /**
  * @id         2138
  * @title      Divide a String Into Groups of Size k
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/
  */

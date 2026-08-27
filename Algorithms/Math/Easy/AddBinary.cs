@@ -1,7 +1,7 @@
 /**
  * @id         67
  * @title      Add Binary
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/add-binary/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         3
  * @title      Longest Substring Without Repeating Characters
- * @topic      string
+ * @topic      String
  * @difficulty Medium
  * @link       https://leetcode.com/problems/longest-substring-without-repeating-characters/
  */

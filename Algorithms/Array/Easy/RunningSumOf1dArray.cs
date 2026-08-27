@@ -1,7 +1,7 @@
 /**
  * @id         1480
  * @title      Running Sum of 1d Array
- * @topic      array
+ * @topic      Array
  * @difficulty Easy
  * @link       https://leetcode.com/problems/running-sum-of-1d-array/
  */

@@ -1,7 +1,7 @@
 /**
  * @id         31
  * @title      Next Permutation
- * @topic      array
+ * @topic      Array
  * @difficulty Medium
  * @link       https://leetcode.com/problems/next-permutation/
  */

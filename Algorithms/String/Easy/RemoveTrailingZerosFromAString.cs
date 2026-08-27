@@ -1,7 +1,7 @@
 /**
  * @id         2710
  * @title      Remove Trailing Zeros From a String
- * @topic      string
+ * @topic      String
  * @difficulty Easy
  * @link       https://leetcode.com/problems/remove-trailing-zeros-from-a-string/
  */

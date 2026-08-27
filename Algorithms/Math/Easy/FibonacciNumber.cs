@@ -1,7 +1,7 @@
 /**
  * @id         509
  * @title      Fibonacci Number
- * @topic      math
+ * @topic      Math
  * @difficulty Easy
  * @link       https://leetcode.com/problems/fibonacci-number/
  */
