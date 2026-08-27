@@ -2,7 +2,6 @@
 
 public static class CircularSentence
 {
-    //leetcode exercises sound delightful
     public static bool Run(string sentence)
     {
         string[] words = sentence.Split(' ');

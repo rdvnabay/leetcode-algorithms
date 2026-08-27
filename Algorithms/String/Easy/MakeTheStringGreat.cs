@@ -12,27 +12,24 @@ public static class MakeTheStringGreat
     //abBAcC
     public static string Run(string s)
     {
-        for (int i = 0; i < s.Length - 1; i++)
-        {
-            if (char.IsLower(s[i]))
-            {
-                if (s[i] == s[i + 1] + 32)
-                {
+        List<char> chars = new();
 
+        //while (true)
+        //{
+            for (int i = 0; i < s.Length - 1;)
+            {
+                if (Math.Abs(s[i] - s[i + 1]) == 32)
+                {
+                    i += 2;
                 }
                 else
                 {
-
+                    chars.Add(s[i]);
+                    i++;
                 }
             }
-            else
-            {
-                if (s[i] == s[i + 1] - 32)
-                {
-
-                }
-            }
-        }
+        //}
+       
         return "";
     }
 }

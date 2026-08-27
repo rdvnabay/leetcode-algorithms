@@ -123,6 +123,7 @@ DivideArrayIntoArraysWithMaxDifference.Run(new int[] { 1, 3, 4, 8, 7, 9, 3, 5, 1
 FindingTheUsersActiveMinutes.Run(new int[][] { [0, 5], [1, 2], [0, 2], [0, 5], [1, 3] }, 5);
 CountSquareSubmatricesWithAllOnes.Run(new int[][] { [0, 1, 1, 1], [1, 1, 1, 1], [0, 1, 1, 1] });
 MinimizeMaximumPairSumInArray.Run(new int[] { 4, 1, 5, 1, 2, 5, 1, 5, 5, 4 });
+FindUniqueBinaryString.Run(new string[] { "1" });
 
 
 
