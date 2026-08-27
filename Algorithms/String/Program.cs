@@ -101,6 +101,7 @@ MaximumNumberOfBalloons.Run("nlaebolko");
 OccurrencesAfterBigram.Run("alice is a good girl she is a good student", "a", "good");
 FindTheKBeautyOfANumber.Run(430043, 2);
 LongerContiguousSegmentsOfOnesThanZeros.Run("110100010");
+ConvertDateToBinary.Run("2080-02-29");
 
 // --- Medium ------------------------------------------------------------
 LongestSubstringWithoutRepeatingCharacters.Run("dvdf");
