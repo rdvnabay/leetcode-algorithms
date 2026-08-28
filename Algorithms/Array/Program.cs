@@ -90,6 +90,7 @@ NumberOfDistinctAverages.Run(new int[] { 4, 1, 4, 0, 3, 5 });
 MaximumValueOfAnOrderedTripletI.Run(new int[] { 12, 6, 1, 2, 7 });
 WidestVerticalAreaBetweenTwoPointsContainingNoPoints.Run(new int[][] { [3, 1], [9, 0], [1, 0], [1, 4], [5, 3], [8, 8] });
 FinalArrayStateAfterKMultiplicationOperationsI.Run(new int[] { 2, 1, 3, 5, 6 }, 5, 2);
+MinimumOperationsToExceedThresholdValueI.Solution2(new int[] { 2, 11, 10, 1, 3 }, 10);
 
 
 // --- Medium ------------------------------------------------------------
@@ -128,7 +129,6 @@ MinimizeMaximumPairSumInArray.Run(new int[] { 4, 1, 5, 1, 2, 5, 1, 5, 5, 4 });
 FindUniqueBinaryString.Run(new string[] { "1" });
 MinimumDistanceBetweenThreeEqualElementsII.Run(new int[] { 1, 1, 1, 1 });
 CapacityToShipPackagesWithinDDays.Run(new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }, 5);
-CountSubmatricesWithTopLeftElementAndSumLessThanK.Run(new int[][] { [7, 6, 3], [6, 6, 1] }, 18);
 
 
 
