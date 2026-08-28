@@ -85,9 +85,10 @@ MinimumAbsoluteDifferenceBetweenTwoValues.Run(new int[] { 1, 0, 1, 0 });
 CouponCodeValidator.Run(new string[] { "SAVE20", "", "PHARMA5", "SAVE@20" }, new string[] { "restaurant", "grocery", "pharmacy", "restaurant" }, new bool[] { true, true, true, true });
 SplitTheArray.Run(new int[] { 1, 1, 2, 2, 3, 4 });
 CountSubarraysOfLengthThreeWithACondition.Run(new int[] { -1, -4, -1, 4 });
-SortIntegersByBinaryReflection.Run(new int[] { 8,2 });
+SortIntegersByBinaryReflection.Run(new int[] { 8, 2 });
 NumberOfDistinctAverages.Run(new int[] { 4, 1, 4, 0, 3, 5 });
 MaximumValueOfAnOrderedTripletI.Run(new int[] { 12, 6, 1, 2, 7 });
+WidestVerticalAreaBetweenTwoPointsContainingNoPoints.Run(new int[][] { [3, 1], [9, 0], [1, 0], [1, 4], [5, 3], [8, 8] });
 
 
 // --- Medium ------------------------------------------------------------
@@ -126,6 +127,7 @@ MinimizeMaximumPairSumInArray.Run(new int[] { 4, 1, 5, 1, 2, 5, 1, 5, 5, 4 });
 FindUniqueBinaryString.Run(new string[] { "1" });
 MinimumDistanceBetweenThreeEqualElementsII.Run(new int[] { 1, 1, 1, 1 });
 CapacityToShipPackagesWithinDDays.Run(new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }, 5);
+CountSubmatricesWithTopLeftElementAndSumLessThanK.Run(new int[][] { [7, 6, 3], [6, 6, 1] }, 18);
 
 
 
