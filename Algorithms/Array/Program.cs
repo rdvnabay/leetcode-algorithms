@@ -94,6 +94,7 @@ MinimumOperationsToExceedThresholdValueI.Run(new int[] { 2, 11, 10, 1, 3 }, 10);
 SeparateTheDigitsInAnArray.Run(new int[] { 13, 25, 83, 77 });
 LargestLocalValuesInAMatrix.Run(new int[][] { [9, 9, 8, 1], [5, 6, 2, 6], [8, 2, 6, 4], [6, 2, 2, 2] });
 DistributeElementsIntoTwoArraysI.Run(new int[] { 5, 4, 3, 8 });
+SumOfSquaresOfSpecialElements.Run(new int[] { 2, 7, 1, 19, 18, 3 });
 
 
 // --- Medium ------------------------------------------------------------
