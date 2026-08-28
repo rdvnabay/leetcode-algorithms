@@ -90,7 +90,10 @@ NumberOfDistinctAverages.Run(new int[] { 4, 1, 4, 0, 3, 5 });
 MaximumValueOfAnOrderedTripletI.Run(new int[] { 12, 6, 1, 2, 7 });
 WidestVerticalAreaBetweenTwoPointsContainingNoPoints.Run(new int[][] { [3, 1], [9, 0], [1, 0], [1, 4], [5, 3], [8, 8] });
 FinalArrayStateAfterKMultiplicationOperationsI.Run(new int[] { 2, 1, 3, 5, 6 }, 5, 2);
-MinimumOperationsToExceedThresholdValueI.Solution2(new int[] { 2, 11, 10, 1, 3 }, 10);
+MinimumOperationsToExceedThresholdValueI.Run(new int[] { 2, 11, 10, 1, 3 }, 10);
+SeparateTheDigitsInAnArray.Run(new int[] { 13, 25, 83, 77 });
+LargestLocalValuesInAMatrix.Run(new int[][] { [9, 9, 8, 1], [5, 6, 2, 6], [8, 2, 6, 4], [6, 2, 2, 2] });
+DistributeElementsIntoTwoArraysI.Run(new int[] { 5, 4, 3, 8 });
 
 
 // --- Medium ------------------------------------------------------------
