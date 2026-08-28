@@ -89,6 +89,7 @@ SortIntegersByBinaryReflection.Run(new int[] { 8, 2 });
 NumberOfDistinctAverages.Run(new int[] { 4, 1, 4, 0, 3, 5 });
 MaximumValueOfAnOrderedTripletI.Run(new int[] { 12, 6, 1, 2, 7 });
 WidestVerticalAreaBetweenTwoPointsContainingNoPoints.Run(new int[][] { [3, 1], [9, 0], [1, 0], [1, 4], [5, 3], [8, 8] });
+FinalArrayStateAfterKMultiplicationOperationsI.Run(new int[] { 2, 1, 3, 5, 6 }, 5, 2);
 
 
 // --- Medium ------------------------------------------------------------
