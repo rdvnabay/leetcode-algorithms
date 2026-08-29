@@ -97,6 +97,7 @@ DistributeElementsIntoTwoArraysI.Run(new int[] { 5, 4, 3, 8 });
 SumOfSquaresOfSpecialElements.Run(new int[] { 2, 7, 1, 19, 18, 3 });
 CountIndicesWithOppositeParity.Run(new int[] { 1, 2, 3, 4 });
 ElevatorRequestsI.Run(5, [2, 1, 4, 3]);
+CountEqualAndDivisiblePairsInAnArray.Run([3, 1, 2, 2, 2, 1, 3], 2);
 
 
 // --- Medium ------------------------------------------------------------
