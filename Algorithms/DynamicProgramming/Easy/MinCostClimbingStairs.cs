@@ -5,7 +5,7 @@
  * @difficulty Easy
  * @link       https://leetcode.com/problems/min-cost-climbing-stairs/
  */
-namespace Algorithms.DynamicProgramming.Easy;
+namespace DynamicProgramming.Easy;
 
 public class MinCostClimbingStairs
 {

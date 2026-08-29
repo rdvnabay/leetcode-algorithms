@@ -5,7 +5,7 @@
  * @difficulty Easy
  * @link       https://leetcode.com/problems/climbing-stairs/
  */
-namespace Algorithms.DynamicProgramming.Easy;
+namespace DynamicProgramming.Easy;
 
 public static class ClimbingStairs
 {

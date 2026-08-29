@@ -5,7 +5,7 @@
  * @difficulty Easy
  * @link       https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
  */
-namespace Algorithms.DynamicProgramming.Easy;
+namespace DynamicProgramming.Easy;
 
 public class BestTimeToBuyAndSellStock
 {
