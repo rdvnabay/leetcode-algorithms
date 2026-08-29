@@ -58,6 +58,7 @@ CountSpecialQuadruplets.Run(new int[] { 1, 1, 1, 3, 5 });
 OddStringDifference.Run(new string[] { "adc", "wzy", "abc" });
 RestoreFinishingOrder.Run(new int[] { 3, 1, 2, 5, 4 }, new int[] { 1, 3, 4 });
 PermutationDifferenceBetweenTwoStrings.Run("abc", "bac");
+SortThePeople.Run(["Mary", "John", "Emma"], [180, 165, 170]);
 
 
 // --- Hard ------------------------------------------------------------
