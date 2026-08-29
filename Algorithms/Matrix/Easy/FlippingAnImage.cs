@@ -1,7 +1,7 @@
 /**
  * @id         832
  * @title      Flipping an Image
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Easy
  * @link       https://leetcode.com/problems/flipping-an-image/
  */
@@ -11,7 +11,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Algorithms.Array.Easy;
+namespace Matrix.Easy;
 
 public static class FlippingAnImage
 {

@@ -1,11 +1,11 @@
 /**
  * @id         766
  * @title      Toeplitz Matrix
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Easy
  * @link       https://leetcode.com/problems/toeplitz-matrix/
  */
-namespace Algorithms.Array.Easy;
+namespace Matrix.Easy;
 
 public static class ToeplitzMatrix
 {

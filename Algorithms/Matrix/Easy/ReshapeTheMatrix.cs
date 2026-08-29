@@ -1,11 +1,11 @@
 /**
  * @id         566
  * @title      Reshape the Matrix
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Easy
  * @link       https://leetcode.com/problems/reshape-the-matrix/
  */
-namespace Algorithms.Array.Easy;
+namespace Matrix.Easy;
 
 public static class ReshapeTheMatrix
 {

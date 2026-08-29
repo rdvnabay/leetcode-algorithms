@@ -1,11 +1,11 @@
 /**
  * @id         1672
  * @title      Richest Customer Wealth
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Easy
  * @link       https://leetcode.com/problems/richest-customer-wealth/
  */
-namespace Array.Easy;
+namespace Matrix.Easy;
 
 public static class RichestCustomerWealth
 {

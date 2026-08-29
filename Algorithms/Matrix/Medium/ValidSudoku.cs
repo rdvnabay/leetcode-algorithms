@@ -1,11 +1,11 @@
 /**
  * @id         36
  * @title      Valid Sudoku
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Medium
  * @link       https://leetcode.com/problems/valid-sudoku/
  */
-namespace Algorithms.Array.Medium;
+namespace Matrix.Medium;
 
 public static class ValidSudoku
 {

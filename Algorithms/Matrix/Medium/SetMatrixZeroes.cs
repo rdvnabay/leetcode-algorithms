@@ -1,11 +1,11 @@
 /**
  * @id         73
  * @title      Set Matrix Zeroes
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Medium
  * @link       https://leetcode.com/problems/set-matrix-zeroes/
  */
-namespace Algorithms.Array.Medium;
+namespace Matrix.Medium;
 
 public static class SetMatrixZeroes
 {

@@ -1,11 +1,11 @@
 /**
  * @id         2022
  * @title      Convert 1D Array Into 2D Array
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Easy
  * @link       https://leetcode.com/problems/convert-1d-array-into-2d-array/
  */
-namespace Array.Easy;
+namespace Matrix.Easy;
 
 public static class Convert1DArrayInto2DArray
 {

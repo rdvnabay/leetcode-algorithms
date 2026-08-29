@@ -1,11 +1,11 @@
 /**
  * @id         1277
  * @title      Count Square Submatrices with All Ones
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Medium
  * @link       https://leetcode.com/problems/count-square-submatrices-with-all-ones/
  */
-namespace Array.Medium;
+namespace Matrix.Medium;
 
 public static class CountSquareSubmatricesWithAllOnes
 {

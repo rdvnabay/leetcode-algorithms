@@ -1,11 +1,11 @@
 /**
  * @id         598
  * @title      Range Addition II
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Easy
  * @link       https://leetcode.com/problems/range-addition-ii/
  */
-namespace Algorithms.Array.Easy;
+namespace Matrix.Easy;
 
 public static class RangeAdditionII
 {

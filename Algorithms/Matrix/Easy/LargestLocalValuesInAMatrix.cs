@@ -1,4 +1,4 @@
-﻿namespace Array.Easy;
+namespace Matrix.Easy;
 
 public static class LargestLocalValuesInAMatrix
 {

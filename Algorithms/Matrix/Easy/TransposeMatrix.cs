@@ -1,11 +1,11 @@
 /**
  * @id         867
  * @title      Transpose Matrix
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Easy
  * @link       https://leetcode.com/problems/transpose-matrix/
  */
-namespace Algorithms.Array.Easy;
+namespace Matrix.Easy;
 
 public static class TransposeMatrix
 {

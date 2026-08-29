@@ -1,11 +1,11 @@
 /**
  * @id         2545
  * @title      Sort the Students by Their Kth Score
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Medium
  * @link       https://leetcode.com/problems/sort-the-students-by-their-kth-score/
  */
-namespace Array.Medium;
+namespace Matrix.Medium;
 
 public static class SortTheStudentsByTheirKthScore
 {

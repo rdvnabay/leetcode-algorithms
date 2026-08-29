@@ -1,11 +1,11 @@
 /**
  * @id         2482
  * @title      Difference Between Ones and Zeros in Row and Column
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Medium
  * @link       https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/
  */
-namespace Array.Medium;
+namespace Matrix.Medium;
 
 public static class DifferenceBetweenOnesAndZerosInRowAndColumn
 {

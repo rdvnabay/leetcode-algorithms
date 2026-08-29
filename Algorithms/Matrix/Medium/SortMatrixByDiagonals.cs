@@ -1,11 +1,11 @@
 /**
  * @id         3446
  * @title      Sort Matrix by Diagonals
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Medium
  * @link       https://leetcode.com/problems/sort-matrix-by-diagonals/
  */
-namespace Array.Medium;
+namespace Matrix.Medium;
 
 public static class SortMatrixByDiagonals
 {

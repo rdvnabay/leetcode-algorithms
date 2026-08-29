@@ -1,11 +1,11 @@
 /**
  * @id         2125
  * @title      Number of Laser Beams in a Bank
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Medium
  * @link       https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
  */
-namespace Array.Medium;
+namespace Matrix.Medium;
 
 public static class NumberOfLaserBeamsInABank
 {

@@ -1,11 +1,11 @@
 /**
  * @id         1476
  * @title      Subrectangle Queries
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Medium
  * @link       https://leetcode.com/problems/subrectangle-queries/
  */
-namespace Array.Medium;
+namespace Matrix.Medium;
 
 public class SubrectangleQueries
 {

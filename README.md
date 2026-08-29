@@ -11,8 +11,8 @@ A modular collection of LeetCode solutions written in C# (.NET 8), organized by 
 | Easy (unique) | 368 |
 | Medium (unique) | 52 |
 | Hard (unique) | 1 |
-| Topic categories | 14 |
-| Incomplete files | 36 |
+| Topic categories | 15 |
+| Incomplete files | 37 |
 | Needs-review files | 9 |
 
 > Difficulty counts use official LeetCode metadata. Duplicate files count once in unique totals.
@@ -21,7 +21,7 @@ A modular collection of LeetCode solutions written in C# (.NET 8), organized by 
 
 | Topic | Files | Unique | Easy | Medium | Hard |
 |---|---:|---:|---:|---:|---:|
-| [Array](Algorithms/Array/README.md) | 129 | 129 | 94 | 35 | 0 |
+| [Array](Algorithms/Array/README.md) | 120 | 120 | 94 | 26 | 0 |
 | [Backtracking](Algorithms/Backtracking/README.md) | 1 | 1 | 0 | 1 | 0 |
 | [BinarySearch](Algorithms/BinarySearch/README.md) | 3 | 3 | 3 | 0 | 0 |
 | [BitManipulation](Algorithms/BitManipulation/README.md) | 1 | 1 | 1 | 0 | 0 |
@@ -30,6 +30,7 @@ A modular collection of LeetCode solutions written in C# (.NET 8), organized by 
 | [HashTable](Algorithms/HashTable/README.md) | 51 | 51 | 50 | 0 | 1 |
 | [LinkedList](Algorithms/LinkedList/README.md) | 6 | 6 | 4 | 2 | 0 |
 | [Math](Algorithms/Math/README.md) | 93 | 93 | 91 | 2 | 0 |
+| [Matrix](Algorithms/Matrix/README.md) | 21 | 21 | 12 | 9 | 0 |
 | [Sorting](Algorithms/Sorting/README.md) | 1 | 1 | 1 | 0 | 0 |
 | [Stack](Algorithms/Stack/README.md) | 4 | 4 | 4 | 0 | 0 |
 | [String](Algorithms/String/README.md) | 106 | 106 | 96 | 10 | 0 |
@@ -59,7 +60,7 @@ A modular collection of LeetCode solutions written in C# (.NET 8), organized by 
 - [1011 - Capacity To Ship Packages Within D Days](Algorithms/Array/Medium/CapacityToShipPackagesWithinDDays.cs)
 - [1160 - Find Words That Can Be Formed by Characters](Algorithms/HashTable/Easy/FindWordsThatCanBeFormedByCharacters.cs)
 - [1189 - Maximum Number of Balloons](Algorithms/String/Easy/MaximumNumberOfBalloons.cs)
-- [1277 - Count Square Submatrices with All Ones](Algorithms/Array/Medium/CountSquareSubmatricesWithAllOnes.cs)
+- [1277 - Count Square Submatrices with All Ones](Algorithms/Matrix/Medium/CountSquareSubmatricesWithAllOnes.cs)
 - [1304 - Find N Unique Integers Sum up to Zero](Algorithms/Math/Easy/FindNUniqueIntegersSumUpToZero.cs)
 - [1347 - Minimum Number of Steps to Make Two Strings Anagram](Algorithms/String/Medium/MinimumNumberOfStepsToMakeTwoStringsAnagram.cs)
 - [1408 - String Matching in an Array](Algorithms/String/Easy/StringMatchingInAnArray.cs)
@@ -70,11 +71,12 @@ A modular collection of LeetCode solutions written in C# (.NET 8), organized by 
 - [2269 - Find the K-Beauty of a Number](Algorithms/Math/Easy/FindTheKBeautyOfANumber.cs)
 - [2273 - Find Resultant Array After Removing Anagrams](Algorithms/HashTable/Easy/FindResultantArrayAfterRemovingAnagrams.cs)
 - [2375 - Construct Smallest Number From DI String](Algorithms/String/Medium/ConstructSmallestNumberFromDIString.cs)
-- [2482 - Difference Between Ones and Zeros in Row and Column](Algorithms/Array/Medium/DifferenceBetweenOnesAndZerosInRowAndColumn.cs)
+- [2373 - Largest Local Values in a Matrix](Algorithms/Matrix/Easy/LargestLocalValuesInAMatrix.cs)
+- [2482 - Difference Between Ones and Zeros in Row and Column](Algorithms/Matrix/Medium/DifferenceBetweenOnesAndZerosInRowAndColumn.cs)
 - [2506 - Count Pairs Of Similar Strings](Algorithms/HashTable/Easy/CountPairsOfSimilarStrings.cs)
 - [2843 - Count Symmetric Integers](Algorithms/Math/Easy/CountSymmetricIntegers.cs)
 - [3379 - Transformed Array](Algorithms/Array/Easy/TransformedArray.cs)
-- [3446 - Sort Matrix by Diagonals](Algorithms/Array/Medium/SortMatrixByDiagonals.cs)
+- [3446 - Sort Matrix by Diagonals](Algorithms/Matrix/Medium/SortMatrixByDiagonals.cs)
 - [4000 - Largest Integer With Given Digit Sum](Algorithms/Greedy/Easy/LargestIntegerWithGivenDigitSum.cs)
 
 ### Needs review

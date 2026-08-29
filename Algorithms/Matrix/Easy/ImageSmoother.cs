@@ -1,11 +1,11 @@
 /**
  * @id         661
  * @title      Image Smoother
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Easy
  * @link       https://leetcode.com/problems/image-smoother/
  */
-namespace Algorithms.Array.Easy;
+namespace Matrix.Easy;
 
 public class ImageSmoother
 {

@@ -1,11 +1,11 @@
 /**
  * @id         733
  * @title      Flood Fill
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Easy
  * @link       https://leetcode.com/problems/flood-fill/
  */
-namespace Algorithms.Array.Easy;
+namespace Matrix.Easy;
 
 public static class FloodFill
 {

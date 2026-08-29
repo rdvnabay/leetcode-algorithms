@@ -1,11 +1,11 @@
 /**
  * @id         48
  * @title      Rotate Image
- * @topic      Array
+ * @topic      Matrix
  * @difficulty Medium
  * @link       https://leetcode.com/problems/rotate-image/
  */
-namespace Algorithms.Array.Medium;
+namespace Matrix.Medium;
 
 public static class RotateImage
 {
