@@ -89,6 +89,7 @@ SignOfTheProductOfAnArray.Run(new int[] { -1, -2, -3, -4, 3, 2, 1 });
 FindTheKBeautyOfANumber.Run(430043, 2);
 AverageValueOfEvenNumbersThatAreDivisibleByThree.Run(new int[] { 1, 3, 6, 10, 12, 15 });
 FindTheChildWhoHasTheBallAfterKSeconds.Run(3, 5);
+SmallestNumberWithAllSetBits.Run(10);
 
 
 // --- Medium ------------------------------------------------------------

@@ -9,7 +9,7 @@ public static class DistributeElementsIntoTwoArraysI
 
         for (int i = 2; i < nums.Length; i++)
         {
-            if (arr1[arr1.Count - 1] > arr2[arr2.Count - 1])
+            if (arr1[^1] > arr2[^1])
                 arr1.Add(nums[i]);
             else
                 arr2.Add(nums[i]);
