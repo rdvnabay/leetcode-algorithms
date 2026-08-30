@@ -91,6 +91,7 @@ AverageValueOfEvenNumbersThatAreDivisibleByThree.Run(new int[] { 1, 3, 6, 10, 12
 FindTheChildWhoHasTheBallAfterKSeconds.Run(3, 5);
 SmallestNumberWithAllSetBits.Run(10);
 CheckDivisibilityByDigitSumAndProduct.Run(23);
+MinimumOperationsToMakeArrayEqual.Run(6);
 
 
 // --- Medium ------------------------------------------------------------
