@@ -62,6 +62,7 @@ SortThePeople.Run(["Mary", "John", "Emma"], [180, 165, 170]);
 CountPairsThatFormACompleteDayI.Run([12, 12, 30, 24, 24]);
 LongestSubsequenceWithLimitedSum.Run([2, 3, 4, 5], [1]);
 RemoveDigitFromNumberToMaximizeResult.Run("123", '3');
+MinimumMovesToConvertString.Run("XXOX");
 
 
 // --- Hard ------------------------------------------------------------
