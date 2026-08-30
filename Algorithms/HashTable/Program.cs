@@ -60,6 +60,7 @@ RestoreFinishingOrder.Run(new int[] { 3, 1, 2, 5, 4 }, new int[] { 1, 3, 4 });
 PermutationDifferenceBetweenTwoStrings.Run("abc", "bac");
 SortThePeople.Run(["Mary", "John", "Emma"], [180, 165, 170]);
 CountPairsThatFormACompleteDayI.Run([12, 12, 30, 24, 24]);
+LongestSubsequenceWithLimitedSum.Run([2, 3, 4, 5], [1]);
 
 
 // --- Hard ------------------------------------------------------------
