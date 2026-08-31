@@ -81,7 +81,7 @@ ReformatPhoneNumber.Run("123 4-567");
 JewelsAndStones.Run("aA", "aAAbbbb");
 ReverseStringPrefix.Run("abcd", 2);
 IncreasingDecreasingString.Run("aaaabbbbcccc");
-DivideAStringIntoGroupsOfSizeK.Run("abcdefghi", 3, 'x');
+DivideAStringIntoGroupsOfSizeK.Run("abcdefghij", 3, 'x');
 CalculateDigitSumOfAString.Run("11111222223", 3);
 FindMaximumNumberOfStringPairs.Run(new string[] { "cd", "ac", "dc", "ca", "zz" });
 ScoreValidator.Run(new string[] { "1", "4", "W", "6", "WD" });
@@ -107,6 +107,7 @@ NumberOfStringsThatAppearAsSubstringsInWord.Run(new string[] { "a", "abc", "bc",
 DecodeTheMessage.Run("the quick brown fox jumps over the lazy dog", "vkbs bs t suepuv");
 MinimumStringLengthAfterRemovingSubstrings.Run("CCCCDDDD");
 MinimumNumberOfFlipsToReverseBinaryString.Run(10);
+ReverseLettersThenSpecialCharactersInAString.Run(")ebc#da@f(");
 
 
 // --- Medium ------------------------------------------------------------
