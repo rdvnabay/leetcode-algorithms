@@ -108,6 +108,7 @@ DecodeTheMessage.Run("the quick brown fox jumps over the lazy dog", "vkbs bs t s
 MinimumStringLengthAfterRemovingSubstrings.Run("CCCCDDDD");
 MinimumNumberOfFlipsToReverseBinaryString.Run(10);
 ReverseLettersThenSpecialCharactersInAString.Run(")ebc#da@f(");
+MinimumNumberOfChairsInAWaitingRoom.Run("ELEELEELLL");
 
 
 // --- Medium ------------------------------------------------------------
