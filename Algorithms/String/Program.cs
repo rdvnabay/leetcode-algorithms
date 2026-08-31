@@ -106,6 +106,7 @@ MaximumNumberOfWordsFoundInSentences.Run(new string[] { "alice and bob love leet
 NumberOfStringsThatAppearAsSubstringsInWord.Run(new string[] { "a", "abc", "bc", "d" }, "abc");
 DecodeTheMessage.Run("the quick brown fox jumps over the lazy dog", "vkbs bs t suepuv");
 MinimumStringLengthAfterRemovingSubstrings.Run("CCCCDDDD");
+MinimumNumberOfFlipsToReverseBinaryString.Run(10);
 
 
 // --- Medium ------------------------------------------------------------
