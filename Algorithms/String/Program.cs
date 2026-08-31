@@ -104,6 +104,7 @@ LongerContiguousSegmentsOfOnesThanZeros.Run("110100010");
 ConvertDateToBinary.Run("2080-02-29");
 MaximumNumberOfWordsFoundInSentences.Run(new string[] { "alice and bob love leetcode", "i think so too", "this is great thanks very much" });
 NumberOfStringsThatAppearAsSubstringsInWord.Run(new string[] { "a", "abc", "bc", "d" }, "abc");
+DecodeTheMessage.Run("the quick brown fox jumps over the lazy dog", "vkbs bs t suepuv");
 
 
 // --- Medium ------------------------------------------------------------
