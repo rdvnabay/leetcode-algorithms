@@ -109,6 +109,7 @@ MinimumStringLengthAfterRemovingSubstrings.Run("CCCCDDDD");
 MinimumNumberOfFlipsToReverseBinaryString.Run(10);
 ReverseLettersThenSpecialCharactersInAString.Run(")ebc#da@f(");
 MinimumNumberOfChairsInAWaitingRoom.Run("ELEELEELLL");
+CountValidPrefixes.Run("00101");
 
 
 // --- Medium ------------------------------------------------------------
