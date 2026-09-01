@@ -96,6 +96,7 @@ MinimumNumberGame.Run([5, 4, 2, 3]);
 FindThePeaks.Run([1, 4, 3, 8, 5]);
 RowWithMaximumOnes.Run(new int[][] { [0, 0, 0], [0, 1, 1] });
 AntOnTheBoundary.Run([3, 2, -3, -4]);
+MaximumValueOfAStringInAnArray.Run(new string[] { "alic3", "bob", "3", "4", "00000" });
 
 
 // --- Medium ------------------------------------------------------------
