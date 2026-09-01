@@ -99,6 +99,7 @@ AntOnTheBoundary.Run([3, 2, -3, -4]);
 MaximumValueOfAStringInAnArray.Run(new string[] { "alic3", "bob", "3", "4", "00000" });
 MaximumCountOfPositiveIntegerAndNegativeInteger.Run([-2, -1, -1, 1, 2, 3]);
 SmallestIndexWithEqualValue.Run([4, 3, 2, 1]);
+SplitStringsBySeparator.Run(new List<string>() { "one.two.three", "four.five", "six" }, '.');
 
 
 // --- Medium ------------------------------------------------------------
