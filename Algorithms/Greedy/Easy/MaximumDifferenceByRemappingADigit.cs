@@ -11,40 +11,27 @@ public static class MaximumDifferenceByRemappingADigit
 {
     public static int Run(int num)
     {
-        char[] chars = new char[num.ToString().Length];
+        string numStr = num.ToString();
+        char[] max = new char[numStr.Length];
+        char[] min = new char[numStr.Length];
 
-        int index = chars.Length - 1;
-        int minValue = int.MaxValue;
+        char minDigit = FindMinDigit(num);
+        char maxDigit = FindMaxDigit(num);
 
-        while (num > 0)
+        for (int i = 0; i < numStr.Length; i++)
         {
-            int remainder = num % 10;
-            if (remainder < minValue)
-                minValue = remainder;
-
-
-            chars[index] = (char)('0' + remainder);
-            num /= 10;
-            index--;
+            if (numStr[i] == maxDigit)
+                min[i] = '0';
+            else
+                min[i] = numStr[i];
         }
 
-        char[] max = new char[chars.Length];
-        char[] min = new char[chars.Length];
-
-        for (int i = 0; i < chars.Length; i++)
+        for (int i = 0; i < numStr.Length; i++)
         {
-            char minValueChar = (char)('0' + minValue);
-
-            if (chars[i] == minValueChar)
-            {
+            if (numStr[i] == minDigit)
                 max[i] = '9';
-                min[i] = '0';
-            }
             else
-            {
-                max[i] = chars[i];
-                min[i] = chars[i];
-            }
+                max[i] = numStr[i];
         }
 
         int maxResult = int.Parse(new string(max));
@@ -53,26 +40,31 @@ public static class MaximumDifferenceByRemappingADigit
         return maxResult - minResult;
     }
 
-    public static int Run2(int num)
+    static char FindMinDigit(int num)
     {
-        string numStr = num.ToString();
-        char firstDigit = numStr[0] ;
-        char[] max = new char[numStr.Length];
-        char[] min = new char[numStr.Length];
+        int min = int.MaxValue;
 
-        for (int i = 0; i < numStr.Length; i++)
+        while (num > 0)
         {
-            if (numStr[i] == firstDigit)
-            {
-                min[i] = '0';
-                max[i] = '9';
-            }
-            else
-            {
-                min[i] = numStr[i];
-                max[i] = numStr[i];
-            }
+            int remainder = num % 10;
+            min = Math.Min(min, remainder);
+            num /= 10;
         }
-        return 0;
+
+        return (char)(min + '0');
+    }
+
+    static char FindMaxDigit(int num)
+    {
+        int max = 0;
+
+        while (num > 0)
+        {
+            int remainder = num % 10;
+            max = Math.Max(max, remainder);
+            num /= 10;
+        }
+
+        return (char)(max + '0');
     }
 }

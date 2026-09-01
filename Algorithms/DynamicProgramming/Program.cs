@@ -13,4 +13,6 @@ TotalWavinessOfNumbersInRangeI.Run(120, 130);
 
 // --- Medium ------------------------------------------------------------
 MinimumCostToSplitIntoOnes.Run(4);
+CountSortedVowelStrings.Run(2);
+PalindromePartitioning.Run("");
 

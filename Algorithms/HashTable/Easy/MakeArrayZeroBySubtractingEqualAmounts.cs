@@ -20,7 +20,7 @@ public static class MakeArrayZeroBySubtractingEqualAmounts
 
             foreach (var num in nums)
             {
-                if (num > 0 && num < minPositiveNumber)
+                if (num < minPositiveNumber)
                     minPositiveNumber = num;
             }
 
@@ -34,7 +34,6 @@ public static class MakeArrayZeroBySubtractingEqualAmounts
             }
             counter++;
         }
-
 
         return counter;
     }

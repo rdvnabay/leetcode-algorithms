@@ -9,7 +9,7 @@ namespace String.Easy;
 
 public static class DivideAStringIntoGroupsOfSizeK
 {
-    //"abcdefghi", 3, 'x'
+    //"abc def ghi", 3, 'x'
     public static string[] Run(string s, int k, char fill)
     {
         int divisor = s.Length / k;
@@ -20,22 +20,24 @@ public static class DivideAStringIntoGroupsOfSizeK
         List<char[]> list = new();
 
         int start = 0;
-        int end = k;
+        int count = 1;
+        int end = k * count;
 
         //while (divisor > 0)
         //{
-            //char[] items = new char[k];
-            //int index = 0;
-            //for (int i = start; i < end; i++)
-            //{
-            //    items[index] = s[i];
-            //    index++;
-            //}
-            //list.Add(items);
-            //start += k;
-            //end += k;
+        //    char[] items = new char[k];
+        //    int index = 0;
+        //    for (int i = start; i < end; i++)
+        //    {
+        //        items[index] = s[i];
+        //        index++;
+        //    }
+        //    list.Add(items);
+        //    start += k;
+        //    end += k;
+        //    divisor--;
         //}
- 
+
         return null;
     }
 }

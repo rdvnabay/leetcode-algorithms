@@ -20,26 +20,24 @@ public static class MinimumAmountOfTimeToFillCups
 
         int total = coldCup + warmCup + hotCup;
 
-        while (total > 0)
-        {
-            if (coldCup + warmCup == 0)
-            {
-                hotCup--;
-                counter++;
-            }
-            if (coldCup + hotCup == 0)
-            {
-                warmCup--;
-                counter++;
-            }
-            if (warmCup + hotCup == 0)
-            {
-                coldCup--;
-                counter++;
-            }
-            
-            
-        }
+        //while (total > 0)
+        //{
+        //    if (coldCup + warmCup == 0)
+        //    {
+        //        hotCup--;
+        //        counter++;
+        //    }
+        //    if (coldCup + hotCup == 0)
+        //    {
+        //        warmCup--;
+        //        counter++;
+        //    }
+        //    if (warmCup + hotCup == 0)
+        //    {
+        //        coldCup--;
+        //        counter++;
+        //    }
+        //}
 
         return 0;
     }
