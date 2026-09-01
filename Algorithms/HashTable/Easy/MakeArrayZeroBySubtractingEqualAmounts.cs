@@ -11,28 +11,41 @@ public static class MakeArrayZeroBySubtractingEqualAmounts
 {
     public static int Run(int[] nums)
     {
-        int counter = 1;
-        int zeroCount = 0;
+        int counter = 0;
+        Array.Sort(nums);
+        int minPositiveValueNumber = 0;
 
-        while (zeroCount != nums.Length)
+        while (true)
         {
-            int minPositiveNumber = int.MaxValue;
-
             foreach (var num in nums)
             {
-                if (num < minPositiveNumber)
-                    minPositiveNumber = num;
+                if (num != 0)
+                {
+                    minPositiveValueNumber = num;
+                    break;
+                }
             }
+
+            int zeroCount = 0;
+            bool isChanged = false;
 
             for (int i = 0; i < nums.Length; i++)
             {
                 if (nums[i] != 0)
-                    nums[i] = nums[i] - minPositiveNumber;
+                {
+                    nums[i] = nums[i] - minPositiveValueNumber;
+                    isChanged = true;
+                }
 
                 if (nums[i] == 0)
                     zeroCount++;
             }
-            counter++;
+
+            if (isChanged)
+                counter++;
+
+            if (zeroCount == nums.Length)
+                break;
         }
 
         return counter;

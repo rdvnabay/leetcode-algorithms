@@ -36,7 +36,7 @@ FindLuckyIntegerInAnArray.Run(new int[] { 1, 2, 2, 3, 3, 3 });
 FirstLetterToAppearTwice.Run("eesll");
 KeepMultiplyingFoundValuesByTwo.Run(new int[] { 5, 3, 6, 1, 12 }, 3);
 FindCommonCharacters.Run(new string[] { "bella", "label", "roller" });
-MakeArrayZeroBySubtractingEqualAmounts.Run(new int[] { 0 });
+MakeArrayZeroBySubtractingEqualAmounts.Run(new int[] { 1, 5, 0, 3, 5 });
 CountPairsOfSimilarStrings.Run(new string[] { "aba", "aabb", "abcd", "bac", "aabc" });
 CountCommonWordsWithOneOccurrence.Run(new string[] { "leetcode", "is", "leetcode", "is", "amazing", "and", "fantastic" }, new string[] { "leetcode", "is", "leetcode", "is", "fantastic" });
 PointsThatIntersectWithCars.Run(new List<IList<int>>
