@@ -102,6 +102,7 @@ SmallestIndexWithEqualValue.Run([4, 3, 2, 1]);
 SplitStringsBySeparator.Run(new List<string>() { "one.two.three", "four.five", "six" }, '.');
 FindTheDistinctDifferenceArray.Run([1, 2, 3, 4, 5]);
 AbsoluteDifferenceBetweenMaximumAndMinimumKElements.Run([5, 2, 2, 4], 2);
+MaximumDifferenceBetweenAdjacentElementsInACircularArray.Run([-5, -10, -5]);
 
 
 // --- Medium ------------------------------------------------------------
