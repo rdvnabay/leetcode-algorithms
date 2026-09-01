@@ -93,6 +93,7 @@ ElevatorRequestsI.Run(5, [2, 1, 4, 3]);
 CountEqualAndDivisiblePairsInAnArray.Run([3, 1, 2, 2, 2, 1, 3], 2);
 FindTheIntegerAddedToArrayI.Run([2, 6, 4], [9, 7, 5]);
 MinimumNumberGame.Run([5, 4, 2, 3]);
+FindThePeaks.Run([1, 4, 3, 8, 5]);
 
 
 // --- Medium ------------------------------------------------------------
