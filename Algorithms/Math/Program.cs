@@ -97,4 +97,5 @@ NumberOfElapsedSecondsBetweenTwoTimes.Run("12:34:56", "13:00:00");
 
 // --- Medium ------------------------------------------------------------
 BulbSwitcher.Run(5);
+StrictlyPalindromicNumber.Run(4);
 
