@@ -105,6 +105,7 @@ AbsoluteDifferenceBetweenMaximumAndMinimumKElements.Run([5, 2, 2, 4], 2);
 MaximumDifferenceBetweenAdjacentElementsInACircularArray.Run([-5, -10, -5]);
 MinimumAbsoluteDifference.Run([4, 2, 1, 3]);
 FindTheSumOfEncryptedIntegers.Run([10, 21, 31]);
+SmallestIndexWithDigitSumEqualToIndex.Run([1, 3, 2]);
 
 
 // --- Medium ------------------------------------------------------------
