@@ -108,6 +108,7 @@ FindTheSumOfEncryptedIntegers.Run([10, 21, 31]);
 SmallestIndexWithDigitSumEqualToIndex.Run([1, 3, 2]);
 DivideAnArrayIntoSubarraysWithMinimumCostI.Run([1, 2, 3, 12]);
 DeleteGreatestValueInEachRow.Run(new int[][] { [1, 2, 4], [3, 3, 1] });
+DefuseTheBomb.Run([2, 4, 9, 3], 0);
 
 
 // --- Medium ------------------------------------------------------------
