@@ -118,6 +118,7 @@ DestinationCity.Run(new List<IList<string>>
 MergeSimilarItems.Run(new int[][] { [1, 1], [4, 5], [3, 8] }, new int[][] { [3, 1], [1, 5] });
 NeitherMinimumNorMaximum.Run([3, 2, 1, 4]);
 NumberOfStudentsDoingHomeworkAtAGivenTime.Run([1, 2, 3], [3, 2, 7], 4);
+CountTheNumberOfVowelStringsInRange.Run(new string[] { "hey", "aeo", "mu", "ooo", "artro" }, 1, 4);
 
 
 // --- Medium ------------------------------------------------------------
