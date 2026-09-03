@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         3823
+ * @title      Reverse Letters Then Special Characters in a String
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/
+ */
+using System.Text;
 
 namespace String.Easy;
 

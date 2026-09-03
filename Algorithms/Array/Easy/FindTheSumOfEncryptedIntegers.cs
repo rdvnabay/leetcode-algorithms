@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3079
+ * @title      Find the Sum of Encrypted Integers
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-sum-of-encrypted-integers/
+ */
+namespace Array.Easy;
 
 public static class FindTheSumOfEncryptedIntegers
 {

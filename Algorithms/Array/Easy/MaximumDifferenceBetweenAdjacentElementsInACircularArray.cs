@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3423
+ * @title      Maximum Difference Between Adjacent Elements in a Circular Array
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/
+ */
+namespace Array.Easy;
 
 public static class MaximumDifferenceBetweenAdjacentElementsInACircularArray
 {

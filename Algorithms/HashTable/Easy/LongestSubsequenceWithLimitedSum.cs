@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2389
+ * @title      Longest Subsequence With Limited Sum
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/longest-subsequence-with-limited-sum/
+ */
+namespace HashTable.Easy;
 
 public static class LongestSubsequenceWithLimitedSum
 {

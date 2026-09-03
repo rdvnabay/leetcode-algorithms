@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2027
+ * @title      Minimum Moves to Convert String
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-moves-to-convert-string/
+ */
+namespace HashTable.Easy;
 
 public static class MinimumMovesToConvertString
 {

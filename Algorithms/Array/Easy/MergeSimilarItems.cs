@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2363
+ * @title      Merge Similar Items
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/merge-similar-items/
+ */
+namespace Array.Easy;
 
 public static class MergeSimilarItems
 {

@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2951
+ * @title      Find the Peaks
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-peaks/
+ */
+namespace Array.Easy;
 
 public static class FindThePeaks
 {

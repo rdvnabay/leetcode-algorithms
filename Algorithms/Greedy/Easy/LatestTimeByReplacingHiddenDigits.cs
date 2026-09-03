@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         1736
+ * @title      Latest Time by Replacing Hidden Digits
+ * @topic      Greedy
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/
+ */
+using System.Text;
 
 namespace Greedy.Easy;
 

@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         4006
+ * @title      Count Valid Prefixes
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-valid-prefixes/
+ */
+namespace String.Easy;
 
 public static class CountValidPrefixes
 {

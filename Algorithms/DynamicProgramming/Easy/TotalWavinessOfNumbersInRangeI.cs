@@ -1,4 +1,11 @@
-﻿namespace DynamicProgramming.Easy;
+/**
+ * @id         3751
+ * @title      Total Waviness of Numbers in Range I
+ * @topic      DynamicProgramming
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/
+ */
+namespace DynamicProgramming.Easy;
 
 public static class TotalWavinessOfNumbersInRangeI
 {

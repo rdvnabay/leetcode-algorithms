@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         4020
+ * @title      Elevator Requests I
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/elevator-requests-i/
+ */
+namespace Array.Easy;
 
 public static class ElevatorRequestsI
 {

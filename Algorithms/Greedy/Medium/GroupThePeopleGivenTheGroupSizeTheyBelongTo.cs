@@ -1,4 +1,11 @@
-﻿namespace Greedy.Medium;
+/**
+ * @id         1282
+ * @title      Group the People Given the Group Size They Belong To
+ * @topic      Greedy
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
+ */
+namespace Greedy.Medium;
 
 public static class GroupThePeopleGivenTheGroupSizeTheyBelongTo
 {

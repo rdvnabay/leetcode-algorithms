@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3370
+ * @title      Smallest Number With All Set Bits
+ * @topic      Math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/smallest-number-with-all-set-bits/
+ */
+namespace Math.Easy;
 
 public static class SmallestNumberWithAllSetBits
 {

@@ -1,4 +1,11 @@
-﻿namespace Math.Medium;
+/**
+ * @id         1551
+ * @title      Minimum Operations to Make Array Equal
+ * @topic      Math
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/minimum-operations-to-make-array-equal/
+ */
+namespace Math.Medium;
 
 public static class MinimumOperationsToMakeArrayEqual
 {

@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         2325
+ * @title      Decode the Message
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/decode-the-message/
+ */
+using System.Text;
 
 namespace String.Easy;
 

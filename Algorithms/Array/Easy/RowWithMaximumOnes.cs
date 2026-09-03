@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2643
+ * @title      Row With Maximum Ones
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/row-with-maximum-ones/
+ */
+namespace Array.Easy;
 
 public static class RowWithMaximumOnes
 {

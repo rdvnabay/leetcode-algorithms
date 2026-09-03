@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3065
+ * @title      Minimum Operations to Exceed Threshold Value I
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/
+ */
+namespace Array.Easy;
 
 public static class MinimumOperationsToExceedThresholdValueI
 {

@@ -1,4 +1,11 @@
-﻿namespace Array.Medium;
+/**
+ * @id         811
+ * @title      Subdomain Visit Count
+ * @topic      Array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/subdomain-visit-count/
+ */
+namespace Array.Medium;
 
 public static class SubdomainVisitCount
 {

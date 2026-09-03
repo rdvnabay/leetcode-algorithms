@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2114
+ * @title      Maximum Number of Words Found in Sentences
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
+ */
+namespace String.Easy;
 
 public static class MaximumNumberOfWordsFoundInSentences
 {

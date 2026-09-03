@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3069
+ * @title      Distribute Elements Into Two Arrays I
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/distribute-elements-into-two-arrays-i/
+ */
+namespace Array.Easy;
 
 public static class DistributeElementsIntoTwoArraysI
 {

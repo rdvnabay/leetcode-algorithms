@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2540
+ * @title      Minimum Common Value
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-common-value/
+ */
+namespace HashTable.Easy;
 
 public static class MinimumCommonValue
 {

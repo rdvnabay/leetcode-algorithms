@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2496
+ * @title      Maximum Value of a String in an Array
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
+ */
+namespace Array.Easy;
 
 public static class MaximumValueOfAStringInAnArray
 {

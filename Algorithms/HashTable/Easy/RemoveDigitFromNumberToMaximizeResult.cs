@@ -1,4 +1,11 @@
-﻿using System.Numerics;
+/**
+ * @id         2259
+ * @title      Remove Digit From Number to Maximize Result
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
+ */
+using System.Numerics;
 
 namespace HashTable.Easy;
 

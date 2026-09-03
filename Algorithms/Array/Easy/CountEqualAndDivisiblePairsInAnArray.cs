@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2176
+ * @title      Count Equal and Divisible Pairs in an Array
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
+ */
+namespace Array.Easy;
 
 public static class CountEqualAndDivisiblePairsInAnArray
 {

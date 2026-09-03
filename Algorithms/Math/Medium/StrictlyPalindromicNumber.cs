@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         2396
+ * @title      Strictly Palindromic Number
+ * @topic      Math
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/strictly-palindromic-number/
+ */
+using System.Text;
 
 namespace Math.Medium;
 

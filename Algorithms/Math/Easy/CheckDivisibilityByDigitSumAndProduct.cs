@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3622
+ * @title      Check Divisibility by Digit Sum and Product
+ * @topic      Math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/
+ */
+namespace Math.Easy;
 
 public static class CheckDivisibilityByDigitSumAndProduct
 {

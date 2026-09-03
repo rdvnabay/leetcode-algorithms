@@ -1,4 +1,11 @@
-﻿namespace DynamicProgramming.Medium;
+/**
+ * @id         131
+ * @title      Palindrome Partitioning
+ * @topic      DynamicProgramming
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/palindrome-partitioning/
+ */
+namespace DynamicProgramming.Medium;
 
 public static class PalindromePartitioning
 {

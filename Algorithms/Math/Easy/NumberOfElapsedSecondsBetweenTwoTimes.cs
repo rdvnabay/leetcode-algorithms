@@ -1,4 +1,11 @@
-﻿namespace Math.Easy;
+/**
+ * @id         3986
+ * @title      Number of Elapsed Seconds Between Two Times
+ * @topic      Math
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/
+ */
+namespace Math.Easy;
 
 public static class NumberOfElapsedSecondsBetweenTwoTimes
 {

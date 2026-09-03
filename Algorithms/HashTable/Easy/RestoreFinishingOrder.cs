@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         3668
+ * @title      Restore Finishing Order
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/restore-finishing-order/
+ */
+namespace HashTable.Easy;
 
 public static class RestoreFinishingOrder
 {

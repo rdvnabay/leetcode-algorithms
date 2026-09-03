@@ -1,4 +1,4 @@
-// Demo runner for 16 solution files; the README is the canonical ID-sorted index.
+// Demo runner for 20 solution files; the README is the canonical ID-sorted index.
 using Algorithms.Greedy.Easy;
 using Greedy.Easy;
 using Greedy.Medium;

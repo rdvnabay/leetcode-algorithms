@@ -1,4 +1,11 @@
-﻿namespace DynamicProgramming.Medium;
+/**
+ * @id         1641
+ * @title      Count Sorted Vowel Strings
+ * @topic      DynamicProgramming
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/count-sorted-vowel-strings/
+ */
+namespace DynamicProgramming.Medium;
 
 public static class CountSortedVowelStrings
 {

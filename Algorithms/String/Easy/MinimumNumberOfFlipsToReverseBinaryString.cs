@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         3750
+ * @title      Minimum Number of Flips to Reverse Binary String
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/
+ */
+using System.Text;
 
 namespace String.Easy;
 

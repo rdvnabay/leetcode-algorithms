@@ -1,4 +1,11 @@
-﻿namespace BitManipulation.Easy;
+/**
+ * @id         2220
+ * @title      Minimum Bit Flips to Convert Number
+ * @topic      BitManipulation
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
+ */
+namespace BitManipulation.Easy;
 
 public static class MinimumBitFlipsToConvertNumber
 {

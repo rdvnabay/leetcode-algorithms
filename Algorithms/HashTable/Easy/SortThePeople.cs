@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         2418
+ * @title      Sort the People
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/sort-the-people/
+ */
+namespace HashTable.Easy;
 
 public static class SortThePeople
 {

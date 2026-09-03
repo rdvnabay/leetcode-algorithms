@@ -6,7 +6,7 @@ LeetCode solutions indexed by problem number. Descriptive file names remain easy
 
 | Files | Unique | Easy | Medium | Hard | Incomplete | Needs review |
 |---:|---:|---:|---:|---:|---:|---:|
-| 93 | 93 | 91 | 2 | 0 | 4 | 1 |
+| 98 | 98 | 94 | 4 | 0 | 5 | 2 |
 
 ## Solutions
 
@@ -47,6 +47,7 @@ LeetCode solutions indexed by problem number. Descriptive file names remain easy
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Easy | Implemented | [NumberOfGoodPairs.cs](Easy/NumberOfGoodPairs.cs) |
 | 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | Easy | Implemented | [WaterBottles.cs](Easy/WaterBottles.cs) |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | Implemented | [CountOddNumbersInAnIntervalRange.cs](Easy/CountOddNumbersInAnIntervalRange.cs) |
+| 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | Medium | Implemented | [MinimumOperationsToMakeArrayEqual.cs](Medium/MinimumOperationsToMakeArrayEqual.cs) |
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | Easy | Implemented | [CountOfMatchesInTournament.cs](Easy/CountOfMatchesInTournament.cs) |
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | Easy | Implemented | [CalculateMoneyInLeetcodeBank.cs](Easy/CalculateMoneyInLeetcodeBank.cs) |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | Easy | Implemented | [MaximumNumberOfBallsInABox.cs](Easy/MaximumNumberOfBallsInABox.cs) |
@@ -61,6 +62,7 @@ LeetCode solutions indexed by problem number. Descriptive file names remain easy
 | 2180 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | Easy | Implemented | [CountIntegersWithEvenDigitSum.cs](Easy/CountIntegersWithEvenDigitSum.cs) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy | Implemented | [AddTwoIntegers.cs](Easy/AddTwoIntegers.cs) |
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | Easy | Incomplete | [FindTheKBeautyOfANumber.cs](Easy/FindTheKBeautyOfANumber.cs) |
+| 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | Medium | Implemented | [StrictlyPalindromicNumber.cs](Medium/StrictlyPalindromicNumber.cs) |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | Implemented | [SmallestEvenMultiple.cs](Easy/SmallestEvenMultiple.cs) |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | Easy | Implemented | [AverageValueOfEvenNumbersThatAreDivisibleByThree.cs](Easy/AverageValueOfEvenNumbersThatAreDivisibleByThree.cs) |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | Easy | Implemented | [ConvertTheTemperature.cs](Easy/ConvertTheTemperature.cs) |
@@ -93,10 +95,12 @@ LeetCode solutions indexed by problem number. Descriptive file names remain easy
 | 3304 | [Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | Easy | Implemented | [FindTheKThCharacterInStringGameI.cs](Easy/FindTheKThCharacterInStringGameI.cs) |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Easy | Implemented | [SmallestDivisibleDigitProductI.cs](Easy/SmallestDivisibleDigitProductI.cs) |
 | 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | Easy | Implemented | [StoneRemovalGame.cs](Easy/StoneRemovalGame.cs) |
+| 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | Easy | Needs review | [SmallestNumberWithAllSetBits.cs](Easy/SmallestNumberWithAllSetBits.cs) |
 | 3461 | [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | Easy | Implemented | [CheckIfDigitsAreEqualInStringAfterOperationsI.cs](Easy/CheckIfDigitsAreEqualInStringAfterOperationsI.cs) |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | Easy | Implemented | [MinimumOperationsToMakeArraySumDivisibleByK.cs](Easy/MinimumOperationsToMakeArraySumDivisibleByK.cs) |
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | Easy | Implemented | [FindClosestPerson.cs](Easy/FindClosestPerson.cs) |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | Implemented | [MaximumProductOfTwoDigits.cs](Easy/MaximumProductOfTwoDigits.cs) |
+| 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Easy | Implemented | [CheckDivisibilityByDigitSumAndProduct.cs](Easy/CheckDivisibilityByDigitSumAndProduct.cs) |
 | 3697 | [Compute Decimal Representation](https://leetcode.com/problems/compute-decimal-representation/) | Easy | Implemented | [ComputeDecimalRepresentation.cs](Easy/ComputeDecimalRepresentation.cs) |
 | 3726 | [Remove Zeros in Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation/) | Easy | Implemented | [RemoveZerosInDecimalRepresentation.cs](Easy/RemoveZerosInDecimalRepresentation.cs) |
 | 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | Implemented | [MinimumMovesToEqualArrayElementsIII.cs](Easy/MinimumMovesToEqualArrayElementsIII.cs) |
@@ -105,6 +109,7 @@ LeetCode solutions indexed by problem number. Descriptive file names remain easy
 | 3908 | [Valid Digit Number](https://leetcode.com/problems/valid-digit-number/) | Easy | Implemented | [ValidDigitNumber.cs](Easy/ValidDigitNumber.cs) |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/) | Easy | Implemented | [DigitFrequencyScore.cs](Easy/DigitFrequencyScore.cs) |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer/) | Easy | Implemented | [CheckGoodInteger.cs](Easy/CheckGoodInteger.cs) |
+| 3986 | [Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/) | Easy | Incomplete | [NumberOfElapsedSecondsBetweenTwoTimes.cs](Easy/NumberOfElapsedSecondsBetweenTwoTimes.cs) |
 
 ## Run
 

@@ -1,4 +1,4 @@
-// Demo runner for 93 solution files; the README is the canonical ID-sorted index.
+// Demo runner for 98 solution files; the README is the canonical ID-sorted index.
 using Algorithms.Math.Easy;
 using Algorithms.Math.Medium;
 using Math.Easy;

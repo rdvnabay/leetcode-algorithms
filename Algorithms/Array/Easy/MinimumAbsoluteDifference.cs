@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1200
+ * @title      Minimum Absolute Difference
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-absolute-difference/
+ */
+namespace Array.Easy;
 
 public static class MinimumAbsoluteDifference
 {

@@ -1,4 +1,4 @@
-// Demo runner for 1 solution files; the README is the canonical ID-sorted index.
+// Demo runner for 2 solution files; the README is the canonical ID-sorted index.
 using Algorithms.Sorting.Easy;
 using Sorting.Easy;
 

@@ -1,4 +1,11 @@
-﻿namespace Greedy.Medium;
+/**
+ * @id         763
+ * @title      Partition Labels
+ * @topic      Greedy
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/partition-labels/
+ */
+namespace Greedy.Medium;
 
 public static class PartitionLabels
 {

@@ -6,7 +6,7 @@ LeetCode solutions indexed by problem number. Descriptive file names remain easy
 
 | Files | Unique | Easy | Medium | Hard | Incomplete | Needs review |
 |---:|---:|---:|---:|---:|---:|---:|
-| 51 | 51 | 50 | 0 | 1 | 5 | 2 |
+| 60 | 60 | 58 | 1 | 1 | 6 | 2 |
 
 ## Solutions
 
@@ -35,6 +35,7 @@ LeetCode solutions indexed by problem number. Descriptive file names remain easy
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | Easy | Implemented | [MaximumNumberOfWordsYouCanType.cs](Easy/MaximumNumberOfWordsYouCanType.cs) |
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | Easy | Implemented | [CheckIfAllCharactersHaveEqualNumberOfOccurrences.cs](Easy/CheckIfAllCharactersHaveEqualNumberOfOccurrences.cs) |
 | 1995 | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/) | Easy | Implemented | [CountSpecialQuadruplets.cs](Easy/CountSpecialQuadruplets.cs) |
+| 2027 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/) | Easy | Implemented | [MinimumMovesToConvertString.cs](Easy/MinimumMovesToConvertString.cs) |
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/) | Easy | Implemented | [TwoOutOfThree.cs](Easy/TwoOutOfThree.cs) |
 | 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | Easy | Implemented | [CountCommonWordsWithOneOccurrence.cs](Easy/CountCommonWordsWithOneOccurrence.cs) |
 | 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | Easy | Implemented | [Finding3DigitEvenNumbers.cs](Easy/Finding3DigitEvenNumbers.cs) |
@@ -43,21 +44,29 @@ LeetCode solutions indexed by problem number. Descriptive file names remain easy
 | 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) | Easy | Implemented | [DivideArrayIntoEqualPairs.cs](Easy/DivideArrayIntoEqualPairs.cs) |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | Implemented | [FindTheDifferenceOfTwoArrays.cs](Easy/FindTheDifferenceOfTwoArrays.cs) |
 | 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | Easy | Implemented | [IntersectionOfMultipleArrays.cs](Easy/IntersectionOfMultipleArrays.cs) |
+| 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | Easy | Implemented | [RemoveDigitFromNumberToMaximizeResult.cs](Easy/RemoveDigitFromNumberToMaximizeResult.cs) |
 | 2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | Easy | Incomplete | [FindResultantArrayAfterRemovingAnagrams.cs](Easy/FindResultantArrayAfterRemovingAnagrams.cs) |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | Easy | Implemented | [CheckIfNumberHasEqualDigitCountAndDigitValue.cs](Easy/CheckIfNumberHasEqualDigitCountAndDigitValue.cs) |
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | Easy | Implemented | [MaximumNumberOfPairsInArray.cs](Easy/MaximumNumberOfPairsInArray.cs) |
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | Easy | Implemented | [FirstLetterToAppearTwice.cs](Easy/FirstLetterToAppearTwice.cs) |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | Easy | Implemented | [MakeArrayZeroBySubtractingEqualAmounts.cs](Easy/MakeArrayZeroBySubtractingEqualAmounts.cs) |
+| 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | Easy | Implemented | [LongestSubsequenceWithLimitedSum.cs](Easy/LongestSubsequenceWithLimitedSum.cs) |
+| 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | Easy | Implemented | [SortThePeople.cs](Easy/SortThePeople.cs) |
 | 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | Easy | Implemented | [OddStringDifference.cs](Easy/OddStringDifference.cs) |
 | 2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) | Easy | Implemented | [NumberOfUnequalTripletsInArray.cs](Easy/NumberOfUnequalTripletsInArray.cs) |
+| 2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Medium | Incomplete | [DividePlayersIntoTeamsOfEqualSkill.cs](Medium/DividePlayersIntoTeamsOfEqualSkill.cs) |
 | 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/) | Easy | Incomplete | [CountPairsOfSimilarStrings.cs](Easy/CountPairsOfSimilarStrings.cs) |
+| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | Easy | Implemented | [MinimumCommonValue.cs](Easy/MinimumCommonValue.cs) |
 | 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | Easy | Implemented | [MergeTwo2DArraysBySummingValues.cs](Easy/MergeTwo2DArraysBySummingValues.cs) |
 | 2848 | [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/) | Easy | Implemented | [PointsThatIntersectWithCars.cs](Easy/PointsThatIntersectWithCars.cs) |
 | 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | Easy | Implemented | [FindCommonElementsBetweenTwoArrays.cs](Easy/FindCommonElementsBetweenTwoArrays.cs) |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Easy | Implemented | [CountElementsWithMaximumFrequency.cs](Easy/CountElementsWithMaximumFrequency.cs) |
+| 3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | Easy | Implemented | [PermutationDifferenceBetweenTwoStrings.cs](Easy/PermutationDifferenceBetweenTwoStrings.cs) |
 | 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/) | Easy | Implemented | [FindTheNumberOfGoodPairsI.cs](Easy/FindTheNumberOfGoodPairsI.cs) |
+| 3184 | [Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/) | Easy | Implemented | [CountPairsThatFormACompleteDayI.cs](Easy/CountPairsThatFormACompleteDayI.cs) |
 | 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy | Implemented | [MinimumNumberOfOperationsToMakeElementsInArrayDistinct.cs](Easy/MinimumNumberOfOperationsToMakeElementsInArrayDistinct.cs) |
 | 3663 | [Find The Least Frequent Digit](https://leetcode.com/problems/find-the-least-frequent-digit/) | Easy | Implemented | [FindTheLeastFrequentDigit.cs](Easy/FindTheLeastFrequentDigit.cs) |
+| 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | Easy | Implemented | [RestoreFinishingOrder.cs](Easy/RestoreFinishingOrder.cs) |
 | 3712 | [Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/) | Easy | Implemented | [SumOfElementsWithFrequencyDivisibleByK.cs](Easy/SumOfElementsWithFrequencyDivisibleByK.cs) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | Needs review | [SmallestMissingMultipleOfK.cs](Easy/SmallestMissingMultipleOfK.cs) |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Easy | Implemented | [FindMissingElements.cs](Easy/FindMissingElements.cs) |

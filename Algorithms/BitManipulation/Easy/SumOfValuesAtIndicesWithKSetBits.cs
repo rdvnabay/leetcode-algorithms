@@ -1,4 +1,11 @@
-﻿namespace BitManipulation.Easy;
+/**
+ * @id         2859
+ * @title      Sum of Values at Indices With K Set Bits
+ * @topic      BitManipulation
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/
+ */
+namespace BitManipulation.Easy;
 
 public static class SumOfValuesAtIndicesWithKSetBits
 {

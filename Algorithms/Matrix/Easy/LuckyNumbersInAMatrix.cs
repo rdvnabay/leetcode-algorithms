@@ -1,4 +1,11 @@
-﻿namespace Matrix.Easy;
+/**
+ * @id         1380
+ * @title      Lucky Numbers in a Matrix
+ * @topic      Matrix
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/lucky-numbers-in-a-matrix/
+ */
+namespace Matrix.Easy;
 
 public static class LuckyNumbersInAMatrix
 {

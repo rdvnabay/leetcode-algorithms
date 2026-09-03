@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2529
+ * @title      Maximum Count of Positive Integer and Negative Integer
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
+ */
+namespace Array.Easy;
 
 public static class MaximumCountOfPositiveIntegerAndNegativeInteger
 {

@@ -6,7 +6,7 @@ LeetCode solutions indexed by problem number. Descriptive file names remain easy
 
 | Files | Unique | Easy | Medium | Hard | Incomplete | Needs review |
 |---:|---:|---:|---:|---:|---:|---:|
-| 7 | 7 | 7 | 0 | 0 | 0 | 0 |
+| 8 | 8 | 8 | 0 | 0 | 0 | 0 |
 
 ## Solutions
 
@@ -18,6 +18,7 @@ LeetCode solutions indexed by problem number. Descriptive file names remain easy
 | 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | Easy | Implemented | [LargestPositiveIntegerThatExistsWithItsNegative.cs](Easy/LargestPositiveIntegerThatExistsWithItsNegative.cs) |
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy | Implemented | [ApplyOperationsToAnArray.cs](Easy/ApplyOperationsToAnArray.cs) |
 | 2562 | [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/) | Easy | Implemented | [FindTheArrayConcatenationValue.cs](Easy/FindTheArrayConcatenationValue.cs) |
+| 3884 | [First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends/) | Easy | Implemented | [FirstMatchingCharacterFromBothEnds.cs](Easy/FirstMatchingCharacterFromBothEnds.cs) |
 | 3940 | [Limit Occurrences in Sorted Array](https://leetcode.com/problems/limit-occurrences-in-sorted-array/) | Easy | Implemented | [LimitOccurrencesInSortedArray.cs](Easy/LimitOccurrencesInSortedArray.cs) |
 
 ## Run

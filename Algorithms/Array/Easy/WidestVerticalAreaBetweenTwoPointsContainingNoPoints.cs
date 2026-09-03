@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1637
+ * @title      Widest Vertical Area Between Two Points Containing No Points
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
+ */
+namespace Array.Easy;
 
 public static class WidestVerticalAreaBetweenTwoPointsContainingNoPoints
 {

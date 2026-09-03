@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1679
+ * @title      Max Number of K-Sum Pairs
+ * @topic      Array
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/max-number-of-k-sum-pairs/
+ */
+namespace Array.Easy;
 
 public static class MaxNumberOfKSumPairs
 {

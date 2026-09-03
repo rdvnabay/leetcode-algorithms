@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3131
+ * @title      Find the Integer Added to Array I
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-integer-added-to-array-i/
+ */
+namespace Array.Easy;
 
 public static class FindTheIntegerAddedToArrayI
 {

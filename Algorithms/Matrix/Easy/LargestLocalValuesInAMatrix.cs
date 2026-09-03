@@ -1,3 +1,10 @@
+/**
+ * @id         2373
+ * @title      Largest Local Values in a Matrix
+ * @topic      Matrix
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/largest-local-values-in-a-matrix/
+ */
 namespace Matrix.Easy;
 
 public static class LargestLocalValuesInAMatrix

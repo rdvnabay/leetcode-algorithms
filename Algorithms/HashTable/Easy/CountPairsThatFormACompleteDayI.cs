@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         3184
+ * @title      Count Pairs That Form a Complete Day I
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/
+ */
+namespace HashTable.Easy;
 
 public static class CountPairsThatFormACompleteDayI
 {

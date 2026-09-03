@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3550
+ * @title      Smallest Index With Digit Sum Equal to Index
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/
+ */
+namespace Array.Easy;
 
 public static class SmallestIndexWithDigitSumEqualToIndex
 {

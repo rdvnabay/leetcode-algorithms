@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         3168
+ * @title      Minimum Number of Chairs in a Waiting Room
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/
+ */
+namespace String.Easy;
 
 public static class MinimumNumberOfChairsInAWaitingRoom
 {

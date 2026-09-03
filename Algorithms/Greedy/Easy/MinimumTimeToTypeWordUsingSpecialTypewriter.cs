@@ -1,4 +1,11 @@
-﻿namespace Greedy.Easy;
+/**
+ * @id         1974
+ * @title      Minimum Time to Type Word Using Special Typewriter
+ * @topic      Greedy
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
+ */
+namespace Greedy.Easy;
 
 public static class MinimumTimeToTypeWordUsingSpecialTypewriter
 {

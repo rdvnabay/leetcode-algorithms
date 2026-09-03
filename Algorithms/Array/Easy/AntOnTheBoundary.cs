@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3028
+ * @title      Ant on the Boundary
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/ant-on-the-boundary/
+ */
+namespace Array.Easy;
 
 public static class AntOnTheBoundary
 {

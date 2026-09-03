@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2670
+ * @title      Find the Distinct Difference Array
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-the-distinct-difference-array/
+ */
+namespace Array.Easy;
 
 public static class FindTheDistinctDifferenceArray
 {

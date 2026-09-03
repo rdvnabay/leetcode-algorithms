@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2974
+ * @title      Minimum Number Game
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-number-game/
+ */
+namespace Array.Easy;
 
 public static class MinimumNumberGame
 {

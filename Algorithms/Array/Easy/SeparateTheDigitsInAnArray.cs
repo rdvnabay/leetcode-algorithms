@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2553
+ * @title      Separate the Digits in an Array
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/separate-the-digits-in-an-array/
+ */
+namespace Array.Easy;
 
 public static class SeparateTheDigitsInAnArray
 {

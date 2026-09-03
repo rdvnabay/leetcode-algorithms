@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2500
+ * @title      Delete Greatest Value in Each Row
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/delete-greatest-value-in-each-row/
+ */
+namespace Array.Easy;
 
 public static class DeleteGreatestValueInEachRow
 {

@@ -1,4 +1,11 @@
-﻿using System.Text;
+/**
+ * @id         3280
+ * @title      Convert Date to Binary
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/convert-date-to-binary/
+ */
+using System.Text;
 
 namespace String.Easy;
 

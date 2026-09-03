@@ -1,4 +1,11 @@
-﻿namespace Matrix.Easy;
+/**
+ * @id         1351
+ * @title      Count Negative Numbers in a Sorted Matrix
+ * @topic      Matrix
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+ */
+namespace Matrix.Easy;
 
 public static class CountNegativeNumbersInASortedMatrix
 {

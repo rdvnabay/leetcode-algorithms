@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1652
+ * @title      Defuse the Bomb
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/defuse-the-bomb/
+ */
+namespace Array.Easy;
 
 public static class DefuseTheBomb
 {

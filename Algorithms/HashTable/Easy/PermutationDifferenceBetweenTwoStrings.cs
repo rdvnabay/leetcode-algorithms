@@ -1,4 +1,11 @@
-﻿namespace HashTable.Easy;
+/**
+ * @id         3146
+ * @title      Permutation Difference between Two Strings
+ * @topic      HashTable
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/permutation-difference-between-two-strings/
+ */
+namespace HashTable.Easy;
 
 public static class PermutationDifferenceBetweenTwoStrings
 {

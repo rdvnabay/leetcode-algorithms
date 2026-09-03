@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         1436
+ * @title      Destination City
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/destination-city/
+ */
+namespace Array.Easy;
 
 public static class DestinationCity
 {

@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3917
+ * @title      Count Indices With Opposite Parity
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/count-indices-with-opposite-parity/
+ */
+namespace Array.Easy;
 
 public static class CountIndicesWithOppositeParity
 {

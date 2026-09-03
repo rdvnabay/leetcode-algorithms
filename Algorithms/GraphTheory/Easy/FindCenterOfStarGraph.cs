@@ -1,4 +1,11 @@
-﻿namespace GraphTheory.Easy;
+/**
+ * @id         1791
+ * @title      Find Center of Star Graph
+ * @topic      GraphTheory
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/find-center-of-star-graph/
+ */
+namespace GraphTheory.Easy;
 
 public static class FindCenterOfStarGraph
 {

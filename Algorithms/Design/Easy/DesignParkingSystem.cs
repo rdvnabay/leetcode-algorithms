@@ -1,4 +1,11 @@
-﻿namespace Design.Easy;
+/**
+ * @id         1603
+ * @title      Design Parking System
+ * @topic      Design
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/design-parking-system/
+ */
+namespace Design.Easy;
 
 public class DesignParkingSystem
 {

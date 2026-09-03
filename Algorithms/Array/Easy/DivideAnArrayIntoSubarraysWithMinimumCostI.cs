@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3010
+ * @title      Divide an Array Into Subarrays With Minimum Cost I
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/
+ */
+namespace Array.Easy;
 
 public static class DivideAnArrayIntoSubarraysWithMinimumCostI
 {

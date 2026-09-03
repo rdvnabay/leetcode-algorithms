@@ -1,4 +1,11 @@
-﻿namespace TwoPointers.Easy;
+/**
+ * @id         3884
+ * @title      First Matching Character From Both Ends
+ * @topic      TwoPointers
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/first-matching-character-from-both-ends/
+ */
+namespace TwoPointers.Easy;
 
 public static class FirstMatchingCharacterFromBothEnds
 {

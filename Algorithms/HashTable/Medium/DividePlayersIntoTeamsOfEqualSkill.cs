@@ -1,4 +1,11 @@
-﻿namespace HashTable.Medium;
+/**
+ * @id         2491
+ * @title      Divide Players Into Teams of Equal Skill
+ * @topic      HashTable
+ * @difficulty Medium
+ * @link       https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/
+ */
+namespace HashTable.Medium;
 
 public static class DividePlayersIntoTeamsOfEqualSkill
 {

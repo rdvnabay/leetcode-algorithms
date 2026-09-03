@@ -1,4 +1,11 @@
-﻿namespace String.Easy;
+/**
+ * @id         2696
+ * @title      Minimum String Length After Removing Substrings
+ * @topic      String
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
+ */
+namespace String.Easy;
 
 public static class MinimumStringLengthAfterRemovingSubstrings
 {

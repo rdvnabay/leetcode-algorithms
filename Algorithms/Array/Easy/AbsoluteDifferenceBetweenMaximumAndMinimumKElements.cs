@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3774
+ * @title      Absolute Difference Between Maximum and Minimum K Elements
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/
+ */
+namespace Array.Easy;
 
 public static class AbsoluteDifferenceBetweenMaximumAndMinimumKElements
 {

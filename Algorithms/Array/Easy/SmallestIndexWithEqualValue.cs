@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2057
+ * @title      Smallest Index With Equal Value
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/smallest-index-with-equal-value/
+ */
+namespace Array.Easy;
 
 public static class SmallestIndexWithEqualValue
 {

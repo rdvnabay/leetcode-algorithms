@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         3264
+ * @title      Final Array State After K Multiplication Operations I
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/
+ */
+namespace Array.Easy;
 
 public static class FinalArrayStateAfterKMultiplicationOperationsI
 {

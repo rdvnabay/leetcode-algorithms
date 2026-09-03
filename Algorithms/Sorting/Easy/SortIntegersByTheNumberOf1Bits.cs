@@ -1,4 +1,11 @@
-﻿namespace Sorting.Easy;
+/**
+ * @id         1356
+ * @title      Sort Integers by The Number of 1 Bits
+ * @topic      Sorting
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
+ */
+namespace Sorting.Easy;
 
 public static class SortIntegersByTheNumberOf1Bits
 {

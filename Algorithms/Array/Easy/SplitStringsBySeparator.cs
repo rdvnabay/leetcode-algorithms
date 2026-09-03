@@ -1,4 +1,11 @@
-﻿namespace Array.Easy;
+/**
+ * @id         2788
+ * @title      Split Strings by Separator
+ * @topic      Array
+ * @difficulty Easy
+ * @link       https://leetcode.com/problems/split-strings-by-separator/
+ */
+namespace Array.Easy;
 
 public static class SplitStringsBySeparator
 {
