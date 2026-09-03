@@ -116,6 +116,7 @@ DestinationCity.Run(new List<IList<string>>
     new List<string>() { "Lima", "Sao Paulo" }
 });
 MergeSimilarItems.Run(new int[][] { [1, 1], [4, 5], [3, 8] }, new int[][] { [3, 1], [1, 5] });
+NeitherMinimumNorMaximum.Run([3, 2, 1, 4]);
 
 
 // --- Medium ------------------------------------------------------------
