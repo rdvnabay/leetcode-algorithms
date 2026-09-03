@@ -106,6 +106,8 @@ MaximumDifferenceBetweenAdjacentElementsInACircularArray.Run([-5, -10, -5]);
 MinimumAbsoluteDifference.Run([4, 2, 1, 3]);
 FindTheSumOfEncryptedIntegers.Run([10, 21, 31]);
 SmallestIndexWithDigitSumEqualToIndex.Run([1, 3, 2]);
+DivideAnArrayIntoSubarraysWithMinimumCostI.Run([1, 2, 3, 12]);
+DeleteGreatestValueInEachRow.Run(new int[][] { [1, 2, 4], [3, 3, 1] });
 
 
 // --- Medium ------------------------------------------------------------
@@ -120,7 +122,6 @@ RearrangeArrayElementsBySign.Run(new int[] { 3, 1, -2, -5, 2, -4 });
 ArithmeticSubarrays.Run(new int[] { 4, 6, 5, 9, 3, 7 }, new int[] { 0, 0, 2 }, new int[] { 2, 3, 5 });
 PartitionArrayAccordingToGivenPivot.Run(new int[] { 9, 12, 5, 10, 14, 3, 10 }, 10);
 MinimumNumberOfOperationsToMoveAllBallsToEachBox.Run("001011");
-
 CountDigitAppearances.Run(new int[] { 12, 54, 32, 22 }, 2);
 ConvertAnArrayIntoA2DArrayWithConditions.Run(new int[] { 1, 3, 4, 1, 2, 3, 1 });
 MinimumAmountOfTimeToCollectGarbage.Run(new string[] { "G", "P", "GP", "GG" }, new int[] { 2, 3, 4 });
@@ -134,6 +135,7 @@ MinimizeMaximumPairSumInArray.Run(new int[] { 4, 1, 5, 1, 2, 5, 1, 5, 5, 4 });
 FindUniqueBinaryString.Run(new string[] { "1" });
 MinimumDistanceBetweenThreeEqualElementsII.Run(new int[] { 1, 1, 1, 1 });
 CapacityToShipPackagesWithinDDays.Run(new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }, 5);
+MaxNumberOfKSumPairs.Run([4, 4, 1, 3, 1, 3, 2, 2, 5, 5, 1, 5, 2, 1, 2, 3, 5, 4], 2);
 
 
 
