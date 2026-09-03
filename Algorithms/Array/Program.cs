@@ -109,6 +109,13 @@ SmallestIndexWithDigitSumEqualToIndex.Run([1, 3, 2]);
 DivideAnArrayIntoSubarraysWithMinimumCostI.Run([1, 2, 3, 12]);
 DeleteGreatestValueInEachRow.Run(new int[][] { [1, 2, 4], [3, 3, 1] });
 DefuseTheBomb.Run([2, 4, 9, 3], 0);
+DestinationCity.Run(new List<IList<string>>
+{
+    new List<string>() { "London", "New York" },
+    new List<string>() { "New York", "Lima" },
+    new List<string>() { "Lima", "Sao Paulo" }
+});
+MergeSimilarItems.Run(new int[][] { [1, 1], [4, 5], [3, 8] }, new int[][] { [3, 1], [1, 5] });
 
 
 // --- Medium ------------------------------------------------------------
