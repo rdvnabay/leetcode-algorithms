@@ -100,7 +100,7 @@ MaximumValueOfAStringInAnArray.Run(new string[] { "alic3", "bob", "3", "4", "000
 MaximumCountOfPositiveIntegerAndNegativeInteger.Run([-2, -1, -1, 1, 2, 3]);
 SmallestIndexWithEqualValue.Run([4, 3, 2, 1]);
 SplitStringsBySeparator.Run(new List<string>() { "one.two.three", "four.five", "six" }, '.');
-FindTheDistinctDifferenceArray.Run([1, 2, 3, 4, 5]);
+FindTheDistinctDifferenceArray.Run([3, 2, 3, 4, 2]);
 AbsoluteDifferenceBetweenMaximumAndMinimumKElements.Run([5, 2, 2, 4], 2);
 MaximumDifferenceBetweenAdjacentElementsInACircularArray.Run([-5, -10, -5]);
 MinimumAbsoluteDifference.Run([4, 2, 1, 3]);
@@ -146,6 +146,7 @@ CapacityToShipPackagesWithinDDays.Run(new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 
 MaxNumberOfKSumPairs.Run([4, 4, 1, 3, 1, 3, 2, 2, 5, 5, 1, 5, 2, 1, 2, 3, 5, 4], 2);
 SubdomainVisitCount.Run(new string[] { "900 google.mail.com", "50 yahoo.com", "1 intel.mail.com", "5 wiki.org" });
 MaximumIceCreamBars.Run([10, 6, 8, 7, 7, 8], 5);
+PartitionArrayForMaximumSum.Run([1, 15, 7, 9, 2, 5, 10], 3);
 
 
 
