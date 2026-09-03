@@ -2,6 +2,7 @@
 using Algorithms.HashTable.Easy;
 using Algorithms.HashTable.Hard;
 using HashTable.Easy;
+using HashTable.Medium;
 
 Console.WriteLine("=== HashTable Algorithms ===");
 
@@ -64,6 +65,7 @@ LongestSubsequenceWithLimitedSum.Run([2, 3, 4, 5], [1]);
 RemoveDigitFromNumberToMaximizeResult.Run("123", '3');
 MinimumMovesToConvertString.Run("XXOX");
 MinimumCommonValue.Run([1, 2, 3, 6], [2, 3, 4, 5]);
+DividePlayersIntoTeamsOfEqualSkill.Run([3, 2, 5, 1, 3, 4]);
 
 
 // --- Hard ------------------------------------------------------------
