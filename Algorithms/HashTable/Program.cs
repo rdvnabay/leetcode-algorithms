@@ -68,6 +68,10 @@ MinimumCommonValue.Run([1, 2, 3, 6], [2, 3, 4, 5]);
 DividePlayersIntoTeamsOfEqualSkill.Run([3, 2, 5, 1, 3, 4]);
 
 
+// --- Medium ------------------------------------------------------------
+CountNumberOfDistinctIntegersAfterReverseOperations.Run([1, 13, 10, 12, 31]);
+
+
 // --- Hard ------------------------------------------------------------
 
 
