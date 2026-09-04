@@ -110,6 +110,7 @@ MinimumNumberOfFlipsToReverseBinaryString.Run(10);
 ReverseLettersThenSpecialCharactersInAString.Run(")ebc#da@f(");
 MinimumNumberOfChairsInAWaitingRoom.Run("ELEELEELLL");
 CountValidPrefixes.Run("00101");
+CountSubstringsThatSatisfyKConstraintI.Run("10101", 1);
 
 
 // --- Medium ------------------------------------------------------------
