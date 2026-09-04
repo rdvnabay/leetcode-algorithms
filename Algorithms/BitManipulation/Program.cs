@@ -8,4 +8,5 @@ Console.WriteLine("=== BitManipulation Algorithms ===");
 NumberOf1Bits.Run(1);
 MinimumBitFlipsToConvertNumber.Run(10, 7);
 SumOfValuesAtIndicesWithKSetBits.Run(new List<int>() { 5, 10, 1, 5, 2 }, 1);
+HammingDistance.Run(1, 4);
 
