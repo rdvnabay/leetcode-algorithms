@@ -94,6 +94,7 @@ CheckDivisibilityByDigitSumAndProduct.Run(23);
 MinimumOperationsToMakeArrayEqual.Run(6);
 NumberOfElapsedSecondsBetweenTwoTimes.Run("12:34:56", "13:00:00");
 SumMultiples.Run(10);
+FindTheKeyOfTheNumbers.Run(987, 879, 798);
 
 
 // --- Medium ------------------------------------------------------------
