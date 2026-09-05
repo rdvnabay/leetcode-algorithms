@@ -67,6 +67,7 @@ MinimumMovesToConvertString.Run("XXOX");
 MinimumCommonValue.Run([1, 2, 3, 6], [2, 3, 4, 5]);
 DividePlayersIntoTeamsOfEqualSkill.Run([3, 2, 5, 1, 3, 4]);
 SubarraysDistinctElementSumOfSquaresI.Run([1, 2, 1]);
+KeyboardRow.Run(["Az"]);
 
 
 // --- Medium ------------------------------------------------------------
@@ -76,6 +77,7 @@ SortCharactersByFrequency.Run("Aabb");
 MinimumIndexOfAValidSplit.Run(new List<int>() { 2, 1, 3, 1, 1, 1, 7, 1, 2, 1 });
 RestoreTheArrayFromAdjacentPairs.Run(new int[][] { [2, 1], [3, 4], [3, 2] });
 MinimumLengthOfStringAfterOperations.Run("abaacbcbb");
+SumOfBeautyOfAllSubstrings.Run("aabcb");
 
 
 // --- Hard ------------------------------------------------------------
