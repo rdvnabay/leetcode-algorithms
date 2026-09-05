@@ -79,6 +79,7 @@ MinimumIndexOfAValidSplit.Run(new List<int>() { 2, 1, 3, 1, 1, 1, 7, 1, 2, 1 });
 RestoreTheArrayFromAdjacentPairs.Run(new int[][] { [2, 1], [3, 4], [3, 2] });
 MinimumLengthOfStringAfterOperations.Run("abaacbcbb");
 SumOfBeautyOfAllSubstrings.Run("aabcb");
+GroupAnagrams.Run(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" });
 
 
 // --- Hard ------------------------------------------------------------
