@@ -69,6 +69,8 @@ DividePlayersIntoTeamsOfEqualSkill.Run([3, 2, 5, 1, 3, 4]);
 SubarraysDistinctElementSumOfSquaresI.Run([1, 2, 1]);
 KeyboardRow.Run(["Az"]);
 CountVowelSubstringsOfAString.Run("aeiouu");
+MinimumDistanceBetweenThreeEqualElementsI.Run([1, 2, 1, 1, 3]);
+MinimumOperationsToMakeArrayValuesEqualToK.Run([9, 7, 5, 3], 1);
 
 
 // --- Medium ------------------------------------------------------------
