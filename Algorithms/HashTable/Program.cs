@@ -73,6 +73,10 @@ SubarraysDistinctElementSumOfSquaresI.Run([1, 2, 1]);
 CountNumberOfDistinctIntegersAfterReverseOperations.Run([1, 13, 10, 12, 31]);
 CountNumberOfNiceSubarrays.Run([2, 2, 2, 1, 2, 2, 1, 2, 2, 2], 2);
 SortCharactersByFrequency.Run("Aabb");
+MinimumIndexOfAValidSplit.Run(new List<int>() { 2, 1, 3, 1, 1, 1, 7, 1, 2, 1 });
+RestoreTheArrayFromAdjacentPairs.Run(new int[][] { [2, 1], [3, 4], [3, 2] });
+MinimumLengthOfStringAfterOperations.Run("abaacbcbb");
+
 
 // --- Hard ------------------------------------------------------------
 
