@@ -124,5 +124,14 @@ HashDividedString.Run("abcd", 2);
 SortVowelsInAString.Run("lEetcOde");
 MinimumNumberOfStepsToMakeTwoStringsAnagram.Run("leetcode", "practice");
 RemovingStarsFromAString.Run("u*ensso****x*q");
+RemoveAllOccurrencesOfASubstring.Run("daabcbaabcbc", "abc");
+AccountsMerge.Run(new List<IList<string>>() {
+    new List<string> { "John", "johnsmith@mail.com","john_newyork@mail.com" },
+    new List<string> { "John", "johnsmith@mail.com","john00@mail.com" },
+    new List<string> { "Mary", "mary@mail.com" },
+    new List<string> { "John", "johnnybravo@mail.com" }
+});
+OpenTheLock.Run(["0201", "0101", "0102", "1212", "2002"], "0202");
+MaximumProductOfWordLengths.Run(["abcw", "baz", "foo", "bar", "xtfn", "abcdef"]);
 
 

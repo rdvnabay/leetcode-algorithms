@@ -150,6 +150,8 @@ MaxNumberOfKSumPairs.Run([4, 4, 1, 3, 1, 3, 2, 2, 5, 5, 1, 5, 2, 1, 2, 3, 5, 4],
 SubdomainVisitCount.Run(new string[] { "900 google.mail.com", "50 yahoo.com", "1 intel.mail.com", "5 wiki.org" });
 MaximumIceCreamBars.Run([10, 6, 8, 7, 7, 8], 5);
 PartitionArrayForMaximumSum.Run([1, 15, 7, 9, 2, 5, 10], 3);
+MinimumPrefixRemovalToMakeArrayStrictlyIncreasing.Run([-4, -10]);
+FindOccurrencesOfAnElementInAnArray.Run([1, 4, 3, 3, 6, 4, 8, 3, 10], [1, 2, 1, 1, 1, 1, 2, 2, 1, 1], 7);
 
 
 
