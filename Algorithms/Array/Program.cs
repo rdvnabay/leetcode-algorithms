@@ -121,6 +121,7 @@ NumberOfStudentsDoingHomeworkAtAGivenTime.Run([1, 2, 3], [3, 2, 7], 4);
 CountTheNumberOfVowelStringsInRange.Run(new string[] { "hey", "aeo", "mu", "ooo", "artro" }, 1, 4);
 TakeGiftsFromTheRichestPile.Run([25, 64, 9, 4, 100], 4);
 MinimumCapacityBox.Run([1, 5, 3, 7], 3);
+ThreeConsecutiveOdds.Run([1, 2, 34, 3, 4, 5, 7, 23, 12]);
 
 
 // --- Medium ------------------------------------------------------------
