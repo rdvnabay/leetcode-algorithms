@@ -122,6 +122,7 @@ CountTheNumberOfVowelStringsInRange.Run(new string[] { "hey", "aeo", "mu", "ooo"
 TakeGiftsFromTheRichestPile.Run([25, 64, 9, 4, 100], 4);
 MinimumCapacityBox.Run([1, 5, 3, 7], 3);
 ThreeConsecutiveOdds.Run([1, 2, 34, 3, 4, 5, 7, 23, 12]);
+FindSubarraysWithEqualSum.Run([1, 2, 3, 4, 5]);
 
 
 // --- Medium ------------------------------------------------------------
