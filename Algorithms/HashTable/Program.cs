@@ -56,7 +56,7 @@ FindTheLeastFrequentDigit.Run(723344511);
 FirstUniqueEvenElement.Run(new int[] { 4, 4 });
 SmallestMissingMultipleOfK.Run(new int[] { 8, 2, 3, 4, 6 }, 2);
 CountSpecialQuadruplets.Run(new int[] { 1, 1, 1, 3, 5 });
-OddStringDifference.Run(new string[] { "adc", "wzy", "abc" });
+OddStringDifference.Run2(new string[] { "adc", "wzy", "abc" });
 RestoreFinishingOrder.Run(new int[] { 3, 1, 2, 5, 4 }, new int[] { 1, 3, 4 });
 PermutationDifferenceBetweenTwoStrings.Run("abc", "bac");
 SortThePeople.Run(["Mary", "John", "Emma"], [180, 165, 170]);
@@ -71,6 +71,7 @@ KeyboardRow.Run(["Az"]);
 CountVowelSubstringsOfAString.Run("aeiouu");
 MinimumDistanceBetweenThreeEqualElementsI.Run([1, 2, 1, 1, 3]);
 MinimumOperationsToMakeArrayValuesEqualToK.Run([9, 7, 5, 3], 1);
+MostFrequentNumberFollowingKeyInAnArray.Run([2, 2, 2, 2, 3], 2);
 
 
 // --- Medium ------------------------------------------------------------
