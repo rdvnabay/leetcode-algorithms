@@ -72,6 +72,8 @@ CountVowelSubstringsOfAString.Run("aeiouu");
 MinimumDistanceBetweenThreeEqualElementsI.Run([1, 2, 1, 1, 3]);
 MinimumOperationsToMakeArrayValuesEqualToK.Run([9, 7, 5, 3], 1);
 MostFrequentNumberFollowingKeyInAnArray.Run([2, 2, 2, 2, 3], 2);
+CheckIfArrayIsGood.Run([1, 3, 3, 2]);
+MostFrequentEvenElement.Run([29, 47, 21, 41, 13, 37, 25, 7]);
 
 
 // --- Medium ------------------------------------------------------------
